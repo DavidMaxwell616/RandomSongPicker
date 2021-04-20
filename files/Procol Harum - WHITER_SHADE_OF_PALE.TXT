@@ -1,0 +1,111 @@
+A WHITER SHADE OF PALE
+               Keith Reid and Gary Brooker (Procul Harum)
+                               (C) 1967
+
+Intro: (all notes in first position)
+
+C        Am       F        Dm       G        Em  G7   C   F    G   FG7
+--------|--------|--------|--------|--------|--------|--------|--------|
+--------|--------|------01|--------|0-----13|--------|--------|--------|
+--------|--------|2-------|--------|0-------|0-0-----|--------|--------|
+2-------|20---02-|3-------|323---0-|0-------|-3---323|320--023|--023230|
+3-------|3-323--3|3-------|--------|--------|--------|---33---|23------|
+3-------|--------|--------|--------|--------|--------|--------|--------|
+C                         Am
+   We skipped the light fandango    <--- verse I
+   She said "There is no  reason,   <--- verse II
+F                                  Dm
+  And turned cartwheels across the floor
+  And the truth is plain to        see,"
+G                          Em      G7
+  I was feeling kind of    seasick
+  But I wandered through my playing cards
+C                              Am   Em
+  But the crowd called out for more
+  And would not let her        be
+
+F                       Dm
+  The room was humming  harder
+  One of sixteen vestal virgins
+
+G                          Em   G7
+  As the ceiling flew a-   way
+  Who were leaving for the coast
+C                           Am     Em
+  When we called out for a- nother drink
+  And although my eyes were o-     pen
+
+F                                 Dm   
+  The waiter brought a            tray
+They might just as well have been closed
+
+
+Chorus
+
+G13       C6  Cmaj7      Am    C
+And so it was      that  later
+
+F                        Dm
+  As the miller told his tale
+
+G                             Em   
+  That her face at first just ghostly
+
+G7         C      F          C     G7  C (second time)
+  Turned a whiter   shade of pale
+
+-- 
+                               -<*>-
+
+
+From uunet!mcsun!fuug!funic!polaris!jriitala Sat Jul 18 13:22:30 PDT 1992
+Article: 856 of alt.guitar.tab
+Newsgroups: alt.guitar.tab
+Path: nevada.edu!uunet!mcsun!fuug!funic!polaris!jriitala
+From: jriitala@polaris.utu.fi (Jari Riitala)
+Subject: Re: music : whiter shade of pale
+Message-ID: <1992Jul18.104029.8844@polaris.utu.fi>
+Keywords: procal harum
+Reply-To: jriitala@polaris.utu.fi
+Organization: University of Turku
+References: <33088@cbmvax.commodore.com>
+Date: Sat, 18 Jul 92 10:40:29 GMT
+Lines: 35
+
+macon@gallifry.Berkeley.EDU (Glen Macon) writes:
+>Title:				WHITER SHADE OF PALE		(Procal Harum)
+
+Some corrections to the chords. I'm writing this from my head so these may be
+a bit off, too, but certainly closer. My chart says it's in C but I think I 
+never did actually check it, so I'll stay in G.
+
+>		G  F#               Em        D
+                G  D/F#                Em     Em7/D
+>		We skipped the last fandango
+>		C      Bm                     Am     G
+                C      G/B                    Am     Am7/G
+>		Turned cart-wheels `cross the floor
+>		D     C               Bm      Am
+                D     D7/C            Bm7     D7/A
+>		I was feeling kind of sea-sick
+
+and so on
+
+>		D         G    F#      Em       D
+                D13       G    D/F#    Em      Em7/D
+>	CHORUS: And so we watched, and later
+as in the verse except for the ending which was OK:
+>		       G      C        G     D
+>		Turn a whiter shade of pale
+
+-- 
+------------------------------------------------------------------------------
+!       Jari Riitala	    !  	  Kuusiharjunkatu 34        !                !
+! 	    	 	    !	  20660 Littoinen           !    100 100 1   !
+!      jriitala@utu.fi      !	  Finland                   !                !
+!   JRIITALA@KONTU.UTU.FI   !  	                            !  - Neil Peart  !
+!     riitala@hcc.utu.fi    !     phone: +358 21 442 371    !                !
+------------------------------------------------------------------------------
+
+
+

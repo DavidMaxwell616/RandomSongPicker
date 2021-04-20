@@ -1,0 +1,130 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+From: rogers@hi.com (Andrew Rogers)
+Date: Sun, 10 Dec 1995 19:21:59 -0500
+Subject: ./a/association/along_comes_mary.crd
+
+			"Along Comes Mary"
+			  (Tandyn Almer)
+
+Intro:
+
+	[rhythm guitar plays xxxx55 (implicit Am/D9) on beats 2 and 4]
+
+	[fuzz guitar (left channel) doubled with electric bass; clean guitar
+	 (right channel) plays octave higher, doubled with acoustic bass]:
+
+	 v   v     v   v   v   v     v   v   v   v
+	---------|-----------------|-----------------|
+	---------|-----------------|-----------------|
+	---------|-----------------|-----------------|
+	---------|-----------------|---6-7-----------|
+	---------|-------6-7-------|-----------3-5-5-|
+	---0-3-4-|-5-----------0-5-|---------5-------|
+
+	           v   v   v   v     v   v   v   v
+	         |-----------------|-----------------|
+	         |-----------------|-----------------|
+	         |-----------------|---6-7-----------|
+	         |-------6-7-------|-----------------|
+	         |---------------5-|-----------------|
+	         |-------------5---|---------0-3-4-5-|
+		                             ^^^^^^^ right channel only
+
+	Am       Bm/A     Am7    Bm/A
+	x02210  x04432  x02213  x04432		left channel
+	xxx555  xxx777  xxx988  xxx777		right channel
+
+Verse 1:
+
+	Am                             Bm/A
+	Everytime I think that I'm the only one who's lonely
+	                Am7     Bm/A
+		someone calls on me
+	     Am                           Bm/A
+	And every now and then I spend my time at rhyme and verse and curse
+	               Am7     Bm/A
+		those faults in me
+
+	          E           A     E7   A
+	And then along comes Mary
+	              E             A                      E7
+	And does she wanna give me kicks and be my steady chick
+	             A           E   A   D   G
+	And give me pick of memories
+	B         E             B                  E              B
+	Or maybe rather gather tales from all the fails and tribulations
+	E           A
+	Noone ever sees
+
+	[fill:]
+
+	 v   v   v   v
+	---5----------------
+	-----8--------------
+	-------7b9----------
+	--------------------
+	--------------------
+	--------------------
+
+	        Dm         Em           F
+	When we met I was sure out to lunch
+	             F/D             D
+	Now my empty cup tastes as sweet as the punch
+
+	Am  Bm/A  Am7  Bm6/A  Bm7/A
+	              x04434 x04435
+
+Verse 2:
+
+	When vague desire is the fire in the eyes of chicks whose sickness
+		is the games they play
+	And when the masquerade is played the neighbor folks make jokes
+		at who is most to blame today
+
+	And then along comes Mary
+	And does she wanna set 'em free and let 'em see reality
+	From where she got her name
+	And will they struggle much when told that such a tender touch of hers
+	Will make them not the same
+
+	When we met I was sure out to lunch
+	Now my empty cup tastes as sweet as the punch
+
+	Am  Bm/A  Am7  Bm/A
+
+	[recorder solo over intro]
+
+Verse 3:
+
+	And when the morning of the warning's passed the gassed and flaccid
+		kids are flung across the stars
+	The psychodramas and the traumas gone, the songs are left unsung
+		and hung upon the scars
+
+	And then along comes Mary
+	And does she wanna see the stains, the dead remains of all the pains
+	She left the night before
+	Or will their waking eyes reflect the lies and make them realize
+	Their urgent cry for sight no more
+	When we met I was sure out to lunch
+	Now my empty cup tastes as sweet as the punch
+
+Coda:
+
+	Am   Bm/A
+
+	              Am7                 Bm/A
+	Sweet as the punch  (sweet as the punch)
+	              Am                  Bm/A
+	Sweet as the punch  (sweet as the punch)
+	              Am7                 Bm/A
+	Sweet as the punch  (sweet as the punch)
+	              Am
+	Sweet as the punch
+
+
+-- another ace 60's tab from Andrew Rogers
+

@@ -1,0 +1,611 @@
+Marc Sabatella's Jazz Improvisation Primer: Chord/Scale Relationships
+
+Chord/Scale Relationships
+
+Most improvisation in mainstream jazz is based on chord progressions.  The
+chord progression is the sequence of chords that harmonizes the melody.
+Usually each chord lasts a measure; sometimes two, sometimes only half.  A
+fakebook will give the symbol representing a particular chord above the
+corresponding point in the melody.
+
+Even more important than the actual chords, however, are the scales implied
+by those chords.  An improviser, when playing over a D minor chord, whose
+symbol is Dm, will normally play lines built from notes in the D dorian
+scale.  This section documents the various chords and associated scales
+used in jazz.  Familiarity with note names and locations is assumed.
+
+If your aim is to become a jazz performer, you should practice improvising
+lines based on all the scales presented here, and in all twelve keys.
+Otherwise, you may stick to just one key per scale, but you should still
+practice improvising over each chord/scale relationship in order to better
+recognize their sounds.
+
+	Basic Theory
+
+This section reviews the concepts of intervals, scales, keys, and chords from 
+classical theory. Those readers with basic classical theory training should be 
+able to skip this section if they wish.
+
+		Intervals
+
+There are twelve different notes in traditional music: C, C#/Db, D, D#/Eb, E, F, 
+F#/Gb, G, G#/Ab, A, A#/Bb, and B. After the B comes the C an octave higher than 
+the first C, and this cycle continues. This sequence is called the chromatic scale. 
+Each step in this scale is called a half step or semitone. The interval between two 
+notes is defined by the number of half steps between them. Two notes a half step 
+apart, like C and C#, define a minor second. Notes that are two half steps apart, 
+like C and D, define a major second. This is also called a whole step. Expanding by 
+half steps, the remaining intervals are the minor third, major third, perfect fourth, 
+tritone, perfect fifth, minor sixth, major sixth, minor seventh, major seventh, and 
+finally, the octave.
+
+Most of these intervals have other names, as well. For example, a tritone is sometimes 
+called an augmented fourth if the spelling of the notes in the interval appears to 
+describe a fourth. For example, the tritone interval from C to F# is called an augmented
+fourth, because the interval from C to F is a perfect fourth. Conversely, if the spelling 
+of the notes in the interval appears to describe a fifth, then the tritone is sometimes 
+called a diminished fifth. For example, the tritone interval from C to Gb, which is
+actually the same as the interval from C to F#, is called a diminished fifth, because 
+the interval from C to G is a perfect fifth. In general, if any major, minor, or perfect 
+interval is expanded by a half step by changing an accidental (the flat or sharp 
+indication on the note) the resultant interval is called augmented, and if it is 
+reduced by a half step by changing an accidental, the resultant interval is called diminished.
+
+Major And Minor Scales
+
+All scales are simply subsets of the chromatic scale. Most scales have 7 different 
+notes, although some have 5, 6, or 8. The simplest scale, which will be used as an 
+example for the discussion of chords, is the C major scale, which is "C, D, E, F, G, A,
+B". A major scale is defined by the intervals between these notes: "W W H W W W (H)", 
+where "W" indicates a whole step and "H" a half. Thus, a G major scale is "G, A, B, 
+C, D, E, F#", with a half step leading to the G that would start the next octave.
+The scale consisting of the same notes as the C major scale, but starting on A ("A, 
+B, C, D, E, F, G") is the A minor scale. This is called the relative minor of C major, 
+since it is a minor scale built from the same notes. The relative minor of any major scale
+is formed by playing the same notes starting on the sixth note of the major scale. 
+Thus, the relative minor of G major is E minor. A piece that is based on a particular 
+scale is said to be in the key of that scale. For instance, a piece based on the notes C, D,
+E, F, G, A, and B is said to be in the key of either C major or A minor. The chord 
+progression of the piece may distinguish between the two. Similarly, a piece based on 
+the notes G, A, B, C, D, E, and F# is either in G major or E minor. If the word
+"major" or "minor" is omitted, "major" is assumed. The collection of flat and sharp 
+notes in a scale defines the key signature of the associated key. Thus, the key 
+signature of G major is F#.
+You should try playing various major and minor scales. You may wish to write out the 
+notes for each, or buy a book like Dan Haerle's Scales For Jazz Improvisation, which 
+contains many scales already written out for you. The more complex scales
+described below should be written out and practiced as well. Listeners should try 
+enough of each scale to become familiar with the sound. In many cases, just one key 
+will suffice. Performers should practice each scale in all twelve keys over the entire
+range of their instruments until they have complete mastery over all of them. 
+However, do not become so bogged down in the various scales that you become frustrated 
+and never advance to the next sections on applying the theory. You should start on
+the applications once you have some command of the dorian, mixolydian, lydian, and 
+locrian modes discussed below.
+
+Chords
+
+A chord is a set of notes, usually played at the same time, that form a particular 
+harmonic relationship with each other. The most basic chord is the triad. A triad, 
+as the name implies, is composed of three notes, separated by intervals of a third. For
+instance, the notes C, E, and G played together comprise a C major triad. It is so 
+called because the three notes come from the beginning of the C major scale. The 
+interval from C to E is a major third, and from E to G a minor third. These intervals define
+a major triad. A G major triad is composed of G, B, and D; other major triads are 
+constructed similarly. The notes A, C, and E comprise an A minor triad, so called 
+because the notes come from the beginning of the A minor scale. The interval from 
+A to C is a minor third, and from C to E a major third. These intervals define a 
+minor triad. An E minor triad is composed of E, G, and B; other minor triads are 
+constructed similarly.
+The two other types of triads are the diminished triad and the augmented triad. 
+A diminished triad is like a minor triad, but the major third on top is reduced to 
+a minor third. Thus, an A diminished triad would be formed by changing the E in an A minor
+triad to an Eb. An augmented triad is like a major triad, but the minor third on 
+top is increased to a major triad. Thus, a C augmented triad would be formed by 
+changing the G in a C major triad to a G#. Note that a diminished triad can be formed
+from three notes of the major scale; for example, B, D, and F from C major. 
+However, there are no naturally occurring augmented triads in the major or minor scales.
+A triad can be extended by adding more thirds on top. For instance, if you take the C 
+major triad ("C E G"), and add B, you have a major seventh chord (Cmaj7 or CM7), so 
+called because the notes come from the C major scale. Similarly, if you take
+an A minor triad ("A C E"), and add G, you have a minor seventh chord (Am7 or A-7), 
+so called because the notes come from the A minor scale. The most common type of 
+seventh chord in classical harmony, however, is the dominant seventh,
+which is obtained by adding a minor seventh to the major triad built on the fifth 
+note of the major scale, also called the dominant. For instance, in the key of C 
+major, the fifth note is G, so a G major triad (G B D) with a seventh added (F) is a
+dominant seventh chord (G7).
+These three types of seventh chords have a very important relationship to each 
+other. In any major key, for example, C, the chord built on the second step of the 
+scale is a minor seventh chord; the chord built on the fifth step of the scale is a 
+dominant seventh chord; and the seventh chord built on the root of the scale, also 
+called the tonic, is a major seventh chord. Roman numerals are often used to indicate 
+scale degrees, with capital letters indicating major triads and their sevenths, and 
+lower case letters indicating minor triads and their sevenths. The sequence 
+Dm7 - G7 - Cmaj7 in the key of C can thus be represented as ii-V-I. This is a very 
+common chord progression in jazz, and is discussed in much detail later. The motion 
+of roots in this progression is upwards by perfect fourth, or, equivalently, downward 
+by perfect fifth. This is one of the strongest resolutions in classical harmony as well.
+Sevenths can also be added to diminished triads or augmented triads. In the case 
+of a diminished triad, the third added can either be a minor third, which creates 
+a fully diminished seventh (for example, A C Eb Gb, or Adim) or a major third, which
+creates a half diminished seventh (for example, B D F A, or Bm7b5). A minor third can 
+be added to an augmented triad, although this is a very rarely used chord that does 
+not have a standard name in classical theory. Adding a major third to an
+augmented triad would create a seventh chord in name only, since added note is a 
+duplicate an octave higher of the root (lowest note) of the chord. For example, 
+C E G# C. Technically, the seventh is a B# instead of a C, but in modern tuning
+systems these are the same note. Two notes that have different names but the same 
+pitch, like B# and C or F# and Gb, are called enharmonic. Classical theory is usually 
+very picky about the correct enharmonic spelling of a chord, but in jazz, the most
+convenient spelling is often used.
+More extensions to all types of seventh chords can be created by adding more thirds. 
+For instance, the C major seventh chord (C E G B) can be extended into a C major 
+ninth by adding D. These further extensions, and alterations formed by raising or
+lowering them by a half step, are the trademarks of jazz harmony, and are discussed 
+in sections below. While there is an almost infinite variety of possible chords, most 
+chords commonly used in jazz can be classified as either major chords, minor chords,
+dominant chords, or half diminished chords. Fully diminished chords and augmented 
+chords are used as well, but as will be seen, they are often used as substitutes for 
+one of these four basic types of chords.
+
+The Circle Of Fifths
+
+The interval of a perfect fifth is significant in many ways in music theory. Many 
+people use a device called the circle of fifths to illustrate this significance. 
+Picture a circle in which the circumference has been divided into twelve equal 
+parts, much like the face of a clock. Put the letter C at the top of the circle, 
+and then label the other points clockwise G, D, A, E, B, F#/Gb, C#/Db, G#/Ab, D#/Eb, 
+A#/Bb, and F. The interval between any two adjacent notes is a perfect fifth. Note 
+that each note of the chromatic scale is included exactly once in the circle.
+
+One application of the circle of fifths is in determining key signatures. The key 
+of C major has no sharps or flats. As you move clockwise around the circle, each new 
+key signature adds one sharp. For example, G major has one sharp (F#); D major has
+two (F# and C#); A major has three (F#, C#, and G#); E major has four (F#, C#, G#, 
+and D#); and so forth. Also note that the sharps added at each step themselves trace 
+the circle of fifths, starting with F# (added in G major), then C# (in D), then G#
+(in A), then D# (in E), and so forth. Conversely, if you trace the circle 
+counterclockwise, the key signatures add flats. For example, F major has one flat 
+(Bb); Bb major has two (Bb and Eb); Eb major has three (Bb, Eb, and Ab); and so forth. The
+flats added at each step also trace the circle of fifths, starting with Bb (added in 
+F major), then Eb (in Bb), then Ab (in Eb), and so forth.
+The circle of fifths can also define scales. Any set of seven consecutive notes can 
+be arranged to form a major scale. Any set of five consecutive notes can be arranged 
+to form a pentatonic scale, which is discussed later. If the labels on the circle of 
+fifths are considered as chord names, they show root movement downward by perfect 
+fifth when read counter-clockwise. This root movement has already been observed to 
+be one of the strongest resolutions there is, especially in the context of 
+a ii-V-I chord progression. For example, a ii-V-I progression in F is Gm7 - C7 - F, 
+and the names of these three chords can be read off the circle of fifths. One can also 
+find the note a tritone away from a given note by simply looking diametrically across 
+the circle. For example, a tritone away from G is Db, and these are directly across 
+from each other. This can be useful in performing tritone substitutions, discussed later.
+
+Major Scale Harmony
+
+Major Scale
+
+The major scale, or ionian mode, should be quite familiar by now. It is associated 
+with major seventh chords. In the key of C, for example, the C major seventh chord, 
+notated Cmaj7 (or C with a little triangle next to it, or sometimes CM7), is "C E G
+B", and these notes outline the C major scale. If a measure in a piece of music is 
+harmonized with a Cmaj7 chord, then the C major scale is one appropriate scale to use 
+when improvising. The only note in this scale that sounds bad when played against a
+Cmaj7 chord is the fourth note, F. You may wish to convince yourself of this by going 
+to a piano and playing Cmaj7 in your left hand while playing various notes from the C 
+major scale in your right. The fourth of the major is often called an avoid note over
+a major seventh chord. This does not mean you are not allowed to ever play F over a 
+Cmaj7, of course, but you should be conscious of the dissonant effect it produces.
+The chord obtained by adding another third on top ("C E G B D") would be called a Cmaj9, 
+and it implies the same scale. Adding another third on top would yield "C, E, G, B, D, F",
+and this chord would be called a Cmaj11. Because of the dissonant nature of the F in 
+this context, however, neither this chord, nor the Cmaj13 chord obtained by adding an 
+additional third (A), are used very much.
+
+Dorian Mode
+
+The dorian mode is built on the second step of the major scale, using the same notes. 
+For example, the D dorian scale is built from the notes of the C major scale, starting 
+on D, and consists of "D, E, F, G, A, B, C". The dorian mode is a lot like minor
+scale, but the sixth step is raised a half step. That is, the D minor scale would 
+have a Bb while the dorian has a B. Because it is so similar to the minor scale, it 
+is natural to play this scale over a minor seventh chord. In fact, it is used more 
+often than the minor scale itself. If you go to a piano and play a Dm7 chord 
+("D F A C") in your left hand, and play notes from the D dorian and D minor scales in 
+your right, you will probably find that the dorian mode sounds better, because the B 
+is less dissonant against the Dm7 than the Bb is. If you use the dorian mode over a 
+minor seventh chord, there are no notes to avoid. Like the major seventh chord, you 
+can add more thirds to the minor seventh chord to obtain Dm9, Dm11, and Dm13. These
+chords still imply the same dorian mode. If you use the natural minor scale, the 
+thirteen chord contains the note Bb, which is somewhat dissonant in this context. 
+This chord is seldom used, but when it is called for, it is often notated Dm7b6, 
+and is one of the few exceptions to the rule that most chords are written in terms 
+of odd numbered extensions above the seventh. This rule comes from the fact that 
+chords are traditionally built by stacking thirds. The notation Dm6 is sometimes 
+as a synonym for Dm13 when the B natural is explicitly meant.
+
+Phrygian Mode
+
+The third mode of the major scale is called the phrygian mode. In the key of C, a 
+phrygian scale is built on E, and consists of "E, F, G, A, B, C, D". This scale, 
+like the dorian mode, is also similar to the minor scale, except that the second 
+step in the phrygian mode is lowered by a half step. That is, an E minor scale 
+would have an F# while the phrygian has an F. If you try playing the phrygian scale 
+over a minor seventh chord, you will probably find it more dissonant than the minor 
+scale, because of the lowered second. The phrygian mode is used occasionally over 
+a minor seventh chord, although often the chord is written as m7b9 as a hint to the 
+improviser that the phrygian scale is to be used. There are certain other situations 
+in which the phrygian scale sounds good. One is over a dominant seventh chord with a 
+suspended fourth (see mixolydian mode, below) and a lowered ninth, notated susb9. 
+Another is over a particular chord that I will simply call a phrygian chord. A 
+phrygian chord in E would be "E F A B D". When the phrygian mode is played over 
+this type of chord, the result is a somewhat Spanish sound, particularly if you 
+add a G# to the scale, yielding what is sometimes called the Spanish phrygian scale. 
+Several Chick Corea tunes, including "La Fiesta", and much of the music from Miles 
+Davis' Sketches Of Spain feature this sound extensively.
+
+Lydian Mode
+
+The fourth mode of the major scale is the lydian mode. In the key of C, a lydian scale 
+is built on F, and consists of "F, G, A, B, C, D, E". This scale is like the major 
+scale except that it contains a raised fourth step. That is, an F major scale would 
+contain a Bb while the lydian contains a B. Since the fourth step of the major 
+scale is an avoid note over a major seventh chord, this scale gives the improviser 
+an alternative. While the raised fourth might sound a little unusual at first, you 
+should find that it is in general preferable to the natural fourth of the major scale. 
+When the symbol Cmaj7 appears, you have a choice between the major and lydian 
+scales. Often, if the lydian mode is specifically intended, the symbol Cmaj7#11 
+will appear instead. Recall that Cmaj11 contains an F as the eleventh; Cmaj7#11 
+denotes that this note should be raised by a half step. 
+
+Mixolydian Mode
+
+The fifth mode of the major scale is the mixolydian mode. In the key of C, a mixolydian 
+scale is built on G, and consists of "G, A, B, C, D, E, F". This scale is like the major 
+scale except that the seventh step is lowered a half step. That is, a G major scale
+would contain an F# while the mixolydian contains an F. Since the seventh chord built 
+on the fifth degree of the major scale is a dominant seventh, it is natural to play 
+lines based on the mixolydian mode over a dominant seventh chord. For instance, the G
+mixolydian scale might be used over a G7 chord.
+As with the major scale over a major seventh chord, the fourth step of the scale (C 
+in the case of G mixolydian) is somewhat of an avoid note over a dominant seventh 
+chord. However, there is a chord called a suspended chord, notated Gsus, Gsus4,
+G7sus, G7sus4, F/G, Dm7/G, or G11 over which there are no avoid notes in the G 
+mixolydian mode. The notation F/G indicates an F major triad over the single note G 
+in the bass. The term "suspension" comes from classical harmony and refers to
+the temporary delaying of the third in a dominant chord by first playing the fourth 
+before resolving it to the third. In jazz, however, the fourth often is never resolved. 
+The suspended chord consists of the root, fourth, fifth, and usually the seventh as
+well. Herbie Hancock's tune "Maiden Voyage" consists solely of unresolved suspended 
+chords.
+
+Minor Scale
+
+The aeolian mode, or minor scale, has already been discussed. It can be played over a 
+minor seventh chord, although the dorian or phrygian modes are used more often. It is 
+most often played over a m7b6 chord.
+
+Locrian Mode
+
+The seventh and final mode of the major scale is the locrian mode. In the key of C, a 
+locrian scale is built on B, and consists of "B, C, D, E, F, G, A". The seventh chord 
+built on this scale ("B D F A") is a half diminished seventh chord, Bm7b5. This
+symbol comes from the fact that this chord is similar to a Bm7, except that the fifth 
+is lowered by a half step. The classical symbol for this chord is a circle with 
+a "/" through it. The locrian scale can be used over a half diminished (also called 
+a minor seven flat five) chord, but the second step is somewhat dissonant and is 
+sometimes considered an avoid note.
+
+Melodic Minor Harmony
+
+In classical theory, there are three types of minor scale. The minor scale we have 
+already discussed, the aeolian mode, is also called the natural minor or pure minor. 
+The two other minor scales were derived from it to provide more interesting harmonic
+and melodic possibilities. If you construct a ii-V-I progression in a minor key, you 
+will find that the seventh chord built on the root is a minor seventh chord, and the 
+seventh chord built on the second step is a half diminished seventh chord. For example,
+Am7 and Bm7b5 in the key of A minor. The chord built on the fifth step of this scale 
+is a minor chord, for example Em7 in A minor. The resolution of Em7 to Am7 is not as 
+strong as E7 to Am7. Also, the Am7 does not sound like a tonic; it sounds like
+it should resolve to a D chord. By raising the seventh degree of the minor scale by 
+a half step (that is, raising the G of A minor to G#), these problems are solved. 
+The chord built on the fifth is now E7, and the seventh chord built on the root is 
+an A minor triad with a major seventh, often notated Am-maj7. This creates a much 
+stronger ii-V-i. The resultant scale, "A, B, C, D, E, F, G#", is called the harmonic 
+minor, since it is perceived to yield more interesting harmonies than the natural minor.
+The seventh degree of a major scale is sometimes called the leading tone, since it is 
+only a half step below the tonic and leads very well into it melodically. The seventh 
+degree of the natural minor scale, on the other hand, is a whole step below the tonic
+and does not lead nearly as well into it. Although the harmonic minor scale contains 
+a leading tone, if you play that scale, you may note that the interval between the 
+sixth and seventh steps (the F and G# in A harmonic minor) is awkward melodically.
+This interval is called an augmented second. Although it sounds just like a minor 
+third, there are no scale tones between the two notes. This interval was considered 
+to be dissonant in classical harmony, In order to rectify this situation, the sixth 
+can be raised a half step as well (from F to F#) to yield the melodic minor. In 
+classical theory, this scale is often used ascending only. When descending, since 
+the G# is not used to lead into the tonic A, the natural minor is often used instead. 
+Jazz harmony does not normally distinguish these cases, however. The melodic minor 
+scale "A, B, C, D, E, F#, G#" is used both when ascending and descending.
+Both the harmonic and melodic minors outline a m-maj7 i chord, for example Am-maj7 
+("A C E G#") in A minor. Either of the harmonic or melodic minor scales can be used 
+on this chord. The melodic minor is also used on chords marked simply m6, although, 
+as was noted earlier, this symbol can also imply the dorian mode. Several of the 
+modes of the melodic minor scale yield particularly interesting harmonies and are 
+commonly played in jazz. These scales are not commonly described in classical
+theory, so their names are less standardized than the modes of the major scale.
+
+Phrygian #6
+There is no common term for the second mode of the melodic minor scale. The second mode 
+of A melodic minor is "B, C, D, E, F#, G#, A". This scale is similar to the phrygian mode 
+xcept that it has a raised sixth. For this reason it can be called phrygian #6, although 
+that name is not by any means standard. It is most often used as a substitute for the 
+phrygian mode.
+
+Lydian Augmented
+The third mode of the melodic minor scale is known as the lydian augmented scale. In A 
+melodic minor, a lydian augmented scale is built on C and consists of "C, D, E, F#, G#, 
+A, B". This scale contains an augmented major seventh chord "C E G# B".
+There is no standard symbol for this chord, but Cmaj7#5 is used occasionally, as is 
+Cmaj7-aug or Cmaj7+. When this chord is called for, the lydian augmented scale is an 
+appropriate choice. The maj7#5 chord is mostly used as a substitute for an ordinary
+major seventh.
+
+Lydian Dominant
+The fourth mode of the melodic minor scale is often called the lydian dominant or the 
+lydian b7. If you construct it, you should see why. In A melodic minor, a lydian dominant 
+scale is built on D and consists of "D, E, F#, G#, A, B, C". This scale
+resembles the D major scale "D, E, F#, G, A, B, C#" but with two alterations: the raised 
+fourth characteristic of the lydian mode, and the lowered seventh characteristic of the 
+mixolydian mode. The mixolydian mode was described as a possible scale choice to use over
+a dominant seventh chord, but the fourth step was an avoid note. The lydian dominant 
+scale does not contain this avoid note. As with the lydian scale and the raised fourth 
+over a major seventh chord, the lydian dominant may sound unusual at first, but it is 
+generally more interesting than the mixolydian when played over a dominant seventh.
+This particular sound, the raised fourth over a dominant seventh chord, was widely 
+used in the bebop era, and earned the early bebop musicians a lot of criticism for 
+their use of such non-traditional sounds. This sound was also the genesis of the
+Thelonious Monk composition "Raise Four", which prominently features the raised fourth 
+in the melody. The use of this scale is often explicitly indicated by the symbol D7#11. 
+Bebop musicians often called this a flatted fifth, writing the chord symbol as
+D7b5, although this normally implies the diminished scale, which is discussed later.
+
+Fifth Mode
+The fifth mode of the melodic minor scale has no common name, and is normally used only 
+over the V chord in a minor key ii-V-i progression. This usage will be discussed later.
+
+Locrian #2
+The sixth mode of the melodic minor is often called locrian #2, since it is actually 
+the locrian mode with a raised second step. For example, the F# locrian mode is based 
+on G major and consists of "F#, G, A, B, C, D, E", but the F# locrian #2 scale is
+based on A melodic minor and consists of "F#, G#, A, B, C, D, E". Since the second 
+step of the locrian mode is an avoid note over a m7b5 chord, the locrian #2 scale is 
+often used instead. This scale is also sometimes called the half diminished scale.
+
+Altered Scale
+The seventh mode of the melodic minor scale is often called the diminished whole tone 
+scale, because it combines elements of the diminished and whole tone scales discussed 
+later. Another name for this scale is the altered scale. To see why, recall the
+introductory discussion on chords. Chords are constructed by stacking thirds. Triads 
+consisting of three notes were discussed, as were seventh chords consisting of four 
+notes. In the key of C, G7 is the dominant seventh chord. It contains a root (G), a
+third (B), a fifth (D), and a seventh (F). If we add another third on top, A, we have 
+a ninth chord G9. If we add another third, C, we have an eleventh chord G11. The C is 
+the fourth of the scale, and is normally an avoid note. This symbol is normally
+used only when the fourth is explicitly required, as in a suspended chord. If we 
+then add another third, E, we have a thirteenth chord G13. The C is normally omitted 
+from this chord. Another third would bring us back to G. This chord can be altered by 
+raising or lowering individual notes by a half step. The root, third, and seventh are 
+not normally altered, since they are in large part what define the chord. A change to 
+any of these destroys the dominant feel of the chord. The raised eleventh has already 
+been discussed. The other interesting alterations are to the fifth and the ninth. For 
+a G7 chord, this means the lowered or flat fifth (Db), the raised or sharp fifth (D#), 
+the lowered or flat ninth (Ab), and the raised or sharp ninth (A#).
+So now let us return to the so-called altered scale. A G altered scale can be built 
+from Ab melodic minor, and consists of "G, Ab, Bb/A#, Cb/B, Db, Eb/D#, F". First note 
+that this scale contains G, B, and F, the root, third, and seventh of the G7 chord.
+The rest of the notes, Ab, Bb, Db, and Eb, are respectively, the flatted ninth, the 
+raised ninth, the flatted fifth, and the raised fifth. In other words, all the possible 
+alterations in a ninth chord are included in this scale. The chord implied by this scale is
+often notated simply G7alt, although G7#9#5 is used as well, as is G7#9. The b9 and b5 
+symbols are not normally used in this context, despite being present in the scale, 
+because they imply the diminished scale which is discussed later. The sound of the 
+altered scale and the chord it implies is much more complex than any other dominant 
+seventh chord/scale so far presented, and it is one of the most important sounds in 
+post bop jazz. You may wish to spend more time on this scale to get used to it. Try 
+going to a piano and playing the root, third, and seventh in your left hand while 
+playing the altered scale, and lines based on it, in your right. You may use this 
+scale even when the chord appears to be an ordinary dominant seventh, but you should 
+do so cautiously in a group setting, because other members of the group may be playing 
+mixolydian or lydian dominant sounds, and your altered scale will sound dissonant against 
+them. This is not necessarily wrong, but you should be conscious of the effect produced.
+
+Symmetric Scales
+
+When a mode of given scale produces the same type of scale as the original, the scale 
+is said to be symmetric. Several of the important scales used by jazz musicians are 
+symmetric. For instance, the chromatic scale is symmetric, in that every single
+mode of it is another chromatic scale. In this case, there is really only one unique 
+chromatic scale; all others are just modes of it. In general, if N modes of a given 
+scale produce the same type of scale (including the first mode, the original scale 
+itself), then there are only 12/N different scales of that type.
+One thing to watch out for in the scales discussed in this section is that they seem 
+to lend themselves to playing patterns, and sometimes it is difficult to avoid sounding 
+cliched when using these scales. When you have several measures of a given chord, a
+common technique is to play a short figure in the associated scale and repeat it 
+transposed to several different positions. For instance, a possible pattern in C major 
+would be "C, D, E, G". This pattern could be repeated several times starting at different
+positions, perhaps as "D, E, F, A" or "E, F, G, B". For some reason, many of the scales 
+listed below invite this type of approach, and it is easy to end up with with a few 
+cliches you use every time you are confronted with these scales. Always be conscious of 
+this. You should not feel that a scale is dictating to you what you can or should play.
+
+Whole Tone Scale
+A particularly easy scale is the whole tone scale, so called because all the steps in 
+the scale are whole steps. A C whole tone scale consists of "C, D, E, F#, G#, Bb". It 
+has only six notes, and all six of its modes (including itself) form whole tone scales.
+There are thus only 12/6 or 2 different whole tone scales. The other one is "Db, Eb, 
+F, G, A, B". Since the first, third, and fifth degrees of this scale form an augmented 
+triad, this scale can be be played over augmented chords. This scale also contains the 
+note that would be the seventh in a dominant chord (that is, Bb in a C7). The chord 
+implied by this scale is written either as C7aug, Caug, C7+, C+, or C7#5.
+
+The Diminished Scales
+Another symmetric scale is the diminished scale. This scale is also called the whole 
+step half step scale, or the half step whole step scale, because it is constructed 
+from alternating half and whole steps. A whole step half step (abbreviated WH) scale on C
+consists of "C, D, D#, F, F#, G#, A, B"; a half step whole step (abbreviated HW) scale 
+consists of "C, Db, Eb, E, F#, G, A, Bb". These scales each contain eight notes. Note 
+that, in addition to the original scale, the third, fifth, and seventh modes of
+either a WH or HW scale (in addition to the first mode) form another WH or HW scale, 
+so there are only 12/4 or 3 different diminished scales of each type. Also, note that 
+the WH diminished scale is just the second mode of the HW diminished scale,
+so that in fact, there are only three distinct diminished scales in all. The WH and 
+HW versions of this scale are used in different situations, however.
+The HW diminished scale outlines a dominant seventh chord with a lowered ninth and fifth. For example, C7b9b5 is "C E Gb
+Bb Db" and these notes, as well as the sixth, the natural fifth and the raised ninth, are all present in the C HW diminished scale.
+The HW scale is thus a good choice to use over dominant seventh b9b5 chords. John Coltrane used this sound a lot.
+This scale is very similar to the altered scale, which you may recall is also called the diminished whole tone scale. The C altered
+scale contains the first five notes of the C HW diminished scale and the last four (overlapping the E and F#) of the C whole
+tone scale. Since both scales contain lowered fifths and lowered and raised ninths, they are sometimes used interchangeably
+over dominant seventh chords. Try going to a piano and practicing both scales in your right hand over the root, third, and
+seventh in your left. They sound very similar. Many fakebooks are inconsistent in using the symbols alt, #9, b9, b5, #9#5, and
+b9b5. The lesson here is, you will have to depend on your ears and common sense to guide you in the use of these two scales.
+The WH diminished scale outlines a fully diminished seventh chord and is thus used over diminished chords. For instance, the C
+WH diminished scale "C, D, D#, F, F#, G#, A, B" can be played over Cdim or Cdim7. The classical symbol for diminished, a
+small circle, is sometimes used as well. Note that this scale is the same as the D#, F#, and A WH diminished scales, and in fact
+Cdim7, D#dim7, F#dim7, and Adim7 are all inversions of the same chord. They may be used interchangeably.
+More importantly, this scale is also the same the D, F, G#, and B HW diminished scales. These scales are associated with their
+respective b9b5 dominant chords. The C, Eb, F#, and A diminished chords are thus often used as chord substitutions for the
+associated dominant chords, and vice versa. In most places where you see a diminished chord, you can substitute one of the
+related dominant chords. One particularly common chord progression is | Cmaj7 | C#dim | Dm7 |. The C#dim chord here
+implies the C# WH diminished scale, which is the same as the C, Eb, F#, and A HW diminished scale. In this case, the
+A7b9b5 chord can be substituted for the C#dim chord. Not only do A7b9b5 and C#dim share the same scale, but the A
+dominant chord also resolves well to the D minor chord. Any of the scales associated with A dominant chords, such as A
+mixolydian, A lydian dominant, A altered, or A blues, can thus be played over the C#dim chord in this context.
+
+Pentatonic Scales
+
+There are a group of five note scales known collectively as pentatonic scales. Intervals in a traditional pentatonic scale are
+normally limited to whole steps and minor thirds. Many performers use these relatively simple scales to good effect, including
+McCoy Tyner and Woody Shaw. The two basic pentatonic scales are the major pentatonic scale and the minor pentatonic
+scale. A C major pentatonic scale is "C, D, E, G, A", and a C minor pentatonic scale "C, Eb, F, G, Bb". Note that the C minor
+pentatonic scale is actually the fifth mode of an Eb major pentatonic scale. Other modes of the pentatonic scales are used as
+well, such as "C, D, F, G, Bb", which is the second mode of the Bb major pentatonic scale. This scale can be called the
+suspended pentatonic scale, although this usage is by no means standard.
+As their names imply, the major, minor, and suspended pentatonic scales can be used over major, minor, and suspended
+chords respectively. For instance, the C major pentatonic scale can be used over Cmaj7. Sometimes this chord is written C6
+to imply more strongly that the major pentatonic scale is to be used. The C minor pentatonic scale can be used over Cm7. The
+C suspended pentatonic chord can be used over a C7sus chord.
+Other five note scales are used occasionally as well. For instance, the scale "E, F, A, B, D" is the traditional Japanese "in sen
+scale". It can be used as a substitute for the E phrygian mode (note it in fact defines the E phrygian chord) to impart an Asian
+flavor to the music. Useful variations of this scale include the second mode, "F, A, B, D, E", which can be used over a
+Fmaj7#11 chord; the fourth mode, "B, D, E, F, A", which can be used over a Bm7b5 chord; and the fifth mode, "D, E, F, A,
+B", which can be used over a Dm6 chord.
+Since there are relatively few notes in a pentatonic scale, one pentatonic scale can often be used over several different chords
+with no real avoid notes. For instance, the C major pentatonic scale "C, D, E, G, A" could be used over Cmaj7, C7, D7sus,
+Dm7, Em7b6, Fmaj7, G7sus, Gm7, or Am7.
+
+Derived Scales
+
+The Blues Scale
+The blues scale is often the first scale, after the major scale, taught to beginning improvisers, and is in some cases the only other
+scale they ever learn. This scale supposedly has its roots in African American music dating back to the days of slavery, but the
+exact origins of its modern incarnation are unknown. The C blues scale consists of "C, Eb, F, F#, G, Bb". The second degree
+of this scale, which is the flatted third of the minor scale, is called a blue note. In vocal music, it is often sung somewhere
+between an Eb and an E. In instrumental music, various techniques are employed to achieve the same effect, such as stretching
+the string while playing an Eb on a stringed instrument, lipping down an E on a wind instrument, or striking both the Eb and E
+simultaneously on a keyboard instrument. The flatted seventh and fifth are also sometimes called blue notes, and are not always
+sung or played exactly on the notated pitch. Variations on the blues scale that include the natural third, fifth, or seventh can be
+used as well. Also, note that if the flatted fifth is omitted, the resultant scale is the minor pentatonic scale. The minor pentatonic
+scale can thus be used as a substitute for the blues scale, and vice versa.
+The beauty of the blues scale is that it can be played over an entire blues progression with no real avoid notes. If you try
+playing lines based on this usage, for instance, a C blues scale over a C7 chord, you get instant positive feedback, since almost
+everything you can do sounds good. This unfortunately leads many players to overuse the scale, and to run out of interesting
+ideas quickly. There are only so many phrases (licks) that can be played over a six note scale, and most of them have already
+been played thousands of times by now. This is not to say you should never use the blues scale; on the contrary, it is vitally
+important to jazz. But do not become so enamored of the easy gratification it can yield that you practice blues licks over and
+over rather than expand your harmonic vocabulary.
+The language metaphor is a good one. It is hard to say interesting things with a limited vocabulary. Often players like Count
+Basie are offered as examples of musicians who manage to make a lot out of a little, but there is a difference between saying
+few words because you are choosing them carefully, and saying few words because you have nothing to say or because your
+vocabulary is too limited to express your thoughts. This advice transcends the blues scale, of course.
+It is not always necessary to vary the harmonic content of your playing if you are sufficiently creative with other aspects. One
+way to introduce added interest when using the blues scale is to use any special effects at your disposal to vary your sound.
+This can include honking and screaming for saxophonists, growling for brass players, or using clusters on the piano.
+Minor Scales
+The harmonic minor scale is sometimes played over m-maj7 chords. Its modes have no common names, and they are rarely
+used by jazz musicians except as bridges over a ii-V-i chord progression. For example, consider the chord progression |
+Bm7b5 | E7alt | Am-maj7 |. An A harmonic minor scale can be played over all three of these chords, instead of the traditional
+B locrian, E altered, and A melodic minor scales. Another way of saying this is that the second mode can be played over a
+m7b5 chord, and that the fifth mode can be used over an altered dominant chord. Even when you are not using the harmonic
+minor scale over an entire progression, you may wish to use its fifth mode over the V chord in a minor key ii-V-i progression.
+The advantage of using this scale in this example is that it differs from the B locrian and A melodic minor scales by only one
+note each. The disadvantage is that the root of the scale is an avoid note in this context.
+The melodic minor can be used in this same way; its fifth mode can be used over the V chord in a ii-V-i progression to keep
+some commonality between the scales used. Note however that the second mode of the A melodic minor is not an ideal choice
+over the Bm7b5 chord, because this scale has F# instead of F. This is the only difference between the harmonic and melodic
+minor scales. Your choice of whether to use the fifth mode of the harmonic or melodic minor scales over a dominant seventh
+chord may partially depend on the key of the tune. If F# is in the key signature, then the melodic minor may sound more
+diatonic. You may choose that scale if this is the sound you are trying to achieve, or the harmonic minor if you are trying to
+avoid sounding diatonic. Conversely, if F# is not in the key signature, then the harmonic minor may sound more diatonic.
+Another issue to consider is which of these scales is closer to the scale you are using on the preceding or following chord.
+Depending on the sound you are trying to achieve, you may wish to choose the scale that has either more or fewer notes in
+common with the surrounding scales.
+Bebop Scales
+The major bebop scale is a major scale with an added raised fifth or lowered sixth. The C major bebop scale is "C, D, E, F,
+G, G#, A, B". This scale can be used over major seventh or major seventh augmented chords. The C major bebop scale can
+also be used as a bridge between chords in a progression like | Cmaj7 | Bm7b5 E7 | Am |; that is, the same scale can be
+played over the entire progression. Another way of looking at this is to say that we are playing the C major bebop scale itself
+over the Cmaj7 chord, playing its eighth mode over the Bm7b5 chord, playing its third mode over the E7 chord, and playing its
+seventh mode over the Am chord. These modes closely resembly the major, locrian, altered and minor scales respectively.
+Note that we are using the C major bebop scale over a ii-V-i progression in A minor. In general, we can use the major bebop
+scale in any given key over a ii-V-i progression in the relative minor to that key.
+Other bebop scales include the dominant bebop scale, which is similar to the mixolydian mode but with an additional major
+seventh. The C dominant bebop scale is thus "C, D, E, F, G, A, Bb, B". This scale can be used over dominant seventh chords.
+The major seventh is not really an avoid note if you use it as a passing tone between the C and Bb. It also serves as the raised
+fourth in the Fmaj7 chord that is likely to follow the C7 chord. There is also the minor bebop scale, which is a dorian scale with
+an added raised third. The C minor bebop scale is thus "C, D, Eb, E, F, G, A, Bb". This scale can be used over minor seventh
+chords, and is often used in minor key blues progressions to give more of a dominant seventh feel to the chords.
+Synthetic Scales
+The blues and bebop scales are sometimes called synthetic scales, because they do not fit in well with classical theory and
+appear to have been invented to fit a particular situation. In general, any number of synthetic scales can be constructed using
+just intervals of minor, major, and augmented seconds. You may wish to try experimenting with developing your own scales
+and looking for opportunities to use them.
+
+
+Chord/Scale Chart
+
+The accompanying chart lists the most commonly occurring chords in jazz harmony along with the scales normally associated
+with each. The chords are grouped into the four basic categories of major, minor, dominant, and half diminished. In a pinch,
+any scale from any chord in any one of these categories can be used for any other chord in that category. There is an additional
+category for miscellaneous chords at the end. There are many more possible scales and chords. However, these are the most
+important ones in traditional jazz harmony.
+        Chord                                 Scale
+                       C major, C lydian, C major bebop
+ Cmaj7, Cmaj9, C6, C   C major pentatonic, G major pentatonic
+ Cmaj7#11              C lydian, B in sen
+                       C dorian, C minor bebop, C minor pentatonic
+ Cm7, Cm9, Cm11, Cm    F major pentatonic, Bb major pentatonic
+                       Eb major bebop, C blues, C minor
+                       C dorian, C melodic minor, C minor pentatonic,
+ Cm6, Cm               F major pentatonic, Bb major pentatonic,
+                       C minor bebop, Eb major bebop, D in sen
+ Cm-maj7               C melodic minor, C harmonic minor, Eb major bebop
+ Cm7b6                 C minor, Ab major pentatonic
+ Cm7b9                 C phrygian, C phrygian #6
+                       C mixolydian, C lydian dominant, C dominant bebop,
+ C7, C9, C13, C        C blues, C major pentatonic
+ C7sus, Csus, C11      C mixolydian
+ Bb/C, Gm7/C           C suspended pentatonic, F major pentatonic
+ C7#11, C7             C lydian dominant
+ C7alt, C7#9#5, C7#9   C altered, F harmonic minor, F melodic minor
+ C7b9b5, C7b9          C HW diminished, F harmonic minor, F melodic minor
+ C7aug, C7+, C7#5      C whole tone
+ Cm7b5                 C locrian #2, C locrian
+ Cdim7                 C WH diminished
+                       C phrygian, C phrygian #6, C Spanish phrygian
+ Cphryg                C in sen
+ Cmaj7#5               C lydian augmented, C major bebop
+ C7susb9               C phrygian #6, C phrygian

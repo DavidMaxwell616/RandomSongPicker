@@ -1,0 +1,46 @@
+From: aesager@acs4.acs.ucalgary.ca (Alexander Edward Sager)
+
+Some of these are pretty cool, especially if played with a drone:
+
+s=sharp
+f=flat
+
+Neapolitan Minor: C Df Ef F G Af B C
+Neapolitan Major: C Df Ef F G A B C
+Oriental: C Df E F Gf A Bf C
+Double Harmonic: C Df E F G Af B C
+Enigmatic: C Df E Fs Gs As B C
+Hirajoshi: A B C E F A
+Hungarian Minor: C D Ef Fs G Af B C
+Hungarian Major: C Ds E Fs G A Bf C
+Kumoi: E F A B C E
+Iwato: B C E F A B
+Hindu: C D E F G Af Bf C
+Spanish 8 Tone: C Df Ef E F Gf Af Bf C
+Pelog: C Df Ef G Bf C
+Hungarian Gypsy: C D Ef Fs G Af Bf C
+Major Phrygian: C DF E F G Af Bf C
+Major Locrian: C D E F Gf Af Bf C
+Lydian Minor: C D E Fs G Af Bf C
+Overrtone: C D E Fs G A Bf C
+Leading Whole Tone: C D E Fs Gs As B C
+Arabian: C D E F Gf Af Bf C
+Balinese: C Df Ef G Af C
+Gypsy: C Df E F G Af B C
+Mohammedan: C D Ef F G Af B C
+Javanese: C Df Ef F G A Bf C
+Persian: C Df E F gF Af B C
+Algerian: C D Ef Fs G Af B C D Ef F
+Aeolian: C D Ef F G aF Bf C
+Byzantine: C Df E F G Af B C
+Hawaiian: C D Ef (f grace note) G A B C
+Jewish: E F Gs A B C D E
+Mongolian: C D E G A C
+Ethiopian: G A Bf C D Ef F G (The B and E can also be natural and
+the F can be sharp)
+Spanish: C D f E F G Af Bf C
+Egyptian: C D F G Bf C
+Japanese: C Df F G Af C
+Chinese: F G A C D F
+         C E FsG B C
+

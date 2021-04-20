@@ -1,0 +1,395 @@
+		Fakebook* of the Cardigan's "first band on the moon" CD
+			By Stephen Clay (fender@grove.ufl.edu).
+
+	Warning:  This is still in "developement".  I will post the 
+completed file when I have more time.  I have included suggested 
+guitar voicings (taBridge for various chords in each song.  I will include 
+these when I believe that a chord dictionary may offer inappropriate 
+voicings within a particular song.  For example, see the verses of 
+"Step On Me".  Have fun.
+			*A word about this FAKEBOOK.
+
+	The author of this material is not associated in any way with the 
+the authors/performers/copyright-owners/etc... of the following songs.  
+The following material is merely a suggestion of chord harmonies & 
+lyrics that sound similar to the actual sound recordings. These 
+suggestions are intended to give other musicians (who are already 
+familiar with the musiChorus a general idea of how to play the songs for 
+their own entertainment or musical development.  This does not give 
+the reader performance rights (right to perform/play recordings of 
+the songs to an audience).  This material is no substitute for any 
+previously/will to be published music transcription that is directly 
+associated with the authers/performers/copyright-owners/etc... of the 
+following songs.
+--------------------------------------------------------------------
+"YOUR NEW CUCKOO"
+
+Ebdim7	x-6-7-5-7-x.
+Em7		x-7-5-7-0-x.
+A6/7		x-0-5-6-7-x.
+F#m7-5	x-x-4-5-5-5.
+
+Intro
+	Dmaj7 (x-5-7-6-7-x)  C#maj7  Cmaj7  C#maj7  [x4]
+	    3                                  1           3           1       
+	Dmaj7  (4)    Ebdim7 (4)
+Intro 2
+	Em7  A6/7  Dmaj7  Ebdim7  Em7  A6/7  Dmaj7  Cmaj7
+	   4       4         4           4          4       4         4     4
+	Am   F#m-5   B   G#7
+	   4       4        4      4
+Interlude 3
+	C#m   A6/7   G#7-6 (x-6-4-5-5-x)   [x2]
+	   4         2          2
+Verse 1
+	       C#m                    A6/7           G#7-6
+	     I saw you there.  I stopped and stared.
+	The curlie      girly       smiled.
+	You really     were       too close to her,
+	and people    just went by.	
+Interlude 3
+Verse 2
+	I saw your face and her embrace.  Your whisper in her ear.
+I know the score 'cause I have heard it before. I read your lips with fear.
+Chorus
+	F#m7-5                   B               G#7
+	                     Your words were clear.  You said...
+	Em7            A6/7              Dmaj7                      Ebdim7
+	La la la la la la.    Let's say forever.  Let's say it's true.
+	Em7            A6/7                    Dmaj7             Cmaj7
+	La la la la la la.    Let's come together.  Me and you.
+	Am             F#m7-5        B        G#7
+	La la la la la la.       Your new cuckoo.
+Solo)
+	C#m---   /C   /C#   A6/7  G#7-6   -> Interlude 3
+	   6           2     4         2        2
+Chorus
+Outro
+	Use chords in 2nd line of Chorus  [x3]
+	Use 3rd line of Chorus -> fade repeating first line of Intro
+-------------------------------------------------------------------
+"BEEN IT"
+
+C#m7-5	x-4-2-0-0-0.
+E3		x-x-2-1-x-x.
+F#m3		x-x-4-2-x-x.
+G#m3		x-x-6-4-x-x.
+A3		x-x-7-6-x-x.
+
+Intro
+	E   D   B7   A   (x4)   C#m7-5   /C   B7
+	2    2    2     2                  2         2     2--
+Intro 2
+	/E   /B   /D /C  /A  [rest]  /E /B /D    /C /A
+	 1    1    ----2----     1        1     1        1       (x2)
+Verse 1
+	(over I2 riff)
+	Baby boy.  Your face is pretty and your life's a toy.
+	Master man.  I'm never better than your latest plan.
+Refrain
+	E3          F#m3  G#m3            A3            E3    F#m3  G#m3
+	Poor donee.             What are you gonna try to be?       Where are
+	A
+	you gonna go without me now?
+Chorus
+       E              D                 B7            A       E    D B7  A
+I've been your mother.  I've been your father. Who can ask me for more?
+I've been your sister.     I've been your mistress.  Maybe I was your whore.
+	C#m7-5              /C             B7
+	            Who can ask me for more?
+Verse 2
+	Superstar.  I've tried to educate your childish heart.
+	Made your bed.  And I was in it when your faith was dead.
+Refrain  Chorus
+Refrain 2
+	Sweetie pie.  I'm your personal pro, you know.
+	You know what number to try.  When to cry.
+Chorus
+-------------------------------------------------------------------
+"HEARTBREAKER"
+
+Abmaj7	x-x-6-8-8-8.
+Bb6		x-x-8-7-8-6.
+B+		x-2-1-0-0-x.
+Ebmaj7	x-x-1-3-3-3.
+F6		x-x-3-2-3-1.
+Bbmaj7	x-1-3-2-3-x.
+
+Intro
+	/Ab (3)  /higherAb (3)  /D (6)   x2
+Verse 1
+	Abmaj7      Bb6  /D  /Eb    Abmaj7        Bb6  /D  /Eb
+	No,     not again.                Oh,    what a man.  
+	Just who I thought that I     wanted     to have.
+	Oh, don't do that.               Dont use that bat.
+	That's all it takes to make    me   falling    flat.
+Refrain 1
+	B+???     E7        A7      D7
+	No, not again.  A loser I am.
+Chorus
+	   G (3-x-0-0-0-x)    Bm-6 (x-2-1-0-0-x)
+	I love       you        tonight.
+	Cmaj7 (x-3-2-0-0-x)  C#m7-5 (x-4-2-0-0-x)  D6/7 (x-5-4-5-0-x)
+	  You         are                my                      knight.
+	Ebmaj7       F6                 Bbmaj7   D7
+	Cure and assure and make me feel alright.
+
+	Tomorrow you'll find,  I'm not around.
+	But don't be uptight 'cause I loved you last night.
+Whistly solo)
+	same chords as Verse
+Verse 2
+	Vacant and free.  Yeah, that is me.
+	Just tell me how and I'll please you for free.
+	Tell me I'm good.  I know I'm bad.
+	Lies make me feel fine although it is sad.
+Refrain 2
+	No, not again.  Not one more man.
+Horn solo)
+	over Chorus progression
+Outro
+	fade out repeating Intro
+-------------------------------------------------------------------
+"NEVER RECOVER"
+
+D9		x-5-4-5-5-5.
+Dm9		x-5-3-5-5-5.
+G7+		3-x-3-4-4-3.
+Cm		x-3-5-5-4-x.
+D7-9		x-5-4-5-4-x.
+Dm7		x-5-3-5-3-x.
+
+	Intro
+C (4)  D9 (4)  Dm9 (4)  C (4)   x4
+C (4)  D9 (1)  G7+ (3)
+
+	Verse 1
+
+Cm                      D7-9      Dm7                 C
+     How I always memorize     ev'ry single misery.
+     And I seem to glorify          ev'rything inside of me.
+      And the hero never dies     if the lover...
+    C                              D9                         Dm9
+...hides      between the sheets.  There's no escape cause you can't
+   sleep.  And then you'll see you're just like me.
+
+	Chorus
+
+C                                D9                 Dm9              C
+That's what you called waste of time.  I'll be waiting down the line.
+That's what you called waste of time.  Waiting for your valentine.
+	C                                D9                  Dm9
+That's what you called waste of time.  I know where your
+C              D9   Dm9                  C              D9
+hero hides.        That's you don't sleep tonight.
+Dm9                                                     C    D9  G7+
+That's what I call.  That's what you call.  That's what I call life.
+	Verse 2
+With a hero in the past, you hang on to history.
+Such a loss will always last, and there's no recovery.
+And the hero never dies...
+	Chorus
+(with extended Dm9 part at Outro
+	Outro
+repeating 1st line of Intro
+-------------------------------------------------------------------
+"STEP ON ME"
+
+C#+		x-4-3-2-2-x.
+Bbmaj7	x-1-3-2-3-x.
+Ebmaj7	x-6-8-7-8-x.
+Abmaj7	x-x-6-8-8-8.
+
+Intro
+	D (4)  C#+  (4)  C (2)  /B (2)
+	Bbmaj7 (2)  Ebmaj7 (2)  Abmaj7 (2)   [rest] (2)
+Verse 1
+	D (x-x-0-7-7-5)   F+/D (x-x-0-6-6-5)  Am/D (x-x-0-5-5-5)
+	Oh, I think you're standing on      my left foot.
+	      D6-9(no3) (x-x-0-4-4-5)   D+(no3) (x-x-0-3-3-5)
+	It's hurting,      but     that's    O-K.
+	         Dmaj7(no3) (x-x-0-2-2-5)   D
+	cause I'm            in         your       way.
+	 D                   F+/D                            Am/D
+	You break the foot that you're standing on
+	     D6-9(no3)
+	I'll walk with the other one...
+Refrain
+	Bb (6-0-x-x-x-x)  Eb (x-6-0-x-x-x)  Bb                Eb
+	Do         what you want to.               Do what you want to.
+	Be         what you want to.               Be  what you want to.
+	Bbmaj7 (6-8-7-x-x-x) Ebmaj7 (x-6-8-7-x-x) Abmaj7 (x-x-13-12-13-11) 
+	[rest]
+	    Go      on      and       step        on           me.
+Chorus
+	            D                C#+                     C   /B        
+	You're free to have ev'rything you can see.
+	Bbmaj7       Ebmaj7     Abmaj7   A7
+	All that you want from me.
+	 D             C#+                  C  /B  Bbmaj7    Ebmaj7  Abmaj7  
+	[rest]
+	Free to be all that you want to be. Do what you want to me.
+Verse 2
+	Oh, I think you're spinning inside my head.
+	I think of you all the day.  'Cause you're in my way.
+	Oh, I think you're holding the heart of mine.
+	Squeeze it apart, that's fine...
+Refrain  Chorus  Refrain
+Chorus
+	replace [rest] near end with A7
+Outro
+	Bbmaj7   Ebmaj7  Abmaj7  A7   [x3]
+	Go ahead and step on me...
+	(riff at end of refrain)
+-------------------------------------------------------------------
+"LOVEFOOL"
+
+F#m		x-x-4-2-2-x.
+Bm9		x-2-0-2-2-x.
+E6		0-2-2-1-2-x.
+Amaj7		x-0-2-1-2-x.
+
+Intro
+	Am (x-0-x-9-x-8)  (2 bars)
+Verse 1
+Am7            /C    Dm7                     G7               /B  Cmaj7
+Dear, I fear we're facing a problem.  You love me no longer I know and
+maybe there is      nothing that I can do   to make you do.
+Mama tells me      I shouldn't bother.  That I ought to stick to another
+man.   A man that surely deserves me.
+G7                      /B
+	   But I think you do.
+Refrain
+	Cmaj7 (x-3-5-4-x-x)  C#dim7 (x-4-5-3-x-x)
+	      2                                2
+Dm7 (x-5-7-5-x-x)  D#dim7 (x-6-7-5-x-x)  E
+So          I           cry,                           I pray and I beg.
+Chorus
+A (x-x-x-6-5-5)  /C#     /D        Bm7 (x-x-x-4-3-5) /D    E7 (x-x-x-4-3-4)
+Love          me love me.        Say                     that you love me.
+Fool          me  fool me.        Go                      on   and fool me.
+Love          me love me.  Pretend                     that you love me.
+Leave        me leave me.  Just say                    that you need me.
+F#m        Bm9     E6           Amaj7  /C# /D  /E
+	       So I cry.             And I beg       for  you to...
+	A      /C#  /D               Bm7     /D   E7         
+	Love me love me.        Say that you love me.
+	Fool me  fool me.        Go  on   and fool me.
+	A        Dm           E7              -> Intro    
+	I can't care 'bout anything but you.
+Verse 2
+	Lately I have desperately pondered.
+	Spent my nights awake and I wonder
+	what I could have done in another way, to make you stay.
+	Reason will not lead to solution.
+	I will end up lost in confusion.
+	I don't care if you really care, as long as you don't go.
+Refrain  Chorus
+Chorus -> Am
+-------------------------------------------------------------------
+"LOSERS"
+
+Dsus4/A	x-0-x-2-3-3.
+D/A		x-0-x-2-3-2.
+Gmaj7		3-x-0-0-0-2.
+A7sus4		x-0-2-2-3-3.
+Em9		0-2-2-0-3-2.
+
+Intro
+	Dsus4/A (4)   D/A (4)   A (8)
+Verse 1
+	Dsus4/A                                D/A
+	Look at all these losers.  You find them ev'rywhere.
+	             A
+	They're fucked up and annoying, but somehow you seem to care.
+
+	It's easier to leave, but something makes you stick around.
+	You can't watch from above and keep your ten toes in the sand.
+Refrain 1
+	       Gmaj7                                 E7 (x-2-0-3-x-x)
+	You wish that you were special.        You're just like me.
+Chorus
+	A7sus4       D Gmaj7  Em9			A7sus4    D    Gmaj7  Em9
+	Close your eyes.          That'll be the day you find those lies.
+	Fold your ears.           That'll be the day that you  will   hear.
+	Close your eyes.          That'll be the day you find those lies.
+	Fold your ears.           That'll be the day that you  will   hear...
+	Em9                           A                 D
+	That'll be the day you       get back home.
+Verse 2
+	It's lonely to be strange, and you would never tell
+	that you're one of these itches, you know it much too well.
+	Losers are your weakness, they will always touch your heart.
+	You're touching me as well 'cause I have always been a part.
+Refrain 2
+	        Gmaj7                                A5 (x-0-2-2-x-x)
+	You wish that you were special.  I'm just like
+	D (x-5-4-2-x-x) Gm (x-5-5-3-x-x) E9 (0-5-4-4-x-x)  A5
+	you						 you're just like
+	me						  we're just like
+	them						 they're just like
+	E7 (x-2-0-1-x-x)
+	us.
+Chorus
+-------------------------------------------------------------------
+"IRON MAN"
+
+Solo:
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+-----------------6-7-8~--/4-3-4-3-4-3-------------------6-7-8~--8p7p6---
+---------4-6-7-8----------------------4---------4-6-7-8---------------8-
+-6~--6-6--------------------------------6~--6-6-------------------------
+------------------------------------------------------------------------
+
+---------
+---------
+---------
+-8p7p6-4-
+---------
+---------
+
+Intro
+	B6    F#maj7/C#
+Verse
+	B6    F#maj7/C#
+Chorus
+	D# F# D# D C# - D# F# D# D C# F#
+Bridge
+	G# B F# - F# A# D#
+
+-------------------------
+-------------------------
+-------------------6-7-8-
+--------4-6--6-7-8-------
+-6-6--6------------------
+-------------------------
+
+-------------------------------------------------------------------
+"GREAT DIVIDE"
+
+Verse
+	A   F#m   D    E7-9
+Chorus
+	C       Am      F      E7      A     F#m    D     E7-9
+
+	Am   Am-5   E7   E7-9
+--------------------------------------------------------------------
+"CHOKE"
+
+Intro
+	Bb  C#  Eb  F  [rest]
+	 1     2    2    2     1
+Verse 1
+    F
+A common line.  I closed my eyes, but couldn't let it go...-> Intro
+       F
+The perfect time I dropped my guard, and lost but won somehow...-> Intro
+Chorus
+   F       F+       F#+                  Gm   G#+       Am7      Gm7  C6/7
+It's rather sad.  It feels like we've never made it together since.
+Intro
+Verse 2
+Horns)
+	F   Am/E   F7/Eb  Dm  C  Bbmaj7  Eb  C/E
+	2        2         2       2     2       2       2       2

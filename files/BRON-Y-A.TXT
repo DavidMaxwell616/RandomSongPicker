@@ -1,0 +1,116 @@
+From tbl2788@ritvax.isc.rit.edu Sat Feb 12 13:57:07 EST 1994
+Article: 19559 of alt.guitar.tab
+Xref: undergrad.math.uwaterloo.ca alt.guitar.tab:19559
+Newsgroups: alt.guitar.tab
+Path: undergrad.math.uwaterloo.ca!watserv2.uwaterloo.ca!torn!howland.reston.ans.net!news.intercon.com!udel!rochester!rit!isc-newsserver!ritvax.isc.rit.edu!TBL2788
+From: tbl2788@ritvax.isc.rit.edu
+Subject: Tuning: Bron-y-aur stomp
+Message-ID: <1994Feb12.011817.23871@ultb.isc.rit.edu>
+Sender: news@ultb.isc.rit.edu (USENET News System)
+Nntp-Posting-Host: vaxa-eth.isc.rit.edu
+Reply-To: tbl2788@ritvax.isc.rit.edu
+Organization: Rochester Institute of Technology
+Date: Sat, 12 Feb 1994 01:18:17 GMT
+Lines: 15
+Status: OR
+
+
+  I have a book of the first 5 led zep albums (with tab) and
+it says that the guitar should be tuned to open E.  I can play
+this song a little, and so far as i can tell this is the exact
+tuning.  
+  If you try this with open E, then the only chords are 
+simply barring all six strings at the third, fourth, and fifth
+frets (well, not at the same time).  The little intro bit is
+simply all six strings at the twelfth fret, then a six string
+harmonic on the seventh. The notes played are mostly the e on
+the fourth string (fourth fret) and the d on the same string
+(second fret) with a lot of pull-off's and hammer-on's.
+  If anyone tries this and decides that it works better than
+the other posted version, let me know and i'll post the whole
+thing in tab.
+
+
+From ceh1@acpub.duke.edu Tue Nov 29 12:03:55 EST 1994
+Article: 28026 of rec.music.makers.guitar.tablature
+Xref: undergrad.math.uwaterloo.ca rec.music.makers.guitar.tablature:28026
+Path: undergrad.math.uwaterloo.ca!watserv2.uwaterloo.ca!torn!howland.reston.ans.net!cs.utexas.edu!convex!news.duke.edu!usenet
+From: ceh1@acpub.duke.edu (Charles Eric Horowitz)
+Newsgroups: rec.music.makers.guitar.tablature
+Subject: Bron-Y-Aur
+Date: 28 Nov 1994 13:30:09 -0500
+Organization: Duke University; Durham, NC; USA
+Lines: 66
+Message-ID: <3bd7jh$r96@news.duke.edu>
+References: <davies-2111941058370001@ils-44-mac08.ils.nwu.edu> <CzqEAn.ABB@crdnns.crd.ge.com> <3bd4ui$g0b@helium.ch.apollo.hp.com>
+NNTP-Posting-Host: teer12.acpub.duke.edu
+Status: O
+
+Bron-Y-Aur by Jimmy Page
+
+Acoustic guitar tuned to CACGCE
+with heavy echo present in the recording
+and Page lets everything ring.
+Im just going to tab the various sections and you can probably figure
+out how to put them together.
+
+This is the intro and the basic rythym part throughout.
+
+e---------0--------------------------------------------------------------
+c------------------0-----------------------------------------------------
+g------0---------0-------------------------------------------------------
+c----0---------0---------------------------------------------------------
+a-/3---------------------------------------------------------------------
+C------------0-----------------------------------------------------------
+
+Heres the first change which is played a few times in the song.
+
+e-------3p0---------------0--------------------0--------------0----------
+c-2--------------0----------------0-----5--------------0------------0----
+g-2-2----------0--------0-------0-------4-4----------4-------0-----0-----
+c-------------0-------0-------0---------------------0-------0-----0------
+a-2---2------2-----/3-------------------5---5-----5-------/3-------------
+C---------------------------0-----------------------------------0--------
+
+And the part before the 'chorus':
+
+e-----------------------------------------------------------------------
+c---------0--------2--------4--------0--------------------------------------
+g-------0--------2--------4--------0----------------------------------------
+c-----0--------0--------4--------4------------------------------------------
+a--/3--------2--------0--------0--------------------------------------------
+C-----------------------------------------------------------------------
+
+And the chorus:
+
+e----------------------------0-------------------------------------------
+c---------5---------0--------------0---------------------------------------
+g-------5---------7--------0------0-----------------------------------------
+c-----5----------7-------0-------0------------------------------------------
+a---------------------/3--------------------------------------------------
+C--/5---------/7---------------0---------------------------------------------
+
+And right after the first chorus played twice:
+
+e-----------------------------------------------------------------------
+c---------0----------0----------------------------------------------------
+g--0---------------0------------------------------------------------------
+c----0-----------0--------------------------------------------------------
+a------0------/3-----------------------------------------------------------
+C--5---------------------------------------------------------------------
+
+And the ending sequence:
+
+e-------------------0-----0-----0----0----0----0----0------0-------------
+c---------0-------0------5-----5----5----5----5----5-------0-------------
+g-------0-------5-------7-----7----7----7----7----7--------0-------------
+c---4-5-------5--------0-----0----0----7----0----7---------0-------------
+a----------------------------------------------------------3-------------
+C----------------------------------------------------------0-------------
+
+I think all the sections are covered and anything I left out are little
+changes off the above info.
+Enjoy,
+CHUCK
+
+

@@ -1,0 +1,87 @@
+Received: from LUGA.latrobe.edu.au (luga.latrobe.edu.au [131.172.2.2]) 
+by post-office.nevada.edu (8.6.4/8.6.4) with SMTP id IAA00390 for 
+<jamesb@nevada.edu>; Thu, 10 Mar 1994 08:55:43 -0800
+Received: from lux.latrobe.edu.au by LUGA.latrobe.edu.au with SMTP id 
+AA13679  (5.67a/IDA-1.5/LTU-1.0 for <jamesb@nevada.edu>); Fri, 11 Mar 
+1994 01:36:44 +1000
+Received: by lux.latrobe.edu.au (5.67a/Ultrix3.0-C)
+	id AA29256; Fri, 11 Mar 1994 01:36:44 +1000
+Date: Fri, 11 Mar 1994 01:36:44 +1000
+From: cscsj@lux.latrobe.edu.au (   Junacko)
+Message-Id: <199403101536.AA29256@lux.latrobe.edu.au>
+To: jamesb@nevada.edu
+Subject: Rolling Stones - Waiting On A Friend
+
+(Vertical bars denote new measures) 
+
+
+
+"Waiting on a Friend"
+
+Jagger/Richards
+
+
+
+Here's another hint to help you get that strummed melody at the
+beginning:
+
+
+
+         C(add9)  Dm Fmaj7
+
+e--------------------0---
+B-------3-3-3-3---3--1---
+G-------0-0-0-0---2--2---
+D-------2-2-2-2---3--3---
+A-2h3---3-3-3-3------3---
+E------------------------
+
+jonathan byrd
+jon@apollo.med.utah.edu
+
+
+Am              F            G                   C
+Watchin girls a-passin' by   It ain't the latest thing
+G                      C        G                            C
+I'm just standin' in a doorway  I'm just tryin' to make some sense
+Am                   F                G                   C
+out of these girls a-passin' by...the tales they tell of men
+G                      C        G                     C
+I'm not waitin' on a lady       I'm just waiting on a friend
+Am                   F                     G               C
+A smile relieves the heart that bleeds     remember what I said
+
+G                    C      G                     C
+I'm not waitin' on a lady   I'm just waiting on a friend
+
+
+
+Csus2  Dm F {repeat, sax solo followed by ad lib-ish "doo doo"}
+
+(repeat "I'm just waiting on a friend" on F)
+
+
+
+Am                   F                     G                   C
+Don't need a whore I don't need no booze - don't need a virgin priest
+
+G                        C         G                 C
+But I need someone I can cry to    I need someone to protect
+
+Am             F                G                C                      
+Makin love and breakin hearts - it is a game for youth
+
+G                        C      G                    C
+but I'm not waiting on a lady...I'm just waitin on a friend
+
+
+
+Csus2  Dm F {repeat, more sax solo followed by ad lib "doo doo"}
+
+(just waitin on a friend)
+
+
+
+fade
+
+

@@ -1,0 +1,192 @@
+Cult of Personality Tab
+Transcription: Cult of Personality, Living Colour.
+jds@st-andrews.ac.uk
+The chords.
+Reasonably simple:
+Bb	(x13331)
+C	(x32010)
+F	(133211)
+G	(355433)
+D	(x57775)
+Dmaj7	(x57675
+G9	(xx3233)
+
+A couple of caveats;
+- substitute the C chord for C/F if you feel adventurous:
+(xx3010), or (1x5553) for the elastic fingered;
+- the G9 chord as given doesn't sound spot on. Try adding a low G note in 
+the 
+bass
+(3x3233) or possibly substituting a G6/9 may resolve matters (322233). If 
+in 
+doubt, just use a
+G5 power chord (3x0033)
+
+The Riffs.
+The introductory riff:
+(4/4 time)
+e|    			|				|
+b|			|				|
+g|			|				|
+d|   3 2   2   3 2   2	|   3 2   2   3 2   2 2	|
+a|   			|				|
+e| 3     3   3     3	| 3     3   3     3	|
+
+e|     			|				|
+b|			|				|
+g|			|				|
+d|   3 2   2   3 2   2	|   3 2   2   3 2   2 2	|
+a|   			|				|
+e| 3     3   3     3	| 3     3   3     3	|
+
+(3/4 time)
+e|     					|
+b|					|
+g|			2		|
+d|   3 2  	5 3 0   3 0		|
+a|   				3 2	|
+e| 3     3 				|
+
+(back to 4/4!)
+e|     			|			|
+b|			|			|
+g|			|			|
+d|   3 2   2   3 2   2	|   3 2   2   3 2   2 2	|
+a|   			|			|
+e| 3     3   3     3	| 3     3   3     3	|
+The main riff is comprised of repeating bars 1 and 2 of the introductory 
+riff.
+
+There is a riff variation (call it riff 2 for reference purposes) as 
+follows, 
+which is entirely in 3/4
+time:
+
+(3/4 time)
+e|     					|			|
+b|					|			|
+g|			2		|	   2	   5 4 	|
+d|   3 2  	5 3 0   3 0		|  3 2     3 0 	 5 3 0	|
+a|   				3 2	|			|
+e| 3     3 				|3     3		|
+
+e|     					|			|
+b|					|			|
+g|			2		|	   2	   5 4 	|
+d|   3 2  	5 3 0   3 0		|  3 2     3 0 	 5 3 0	|
+a|   				3 2	|			|
+e| 3     3 				|3     3		|
+
+...then back to 4/4
+
+The outro riff is a polyrythmic device a five beat cycle. check the 
+recording 
+for the phrasing
+(the 16th note pause counts as the fifth beat, the pause is denoted by an 
+exclamation mark
+as a guide to phrasing)
+
+e|					|			|
+b|					|			|
+g| 5 4	 5 4	     5 4	   5	| 4			|
+d|	 5 3 !     5 3 !	   5 3 !|   5 3 [3 Beat pause]	|
+a|					|			|
+e|					|			|
+
+Song Structure:
+Spoken Recording
+Guitar intro.
+Verse 1
+Chorus
+Little guitar diddly bit
+Verse 2
+Chorus
+Screamingly difficult "I-wish-I-could-play-that" Solo
+Verse 3
+Outro Variation
+Mad unison riffing
+Outro riff.
+
+That's it.
+Verse structure:
+Slashes indicate roughly how long the chord is to be used. an "x" denotes 
+silence from the
+rhythm guitar (i.e. playing chords, not the riff)
+starts on the lyric (...eyes, what do you see?) the first words tag over 
+the 
+end of the intro. riff
+section)
+|--------|--------|--------|--------| - bar indicator
+|G9 / x x|x x x x |Bb / C /|x x x x | - chords
+
+|Main riff________|	   |riff____| - riff
+|--------|--------|--------|--------|
+|x x x x |x x x x |x x x x |x x x x |
+
+|Main riff_________________|Bb / C /|
+|--------|--------|--------|--------|
+|x x x x |x x x x |	   |Bb / C /|
+
+|Main riff_________________|	    |
+|--------|--------|
+|x x x x |Bb / C /|
+
+|M Riff__|        |	|
+...into the 4 bars of 3/4 of riff 2, as given earlier:
+|------|------|------|------|
+
+Riff 2______________________|
+
+...and back to 4/4 for the chorus.
+
+Chorus:
+|--------|--------|--------|--------|
+|Bb / F /|C / G / |D / DMaj|F / C / |
+|--------|--------|--------|--------|
+|Bb / F /|C / G / |D / DMaj|C / / / |
+...then 4 bars of widdly-diddly
+|--------|--------|--------|--------|
+|Main Riff__________________________|
+Verse 2, as Verse 1,
+Chorus 2. This is slightly different at the end, as a climactic build up 
+to 
+the solo:
+|--------|--------|--------|--------
+|Bb / F /|C / G / |D / DMaj|F / C / |
+|--------|--------|--------|--------|
+|Bb / F /|C / G / |D / DMaj|C / / / |
+|--------|----| Be careful: this last
+|C / / / |C / | bar is 2/4!
+...and back to 4/4.
+The Solo:
+Basically, it follows the verse and chorus structure.
+|--------|--------|--------|--------|
+|Main riff__________________________|
+|--------|--------|--------|--------|
+|Main riff__________________________|
+|--------|--------|--------|--------|
+|Bb / F /|C / G / |D / DMaj|F / C / |
+|--------|--------|--------|--------|
+|Bb / F /|C / G / |D / DMaj|F / C / |
+Then 4 bars of riffage:
+|--------|--------|--------|--------|
+|Main riff__________________________
+...into Verse 3,
+|--------|--------|--------|--------|
+|Main Riff__________________________|
+|--------|--------|--------|--------|
+|Main riff________|Bb / C /|Riff____|
+|--------|--------|--------|--------|
+|Bb / C /|Riff____|Bb / C /|Riff____|
+|--------|--------|--------|------| - last bar
+|Bb / C /|Riff_____________|x x x |	int 3/4
+Riff 2:
+(still in 3/4)
+|------|------|------|------|
+|riff 2_____________________|
+Outro riff:
+(back to 4/4)
+|--------|--------|
+|End Riff_________|
+...and that's yer lot.
+"...ask not what your country can do for you!"

@@ -1,0 +1,165 @@
+Received: from animal-farm.nevada.edu by redrock.nevada.edu 
+(5.65c/M1.4)
+	with SMTP id <AA24759>; Fri, 5 Mar 1993 15:32:06 -0800
+
+Received: from moe.coe.uga.edu by animal-farm.nevada.edu id <AA15509@an
+imal-farm.nevada.edu>;
+ Fri, 5 Mar 1993 15:32:04 -0800
+Received:  by moe.coe.uga.edu (4.1/25-e
+ef)
+	id AA09488; Fri, 5 Mar 93 18:32:02 EST
+
+From: Mike Hall UCNS Aderhold Hall <mhall@moe.coe.uga.edu>
+
+Message-Id: <9303052332.AA09488@moe.coe.uga.edu>
+
+Subject: song --Suspicious
+Minds -- Elvis_Presley
+
+To: jamesb@animal-farm.nevada.edu
+Date: Fri, 5 Mar 93 18:32:02 EST
+
+X-Mailer: ELM [version 2.3 PL11]
+
+
+
+
+------------------------------------------------------------
+  
+   Suspicious Minds  (By Mark James)
+
+     ================
+
+Sung by Elvis Presley; (c) Press Music, Inc. 
+
+G                        C                  
+  
+  We're caught in a trap;  I can't walk out
+
+D               C               G
+
+  because I love you too much,  baby.
+
+G                    C
+  
+Why can't you see,   what you're doing to me,
+
+D                      C          D     C  Bm  D7 
+ 
+  when you don't believe a word I say?
+
+(1st Chorus:)
+ 
+ C                G        Bm                  C    D  
+ 
+    We can't go on together, with Suspicious Minds;
+ 
+ Em                  Bm          C              D       D7 
+ 
+    and we can't build our dreams, on Suspicious Minds.
+
+2
+.
+G                              C
+  
+So, if an old friend I know, drops by to say hello,
+
+D                 C           G
+ 
+ would I still see suspicion in your eyes?
+
+G                  C           
+ 
+ Here we go again, asking where I've been.
+D                       C               D      C  Bm  D7
+ 
+  You can see these tears are real I'm crying.  
+
+(2nd Chorus:)
+
+  C                G        Bm                  C
+   
+  We can't go on together, with Suspicious Minds;
+  
+Em                  Bm           C              B7sus4   B7
+ 
+    and we can't build our dreams, on Suspicious Minds...
+
+
+       Em             Bm            C
+         
+ Oh, let our love survive, 
+                       D
+       
+   I'll dry the tears from your eyes.
+  
+     Em                   Bm             C  
+      
+    Let's don't let a good thing die,  when honey,
+  
+           D                G               C    G       D7
+   
+       you know I've never,  lied to you;   Mmm,  yeah,  yeah!
+
+
+(repeat first verse and fade)
+
+--------------------------------------------------------------
+
+Chord diagrams:
+Bm - |224432| or |xx4432|  D7 - |xxo212|  B7 - |x212o2|
+Em - |o22ooo|          B7sus4 - |x2425x|
+
+--------------------------------------------------------------
+ 
+    Have fun and long live the King...  
+          C
+         ///
+     T  ///   B
+         ///
+         //              Mike A. Hall    mhall@moe.coe.uga.edu
+        /
+
+
+
+From: mlinke@informatik.uni-rostock.de (Matthias Linke)
+
+
+ 			Suspicious minds
+			  Elvis Presley
+
+  G			C
+We're caught in a trap, I can't walk out
+  D	    C		     G
+Because I love you too much baby.
+ 		   C
+Why can't you see what you're doing to me
+  D		  C		 D	C Bm D
+When you don't believe a word I say ?
+
+C	    G		 Bm		  C	D Em
+We can't go on together with suspicious minds,
+	      Bm	      C		     D
+And we can't build our dreams on suspicious minds.
+
+So if an old friend I know drops by to say hello,
+Would I still see suspicion in your eyes ?
+But here we go again, asking where I'd been,
+And can't you see these tears are real I'm crying
+
+We can't go on together ...
+
+Em	     Bm
+Oh, let our love survive
+C	     D
+Ah, dry the tears from my eyes
+Em		   Bm
+Let's don't let a good thing die
+C		    D		   G   C     G     D7
+There's gonna be nobody ever like you, um - yeah, yeah.
+
+We caught in a trap ...
+
+
+Hope you`ll enjoy it. Bye, Matthias.
+

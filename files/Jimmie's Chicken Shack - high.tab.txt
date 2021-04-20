@@ -1,0 +1,78 @@
+#-----------------------------PLEASE NOTE-------------------------------------#
+#This OLGA file is the author's own work and represents their interpretation  #
+#of the song. You may only use this file for private study, scholarship, or   #
+#research. Remember to view this file in Courier, or some other monospaced    #
+#font. See http://www.olga.net/faq/ for more information.                     #
+#-----------------------------------------------------------------------------#
+
+From: Mike Aston  (mike1@visi.net)
+Date: Thu, 29 Aug 2002 03:11:56 -0400
+From: Nathan Frost <loomis111@hotmail.com>
+Subject: j/jimmies_chicken_shack/high.tab
+
+
+High- Jimmies Chicken Shack
+Tabbed by Nathan F. (happy i learned it kevin?)
+
+The tabs that already exist for this song are all very
+insufficient, none of them seem to show that the song is in drop d
+Like any other tab the rhythm is partially done but you
+need to listen to the song to get it right
+
+p= pull off
+s= slide
+X= deadened note
+v= verbrado
+b= bend
+r= bend and release
+
+VERSE
+E-|--------------|
+B-|--------------|
+G-|--------------|
+d-|2--X3--3--5p0-|
+A-|2--X3--3--5p0-|
+D-|2--X3--3--5p0-|
+
+
+CHORUS
+E-|0-------------|
+B-|0-------------|
+G-|0-------------|
+d-|X--X3--3--5p0-|
+A-|2--X3--3--5p0-|
+D-|2--X3--3--5p0-|
+
+
+BRIDGE 1
+E-|---------------------------------------|
+B-|---------------------------------------|
+G-|---------------------------------------|
+d-|2--2-3--3-2--2-5--5-2--2-3--3-2--2-0-0-|
+A-|2--2-3--3-2--2-5--5-2--2-3--3-2--2-0-0-|
+D-|2--2-3--3-2--2-5--5-2--2-3--3-2--2-0-0-|
+
+BRIDGE 2 (Use a flanger/echo sort of effect here)
+E-|--------------------------------------|
+B-|----------------------------~---------|
+G-|4--4-4/b5-4--4-4/b7-4--4-4/b5-4--42-4-|
+d-|2--2-2/b3-2--2-2/b5-2--2-2/b3-4--20-2-|
+A-|--------------------------------------|
+D-|--------------------------------------|
+
+
+I can only tab the slow part of the solo.  The rest is too fast for me to 
+make out.
+It's very imortant to get the bend release down or it doesn't sound right.
+
+E-|-------------------------------------------------------|
+B-|-------------------------------------------------------|
+G-|---10h12-b14-r14-12-12/10-10-------12-10h12-b14-r14-v12|
+d-|12---------------------------12p10---------------------|
+A-|-------------------------------------------------------|
+D-|-------------------------------------------------------|
+
+The rest of the solo is messing around in the D-major diatonic scale, and it
+wouldn't be too hard to fake if you're good at improv.
+
+

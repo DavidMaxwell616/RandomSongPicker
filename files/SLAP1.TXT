@@ -1,0 +1,119 @@
+	Slapping on Bass Guitar Lesson #1
+	================================
+			Doug Wellington
+			doug@arizona.edu
+
+This is the first in a series of lessons on slapping and popping on the
+bass guitar.  It was inspired by discussion on the Usenet News group
+REC.MUSIC.MAKERS.BASS and will be distributed there and on The Bottom
+Line.
+
+Ian Stephenson (ian@ohm.york.ac.uk) started with a lesson on tapping,
+and I am going to continue in his style, which means using ascii TAB
+and NOTATION.  If anyone has better suggestions for presentation,
+please write to me at the above address.  Like Ian, I would like to get
+some feedback as to how you like this lesson and its format.
+
+We'll start with some real basics, and progress from there.  The first
+thing to decide is how to hold the bass for slapping.  There are two
+extremes.  The first, which I call the Tony Oppenheim style, uses a
+low positioning of the bass.  This results in the arm being straighter
+and the fingers of the slapping hand being perpendicular to the strings.
+The other extreme, practiced by Stu Hamm, is to have the bass higher
+which results in the forearm being perpendicular to the strings and
+the elbow resting almost directly above the bridge.  I suggest that
+you try both styles and see which one is more comfortable.  If you
+hang your bass low, try the Oppenheim method.  If you are more of a
+"jazzer" and have your bass up high, then the Stu Hamm method will
+be easier.  I think I'm a jazzer, so I wear my bass up as high as
+my strap will go. :-)
+
+One of the most important things in slapping is developing good speed.
+The best way to be fast is to learn to relax as much as possible.  It
+is especially important to relax the slapping hand.  Let your hand hang
+down naturally by your side.  Now, without changing the position of
+your fingers, bend your arm and hold your hand over the strings right
+at the end of the fretboard.  This is very close to the position you
+want your hand to remain in.
+
+Mute the strings with your fretting hand.  Keep your thumb down behind
+the neck, with the contact point about half way down.  Your thumb should
+be pointing almost straight up.  Rest your fingers lightly on the
+fretboard, just enough to keep the strings quiet.  Try to keep your
+fingers as straight as possible.
+
+Keep your slapping hand at the end of the fretboard, with your thumb
+hanging over the last frets and your first finger between the end of
+the fretboard and your pickup.  Now, twist your slapping arm so that
+your thumb moves away from the bass.  The arm itself should remain
+stationary and just rotate.  You only have to twist enough so that
+your thumb is at most 3 inches (75 mm) away from the strings.  Rotate
+the arm back towards the bass, let your thumb hit the E string, then
+bounce back.  Do this almost as lightly as possible, just enough to
+hear a "click".  Repeat this motion several times, always hitting the
+E string.  Once you feel comfortable with this, move to the A string
+and continue until you feel comfortable with that.  Then alternate
+slaps on the E and A strings.
+
+Now for some noise!  Lift your fretting fingers off of the strings,
+and try some slaps.  Slap once and then lightly mute the strings
+again.  Repeat this until you get a nice consistant sound and can
+dampen the strings quietly.  (We'll get into left hand slaps in
+a future lesson.)  If you have a metronome, set it to somewhere
+between 40 and 50 beats per minute, and slap and mute one note
+per beat.  Start slow and strive for consistancy.  You want a
+nice steady beat and a smooth mute.
+
+OK, OK, I know you guys are itching to go on, so I'll give you
+one more tidbit before signing off until the next lesson.  Another
+important element of slapping is hammer ons.  A hammer on is when
+you play a note with your fretting hand, usually right after you have
+played one with your picking hand.  To demonstrate, place the first
+finger of your fretting hand on the fifth fret of the A string, and
+slap the A string.  Now firmly place your pinky finger of your fretting
+hand down onto the seventh fret, sounding a higher note.  Cool, huh?
+Start up the metronome again, and setting it to between 40 and 50,
+practice this slap and hammer on until it is smooth.  Don't bother
+muting this, let the notes ring.  Slap the note on the beat, and then
+hammer on half way in between the beats.  Go for smooth and steady!
+
+			    __
+|-----------------|	|--/--\--------------------
+|-----------------|	|  \   | .
+|--5----7---------|	|---@--|-------------------
+|-----------------|	|      / .	   O
+   S    H		|-----/-------O------------
+			|    /
+			|---/----------------------
+			|
+			|--------------------------
+
+
+Once you get that down, let's combine a slap and hammer on with a slap
+and mute.  Start with your first finger on the fifth fret of the A
+string.  Slap the A string, then hammer on to the seventh fret.  Now
+slap the open E string, then mute.  Release enough pressure on the
+A string to stop the note just as you slap the E string.  Keep the
+muting as noiseless as possible.  TAB for this looks like:
+
+   q  q  q  q
+|-------------|
+|o-----------o|
+|o-5--7------o|
+|--------0----|
+   S  H  S  M
+
+Work this up by starting slowly (40-50 beats per minute) and then
+moving up.  Make it smooth and relaxed now and it will be lightning
+fast later.  So, work on this and we'll add to it next time.
+
+Email any comments to me: doug@arizona.edu.
+This article (c) Copyright 1993 by Doug Wellington.
+You may distribute it freely so long as it is not modified.
+
+------------------------------------------------------------------
+Previous tapping and slapping lessons are available via FTP from
+KAPPA.RICE.EDU in the directory /pub/bass/lessons.  If you do not
+have FTP, and wish to retrieve the lessons via email, send mail to
+ftpmail@decwrl.dec.com with the message "help".
+------------------------------------------------------------------

@@ -1,0 +1,77 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+Longer  by Dan Fogelberg
+
+Intro
+
+G  Am7  Gmaj7/B  C  G  Am7  Gmaj7/B  C  G  Am7  Gmaj7/B  C  Bb  D7/A
+
+G  C/G  D 
+
+
+G      Am7                 Gmaj7/B      C
+Longer than there've been fishes in the ocean
+G      Am7      Gmaj7/B   C
+Higher than any bird ever flew
+G      Am7                Gmaj7/B         C
+Longer than there've been stars up in the heavens
+Bb                D7/a
+I've been in love with you
+G  C/G  D
+
+Stronger than any mountain cathedral
+Truer than any tree ever grew
+Deeper than any forest primeval
+I am in love with you
+(don't do the G C/G D here)
+G  
+F+2/C  C     Eb+2/Bb       Bb
+I'll   bring fire in the winters
+F+2/C  C     Eb+2/Bb       Bb
+You'll send showers in the spring
+F+2/C  C  Eb+2/Bb               Bb
+We'll fly through the falls and summers
+D7sus/G  D7/F#       Dm7/F  D7/f#
+With love     on our wings
+
+Through the years as the fire starts to mellow
+Blurring lines in the book of our lives
+Though the binding's cracked and the pages start to yellow
+I'll be in love with you
+G  G/A  
+Bb              D7/A      G
+I'll be in love with you
+
+F+2/C  C  Eb+2/Bb  Bb  F+2/C  C  Eb+2/Bb  Bb  F+2/C  C  Eb+2/Bb  Bb
+
+D7sus/G  D7/F#  Dm7/F  D7/f#
+
+repeat first verse
+after "I've been in love with you"
+
+
+G  G/A
+Bb      D7/A           
+I am in love with you
+G  G/A  Bb  D7/A  G
+
+Weird chord shapes - Dan uses some weird ones
+
+G		320001
+Am7		x02010
+Gmaj7/B		x24030
+C		x32010		
+Bb		x13331
+D7/A		x00212
+C/G		302010
+D		004230
+F+2/C		03x213
+Eb+2/Bb		6x5260  or   0153x1
+D7sus/G		005530
+D7/F#		004530
+Dm7/F#		003530
+
+
+

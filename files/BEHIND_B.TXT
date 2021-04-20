@@ -1,0 +1,89 @@
+From uunet!cis.ohio-state.edu!ucbvax!agate!ames!bionet!
+raven.alaska.edu!news.u.washington.edu!news 
+Sun Jul  5 12:04:39 PDT 1992
+Article: 525 of alt.guitar.tab
+Path: nevada.edu!uunet!cis.ohio-state.edu!ucbvax!agate!
+ames!bionet!raven.alaska.edu!news.u.washington.edu!news
+From: ihateuw@u.washington.edu (David Wong)
+Newsgroups: alt.guitar.tab
+Subject: TAB: Behind Blue Eyes, by the Who
+Keywords: TAB
+Message-ID: <1992Jul5.022721.18808@u.washington.edu>
+Date: 5 Jul 92 02:27:21 GMT
+Sender: news@u.washington.edu (USENET News System)
+Organization: University of Washington
+Lines: 75
+
+	Okay, here's the promised TAB for the Who's "Behind Blue Eyes":
+      Esus4                              Em        G       D       Ds4 D
+e---------------0-------------------0-------0---------3-------2---2-3--2---
+B--T---------0---0--0-0----0---------0------0--------0-0-----3-----3-3--3--
+G--A-----2----2---2--2----2-2------2--2-2--0---0----0---3-0-2---2-----2--2-
+D--B----2-(2)--2---2---2-2---2-2--2----2--2---2---0--------0---0-0--------0
+A------2----------------2-----2--2---------------2-------------------------
+E-----0----------------------------------0---------3-----3-----------------
+                                       "No one knows..."
+      Cadd9           Asus2           Em       G       D        Ds4 D
+e--------0-------0-------0-------0-------0--------3-------2-2--2^3--2----
+B--T----3-3-----3-3-----0-0-----0-0-----0-0------0-0--------------3--3---
+G--A---0---0-0-0---0-0-2---2-2-2---2-2-0---0^2--0---0-0-2-----2----2--2-2
+D--B--------0-------0-------2-------2---------2--------0---0-0---------0-
+A-----3-------3-------0-------0------------------------------------------
+E-------------------------------------0--------3-----3-------------------
+
+      Cadd9            Asus2
+e--------0-------0-----0----------0-----
+B--T----3-3-----3-0----0---0-----0-0----
+G--A---0---0-0-0---0-0-2--2-2-2-2-------
+D--B--------0-------0--2-2---2-------2-2
+A-----3-------3--------0-------0--------
+E---------------------------------------
+
+	Now the arpeggio changes to strumming, the pattern of which I 
+won't try  to notate, due to my lack of skills in transcribing on computer.  
+In the beginning each chord is just a quarter note followed by another, 
+which is tied  to a pair of eighth notes.  There are quite a few changes 
+in this pattern so I advise listening to the recording, which I assume is 
+almost a given in using  
+
+TAB, anyway.
+	The chords are:
+	Cadd9(x32030), D(xx0232), D/F#(2x0232) 
+(Using the thumb for the bass note is probably the easiest way, albeit 
+classically improper way to form this chord.) G (320003), C/G(3x2013), 
+D/A(x00232), E(0221000), A/E(0311xx),  Bm(x24432), C(x32010), Dsus4(xx0233) 
+and Asus2(x02200).  Many of these are the same chords as were arpeggiated 
+in the earlier sequence.  The chord changes in this pattern go: Cadd9, D, 
+D/F, G, C/G, G, Cadd9, D, D/A, E, A/E, E, Bm, C, D,  A, D, Dsus4, D, Asus2.  
+Again, listen to the recording, as some of these are strummed for several 
+measures, while others are merely quick changes lasting a quarter note.
+
+	Now, it returns to the arpeggiated sequence, with "No one knows 
+what it's like, to feel these feelings.  Skip the first couple bars of the 
+intro and begin on the Em.  The pattern is nearly identical to the first 
+time played, but note the changes between the arpeggiation each time the 
+Dsus4 chord comes around.  After playing the arpeggio a couple times go 
+back to the chord strumming bit, and then to the break, which is in double 
+time:
+           hold bend|------|release bend
+e------------------------12\
+B--T----12-12-12------------
+G--A-----9--9--9-----9------
+D--B--11----------11-9---9\-
+A---------------------------
+E--------------------------0
+
+Now, the bridge with the guitar playing chords in this order: 
+E5, Bm, A, E, Bm, G, D, Bm, A, D,Bm, A, E, Bm, A, E5, B5, A5, 
+E5, Bm, G, D, Bm, A, D, Bm, A, G, E5, Bm, A, E5, Bm, A, B, A, 
+G, D, B, A, G, D, B, A, G, D, E... and then into an arpeggio
+of a B/A (x0444x), and then back to the main  
+pattern to close.  During the brige there is a second guitar 
+playing the solo, which I promise to include tomorrow, I haven't 
+time tonight.
+
+He thought he saw an Elephant, That practised on a fife:
+He looked again, and found it was A letter from his wife.
+`At length I realize,' he said, `The bitterness of life!'
+-LEWIS CAROLL 1832-1898
+

@@ -1,0 +1,140 @@
+Musical Modes
+
+There's always lots of confusion over how the various modes
+in music work.  It's really quite simple, and I'll try to explain how
+I understand it here.  Note that I play guitar and although the information is
+general musical theory, it is aimed primarily at guitarists.
+
+There are seven modes, corresponding directly to the seven degrees in
+a major scale.  In C major, the seven notes are C, D, E, F, G, A and B.
+Each of these notes can be used to construct a different scale.  The first,
+Ionian is just the C major scale we started with.  By
+taking the same notes, but starting from D instead of C and ending on C
+instead of B, we have constructed a new scale, D Dorian.
+We can start at any note and play the notes from the C major scale in
+order; each is a different mode:
+
+C Ionian
+C D E F G A B
+     ^       ^
+D Dorian
+D E F G A B C
+     ^     ^  
+E Phrygian
+E F G A B C D
+ ^       ^
+F Lydian
+F G A B C D E
+       ^     ^
+G Mixolydian
+G A B C D E F
+     ^     ^
+A Aeolian
+A B C D E F G
+   ^     ^
+B Locrian
+B C D E F G A
+ ^     ^
+All these scales contain the same notes, but they are different modes
+of different keys.  They are all relative scales.
+Note that you may already be familiar with A Aeolian - it's the common
+A minor scale. 
+
+This method of deriving scales is particularly useful for
+improvising (on guitar at least).  If, say, you decide you want to
+play in G Mixolydian, you just use the notes from C major (ionian)
+which you should know already, and change the degrees so that 1 is G,
+2 is A etc up to 7 being F.  Simple! 
+
+The above method derives relative scales in different keys, 
+containing the same notes.  What if you want to find all the scales
+in the same key ?  There's another, harder but more general
+method for working out scales.  Fortunately we can derive this new
+method from the simple method already known. 
+
+Look at the table
+above.  The D Dorian scale consists of D, E, F, G, A, B and C.  We
+know already that the D major scale is D, E, F#, G, A, B, C#.  By
+comparing these scales, we can see that D Dorian is the same as D Ionian
+but with two notes flattened: the 3rd degree F# and 7th degree C# of the
+ionian scale become
+F and C in the dorian scale.  This rule holds for all keys, and any
+dorian scale can be worked out by flattening the 3rd and 7th degrees
+of the ionian, or major scale. 
+Lost ?  Here's a table to help:
+
+Scale
+1234567
+
+
+D Major
+DEF#GABC#
+
+
+D Dorian
+DEFGABC
+
+The 3rd note and the 7th note are sharp in the major scale and natural
+in the dorian scale. 
+
+We can apply the same technique to any of the other five scales in the
+first table above.  Want to know how to derive a Mixolydian scale ?
+G ionian is G, A, B, C, D, E and F#, but G Mixolydian is just G, A, B,
+C, D, E and F.  Thus mixolydian is the same as ionian but with a flattened
+7th. 
+
+By repeating the above process for all seven modes, any mode can be
+derived from the ionian (or major) scale by applying the following
+modifications:
+
+Scale
+1234567
+
+
+Ionian
+-------
+
+
+Dorian
+--b---b
+
+
+Phrygian
+-bb--bb
+
+
+Lydian
+---#---
+
+
+Mixolydian
+------b
+
+
+Aeolian
+--b--bb
+
+
+Locrian
+-bb-bbb
+
+Now, if you ask "What's E locrian ?" you can take E major (E, F#,
+G#, A, B, C#, D#) and flatten the 2nd, 3rd, 5th, 6th and 7th degrees to
+get the E locrian scale of E, F, G, A, Bb, C, D.  "What's Ab Lydian ?"
+Ab Major is Ab, Bb, C, Db, Eb, F, G; we sharpen the 4th degree for lydian
+so Ab Lydian is Ab, Bb, C, D, Eb, F, G. 
+
+I've just scratched the surface here, as these are just the seven major
+modes.  There are also melodic minor modes, harmonic minor modes, and many
+other types of scale.  The method for deriving each scale is identical,
+however.  To derive harmonic minor scales repeat the above process starting
+with the A harmonic minor scale A, B, C, D, E, F, G#.  From there, derive
+that B dorian harmonic minor is B, C, D, E, F, G#, A and repeat the whole
+process. 
+
+I hope this helps you understand the theory behind musical modes, and that
+you can now apply this information to work out just about any scale you like.
+I will appreciate any comments anyone has on this article - feel free to email
+me at the address below. 
+
+Happy playing!

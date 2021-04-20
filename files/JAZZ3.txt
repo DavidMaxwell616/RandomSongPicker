@@ -1,0 +1,320 @@
+Marc Sabatella's Jazz Improvisation Primer: Jazz Fundamentals
+
+Jazz Fundamentals
+
+Now that you are listening to jazz, you need to be more conscious of what
+you are hearing. The most important aspects to which you should pay
+attention are structure, swing, and creativity.
+
+	Structure
+
+Most jazz since the bebop era is based on a form that is actually quite
+similar to the sonata allegro form from classical theory: an optional
+introduction, the exposition or theme (possibly repeated), the development
+section, and the recapitulation, possibly followed by a coda. The
+introduction, if present, sets the tone for the piece; the exposition is
+the main melody; the development section is where the composer extends the
+ideas of the exposition; the recapitulation is a restatement of the theme;
+and the coda is an ending. In jazz terms, these sections of a piece would
+be called the the intro, the head (possibly repeated), the solo section,
+the head out, and possibly a coda or tag ending. The intro establishes the
+mood; the head is the main melody; the solo section is where the soloists
+improvise on the melody and/or chord progression of the tune; the head out
+is a restatement of the theme; and the coda or tag is an ending.
+
+While not every piece follows this form, the vast majority of traditional
+jazz stays very close to it. During the solo section, the rhythm section
+generally keeps following the chord progression of the head while the
+soloists take turns improvising. Each time through the progression is
+called a chorus, and each soloist may take several choruses. In this
+respect, the theme-and-variations form of classical music is also a valid
+analogy. Each soloist plays an improvised variation on the theme.
+
+The improvisation is the most important aspect of jazz, just as the
+development is often considered the most important part of the classical
+sonata. While listening to a piece, try to sing the theme to yourself
+behind the solos. You may notice that some soloists, particularly
+Thelonious Monk and Wayne Shorter, often base their solos on the melodic
+theme as much as on the chord progression. You will also notice that
+liberties are often taken with the theme itself; players such as Miles
+Davis, Coleman Hawkins, Sonny Rollins, and John Coltrane were especially
+adept at making personal statements even while just playing the head.
+
+There are two very common forms for a head or theme in jazz. The first is
+the blues form, which is normally a twelve bar form. There are many
+variants on blues chord progressions, but most are based on the idea of
+three four bar phrases. In its original form, the second phrase would be a
+repeat of the first, and the third would be an answer to that phrase,
+although this convention is rarely adhered to in jazz. You may wish to
+check out the blues progressions
+listed later to get an idea of what they sound like, so you can recognize
+blues forms when you hear them. Liner notes and song titles will also
+often help identify which tunes are based on the blues. Some well known
+jazz tunes based on blues progressions include "Now's The Time" and
+"Billie's Bounce" by Charlie Parker, "Straight, No Chaser" and "Blue Monk"
+by Thelonious Monk, and "Freddie Freeloader" and "All Blues" by Miles
+Davis.
+
+The other common form in jazz is the AABA song form, used extensively in
+popular music from the turn of the century until the dawn of rock and roll.
+This form consists two sections, called the verse or A-section and the
+bridge. The form is verse 1, verse 2, bridge, verse 3. The verses are
+similar or identical except for the lyrics and perhaps the last two bars.
+The song "I Got Rhythm" by George Gershwin, is one example of an AABA form.
+There are literally hundreds of tunes based on the chord progression to that
+tune, including "Anthropology" by Charlie Parker and "Oleo" by Sonny
+Rollins. Other songs with the AABA form include "Darn That Dream" by Jimmy
+Van Heusen, and "There Is No Greater Love" by Isham Jones. Songs such as
+these, popular songs from the first half of the century that have been
+interpreted by many jazz musicians, are often called standards.
+
+These structures are only guidelines. Musicians such as Cecil Taylor
+showed us long ago that it is possible to express oneself without such well
+defined structures, and indeed this type of expression is often more
+personal that any more organized form. I have described these common
+structures to help you understand the context in which many musicians work,
+not to suggest that they are the only way. You should learn to discern for
+yourself when listening to other musicians what type of structures they are
+using, if any. You should also decide for yourself which structures to use
+in your own playing.
+
+	Swing
+
+Understanding the structure of the music is the first step toward an
+increased appreciation of it. The rest of this primer will deal mainly
+with hands-on musical examples. Before you delve into the theory, however,
+you need to develop a feel for swing. This is part of the rationale behind
+doing so much listening, since it is virtually impossible to teach swing
+analytically. Nonetheless, I will try to explain what you should be
+hearing and trying to achieve in your own playing.
+
+
+	Definition
+
+The most basic element of swing is the swing eighth note. In classical
+music, a set of eighth notes in 4/4 time are meant to take exactly one half
+of a beat each. This style is called straight eighth notes. Play a C
+major scale "C, D, E, F, G, A, B, C" in straight eighth notes. If you have
+a metronome, set it to 96 beats per minute. Those are quarter notes, "one,
+two, three, four". Subdivide this in your mind, "one and two and three and
+four and".
+
+A common approximation to swing eighth notes uses triplets. The basic
+beats are be subdivided in your mind as "one-and-uh two-and-uh three-and-uh
+four-and-uh", and you play only on the beat and on the "uh". The first
+note of every beat will be twice as long as the second. This will sound
+like Morse Code dash-dot-dash-dot-dash-dot-dash-dot and is far too
+exaggerated for most jazz purposes. Somewhere in between straight eighth
+notes (1:1 ratio between first and second note) and triplets (2:1 ratio)
+lie true swing eighth notes. I cannot give an exact ratio, however,
+because it varies depending on the tempo and the style of the piece. In
+general, the faster the tempo, the straighter the eighth notes. Also,
+pre-bebop era players often use a more exaggerated swing than later
+performers, even at the same tempo. No matter what the ratio, the second
+"half" of each beat is usually accented, and beats two and four are usually
+accented as well. Again, the amount of accent depends on the player and
+the situation.
+
+There is also the issue of playing behind or ahead of the beat. When
+Dexter Gordon plays, even the notes that should fall on the beat are
+usually played a little bit late. This is often called laying back. It
+can lend a more relaxed feel to the music, whereas playing notes that
+should fall on the beat a little bit early can have the opposite effect.
+Bassists often play slightly ahead of the beat, particularly at faster
+tempos, to keep the music driving forward.
+
+Not all styles of jazz use swing in the same way. Most Latin jazz
+styles and many fusion and modern styles use straight eighths, or eighth
+notes that are only slightly swung. Shuffles and some other rock styles
+use very exaggerated swing. Listen closely to recordings in different
+styles, paying attention to the differences. Do not be fooled into
+thinking that swing is a universal constant.
+
+	Practicing Swing
+
+Learning to play natural sounding swing eighth notes is often the hardest 
+part of learning to play jazz, since it can sound so bad until you
+can do it well. There are some techniques that can help you overcome
+this initial awkward stage.
+
+If you have been listening carefully to other musicians, you may be better
+at recognizing swing than at playing it. Therefore, I highly recommend
+recording yourself playing swing eighth notes at various tempos, and then
+listening to yourself on tape. You can judge for yourself whether your
+swing sounds natural or forced. It has been said that if you cannot swing
+unaccompanied, you cannot swing. It is important to work on your own
+concept of swing in this way so that your perception of how you sound is
+not influenced by the sound of your accompanists.
+
+You should work on your swing no matter what you are playing. When you
+practice scales, work on swing as well as simply playing the right notes.
+Try varying the rhythm you use to play the scale. In addition to scales,
+you should try practicing swing when playing other exercises or songs. Any
+practice method book or fakebook will probably contain several appropriate
+pieces. Try playing songs with many consecutive eighth notes, but also try
+songs with longer notes and rests. Having to play many consecutive eighth
+notes can make you too self-conscious of your swing.
+
+While being able to swing unaccompanied is important, it is not easy to do
+at first, and when developing your swing concept, it can also help to hear
+it occasionally in the context of a group performance. One thing that
+would help at times is to have a rhythm section accompaniment. If you have
+Band-In-A-Box, you can program it to play endless choruses of C major, and
+then you can practice playing or improvising on your C major scale while
+working on your swing. Aebersold records can provide accompaniment as
+well, but be aware that most of the tunes have many chord changes and are
+too complex to use for this purpose. There are a few suitable tracks,
+however, such as some of those on Volumes 1, 16, 21, 24, and 54, which are
+geared toward beginners. The books included with these, especially the
+first four, also contain some useful instructional material.
+
+If you have a partner, or a tape recorder, or a sequencer (computer
+hardware and/or software to record and play back on a synthesizer) you can
+create do-it-yourself accompaniment. The basic components of a swing drum
+beat are the ride pattern and the hi-hat pattern. The ride cymbal pattern,
+at its most basic, is "1, 2 and, 3, 4 and"; or, phonetically, "ding ding-a
+ding ding-a". The eighth notes on 2 and 4 should be swung, of course. The
+hi-hat is closed (with the foot pedal) on 2 and 4. Walking bass lines can
+be constructed by following a few simple rules. First, play quarter notes.
+Second, keep them in the two octaves below middle C. Third, play only
+notes from the scale on which you are working. Fourth, most notes should
+be only a step away from the previous note, although occasional leaps are
+acceptable. For instance, a C major bass line might consist of "C, D, E,
+F, G, E, F, G, A, B, A, G, F, E, D, B, C". You will need a lot of patience
+to create your own accompaniment with a tape recorder, since you will want
+to record many measures so you do not have to keep rewinding the tape when
+improvising later. A sequencer will allow you to set up loops, so you can
+record only a few measures and have them repeat endlessly.
+
+	Creativity
+
+The most important aspect of improvisation is creativity. This is the most
+vital concept for an improviser to understand. The goal is to hear
+something interesting in your head and be able to play it immediately.
+Your understanding of music fundamentals is one ally in this endeavor. It
+can help you interpret the sounds you hear in your head by relating them to
+sounds you know and understand. Your technical proficiency on your
+instrument is another ally. It can help you accurately execute what you
+conceive. Inspiration, however, is what enables you to hear interesting
+ideas to begin with. That creative spark is what distinguishes the true
+artist from the mere craftsman. While no primer can show you how to be
+creative, I can try to shed a little light on creativity as it pertains to
+improvisation.
+
+
+	The Creative Process
+
+Trumpet player Clark Terry summarizes the creative process as "imitate,
+assimilate, innovate". Listening to other musicians can give you ideas you
+may wish to develop further, and being able to successfully duplicate what
+they are doing is one step toward being able to express yourself. Next,
+you must understand why the things you are playing sound the way they do,
+so that when you want to create a particular sound, you will know how to
+achieve it. The theory presented in the following sections can help you
+structure your thoughts, and can also help you identify the sounds you
+hear. However, analytic processes are an aid to the creative process, not
+a replacement for it. Two analogies, one with language and one with
+mathematics, should help make this clear.
+
+When you began to speak, you learned at first by listening to others and
+imitating them. Gradually, you became aware of grammar, and eventually the
+grammar was codified for you in English classes. Your vocabulary has
+probably been growing ever since you spoke your first word. In both
+writing and conversation, your tools are your knowledge of grammar,
+vocabulary, and appropriate subject matter. To write or say anything
+interesting, however, you must have a certain amount of inspiration. It is
+not sufficient to merely string together grammatically correct phrases of
+words. What you have to say is generally more important than how you say
+it, although proper use of the language can help to get your point across.
+Similarly, in music, knowledge of theory and fundamentals are the tools of
+composition and improvisation, but inspiration plays the most important
+role in determining your success. It is not enough to merely play the
+"right" notes; you must also play interesting music. Jazz improvisation is
+often likened to "telling a story", and, like a good story, should be well
+structured and also convey something interesting to the listener.
+
+In mathematics, creativity can often be crucial as well. Learning the
+various axioms, formulas, and equations normally does not tell you how to
+solve a particular word problem, integrate a certain function, or prove a
+new theorem. Some ingenuity is required to be able to apply your knowledge
+to the problem at hand. Often, knowing how similar problems have been
+solved in the past can give you an idea of where to start, and experience
+working with a particular type of problem can help direct you. In all but
+the simplest of math problems, however, some original thinking is required.
+Similarly, in jazz, your familiarity with the works of other musicians can
+help you get started, and your knowledge of theory can help direct you, but
+in order to be a successful improviser, you will need to be creative. Just
+as long columns of numbers are not particularly interesting, even if they
+add up correctly, neither is an improvisation that consists of nothing but
+scales and patterns based on those scales.
+
+Your listening experience, your knowledge of music theory, and
+experimentation on your instrument will define the musical context in which
+you are able to express yourself. You should continually strive to expand
+that context by listening to many different musicians, analyzing what you
+hear, and practicing as much as possible. Still, the final ingredient, the
+inspiration, you will have to find on your own.
+
+	Playing
+
+You should by now, if you have not already, be starting to improvise. You
+should start the same way you began to practice swing: alone and
+unaccompanied at first, with a tape recorder if possible, and then with
+some sort of rhythm section accompaniment. Again, Band-In-A-Box, Aebersold
+records, or do-it-yourself accompaniment will be invaluable.
+
+For your first attempts at improvisation, pick a key with which you are
+comfortable and then start to play whatever comes into your head. Invent
+little melodies that use mainly notes from the selected scale. Do not try
+to fill all available space with notes. Instead, concentrate on hearing a
+short phrase in your head, and then try to play that phrase. Do not worry
+if this means there are breaks of several seconds or more between phrases.
+Miles Davis used this style of phrasing all the time.
+
+At some point while improvising in a given key, try playing notes that are
+not in that key. Playing notes that are not in the current key is
+sometimes called playing outside. You will find that in many cases, it
+sounds very natural, while in other cases, it sounds dissonant, or harsh.
+The later sections on theory may help you understand why this is so, but
+your ear is the ultimate judge. When you finally run out of ideas in one
+key, you may wish to switch to another. You may also wish to try
+improvising without any key center at all. I believe this should be just
+as natural as improvising within a key.
+
+Transcribing solos played by other musicians is one way to get some ideas
+of what to play. You can examine the structure of the solo, see how they
+use the various chord/scale relationships discussed later in this primer,
+and try to apply what you learn to your own playing. One of the best solos
+for a beginner to study is Miles Davis' solo on "So What" from the album
+Kind Of Blue. The chord structure is simple: sixteen bars of D minor,
+followed by 8 bars of Eb minor, and then 8 bars of D minor again. Miles'
+lines are easy enough to transcribe note for note. The theory sections
+below will help you understand the framework in which Miles was working,
+but transcribing his solo will help you see what he was doing within that
+framework.
+
+Another way to get ideas for soloing is by using patterns, or short phrases
+that you have practiced beforehand and know will fit the chord changes at a
+particular point. In general, improvising is much more than simply
+stringing together patterns, but pattern practicing can be a good way to
+develop your technique as well as your ear, particularly if you practice
+your patterns in all twelve keys. There are several books, including Jerry
+Coker's Patterns For Jazz, that give some useful patterns.
+
+A technique used often in the bebop era and since is quoting, or using a
+recognizable phrase from another composition or well-known recorded
+improvisation as part of one's own improvisation. This is also sometimes
+called interpolation. You may have noticed this taking place in solos you
+have heard. There is usually some humor value in quoting, particularly if
+the interpolated work is something silly like "Pop Goes The Weasel".
+
+The most important obstacles for a beginning improviser to overcome are his
+or her own inhibitions. At first, when practicing improvisation by
+yourself, you may feel you have no idea what to play. Once you have
+reached the point where you feel comfortable in the practice room and
+decide it is time to play with other musicians, you may feel self-conscious
+about playing in front of your peers. Finally, when you can play with
+other musicians in private, you may feel nervous when you first perform in
+public. I have no miracle cures for these problems. I can only suggest
+you play as much as possible at each stage, and continually push yourself
+to take chances.

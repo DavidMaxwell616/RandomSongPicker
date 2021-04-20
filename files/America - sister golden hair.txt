@@ -1,0 +1,70 @@
+From uunet!dtix!darwin.sura.net!ukma!aash Tue Aug 25 16:19:32 PDT 1992
+Article: 1829 of alt.guitar.tab
+Path: nevada.edu!uunet!dtix!darwin.sura.net!ukma!aash
+From: aash@ms.uky.edu (aash)
+Newsgroups: alt.guitar.tab
+Subject: Re: REQ: Sister Golden Hair - America
+Message-ID: <1992Aug24.171026.23676@ms.uky.edu>
+Date: 24 Aug 92 21:10:26 GMT
+References: <92236.193948SJH5@psuvm.psu.edu>
+Organization: University Of Kentucky, Dept. of Math Sciences
+Lines: 56
+
+In article <92236.193948SJH5@psuvm.psu.edu> Steve Hess <SJH5@psuvm.psu.edu> writes:
+>Does anyone know the chord progression for America's Sister Golden Hair?
+>
+>I bought a book for "advanced" players, in the hope that it would have Real
+>Chords, but the ones it has are so watered down it doesn't sound anything like
+>the recorded version...  GRR.  A bloody waste of $11.
+>
+>Moral of the Story:  Don't waste your on "America's Greatest Hits - Advanced
+>Edition"
+
+this is one of the songs that taught me to sing and play
+at the same time.  it's also neat cause it uses all the
+major and minor chords in the key of E, so you can instantly
+know all the chords of any key by recognizing these patterns
+
+C#min - A - E - Esus4 - E
+F#min - C#min - B - A
+
+v1:
+         E                             G#min
+"well i tried to make it sunday but i got so damned depressed
+        A                E               G#min
+that i set my sights on monday and i got myself undressed,
+        A               F#min         C#min G#min A
+i ain't ready for the alter, but i do believe there's times
+        F#min         A                E - Esus2 - E
+when a woman sure can be a friend of mine"
+
+v2 chords same as first:
+         E                             G#min
+"well i keep on thinkin bout you sister golden hair surprise
+        A                E               G#min
+that i just can't live without you can't you see it in my eyes
+        A               F#min         C#min G#min A
+i've been one poor correspondent, i've been too too hard to find
+        F#min         A                E - Esus2 - E
+but it doesn't mean you ain't been on my mind"
+
+ch:
+           B                             A              E
+will you meet me in the middle will you meet me in the end
+           B                             A              E
+will you love me just a little just enough to show you care
+          F#min                  G#min           A
+well i tried to fake it i don't mind sayin i just can't make it
+
+repeat intro, then verse 2, then chorus, then they do this
+ugly doo wap thing that uses the chorus (B - A - E) thing, that
+i always leave out.
+
+
+there ya go! :)
+aash
+-- 
+aash@{ms.uky.edu|ukma.bitnet|ukpr}    "the only thing i ever really wanted to
+{backbone|rutgers|uunet}!ukma!aash     say was wrong, was wrong, was wrong."
+
+

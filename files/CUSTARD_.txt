@@ -1,0 +1,377 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+From sportiga@uoguelph.ca  Mon Dec 13 10:53:27 1993
+Received: from herman.cs.uoguelph.ca by snowhite.cis.uoguelph.ca (5.64/1.35)
+	id AA13384; Mon, 13 Dec 93 10:53:27 -0500
+Message-Id: <9312131553.AA13384@snowhite.cis.uoguelph.ca>
+Received: by herman.cs.uoguelph.ca
+	(1.37.109.8/16.2) id AA28469; Mon, 13 Dec 1993 10:52:51 -0500
+Date: Mon, 13 Dec 1993 10:52:51 -0500
+From: Steve L Portigal <sportiga@uoguelph.ca>
+To: sportiga@herman.cs.uoguelph.ca
+Subject: (fwd) Re: REQ: Custard Pie by Zep
+Newsgroups: rec.music.makers.guitar.tablature
+Organization: Akbar and Jeff's Thesis Hut
+Reply-To: stevep@snowhite.cis.uoguelph.ca
+Status: OR
+
+Path: nermal.cs.uoguelph.ca!torn!utnut!utcsri!rpi!jec305.its.rpi.edu!vaessb
+From: vaessb@jec305.its.rpi.edu (Jimmy Page is GOD)
+Newsgroups: rec.music.makers.guitar.tablature
+Subject: Re: REQ: Custard Pie by Zep
+Date: 9 Dec 1993 23:30:20 GMT
+Organization: Rensselaer Polytechnic Institute, Troy, NY.
+Lines: 51
+Distribution: world
+Message-ID: <2e8cec$rnp@usenet.rpi.edu>
+References: <2e5q2l$9sc@netnews.upenn.edu>
+Reply-To: vaessb@rpi.edu
+NNTP-Posting-Host: jec305.its.rpi.edu
+
+
+
+	                A bit of "Custard Pie"
+
+------------------|--------------------|
+------------------|--------------------|
+------------------|---2---2------------|   
+---2-2-2-4-4-4-5--|---2---2------------|
+---0-0-0-0-0-0-0--|---0---0------------|   Repeat several times
+------------------|-----3--------------|   and then:
+ 
+------------------|---------------|-------------------|
+------------------|---------------|-------------------|
+--7---------------|--7-6-5--------|-5-4-3-------------|
+--7---------------|--7-6-5--------|-5-4-3-------------|
+--5---------------|--5-4-3--------|-3-2-1-------------|
+------------------|---------------|-------------------|
+
+
+	Then repeat the first some more(listen to the song for clarification)
+
+	(This is a pretty good Zep tune for beginners.
+-- 
+
+                                .---.
+                               /     `
+      _____________           |
+                  /           |
+                 /            \
+                /              \
+               /       .---.    \      .---.
+              /       |     |    |    |     |
+             /        |  O--|---------|--O  |
+            /         |     |    |    |     |
+           /          `-___-'     \   `-___-'
+          /                        \
+         /                          \
+        /                            |  
+        \                            |
+         \                    .     /
+          \                    `---'
+           \
+            \                    _____ 
+             \    __             \
+              \  /  \             \                
+               \  ---)----------------------------/
+                \___/
+
+
+ 
+          
+
+--
++----------------------------------------------------------------------------+
+|  Steve Portigal, Dep't of CIS, University of Guelph, Guelph, ON, N1G 2W1   |
+|  email: stevep@snowhite.cis.uoguelph.ca    Phone: (519) 824-4120 ext 3580  |
+|  Remove Jamesb@nevada.edu as the "official" guitar tablature archivist!    |
+|    		  Hey man you got the real bum's eye for clothes..           |
++----------------------------------------------------------------------------+
+
+From sportiga@uoguelph.ca  Wed Dec 15 12:07:41 1993
+Received: from herman.cs.uoguelph.ca by snowhite.cis.uoguelph.ca (5.64/1.35)
+	id AA00364; Wed, 15 Dec 93 12:07:41 -0500
+Message-Id: <9312151707.AA00364@snowhite.cis.uoguelph.ca>
+Received: by herman.cs.uoguelph.ca
+	(1.37.109.8/16.2) id AA14022; Wed, 15 Dec 1993 12:07:18 -0500
+Date: Wed, 15 Dec 1993 12:07:18 -0500
+From: Steve L Portigal <sportiga@uoguelph.ca>
+To: sportiga@herman.cs.uoguelph.ca
+Subject: (fwd) TAB: Custard Pie
+Newsgroups: rec.music.makers.guitar.tablature
+Organization: Akbar and Jeff's Thesis Hut
+Reply-To: stevep@snowhite.cis.uoguelph.ca
+Status: OR
+
+Path: nermal.cs.uoguelph.ca!torn!spool.mu.edu!sgiblab!barrnet.net!nntp.crl.com!crl.crl.com!not-for-mail
+From: mycroft@crl.com (Brian Verhalen)
+Newsgroups: rec.music.makers.guitar.tablature
+Subject: TAB: Custard Pie
+Date: 15 Dec 1993 03:04:05 -0800
+Organization: CRL Dialup Internet Access	(415) 705-6060  [login: guest]
+Lines: 89
+Message-ID: <2emqv5$cab@crl.crl.com>
+NNTP-Posting-Host: crl.com
+X-Newsreader: TIN [version 1.2 PL2]
+
+                    Custard Pie - Led Zeppelin
+
+
+
+
+
+Explanation:                  
+~~~~~~~~~~~~
+/ x         Slide up to x
+\ x         Slide down to x
+(x ^ y)     Bend up, from x to y           if notes are in pasenthesises
+(x v y)     Bend down, from x to y         they are hit once
+([x] ^ y)   Play y bent, [don't play x]
+(x - y)     Pull off from x to y 
+(x + y)     Hammer-on from x to y
+~~x,y       Trill x and y
+~~~x        Wiggle note
+^~~x        Play note x bent and wiggle
+
+
+===========================================================================
+This the differant riffs to the song.
+I have not put in the solo, but is an A pentatonic scale.
+Of course there is some movement during the chord 
+changes, but A pentatonic will work if you are 
+new at soloing.
+   The song is fairly simple. The riff in A is repeated x number of
+times, then to the part in D.
+Back to the A, finally to E.
+  Good Luck, and most important, 
+                  HAVE FUN!
+
+
+
+
+
+
+
+
+
+
+
+  
+  A
+
+--------------------5--3--5------------------------------------------------
+--2-2-2--2-2--2-----5--3--5------------------------------------------------
+--2-2-2--2-2--2-----2--2--2------------------------------------------------
+--2-2-2--4-4--5-----2--2--2------------------------------------------------
+--0-0-0--0-0--0------------------------------------------------------------
+---------------------------------------------------------------------------
+                          
+    D       D C#C   C  B A#
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+----7-------7-6-5----5-4-3-------------------------------------------------
+----7-------7-6-5----5-4-3-------------------------------------------------
+----5-------5-4-3----3-2-1-------------------------------------------------
+---------------------------------------------------------------------------
+                          
+
+===========================================================================
+
+  A
+
+--------------------5--3--5------------------------------------------------
+--2-2-2--2-2--2-----5--3--5------------------------------------------------
+--2-2-2--2-2--2-----2--2--2------------------------------------------------
+--2-2-2--4-4--5-----2--2--2------------------------------------------------
+--0-0-0--0-0--0------------------------------------------------------------
+---------------------------------------------------------------------------
+                          
+  E      Gsus       F  G
+--0------3-----------------------------------------------------------------
+--0------3-----------------------------------------------------------------
+--1------5-----------------------------------------------------------------
+--2------3----------3---5--------------------------------------------------
+--2------5----------3---5--------------------------------------------------
+--0------3----------1---3--------------------------------------------------
+                          
+
+===========================================================================
+                          
+
+
+
+
+
+
+--
++----------------------------------------------------------------------------+
+|  Steve Portigal, Dep't of CIS, University of Guelph, Guelph, ON, N1G 2W1   |
+|  email: stevep@snowhite.cis.uoguelph.ca    Phone: (519) 824-4120 ext 3580  |
+|  Remove Jamesb@nevada.edu as the "official" guitar tablature archivist!    |
+|            You were born to rock, you'll never be an opera star            |
++----------------------------------------------------------------------------+
+
+From sportiga@uoguelph.ca  Fri Dec 17 12:03:53 1993
+Received: from herman.cs.uoguelph.ca by snowhite.cis.uoguelph.ca (5.64/1.35)
+	id AA15924; Fri, 17 Dec 93 12:03:53 -0500
+Message-Id: <9312171703.AA15924@snowhite.cis.uoguelph.ca>
+Received: by herman.cs.uoguelph.ca
+	(1.37.109.8/16.2) id AA19481; Fri, 17 Dec 1993 12:03:43 -0500
+Date: Fri, 17 Dec 1993 12:03:43 -0500
+From: Steve L Portigal <sportiga@uoguelph.ca>
+To: stevep@snowhite.cis.uoguelph.ca
+Subject: (fwd) Re: TAB: Custard Pie
+Newsgroups: rec.music.makers.guitar.tablature
+Status: O
+
+Organization: Akbar and Jeff's Thesis Hut
+Reply-To: stevep@snowhite.cis.uoguelph.ca
+
+Newsgroups: rec.music.makers.guitar.tablature
+Path: nermal.cs.uoguelph.ca!torn!howland.reston.ans.net!newsserver.jvnc.net!erenj.com!dmsingemac.erenj.com!user
+From: dmsinge@erenj.com (Dave Singer)
+Subject: Re: TAB: Custard Pie
+Message-ID: <dmsinge-161293152640@dmsingemac.erenj.com>
+Followup-To: rec.music.makers.guitar.tablature
+Sender: news@erenj.com (ERE News System)
+Nntp-Posting-Host: dmsingemac.erenj.com
+Organization: Exxon Research and Engineering
+References: <2emqv5$cab@crl.crl.com>
+Date: Thu, 16 Dec 1993 20:32:16 GMT
+Lines: 123
+
+In article <2emqv5$cab@crl.crl.com>, mycroft@crl.com (Brian Verhalen)
+wrote:
+> 
+>                     Custard Pie - Led Zeppelin
+> 
+> 
+> 
+> 
+> 
+> Explanation:                  
+> ~~~~~~~~~~~~
+> / x         Slide up to x
+> \ x         Slide down to x
+> (x ^ y)     Bend up, from x to y           if notes are in pasenthesises
+> (x v y)     Bend down, from x to y         they are hit once
+> ([x] ^ y)   Play y bent, [don't play x]
+> (x - y)     Pull off from x to y 
+> (x + y)     Hammer-on from x to y
+> ~~x,y       Trill x and y
+> ~~~x        Wiggle note
+> ^~~x        Play note x bent and wiggle
+> 
+> 
+> ===========================================================================
+> This the differant riffs to the song.
+> I have not put in the solo, but is an A pentatonic scale.
+> Of course there is some movement during the chord 
+> changes, but A pentatonic will work if you are 
+> new at soloing.
+>    The song is fairly simple. The riff in A is repeated x number of
+> times, then to the part in D.
+> Back to the A, finally to E.
+>   Good Luck, and most important, 
+>                   HAVE FUN!
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+>   
+>   A
+> 
+> --------------------5--3--5------------------------------------------------
+> --2-2-2--2-2--2-----5--3--5------------------------------------------------
+> --2-2-2--2-2--2-----2--2--2------------------------------------------------
+> --2-2-2--4-4--5-----2--2--2------------------------------------------------
+> --0-0-0--0-0--0------------------------------------------------------------
+> ---------------------------------------------------------------------------
+>                           
+>     D       D C#C   C  B A#
+> 
+> ---------------------------------------------------------------------------
+> ---------------------------------------------------------------------------
+> ----7-------7-6-5----5-4-3-------------------------------------------------
+> ----7-------7-6-5----5-4-3-------------------------------------------------
+> ----5-------5-4-3----3-2-1-------------------------------------------------
+> ---------------------------------------------------------------------------
+>                           
+> 
+> ===========================================================================
+> 
+>   A
+> 
+> --------------------5--3--5------------------------------------------------
+> --2-2-2--2-2--2-----5--3--5------------------------------------------------
+> --2-2-2--2-2--2-----2--2--2------------------------------------------------
+> --2-2-2--4-4--5-----2--2--2------------------------------------------------
+> --0-0-0--0-0--0------------------------------------------------------------
+> ---------------------------------------------------------------------------
+>                           
+>   E      Gsus       F  G
+> --0------3-----------------------------------------------------------------
+> --0------3-----------------------------------------------------------------
+> --1------5-----------------------------------------------------------------
+> --2------3----------3---5--------------------------------------------------
+> --2------5----------3---5--------------------------------------------------
+> --0------3----------1---3--------------------------------------------------
+>                           
+> 
+> ===========================================================================
+>
+                           
+2 corrections(suggestions?)
+on the main riff:
+   A
+ 
+
+---------------------------------------------------------------------------
+
+--2-2-2--2-2-2-2-----2--0--2-----------------------------------------------
+
+--2-2-2--2-2-2-2-----2--0--2-----------------------------------------------
+
+--2-2-2--4-4-4-5-----2--0--2-----------------------------------------------
+
+--0-0-0--0-0-0-0-----------------------------------------------------------
+
+---------------------------------------------------------------------------
+and at the end:
+
+   E      C9        F#m  G
+
+--0------3----------2---3--------------------------------------------------
+
+--0------3----------2---3--------------------------------------------------
+
+--1------3----------2---4--------------------------------------------------
+
+--2------2----------4---5--------------------------------------------------
+
+--2------3----------4---5--------------------------------------------------
+
+--0------3----------2---3--------------------------------------------------
+Dave Singer (dmsinge@erenj.com) |  "It's not a guitar....
+Exxon Research and Engineering  |
+Annandale, NJ  08801            |    it's a Telecaster"
+phone: 908-730-2317             | 
+
+--
++----------------------------------------------------------------------------+
+|  Steve Portigal, Dep't of CIS, University of Guelph, Guelph, ON, N1G 2W1   |
+|  email: stevep@snowhite.cis.uoguelph.ca    Phone: (519) 824-4120 ext 3580  |
+|  Remove Jamesb@nevada.edu as the "official" guitar tablature archivist!    |
+|              		Sit down, get up, get out...                         |
++----------------------------------------------------------------------------+
+

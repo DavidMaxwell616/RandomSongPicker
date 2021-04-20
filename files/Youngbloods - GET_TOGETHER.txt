@@ -1,0 +1,112 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+#
+
+Date: Thu, 14 Nov 1996 15:28:44 -0500
+From: Andrew Rogers <rogers@hi.com>
+Subject: ./y/youngbloods/get_together.crd
+
+The Youngbloods' arrangement of this much-recorded 60's icon:
+
+
+                             "Get Together"
+                  (Chet Powers [a.k.a. Dino Valenti])
+
+Intro:
+
+	Guitar 1 [capo II]:
+
+	 A6                Gmaj7/A
+	[G6]              [Fmaj7/G]
+	 v   v   v   v     v   v   v   v
+	-----0-------0---|-----0-------0----
+	---8---8---8---8-|---6---6---6---6--
+	-7-------7-------|-5-------5--------
+	-----------------|------------------
+	-----------------|------------------
+	-----------------|------------------
+
+	bass:
+
+	 v   v   v   v     v   v   v   v
+	-----------------|------------------
+	-----------7-----|---------5---75---
+	---------7-----7-|-------57------7--
+	-5---------------|-5----------------
+
+
+Verse 1 [guitar 1 continues fingerpicking pattern, changing chords as
+	 indicated]:
+
+	 A
+	[G]
+	Love is but a song we sing
+	                       G
+	                      [F]
+	And fear's the way we die
+	 A
+	[G]
+	You can make the mountains ring
+	                    G
+	                   [F]
+	Or make the angels cry
+	 A
+	[G]
+	Though the bird is on the wing
+	                      G
+	                     [F]
+	And you may not know why
+
+Chorus:
+
+	 D
+	[C]
+	C'mon people now
+	 E
+	[D]
+	Smile on your brother
+	      A
+	     [G]
+	Ev'rybody get together
+	        D         E            A
+	       [C]       [D]          [G]
+	Try to love one another right now
+
+Verse 2:
+
+	Some will come and some will go
+	We shall surely pass
+	When the one that left us here
+	Returns for us at last
+	We are but a moment's sunlight
+	Fading in the grass
+
+[repeat chorus, 2X]
+
+[verse-length guitar solo; guitar 1 replaces the fingerpicked
+ pattern with strummed A-Gmaj7 (G-Fmaj7, capoed) chords]
+
+[repeat chorus]
+
+[bass plays intro pattern twice; guitar 1 enters second time]
+
+Verse 3:
+
+	If you hear the song I sing
+	You will understand  (listen!)
+	You hold the key to love and fear
+	In your trembling hand
+	Just one key unlocks them both
+	It's there at your command
+
+[repeat chorus, 3X]
+
+Coda:
+
+	          (A)             Asus2
+	... right now, right now
+
+
+-- another ace 60's tab from Andrew Rogers

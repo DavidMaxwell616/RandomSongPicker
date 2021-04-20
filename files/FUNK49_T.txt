@@ -1,0 +1,80 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+Received: from husc7.harvard.edu (husc7.harvard.edu [128.103.25.7]) by post-office.nevada.edu (8.6.4/8.6.4) with SMTP id OAA11987 for <jamesb@nevada.edu>; Tue, 1 Mar 1994 14:53:34 -0800
+From: law2@husc.harvard.edu
+Date: Tue, 1 Mar 94 16:49:30 -0500
+Message-Id: <9403012149.AA26473@husc7.harvard.edu>
+To: jamesb@nevada.edu
+Subject: TAB: Funk #49 by the James Gang
+
+Article 7940 of alt.guitar.tab:
+Path: husc.harvard.edu!husc-news.harvard.edu!kuhub.cc.ukans.edu!wupost!cs.utexas.edu!howland.reston.ans.net!pipex!uknet!cf-cm!news
+Newsgroups: alt.guitar.tab
+Subject: Funk #49 - James Gang
+Message-ID: <8137.9402151848@thor.cf.ac.uk>
+From: spxhaw@thor.cf.ac.uk (Howard Wright \(???\))
+Date: Tue, 15 Feb 94 18:48:12 GMT
+Sender: news@cm.cf.ac.uk (Network News System)
+Organization: University of Wales College of Cardiff, Cardiff, Wales, UK
+X-Mailer: Cardiff Computing Maths PP Mail Open News Gateway
+Lines: 55
+
+  
+                       FUNK #49
+                     --------------
+
+                                 By James Gang
+
+ I posted the riff for this before, but I forgot to include some of the runs.
+So here it is , although there are a few extra bits of lead I don't know
+
+
+Main Riff   (I put it two frets too high before - doing it in A means you
+----------     can use the open A string to fill out a bit of bass)
+
+E---------
+B------5----7--5----7h8-7---7--5---
+G------5h6--7--5h6--7---7---7--5h6-
+D------5----7--5----7h9-7---7--5---
+A------0-------0---------------0---
+E---
+
+h is hammer-on
+
+Use the first finger to fret all the 5th fret bits, hammer on with the 2nd
+finger
+                         7
+For the first and last   7  shape use the third finger, for the others use
+                         7
+the first finger and hammer on with 2nd and 3rd
+
+
+After this comes a downward run :
+
+E-
+B-
+G-
+D-----7-5-------------7---7-5------------- 
+A---------7-5--3------7-------7-5-3------- }   Play this twice
+E----------------3-5--5-------------3-5---
+
+
+Then move everything up two frets and play it twice more, but straight after
+the last note  (&th fret, E string) play an E7#9
+
+E---x-
+B---8-
+G---7-
+D---6-
+A---7-
+E---0-
+
+Then I think it goes back to the riff
+
+That's all I can remember.....
+
+Howard
+
+

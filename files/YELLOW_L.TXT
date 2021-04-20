@@ -1,0 +1,478 @@
+From: "Daniel J. Graeber" <graeberd@student.msu.edu>
+=========================================++++++++++++++++++++++++++++++++++++                                                   
+Well, I sat down last night and spent a good few hours with just me, my
+Washburn, a pad of paper and the CD player and transcribed this mother
+as best as I could.  What follows is just the intro, about 11 seconds of
+the song.  The rest is very similar so faking it with a little bit of improv
+should get you through the song.  The basic chord progression is Em-B-Bm-A.
+The position for these chords are at the end of this message.
+
+Yellow Ledbetter
+
+   Em  B                   Bm             A                        Em
+|_______________9^7________9__________9___5_____________5^7^5__________________
+|___________7___9^7_________7_________7______________5_______5_________________
+|*__________7___9^7___9^7____8_______________6_________________6_______________
+|___2__7^9______7_____9^7__________________________7_______________2___________
+|*__2__7^9______7______________9__9________________________________2___________
+|___0___________7_______________________________5__________________0___________
+      "Unsealed on a porch a....."(second time through this section)
+
+_12__10_________
+_12__10_________|
+_______12__9___*|
+_______12__9____|
+_______________*|
+________________|
+
+
+The entire song follows this chord progression (Em-B-Bm-A-Em) except
+for the tail end of the song where the lyrics are
+
+"I don't wanna stay.." (repeated)
+
+which is
+
+      __9___      __7___      __5___
+      __9___      __7___      __5___
+      __9___      __8___      __6___
+      __7___      __9___      __7___
+      __7___      __9___      __7___
+      __7___      __7___      __5___
+
+Em      B           Bm          A
+
+
+The solo for this song is in D pentatonic in the 10th position.  I was too
+damn lazy to figure it out AND write it down.  Maybe later!
+
+************************
+<>Transcribed by Mr. G<>
+><                    ><
+************************
+
+
+
+
+I got these lyrics awhile ago off of alt.music.pearl_jam.  This is very close
+to what is heard on the b-side to the Jeremy single.  Good luck to all!
+
+Yellow Ledbetter
+
+Unsealed
+On a porch a letter sat
+Then you said i wanna leave it again
+
+Once i saw him
+On a beach of weathered sand
+And on the sand i wanna leave it again
+
+On a weekend wanna wish it all way
+And they called an i said an i want what
+i said an i call out again
+
+And the reason oughta leave her calm i know
+I said i know what i wear that a box or the bag
+
+Oh yeah can you see them?
+Out on the porch
+Ah, but they don't wave
+I see them
+Round the front way, yeah
+And i know and i know
+I don't wanna stay
+
+make me cry
+
+I see
+I don't know there's something else
+I wanna drum it all away
+An i said
+I said i i don't know where there's a box or the bag
+
+
+Oh yeah can you see them?
+Out on the porch
+Ah, but they don't wave
+I see them
+Round the front way, yeah
+And i know and i know
+I don't wanna stay
+I don't wanna stay
+I don't wanna stay
+
+
+From: Brad Campbell <jmcdanie@stmarys-ca.edu>
+
+
+Yellow Leadbetter: Guitar Solo 
+By: Pearl Jam (Mike McCready) 
+Transcription By: Brad Campbell
+
+Symbols:  
+/=slide up 
+\=slide down 
+h=hammer on 
+p=pull off 
+w=whammy bar
+b=bend 
+[example: 3b(4)=bend the third fret UP to the fourth] 
+[example: b(4)3=release the bend (i.e bend 4th fret DOWN to third)]
+
+The bars break corresponding to 4/4 time.  I put them in to give people a
+sense of rhythm for the song.  Just keep in mind that every bar has four
+beats, except the first bar, which is a one beat (two-note) pick-up I did
+the solo from memory, so there will undoubtedly be some problems.  I
+didn't note every little slide, vibrato, pull-off, or hammer-on, but I
+tried to note the major ones.  Listening to the music while playing will
+really help. 
+
+e:------|-----0--0--0--3b(4)--4--|b(4)3--0--2--2--0-------------|
+B:0--0--|0h2---------------------|-------------------2--0-------|
+G:------|------------------------|------------------------------|
+D:------|------------------------|-------------------------4--2-|
+A:------|------------------------|------------------------------|
+E:------|------------------------|------------------------------|
+
+
+e:-----------------------------|-------|9--7--9h7-----------------------
+B:-----------------------------|-------|-----------9--7b(9)--9--b(9)7-5-
+G:-----------------------------|-------|--------------------------------
+D:4h2--2---2h4--2-----2-----2--|5b(6)--|--------------------------------
+A:--------4--------4-----4-----|-------|--------------------------------
+E:-----------------------------|-------|--------------------------------
+
+Release the 5b(6) slowly throughout the 2nd bar
+(The end of this staff is supposed to have a bar break)
+
+
+e:------------------|---7-----7h9--------------------|
+B:5h7--7w5--7h5-----|9-----9-------14-12-14-12-14-12-|
+G:---------------6--|--------------------------------|
+D:------------------|--------------------------------|
+A:------------------|--------------------------------|
+E:------------------|--------------------------------| 
+
+Try using hammer-ons and pull-offs to smooth out the "14-12"  combinations
+
+
+e:14b(15)b14-12----12h14-12-12-12\0--|------9h7-9--9--7----------------|
+B:--------------14-------------------|9--9---------------9--7--9h7-----|
+G:-----------------------------------|------------------------------9--|
+D:-----------------------------------|---------------------------------|
+A:-----------------------------------|---------------------------------|
+E:-----------------------------------|---------------------------------|
+
+The "14b(15)b14" means bend and release quickly
+
+
+e:------------------------------|--------------------------7---|
+B:7------------7h5-----5--7--5--|9b(10)b9--7\5--5h7--5--9-----9|
+G:---9--6--9~-------6-----------|------------------------------|
+D:------------------------------|------------------------------|
+A:------------------------------|------------------------------|
+E:------------------------------|------------------------------|
+
+
+e:9--7h9p7h9p7h9p7h9p7h9p7h9p|7h9p7h9p7h9\0|
+B:---------------------------|-------------|
+G:---------------------------|-------------|
+D:---------------------------|-------------|
+A:---------------------------|-------------|
+E:---------------------------|-------------|
+
+
+
+
+Please send questions, comments, recommendations to:  
+Brad Campbell
+(jmcdanie@galileo.stmarys-ca.edu)
+
+
+
+
+
+
+
+
+                   Y E L L O W   L E D B E T T E R
+
+                           By Pearl Jam
+
+                 Tab By Neil Smith (nj2-smit@uwe.ac.uk)
+
+
+Right. I have seen loads of requests for this everywhere, and all
+the tab I have seen is quite a way out, so I thought I would post
+my version. I have had this for ages, but not had the ability to
+post :-( Thanks to all the people who replied to my test post, by
+the way!
+
+Some people have suggested that this is in an open tuning, but I
+reject this on two counts. 1 - In a concert I have, you hear Mike
+play a little bit of the riff in a gap (Mike is panned 1 way, 
+Stone the other), and Mike uses standard tuning for the following
+song. Besides - Stone is more the alternate tuning buff, and this
+sounds like a Mike composition, given his liking of blues and
+Hendrix and stuff. 2 - This version sounds damn close - so I can't
+be far out (I hope :-)
+
+Enough guff, and on with the tab. This is all from ear, and all from
+memory, so don't bet too much money on it :-) There are three basic 
+chords shapes to this song, which are fiddled around with to get the 
+tune.
+
+The three shapes are these:
+
+      E                      B7                      A7
+
+ 0 x 6 4 5 4             7 9 7 8 7 7             5 7 5 6 5 5
+-------------           -------------           -------------
+|-|-|-|-|-|-|           |1-1-1-1-1-1| 7fr.      |1-1-1-1-1-1| 5fr.
+|-|-|-|-|-|-|           |-|-|-|2|-|-|           |-|-|-|2|-|-|
+|-|-|-|-|-|-|           |-|3|-|-|-|-|           |-|3|-|-|-|-|
+|-|-|1-1-1-1|
+|-|-|-|-|2|-|
+|-|-|4|-|-|-|
+     ^
+     I use 4, although you
+     could quite easily use
+     finger #3.
+
+You will note that the B7 and A7 chords leave your little finger
+free to move about. With these chords in mind, it should not be
+too tough to play this:
+
+KEY: 4h6 - Play 4th fret, hammer onto 6th
+     9p7 - Play 9th fret, pull off onto 7th
+     6/7 - Play 6th fret, slide up to 7th
+     9\  - Play 9th fret, slide down
+     7b9 - Play 7th fret, bend to same pitch as 9th.
+     [7] - Note that is not really important, but you might want
+           to throw it in (Besides, it might 'happen' anyway :-)
+     V   - Drop down with tremolo arm
+     w   - Tap tremolo arm - i.e. drop note and quickly return
+           to same pitch.
+
+
+E                                B7
+
+-------------------------4---------------9p7-9---7-------9p7-----
+-------------5-------------5-------------7[7]----7---7-------7---
+--------[4]--4---------------4---------8---------8-----8-------8-
+---------4h6---------X-X-----------------------------------------
+---------------------X-X--------[9]------------------------------
+-0-----------------------------6/7---------------7---------------
+
+
+A7                               E
+
+                         Hammer on, pull off
+                         vv
+
+-7p5---------5-----------575----[0]-----------------/12--9-------
+[5]--5-------------------5---5--[0]-----------------/12--9-12-9\-
+-------6-6h7------------[6]----6---------------------------13-9\-
+------------------------------[5]--------------------------------
+[7]--------------------------------------------------------------
+-5---------------------5---------0-------------------------------
+
+
+This is the basic progression as I play it. The rest of the song
+is just messing about with this idea. Just as a template, try this
+for a more 'busy' version.
+
+E                                B7
+
+                                         Hammer on, pull off
+                                         vvv             vvv
+
+------------------------/4---------------797-9---7-------797-----
+------[5]----5-------------5-------------7[7]----7---7-------7---
+------[4-4]--4---------X-----4---------8---------8-----8-------8-
+---------4h6-----------X-----------------------------------------
+--------------------------------[9]------------------------------
+-0-----------------------------6/7-------7---7---7---------------
+
+
+A7                               E
+
+                         Hammer on, pull off
+                         vvv
+
+-7p5---------5-----------575----[0]-----------------/12--9-------
+[5]--5-------5---------5-5---5--[0]-----------------/12--9-12-9\-
+-------6-6h7------------[6]----6---------------------------13-9\-
+------------------------------[5]-----------------------------9\-
+[7]----------7---------------------------------------------------
+-5-----------5---------5---------0-------------------------------
+
+Sometimes, he play harmonic rings at the end, like so (this is
+the final E in the sequence)
+
+[0]--------------------12(NH)----
+[0]------------------12(NH)------
+---------------------------------
+---------------------------------
+---------------------------------
+-0-------------------------------
+
+
+This, with a bit of improvisation gets you through the rhythm part
+of virtually the entire song. The chorus is the same patterns, but
+with a more regular strumming pattern. This continues until it gets 
+to the end of the 2nd chorus ("I don't want to stay - at all .."). 
+Here it's the same pattern, but with faster chord changes, like so:
+
+ E           B                   A 
+
+-4-----------7-------------------5-------------------------------
+-5-----------7-------------------5-------------------------------
+-4-----------8-------------------6-------------------------------
+-6-----------9-------------------7-------------------------------
+-x-----------9-------------------7-------------------------------
+-0-----------7-------------------5-------------------------------
+
+This is strummed. After repeating this a few times, this pattern
+is played: (When Vedder starts singing the Ohhh's)
+
+ E/Eb  E         B               E/Eb  E         A
+
+-4-----4---------x---------------4-----4---------x---------------
+-4-----5--------[7]--------------4-----5--------[5]--------------
+-4-----4---------8---------------4-----5---------6---------------
+-6----[6]--------9---------------6----[6]--------7---------------
+-x-----x---------9---------------x-----x---------7---------------
+-0-----0---------7---------------0-----0---------5---------------
+
+This part is much more quiet - the chords are only strummed once,
+not repeated. On the E/Eb, the bass plays the Eb.
+
+Then it's back to the intro and that's the entire song! At the
+end, he does a bit more fidding, that you can work out, and a 
+few more natural harmonics, like so:
+
+         All these are natural
+         harmonic rings.
+         vvvvvvvvvvvvvvvvv
+
+[0]--------12----------5---------
+[0]------12--12------5---5-------
+---------------------------------
+---------------------------------
+---------------------------------
+-0-------------------------------
+
+SOLO
+----
+
+                   Bend 7th up to 9th, then quickly release
+                    it back to the same pitch as the 7th.
+                                 vv
+---------------------7-------------------------------------------
+-----5-------------5---7b9---b9--br-5h7--------------5-----------
+-4h6---------------------------------------------------7-5-------
+-----------------------------------------------------------6-4-2-
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+4b5r-2---2h4p2-----------2---2---4b6-(Slow bend)-----------------
+-------4-------------------4---4---------------------------------
+-----------------------------------------------------------------
+
+----------------------------------------------------------------
+/14p-12------14p12----------------------------------------------
+-----------------13--11b13-W-9---11--w---w-w-w-w-w-w----/119--9-
+------------------------------------------------------------11--
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+           Add 10 to these fret numbers (I'm running out of room !)
+                    vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+
+--------------------------------4b6r-2---2h4p2-----------2\------
+-----12--12/14-------4-2-4-2-4-2-------4-------------------------
+11/13--13--------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Add 10 to all following fret numbers (they are all single digit)
+
+          i.e. This is fret 11, then fret 11, then fret 14.
+                                  vvv
+-----------------------------------------------------------------
+---------4---2b4-----4-2-----------------------------------------
+----/3-3---3-------------3-1-31--1-------------------1-------1---
+-------------------------------4--114------------------4-1-4---4-
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+                                     Fading away slowly ....
+                                         vv
+-----------------------------------------------------------------
+------------------------------2---2h4----2h4p2h4p2h4p2h4p2h4p2h4p
+-3b4----------------1----2/3----3--------------------------------
+--------------4-1-4---4------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+---------------------------------
+-2h4p2h4p2h4\--------------------
+---------------------------------
+---------------------------------
+---------------------------------
+---------------------------------
+
+LYRICS:
+
+As I'm sure you've noticed, the lyrics are a tad hard to pick out,
+so here is my personal, individual interpretation ... (It sounds
+like he was pissed when he sang this, though :-)
+
+On the sea there, on a porch that letter sat
+And it said "I wanna leave it again"
+Once I saw him on a beach of weathered sand
+No-one to sail, I wanna leave it again - yeah.
+On a we(e/a)k there, wanna wish it all a way-yeah
+And it calls and I say and I don't wanna say and I call out again.
+And the reason outgha leave her calm, I know
+I said I know what I wear it in the box or the bag.
+
+Ah-yeah. Can you see them out on the porch?
+Yeah, but they don't wave.
+I see them 'round the front way,
+And I know and I know I don't wanna stay.
+
+Make me cry [to solo]
+
+I see - I don't know what it's onto now.
+I want a goldmine far away, I said I
+I don't - I don't know whether it is a box or a bag.
+
+Ah-yeah. Can you see them out on the porch?
+Yeah, but they don't wave.
+I see them 'round the front way,
+And I know and I know I don't wanna stay - at all.
+
+I don't wanna stay. I don't wanna stay.
+I don't wanna stay. 
+I don't - no ... Yeah
+
+Ohh ... Ohh ...
+
+----------------------------------------------------------------
+
+That's it - any questions, comments, corrections, or if anybody
+has any nice guitar amps that they want to give me ('cos I can't
+afford one - sniff :-), feel free to mail me:
+
+Cheers !
+
+Neil. (nj2-smit@uwe.ac.uk)
+
+

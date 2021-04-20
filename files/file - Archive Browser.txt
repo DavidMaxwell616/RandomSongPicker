@@ -1,0 +1,170 @@
+Archive Browser
+
+      About OLGA
+      Shop
+      FAQs
+      Community
+            Find Tab
+
+              
+            Browse The Archive
+                  Guitar Tab
+                  Everything
+                  Classical
+                  Andrew's Ace Archive
+                  Songbooks
+                  All Resources
+                  Lessons
+                  Construction
+
+
+
+            Archive Browser
+
+                  /main / i / incubus / 11_am.tab / [Click Here For A Printer 
+                  Friendly Copy]
+
+#-----------------------------PLEASE NOTE-------------------------------------#
+#This OLGA file is the author's own work and represents their interpretation  #
+#of the song. You may only use this file for private study, scholarship, or   #
+#research. Remember to view this file in Courier, or some other monospaced    #
+#font. See http://www.olga.net/faq/ for more information.                     #
+#-----------------------------------------------------------------------------#
+
+From: Guitar4lyfe@aol.com
+Date: Tue, 11 Dec 2001 02:54:42 -0700
+From: "Andy" <ajkole@hotmail.com>
+Date: Tue, 05 Nov 2002 14:09:38 +0000
+From: Gary Ruddell <pocket_ninja@hotmail.com>
+Subject: i/incubus/11_am.tab
+
+Band: Incubus
+Song: 11am
+Album: Morning View - Track 5
+
+This is very much a rhythm orientated song with some arpeggiation.
+
+INTRO PART 1 - Electric guitar with slight distortion and overdrive.
+
+RIFF 1
+e:---000---------------|     e:---00000-------------------|
+B:---000---------------|     B:---00000-------------------|
+G:---444---------------| X3  G:---44444-------------------|
+D:---222-------2p0---0-|     D:---22222---0-4---0h2p0---0-|
+A:---222---3-----------|     A:---22222-0-----0-------3---|
+E:-0-----3---3-----3---|     E:-0-------------------------|
+
+INTRO PART 2 - Just the same as the chorus. Play twice.
+
+RIFF 2
+e:---000--------------------000--------------------|
+B:---000--------------------000--------------------|
+G:---444---------------XX---444--------------------|
+D:---222-------2p0---0-XX---222-----4---0h2p0---0--|
+A:---222---3-----------XX---222---5-----------3----|
+E:-0-----3---3-----3---XX-0-----5-----3------------|
+
+e:---000------------------0-000-00-0---------------|
+B:---000------------------0-000-00-0---------------|
+G:---444---------------XX-2-222-22-2---------------|
+D:---222-------2p0---0-XX-2-222-22-2----0h2p0---0--|
+A:---222---3-----------XX-0-000-00-0----------3----|
+E:-0-----3---3-----3---XX-0-000-00-0---------------|
+
+
+VERSE - Based on INTRO, get the feel for it yourself and play it
+        in your own style.
+
+RIFF 3
+e:---000---------------|     e:-------------------------|
+B:---000---------------|     B:-------------------------|
+G:---444---------------| x3  G:-------------------------|
+D:---222-------2p0---0-|     D:-2/4444-44-2-2-0h2p0---0-|
+A:---222---3-----------|     A:-3/5555-55-3-3-------3---|
+E:-0-----3---3-----3---|     E:-3/5555-55-3-3-----------|
+
+BRIDGE - It is kind of hard to hear each note the first time
+         Michael plays this, but you can hear it second time.
+         The second time around play this twice.
+RIFF 4
+e:------------------------------------------------------------------|
+B:-------------0---------0----------------------0---------0---------|
+G:-------4---------4---------4------------4---------4---------4-----|
+D:---2-----2---------2---------2------2-----2---------2---------2---|
+A:-0---0-----0---------0---------0--3---3-----3---------3---------3-|
+E:------------------------------------------------------------------|
+
+Then strum:
+
+RIFF 5
+e:-----------------0----0-|
+B:-0-000-00-0-0-XX-0-XX-0-|
+G:-4-444-44-4-4-XX-4-XX-2-|
+D:-2-222-22-2-2-XX-5-XX-3-|
+A:-0-000-00-3-3-XX-5-XX-3-|
+E:-0-000-00-0-0-XX-3-XX-1-|
+
+CHORUS:
+
+RIFF 2
+e:---000--------------------000--------------------|
+B:---000--------------------000--------------------|
+G:---444---------------XX---444--------------------|
+D:---222-------2p0---0-XX---222-----4---0h2p0---0--|
+A:---222---3-----------XX---222---5-----------3----|
+E:-0-----3---3-----3---XX-0-----5-----3------------|
+
+e:---000------------------0-000-00-0---------------|
+B:---000------------------0-000-00-0---------------|
+G:---444---------------XX-2-222-22-2---------------|
+D:---222-------2p0---0-XX-2-222-22-2----0h2p0---0--|
+A:---222---3-----------XX-0-000-00-0----------3----|
+E:-0-----3---3-----3---XX-0-000-00-0---------------|
+
+Then second time around strum:
+
+RIFF 6
+e:-------------|
+B:-------------|
+G:-444-X-2-222-|
+D:-000-X-0-000-| x8
+A:-555-X-3-333-|
+E:-333-X-1-111-|
+
+Then play this:
+
+RIFF 7
+e:---0-------0-0-------0--------|
+B:-0-----000-3---3-------3------|
+G:-1---1-111-1-----1-------1----|
+D:-2-----222-2-------2-------2--|
+A:-2-----222-2------------------|
+E:-0-----000-0------------------|
+
+---SONG STRUCTURE---
+
+RIFF 1 - Play ONCE
+RIFF 2 - Play TWICE
+RIFF 3 - Play TWICE
+RIFF 4 - Play ONCE
+RIFF 5 - Play ONCE
+RIFF 2 - Play TWICE
+RIFF 3 - Play TWICE
+RIFF 4 - Play TWICE
+RIFF 5 - Play ONCE
+RIFF 2 - Play TWICE
+RIFF 6 - Play EIGHT
+RIFF 7 - Play ONCE
+RIFF 2 - Play THREE
+
+Then strum the last note:
+       e:-0-|
+       B:-0-|
+       G:-4-|
+       D:-2-|
+       A:-2-|
+       E:-0-|
+
+
+
+Copyright (c) 2001-2005 by OLGA, Inc.

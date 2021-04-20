@@ -1,0 +1,7 @@
+table, th, td {
+    font-family: arial, sans-serif;
+     border-collapse: collapse;
+    border: 1px solid black;
+            }
+tr:nth-child(even) {background: #CCC}
+tr:nth-child(odd) {background: #FFF}

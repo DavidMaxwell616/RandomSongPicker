@@ -1,0 +1,83 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+Received: from animal-farm.nevada.edu by redrock.nevada.edu (5.65c/M1.4)
+	with SMTP id <AA06161>; Sun, 28 Mar 1993 05:49:07 -0800
+Received: from vax1.acs.jmu.EDU by animal-farm.nevada.edu id <AA09478@animal-farm.nevada.edu>; Sun, 28 Mar 1993 05:49:04 -0800
+Received: from VAX1.ACS.JMU.EDU by VAX1.ACS.JMU.EDU (PMDF #2317 ) id
+ <01GWC3L6M3808Y54K9@VAX1.ACS.JMU.EDU>; Sun, 28 Mar 1993 08:50:16 EST
+Date: 28 Mar 1993 08:50:16 -0500 (EST)
+From: STU_JABIRCHE@VAX1.ACS.JMU.EDU
+Subject: David Bowie's "Ziggy Stardust"
+To: jamesb@animal-farm.nevada.edu
+Message-Id: <01GWC3L6M3828Y54K9@VAX1.ACS.JMU.EDU>
+X-Vms-To: IN%"jamesb@nevada.edu"
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7BIT
+
+Ziggy Stardust by David Bowie. Transcribed by Johnny Birchett
+
+
+I just found this site a few days ago and boy was I happy. I got Richard Ashley's 
+version of Ziggy even tho I knew how to play it already, but I couldn't decipher 
+the words. I will maybe put Stone Love or Rock -n- Roll Suicide up here later. 
+Definitely, I will put some Lemonheads on.
+
+Just some disclaimers. There is a lot more going on here that I don't have time
+to transcribe, but this will give you the basics, as correct as I know them, any
+
+Well, this is the way i play Ziggy Stardust.
+The intro is played with first position chords and MONDO distortion.
+Intro:
+
+3---3-----2--3--2--3--2----0----0--0--0--0----0--0--0--0--0--0--0--
+3---3-----3--3--3--3--3----3----3--3--3--3----3--3--3--3--3--3--3--
+0---0-----2-----------2----0-------------0-------------0-----------
+0---0-----0-----------0----2-------------0-------------2-----------
+2---2----------------------3-------------2-------------0-----------
+3---3--------------------------------------------------------------
+*NOTE: Let everything ring out forever to get a REAL grungy sound.
+
+Verses: (These lyrics are from Richard's post. I wouldn't swear to Bowie or Stipe lyrics)
+
+G                    Bm                             C               C/G-C          D
+Ziggy played guitar, jamming good with Wierd and Gilly, and the Spiders from Mars.
+                                                                                               
+                    G                    Em              Am                       C
+He played it left hand, but made it too far, became the special man, then we were Ziggy's fans.
+
+G                    Bm                                   C                    C/G - C    D
+Ziggy really sang, with screwed up eyes and screwed down hairdo, like some cat from Japan.
+
+                           G                         Em                 Am                          C
+He could lick 'em by smiling, he could leave 'em to hang; he came on so loaded, man. Well-hung and snow-white tan.
+
+Chorus (power chords, 6th string):
+
+    A           G              F        G
+             So where were the Spiders?
+    A                 G            F               G
+            While the fly tried to break our bones.
+    A                G                  F          G
+            Just the beer light to guide us.    So we
+    D                                    E
+    bitched about his fans and should we crush his sweet hands...
+(Here's a tab-like view of the power chord chorus)    
+(D)|7-7-7-7-7-----5-5-5-5-5------3-3-3-3-3-3-3-5        (Don't bother counting)
+(A)|7-7-7-7-7-----5-5-5-5-5------3-3-3-3-3-3-3-5        (the dashes, I am not )
+(E)|5-5-5-5-5-----3-3-3-3-3------1-0-1-0-1-0-1-3        (even pretending to   )
+(After third time, go to---)                            (indicate timing. :)  )
+(G)|7----------------------9--------------------
+(D)|7----------------------9--------------------                      
+(A)|5----------------------7--------------------
+
+                                                                                
+The rest of the song pretty much repeats. The end is a Cadd9 (Ziggy played...)
+to a G (gui-tar....).
+One of the fun things to do with this song is play around with harmonics. Hard
+to go wrong. :)
+Hope this helped some. I will probably post some more now that I have found
+this place.
+-=Marc, Arch of Igor=-
+

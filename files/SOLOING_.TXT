@@ -1,0 +1,197 @@
+From: LIVENGOOD.MIKE@A1GW.GENE.COM (Mike Livengood)
+Subject: Lesson: Soloing basics
+
+We've all been there...you're jammin' with some dudes and in the middle of the 
+tune the bass player gives you the nod to take your solo. What do you do? 
+Every moment you wait makes you look like more of an amateur. Quick, what key 
+am I in? What are the chord changes? What scale? What mode? What's my name? 
+What's the capital of South Dakota? Damn...damn...damn!
+
+Well, let's make sure this never happens by preparing ourselves with today's 
+lesson:
+
+Soloing basics.
+
+A few notes before we start.
+
+If you have not mastered the art of note bending, slides, pull-offs and 
+hammer-ons, you will probably have a difficult time with some of the topics 
+discussed here. But read on anyway.
+
+I happen to have a personal disdain for the pentatonic scale. So while I will 
+not dissuade anyone from using it nor dispute its usefulness, I will not be 
+discussing it here.
+
+Let's say that your makeshift band is jammin' on a simple three chord warm up 
+progression, Dm-C-Bb-C.
+
+It's your turn to solo and what are you going to do?
+
+Based on the chord progression, we'll pick D minor as our soloing key of 
+choice.
+
+I have always had luck memorizing a particular pattern and moving it around 
+depending on the key. Here is the one that I use most and can use in any key 
+major or minor. Here it is in our Dm position:
+
+Pattern 1
+E---l---l---l---l-x-l-x-l---l-x-l---l-r-l
+B---l---l---l---l-x-l-R-l---l-x-l---l---l
+G---l---l---l---l-x-l---l-r-l---l---l---l
+D---l---l---l---l-x-l---l-x-l-x-l---l---l
+A---l---l---l---l-r-l---l-x-l-R-l---l---l
+E---l---l---l---l-x-l-x-l---l-x-l---l---l
+  1   2   3   4   5   6   7   8   9   10
+
+The RR'sS represent the root of the major key (F) and the Rr'sS represent the 
+root in the minor key (D).
+
+Technically I suppose you could call this an F major scale in phrygian mode 
+(beginning on the third, A). But I really don't. It's just a particular set of 
+finger placements that are comfortable and reliable for soloing. Since when I 
+solo I will be stressing the notes of the major and minor, the A phrygian is 
+just a coincidence. 
+
+OK. Now we've got a scale to use. Notice that this scale contains all the 
+notes of the chords being played. Like so:
+
+D minor scale		D-E-F-G-A-Bb-C
+Dm chord		D-F-A
+C chord			C-E-G
+Bb chord		Bb-D-F
+
+Now when we solo (which you will remember is supposed to be a story within a 
+story, not just a bunch of licks) we can really play any note in the scale and 
+it will fit. It won't always sound good, but it will fit in some way.
+
+Here are two more positions of the same scale.
+
+Pattern 2	(F major scale)
+E---l---l-x-l---l-x-l-x-l---l---l---l---l
+B---l---l-r-l---l-x-l-R-l---l---l---l---l
+G---l-x-l-x-l---l-x-l---l---l---l---l---l
+D---l-x-l-R-l---l-x-l---l---l---l---l---l
+A-x-l---l-x-l---l-r-l---l---l---l---l---l
+E-R-l---l-x-l---l-x-l---l---l---l---l---l
+  1   2   3   4   5   6   7   8   9   10
+
+Pattern 3	(D minor scale)
+E---l---l---l(x)l---l-x-l-R-l---l-x-l---l
+B---l---l---l(x)l-x-l---l-x-l---l-r-l---l
+G---l---l---l-R-l---l-x-l---l-x-l---l---l
+D---l---l---l-x-l---l-r-l---l-x-l---l---l
+A---l---l---l-x-l---l-x-l-x-l---l---l---l
+E---l---l---l-r-l---l-x-l-R-l---l---l---l
+  7   8   9  10  11  12  13  14  15   16
+(x) alternative fingerings to use if you want to stay in one position.
+
+Notice that this is the D minor scale and that the D minor pentatonic scale is 
+contained within this scale. Where did you think the pentatonic it came from?
+
+If you link patterns 1, 2 and 3 together starting with the F on the E string 
+1st fret (pattern 2) you can move up and down the fretboard all the way to the 
+24th fret (if you have one) without leaving the patterns. Like this: (In TAB 
+form)
+
+E------------------------------------8-10-12--l
+B---------------------------5-6-8/10----------l
+G-------------------2/3-5-7-------------------l
+D-------------2-3-5---------------------------l
+A-------1-3-5---------------------------------l
+E-1-3-5---------------------------------------l
+
+E-13-12-10----------------------------13-15-17/18-l
+B----------13-11-10----------13-15-17-------------l
+G-------------------10-12-14----------------------l
+D-------------------------------------------------l
+A-------------------------------------------------l
+E-------------------------------------------------l
+
+E--20-18-17----------------------------18-20-22/24l
+B-----------20-18-17----------18-20-22------------l
+G--------------------19-17-19---------------------l
+D-------------------------------------------------l
+A-------------------------------------------------l
+E-------------------------------------------------l
+
+Try playing this slowly and smoothly hammering-on each ascending note, 
+pulling-off each descending note, and sliding where notated. Stop at 20 if 
+you don't have the upper frets, or if you get tired.
+
+Now, the nice thing about remembering patterns is that the pattern works for 
+any key; just change the position. Pattern 1 above starts on the third of the 
+major scale. (remember it's only a pattern, not a phrygian scale). So the 
+starting points on the low E string that I remember are:
+
+C major/A minor		open
+D major/B minor		2nd fret
+E major/C# minor	4th fret
+F major/D minor		5th fret (as above)
+G major/E minor		7th fret
+A major/F# minor	9th fret
+
+We can find a few licks within each pattern that we can use to augment our 
+solos. Like these:
+
+Dm
+E-----5-6-8-6-5---5-------l-8-----5--8-----5-8-10-l
+B----6---------8-6--8-6-5-l--6---6----6---6-------l
+G---7---------------------l---5-7------5-7--------l
+D-------------------------l-----------------------l
+A-------------------------l-----------------------l
+E-------------------------l-----------------------l
+
+
+E---------------------------5---5-6-5-6-8-6-8/10--l
+B----------5--5-6-5-6-8-6-8---8-------------------l
+G----7-5-7--7-------------------------------------l
+D-------------------------------------------------l
+A-------------------------------------------------l
+E-------------------------------------------------l
+
+Also notice as we put the patterns together and complete the major scale up 
+the neck that the chords for the tune we're playing become available for 
+licks. Like this:
+
+Dm
+E-5--------13-10-----l
+B--6-------------10--l
+G---7----------------l
+D----7---------------l
+A-----5--------------l
+E--------------------l
+
+C
+E-8--------15-12-----l
+B--8-------------13--l
+G---9----------------l
+D----10--------------l
+A-----10-------------l
+E-------8------------l
+
+Bb
+E-10-------13-10-----l
+B--11------------11--l
+G---10---------------l
+D-----8--------------l
+A--------------------l
+E--------------------l
+
+We can use these triads in our solos to really accentuate the chords and 
+pull-off the triads in kind of a "Hotel California" "Sultans of Swing" solo 
+kind of thing.
+
+Find a pattern that you like and that feels comfortable for your fingers and 
+playing style. Then play it a thousand times. Have a friend play the chords 
+over and over and try it out. Or play along with a tune in each key.
+
+Well, this should get you started on soloing in the major and minor keys. I'll 
+continue more lessons later.
+
+Any additions? Post 'em and we can discuss them.
+
+			M.L.
+
+
+
+

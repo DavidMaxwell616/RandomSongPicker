@@ -1,0 +1,61 @@
+Jealous Guy (Lennon)
+
+This is a bit of a mix of the Lennon original and the Roxy Music
+cover...
+(Chord definitions at end of file)
+As far as I can hear, all chords are correct as is the tab'd solo,
+which has been missing from other versions.
+
+Intro:  G Em D D7 Em
+
+G         Em              D   D6
+    I was dreaming of the past
+D7                           Em   Em#5
+    and my heart was beating fast.
+Em6                    D    Dsus4 D
+    I began to lose control,
+Em      Em7            C
+    I began to lose control.
+
+chorus:
+  G            Dm/F         C   Dsus4
+      I didn't mean to hurt you,
+  G             Dm/F   Bb           
+      I'm sorry that I made you cry.
+  G            D            Em  Em7
+      I didn't mean to hurt you,
+  C                      G
+      I'm just a jealous guy.
+
+
+G         Em          D   D6 
+    I was feeling insecure,
+D7                           Em   Em#5
+    you might not love me anymore.
+Em6                    D    Dsus4 D
+    I was shivering inside,
+Em        Em7          C
+    I was shivering inside.
+
+chorus
+
+G         Em                   D    D6 
+    I was trying to catch your eyes,
+D7                                 Em     Em#5
+    thought that you was trying to hide.
+Em6                     D  Dsus4  D
+    I was swallowing my pain,
+Em        Em7           C
+    I was swallowing my pain.
+
+chorus
+  C                      G
+      I'm just a jealous guy, watch out,
+  C                      G
+      I'm just a jealous guy, look out, babe,
+  C                      G
+      I'm just a jealous guy.
+---------------
+Chord definitions
+=================
+Dm/F	x00231 / Dsus4	x00233 / Em#5	022010 / Em6	022020 / Em7	022033

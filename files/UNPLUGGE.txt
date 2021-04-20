@@ -1,0 +1,907 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+From: tinus@utctu1.ct.utwente.nl (Martijn Oversteegen)
+
+I compiled the songs as has been posted before. I added or altered
+the lyrics and corrected the songs and the lay-out a little bit.
+Credits for the original TABs go to; Jesse Scott, Christopher Mosher,
+Robert Wolsey, Dan Herold, Mark van 't Zet, Wouter Janssen and Guez
+Ofer. Thanks for all who posted me lyrics and suggestions as well.
+
+MTV Unplugged In New York - NIRVANA
+-----------------------------------
+
+All guitars are tuned down a Half-Step (Eb Ab Db Gb Bb Eb). 
+On 'On A Plain', 'Something in the way' and 'All Apologies' Kurt
+plays with Dropped-D tuning (Db Ab Db Gb Bb Eb).
+On 'Plateau', 'Oh me' and 'Lake Of Fire' he lets the Meat Puppets
+play the guitar.
+
+The positions of the chords, as played by Kurt, are given for each
+song. These are the so called voicings. From left to right are the
+positions on the respective strings. The chords are either notated
+above the lyrics the first time or above the songs. Notes within
+parentheses are single notes played on the lowest string (either
+Eb or Db), these are notated as if the guitar was tuned normally.
+  In the TAB parts, however, parentheses mean the notes are softly 
+played. All the other notations are as usual (hammer=h, pick=p,
+slide up=/, slide down=\, rake=x, bend=b, release bend=r and
+trill=~). The TAB parts are only solos or riffs; all the other stuff
+can easily be derived by ear from the chords given. Kurt either
+strums the chords or picks random notes from them. Most of the time
+the picked notes are from the three lowest strings.
+  Allthough most songs are played by two guitars, only one guitar has
+been transcribed. The other plays either the same or plays the chords
+as mentioned.
+
+About A Girl
+Come As You Are
+Jesus Don't Want Me For A Sunbeam
+Man Who Sold The World
+Pennyroyal Tea
+Dumb
+Polly
+On A Plain
+Something In The Way
+Plateau
+Oh Me
+Lake Of Fire
+All Apologies
+Where Did You Sleep Last Night
+
+---
+About A Girl (Kurt Cobain) - Bleach
+ 
+Voicings:
+ 
+E5  - 022x00
+G   - 320033 or 320003
+C#5 - x466xx
+G#5 - 466xxx
+F#5 - 244xxx
+A5  - x022xx
+C5  - x355xx
+
+E5 G      E5   G
+I need an easy friend
+E5   G      E5      G
+I do with a hand to lend
+E5   G         E5       G
+I do think you fit this shoe
+E5   G        E5     G
+I do what you have a clue
+
+C#        G#        F#
+I'll take advantage while
+C#          G#     F#
+You hang me out to dry
+E5                  A5    C5    E5  G  E5  G
+But I can't see you every night free
+E5  G  E5  G
+I do
+
+I'm standing in your light
+I do hope you have the time
+I do pick up number two
+I do keep a date with you
+
+[Repeat chorus]
+
+Solo: Repeat 3x
+E-------------------------|-
+B-------------------------|-
+G----------------7--7/9-9-|-
+D-----5-7-7/9--9----------|-
+A-7-7---------------------|-
+E-------------------------|-
+
+[Repeat first verse and chorus]
+
+E5              A5    C5    E5   G  E5  G
+I can't see you every night free
+E5  G  E5  G  E5  G  E5  G  E5  G  E5  G
+I do,      I do,         I do
+
+---
+Come As You Are (Kurt Cobain) - Nevermind
+
+Voicings:
+
+F# - 244322
+A  - x0222x
+B  - 22444x
+D  - x0023x
+ 
+Main Riff (with chorus-effect pedal)
+E---------------------------------------------|-
+B---------------------------------------------|-
+G---------------------------------------------|-
+D---------------------------------------------|-
+A---------------0-----0--------------2--------|-
+E--0--0--1--2------2-----2--2--1--0-----0--0--|-
+
+[The 'memoria' part: F# A ]
+[The 'And I swear that I don't...' part: B D ]
+
+Intro; Repeat main riff 3x
+
+Come as you are, as you were
+As I want you to be
+As a friend, as a friend
+As an old enemy
+Take your time, hurry up
+The choice is your
+Don't be late, take a rest
+As a friend
+As an old memoria
+memoria, memoria, memoria
+
+Come dowsed in mud, soaked in bleach
+As I want you to be
+As a trend, as a friend
+As an old memoria
+memoria, memoria, memoria
+
+And I swear that I don't have a gun
+No I don't have a gun
+No I don't have a gun
+
+Solo: Repeat 4x
+E---------------------|------------------------|-
+B--6-9-11-11\6-6-9\11-|-6-9-11-11-13-11-11-9\6-|-
+G---------------------|------------------------|-
+D---------------------|------------------------|-
+A---------------------|------------------------|-
+E---------------------|------------------------|-
+
+memoria, memoria, memoria, memoria
+
+And I swear that I don't have a gun
+No I don't have a gun  [Repeat 5x]
+
+memoria
+
+---
+Jesus Wants Me For A Sunbeam (Eugene Kelly/Francis McKee)
+
+Voicings:
+ 
+E5    - 022x00
+D     - xx0232
+A     - x02220
+Asus4 - x02230
+ 
+Intro: E5  D  A  Asus4  A [Repeat 2x]
+ 
+E5         D              A      Asus4 A
+Jesus don't want me for a sunbeam
+       E5          D                A    Asus4 A
+'Cause sunbeams are never made like me
+E5                D                 A           Asus4   A 
+Don't expect me to cry, for all the reasons you had to die
+E5        D                 A   Asus4 A
+Don't ever ask your love of me 
+
+E5                 D
+Don't expect me to cry
+E5                 D
+Don't expect me to lie
+E5                 D       A     Asus4 A
+Don't expect me to die for thee
+
+[Repeat Verse and Chorus]
+[Repeat Intro]
+[Repeat Chorus]
+[Repeat Verse and Chorus]
+[Repeat Chorus]
+[Repeat Intro]
+
+---
+Man Who Sold The World (David Bowie)
+ 
+Voicings:
+ 
+A  - x0222x
+D5 - xx023x
+F  - 133211
+C  - x3555x
+G  - 355433
+Bb - x1333x
+ 
+Intro (with distortion); Repeat 6x
+E--------------------|- -|-----|-
+B--------------------|- -|-----|-
+G--2-2-2-0--2h3p2-0--|- -|--2~-|-
+D--------------------|- -|-----|-
+A--------------------|- -|-----|-
+E--------------------|- -|-----|-
+
+                    A
+We passed upon the stairs,
+                    D
+We spoke of was and when
+                  A
+Although I wasn't there
+                  F
+He said I was his friend
+                    C
+Which came as a surprise
+                 A                           D
+I spoke into his eyes -- I thought you died alone
+                    C
+A long long time ago
+
+  C - Riff                F - Riff
+E-----------------|-   -|-----------------|-
+B-----------------|-   -|-----------------|-
+G-----------2-4-5-|-   -|-----------------|-
+D-----2-3-5-------|-   -|-----------0-2-3-|-
+A-3-5-------------|-   -|-----0-1-3-------|-
+E-----------------|-   -|-1-3-------------|-
+
+           F
+Oh no, not me,
+   Bb                F
+We never lost control,
+          C        F
+You're face to face,
+         Bb               A
+With the man who sold the world
+
+[Repeat Intro]
+
+                        A
+I laughed and shook his hand,
+                  D
+I made my way back home,
+                        A
+I searched for form and land,
+                      F
+Years and years I roamed,
+                 C
+I gazed a gazely stare,
+                     A                         D
+We walked a million hills -- I must have died alone,
+                    C
+A long long time ago.
+
+               F
+Who knows, not me,
+  Bb                F
+I never lost control,
+          C       F
+You're face, to face,
+         Bb               A
+With the man who sold the world.
+
+[Repeat Intro]
+[Repeat second chorus]
+[Repeat Intro]
+
+Outro: (Not very accurate, but at least the right notes)
+E--------------------------------------------------------
+B--------------------------------------------------------
+G--2-2-2-0--2h3p2-0--2-2-2-0--2h3p2-0--/9-9-9-9-9-9-9-9--
+D--------------------------------------------------------
+A--------------------------------------------------------
+E--------------------------------------------------------
+
+E-------------------------------------------------------
+B-------------------------------------------------------
+G--\2-2-2-0--2h3p2-0--2-2-2-0--2h3p2-0-/10-10-10-10-10--
+D-------------------------------------------------------
+A-------------------------------------------------------
+E-------------------------------------------------------
+
+E-------------------------------------------------------
+B-------------------------------------------------------
+G-\9-\7-7-7-7-7-7-/9-9-9-9-9-\2-2-2-0-2h3p2-0-/10-10-10-
+D-------------------------------------------------------
+A-------------------------------------------------------
+E-------------------------------------------------------
+
+E-------------------------------------------------------
+B-------------------------------------------------------
+G-10-10-\9-\7-7-7-7-7-7-/9-9-9-9-9-\2-2-2-0-2h3p2-0--2--
+D-------------------------------------------------------
+A-------------------------------------------------------
+E-------------------------------------------------------
+
+---
+Pennyroyal Tea (Kurt Cobain) - In Utero
+
+Voicings:
+ 
+Am - x02210
+G  - 320033 or 320003
+C  - x3555x
+D  - x5777x
+Bb - 688xxx
+
+Intro; Repeat 2x
+Am  G  (E) (G) (E)
+ 
+Am                  G
+I'm on my time with everyone
+Am              G
+I have very bad posture
+
+C            D           Bb
+Sit and drink Pennyroyal Tea
+C               D                 Bb
+Distill the life that's inside of me
+C            D           Bb
+Sit and drink Pennyroyal Tea
+C      D        Bb
+I'm anemic royalty
+
+Give me a Leonard Cohen afterworld
+So I can sigh eternally
+
+I'm so tired I can't sleep
+I'm anemic royalty
+I'm a liar and a thief
+I'm anemic royalty
+
+I'm on warm milk and laxatives
+Cherry-flavored antacids
+
+Sit and drink Pennyroyal Tea
+Distill the life that's inside of me
+I'm anemic royalty
+I'm anemic royalty
+
+Outro: Am
+
+---
+Dumb (Kurt Cobain) - In Utero
+ 
+Voicings:
+ 
+E5    - 022x00
+G(i)  - 355433
+G(ii) - 320033 or 320003
+B     - x2444x
+C     - x3555x
+
+[During Verse strum : E5  G(i)]
+[During Chorus strum: E5  G(ii)]
+[In bridge switch to: B   C]
+
+I'm not like them
+But I can pretend
+The sun is gone
+But I have a light
+The day is done
+But I'm having fun
+I think I'm dumb
+Or maybe just happy
+
+Think I'm just happy [Repeat 3x]
+
+My heart is broke
+But I have some glue
+Help me inhale
+And mend it with you
+We'll float around
+And hang out on clouds
+Then we'll come down
+And I have a hangover
+
+Have a hangover [Repeat 3x]
+
+Skin the sun
+Fall asleep
+Wish away
+The soul is cheap
+Lesson learned
+Wish me luck
+Soothe the burn
+Wake me up
+
+[Repeat first verse and chorus]
+
+I think I'm dumb [Repeat 12x]
+
+---
+Polly (Kurt Cobain) - Nevermind
+
+Voicings:
+ 
+E5 - 022x00
+G  - 320033 or 320003
+D  - x0023x
+C  - x3555x
+Bb - x1333x
+
+[During verse strum each line : E  G  D  C]
+[During chorus strum each line: D  C  G Bb] 
+
+Polly Wants a Cracker
+I think I should get off her first
+I think she wants some water
+To put out the blow torch
+
+It isn't me, we have some seed
+Let me clip your dirty wings
+Let me take a ride, don't hurt yourself
+I want some help to help myself
+I've got some rope, you have been told
+I promise you, I've been true
+Let me take a ride, don't hurt yourself
+I want some help to help myself
+
+Polly wants a cracker
+Maybe she would like more food
+She asks me to untie her
+A chase would be nice for a few
+
+[Repeat chorus]
+
+Bass bridge: Repeat 2x
+G-------------------------|-
+D----------0-0-0----------|-
+A----------------3-3-3-3--|-
+E--0-3-3-3----------------|-
+
+Polly said
+Polly says her back hurts
+And she's just as bored as me
+She caught me off my guard
+It amazes me, the will of instinct
+
+[Repeat chorus]
+
+---
+On A Plain (Kurt Cobain) - Nevermind
+
+Voicings: (dropped-D tuning!)
+
+D    - x 5 7 7 7 x
+D/G  - 5 5 7 7 7 x
+A    - x 0 2 2 2 x
+F/Bb - 8 8101010 x
+F5   - 3 3 3 x x x
+E5   - 2 2 2 x x x
+G5   - 5 5 5 x x x
+ 
+[Main Riff: D  D/G  A (F#) (G) (F#) (E)]
+[Chorus   : D  D/G  F/Bb]
+[Bridge   : F5 E5   A  G5]
+
+I'll start this off
+Without any words
+I got so high that
+I scratched 'til I bled
+
+Love myself
+Better than you
+I know it's wrong
+So what should I do?
+
+The finest day
+That I ever had
+Was when I learned
+To cry on command
+
+[Repeat "Love myself..." part]
+
+I'm on a plain
+I can't complain
+I'm on a plain
+
+My mother died
+Every night
+It's safe to say
+Don't quote me on that
+
+[Repeat "Love myself..." part]
+
+The black sheep got
+Blackmailed again
+Forgot to put
+On the zip code
+
+[Repeat "Love myself..." part]
+[Repeat chorus]
+
+Somewhere I have heard this before
+In a dream my memory has stored
+As defense I'm neutered and spayed
+What the hell am I trying to say?
+
+It is now time
+To make it unclear
+To write off lines
+That don't make a sense
+
+[Repeat "Love myself..." part]
+
+One more special
+Message to go
+And then I'm done
+And I can go home
+
+[Repeat "Love myself..." part]
+[Repeat chorus]
+
+---
+Something in the Way (Kurt Cobain) - Nevermind
+
+Voicings: (Dropped-D tuning!)
+
+F#5    - 444xxx
+D5(i)  - 000xxx
+D5(ii) - x0023x 
+
+[Pick during verse  : F#5  D5(i)]
+[Strum during chorus: F#5  D5(ii)]
+
+Underneath the bridge
+The tarp has sprung a leak
+And the animals I've trapped
+Have all become my pets
+And I'm living off of grass
+And the drippings from the ceiling
+But it's ok to eat fish
+Cause they don't have any feelings
+
+Something in the way,  Mmmm...
+Something in the way, yeah,  Mmmm...
+Something in the way,  Mmmm...
+Something in the way, yeah,  Mmmm...
+
+[Repeat verse]
+[Repeat chorus 2x]
+
+---
+Plateau (Curt Kirkwoord)
+
+Voicings:
+
+G     - 320x33
+Bb    - 650x66
+Fsus2 - 1xx011
+G#    - 4xx044
+
+Main Riff
+E--3-------6-------3-------6-------3-------6-------1-----|-
+B------------------------------------------------------1-|-
+G----------------------------------------------------0---|-
+D-----(0)-----(0)-----(0)-----(0)-----(0)-----(0)--------|-
+A---(2)-----(5)-----(2)-----(5)-----(2)-----(5)----------|-
+E--3-------6-------3-------6-------3-------6-------1-----|-
+
+Pre-chorus        Chorus
+E--4------|-     -|--1/3------------------------3--------|-
+B------4--|-     -|--1/3-------------3-----3----3-----6--|-
+G----0----|-     -|------------------3-----3----------7--|-
+D---------|-     -|---------5--x-----3-----3----------8--|-
+A---------|-     -|---------5--x--1-----------5----------|-
+E--4------|-     -|-------3-------------1-----3---/6-----|-
+
+Many a hand has scaled the grand old face of the plateau
+Some belong to strangers and some to folks you know
+Holy ghosts and talk show hosts are planted in the sand
+To beautify the foothills and shake the many hands
+
+There's nothing on the top but a bucket and a mop
+And an illustrated book about birds
+You see a lot up there but don't be scared
+Who needs action when you got words
+
+When you're finished with the mop then you can stop
+And look at what you've done
+The plateau's clean, no dirt to be seen
+And the work it took was fun
+
+[Repeat Chorus]
+
+Well the many hands began to scan around for the next plateau
+Some said it was in greenland and some in mexico
+Others decided it was nowhere except for where they stood
+But those were all just guesses, wouldn't help you if they could
+
+Pre-outro
+E--4----------------4---6-----------------6--|-
+B---------4-------4------------6--------6----|-
+G--------------------------------------------|-
+D------0-------0------------0-------0--------|-
+A----3-------3------------5-------5----------|-
+E--4--------------------6--------------------|-
+
+Outro
+E-(0)--------------------------0-----|---------------------------------|-
+B--------------0-------2---------1p0-|-----2-------0-------0-------1p0-|-
+G------2-----2---2---2-------2-------|---2-------2---2---2-------2-----|-
+D----2-----2-------0-------0---------|-2-------2-------3-------0-------|-
+A--0-----0---------------3-----------|-------0---------------3---------|-
+E------------------------------------|---------------------------------|-
+
+---
+Oh Me (Curt Kirkwood)
+
+Voicings:
+
+E  - x22100
+D  - x0023x
+C  - x32010
+G  - 320003
+C5 - x3555x
+D5 - x5777x
+E5 - x7999x
+
+Main Riff
+  (NC)     E       (NC)    D       (NC)   D             C          E
+E-------------0--|---------------|-------------------|------0--------0--|-
+B-------------0--|-------------3-|------------3------|------1-0-0----0--|-
+G-------------1--|-------------2-|------------2--0-0-|------0-0-0----1--|-
+D-------2-2-2----|------2--0-0-0-|------2-0-0-0--0-0-|--2-2--------2----|-
+A---0-2---2-2----|--0-2----0-0---|--0-2---0-0--------|--3-3--------2----|-
+E-4--------------|-4-------------|-4-----------------|-------------0----|-
+
+Chorus [Repeat 4x]              End Of Chorus
+  G         E                     C            D         E  
+E-3--3-3-3-----0-|-            -|-------------0-----|---------------0--|-
+B-0--0-0-0-----0-|-            -|-------------1-----|-----3---------0--|-
+G-0--0-0-0-----1-|-            -|---------0-0-0-0-0-|-2-2-2-2-2-----1--|-
+D-----------2-2--|-            -|------2--2-2---2-2-|-0-0-0-2-2-0-0----|-
+A-----------2-2--|-            -|--0-2----3-3---3-3-|-0-0---0-0-0-0----|-
+E-----------0-0--|-            -|-4-----------------|------------------|-
+
+If I had to lose a mile
+If I had to touch feelings
+I would lose my soul
+The way I do
+
+I don't have to think
+I only have to do it
+The results are always perfect
+And that's old news
+
+Would you like to hear my voice
+Sweetened with emotion
+Invented at your birth?
+
+I can't see the end of me
+My whole expanse I cannot see
+I formulate infinity
+And store it deep inside of me
+
+Solo
+E---------------------------3/2-----------2/5-5-5-3-2---------------------|-
+B-------------------3-3^5~------5--(3-5)-5-------------5/3-----------3-5~-|-
+G------------2-4~------------------------------------------4-2-2-2/4------|-
+D------2-2h4--------------------------------------------------------------|-
+A--0-2--------------------------------------------------------------------|-
+E-4-----------------------------------------------------------------------|-
+
+[Repeat verses and chorus]
+
+Outro: C5 D5 E5
+
+---
+Lake Of Fire (Curt Kirkwood)
+
+Voicings:
+
+Gm    - 3553xx
+G5    - 355xxx
+F5    - 133xxx
+Bb5   - x133xx
+Bb    - x13331
+C5    - x355xx
+Dm    - xx0231
+Dsus2 - xx0230
+A     - x02220
+
+Main Riff
+  Gm     G5\F5    Bb5   Gm          C5        Bb5
+E-------------------------------------------------------
+B-----------------------------------5b6r5b6r5-3---------
+G-----------------------------------5b6r5b6r5-3---------
+D-------------------------------------------------------
+A-------------------------------------------------------
+E-------------------------------------------------------
+
+  Gm     G5\F5   Bb5             C5          F5    G5
+E-------------------------------------------------------
+B-------------------------------------------------------
+G---------------------------------5--5-----5------------
+D---------------------------------5--5-----5--3--3--5---
+A---------------------------------3--3-----3--3--3--5---
+E---------------------------------------------1--1--3---
+
+  Gm              F5      G5      Gm                        F5       G5
+E------------------------------|-----------------------------------------
+B------------------------------|----11~-11~-11~-11~-11~-11~\--6~--6~/8~--
+G------------------------------|-/10--10~-10~-10~-10~-10~--\5~--5~--/7~--
+D---------------------3--------|-----------------------------------------
+A-5-5-5-5-5-5-5-5-3---1---5----|-----------------------------------------
+E-3-3-3-3-3-3-3-3-1-------3----|-----------------------------------------
+
+
+Gm                 F            Bb
+Where do bad folks go when they die?
+     Gm                           C5     Bb
+They don't go to heaven where the angels fly
+        Gm                  F        Bb
+They go down to the lake of fire and fry
+      C                      F         Gm     Gm  F   G   F   G5
+Won't see 'em again till the fourth of july
+
+Dm                Bb
+I knew a lady who came from duluth
+Dm                          A
+She got bit by a dog with a rabid tooth
+Dm                           Bb
+She went to her grave just a little too soon
+        C                        Dm     Dsus2
+And she flew away howling on the yellow moon
+
+[Repeat Chorus]
+
+Now the people cry and the people moan
+And they look for a dry place to call their home
+And try to find some place to rest their bones
+While the angels and the devils
+Fight to claim them for their own
+
+[Repeat Chorus] Gm  F  G5 Gm  F  G5
+
+SOLO
+E------3---------3---------------------------------------
+B--2-3---3--6b7------6-----------------------------------
+G----------------------5-3-------------------------------
+D--------------------------5-3----------------------3-5--
+A------------------------------5-4-3----------3-4-5------
+E------------------------------------6-3----6------------
+
+E--------------------------------------------------------
+B--3b4---------------6~----6~----------------------------
+G--3b4-------(0)-5/7----7~----7\5--3---------------------
+D-------5----------------------------5-------0-3---3-----
+A-----------------------------------------/5-----5---5---
+E--------------------------------------------------------
+
+E-------------------------------3------------------------
+B--------------------6~------/3---3-7-3------------------
+G----------------5/7----7\--------------3-5--------------
+D-------------------------------------------3---5--------
+A--3-----------------------------------------------------
+E----6-3-3-3----------------------------------3----------
+
+E--------------------------------------------------------
+B--3b4------3b4-----3b4----------------------------------
+G--3b4------3b4-----3b4----------------------------------
+D------5-5------5-------5-3------------------------3-----
+A---------------------------5-4-3------------3-4-5-------
+E---------------------------------6-3----3-6-------------
+
+E----------------------
+B----------------------
+G------(3)-----(4)-----
+D--3h5-----(3)-----5---
+A----------------------
+E----------------------
+
+---
+All Apologies (Kurt Cobain) - In Utero
+
+Voicings: (Dropped-D tuning!)
+
+G5 - 555xxx
+D5 - 000xxx
+A5 - 777xxx or x022xx
+
+Main Riff
+E----------------------|----------------------|-
+B----------------------|----------------------|-
+G----------------------|----------------------|-
+D----------------------|----------12-12-9-10--|-
+A---9-10-9-12-12-9-10--|---9-10-9-------------|-
+D-0--------------------|-0--------------------|-
+ 
+E----------------------|----------------------|-
+B----------------------|----------------------|-
+G----------------------|----------11-11-9-----|-
+D----------------------|------------------12--|-
+A---9-10-9-12-12-9-10--|---9-10-9-------------|-
+D-0--------------------|-0--------------------|-
+
+Chorus
+  G5    D5 G5    D5 G5    D5 G5    D5 A5 D5 A5
+E---------------------------------------------|-
+B---------------------------------------------|-
+G---------------------------------------------|-
+D-5-5-5--0-5-5-5--0-5-5-5--0-5-5-5--0-7--0-7--|-
+A-5-5-5--0-5-5-5--0-5-5-5--0-5-5-5--0-7--0-7--|-
+D-5-5-5--0-5-5-5--0-5-5-5--0-5-5-5--0-7--0-7--|-
+
+What else should I be
+All apologies
+What else should I say
+Everyone is gay
+What else could I write
+I don't have the right
+What else should I be
+All apologies
+
+In the sun
+In the sun I feel as one
+In the sun
+In the sun
+I'm married
+Buried
+
+I wish I was like you
+Easily amused
+Find my nest of salt
+Everything is my fault
+I'll take all the blame
+Aqur scafoam shame
+Sunburn with freezeburn
+Choking on the ashes of her enemy
+
+[Repeat Chorus]
+
+I'm married
+Buried, yeah, yeah, yeah, yeah
+
+All in all we all are [Repeat 13x]
+ 
+---
+Where Did You Sleep Last Night (Huddie Ledbetter)
+
+Voicings:
+ 
+E5   - 022x0x or 022x00
+A    - x0222x 
+G    - 320033 or 320003
+B    - x2444x
+B/F# - 22444x
+
+Intro: E5 (E) (F#) (G) (E) A G B B/F# E5 [Repeat 2x]
+ 
+E5                      A      G
+My girl, my girl, don't lie to me
+        B             B/F#       E5
+Tell me where did you sleep last night
+E5            
+In the pines, in the pines
+          A              G
+Where the sun don't ever shine
+        B          B/F#        E5
+I would shiver the whole night through
+ 
+My girl, my girl, where will you go
+I'm going where the cold wind blows
+In the pines, in the pines
+Where the sun don't ever shine
+I would shiver the whole night through
+
+Her husband, was a hard working man
+Just about a mile from here
+His head was found in a driving wheel
+But his body never was found
+
+[Repeat first verse]
+
+Interlude: play verse progression
+
+[Repeat second verse gently]
+[Repeat first verse loudly]
+ 
+My girl, my girl, where will ya go
+I'm going where the cold wind blows
+In the pines, the pines
+The sun, the shine
+I'll shiver the whole night through
+
+[Repeat Interlude]
+
+---
+
+

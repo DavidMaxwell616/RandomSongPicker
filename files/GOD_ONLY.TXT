@@ -1,0 +1,102 @@
+From: rogers@hi.com (Andrew Rogers)
+Subject: /b/beach_boys/god_only_knows.crd
+
+			"God Only Knows"
+		     (B. Wilson / T. Asher)
+
+
+intro:
+
+	A            E            A            E
+	/  /  /  /   /  /  /  /   /  /  /  /   /  /  /  /  
+
+	A           E/G#         F#m7   
+	/  /  /  /   /  /  /  /   /  /  /  / 
+
+    winds arr. for gtr:
+
+	  v   v   v   v
+	|-----------------|
+	|-2------24-5-----|
+	|-2------24-5-----|
+	|-----------------|
+	|-----------------|
+	|-----------------|
+
+    bass:
+
+	  v   v   v   v
+	|-----------------|
+	|-----------------|
+	|-----------------|
+	|-0-----02-3------|
+
+verse 1:
+
+	D/A       Bm6
+	I may not always love you
+	F#m F#m7              F#m6/A
+	But long as there are stars above you
+	E/B       Cdim
+	You never need to doubt it
+	E/B             A#m7-5
+	I'll make you so sure about it
+	A              E/G#         F#m7       (E)
+	God only knows what I'd be without you
+
+    bass (doubled w/piano):
+
+	  v   v   v   v
+	|-----------------|
+	|-----------------|
+	|-----------------|
+	|-0-----02-3------|
+
+verse 2:
+
+	If you should ever leave me
+	Though life would still go on believe me
+	The world could show nothing to me
+	So what good would living do me
+	God only knows what I'd be without you
+
+bridge:
+
+    winds/keyboard arr. for gtr:
+
+	  v   v   v   v     v   v   v   v 
+	|-----9-----5---9-|-7-----6---------|
+	|-5--10-----5--10-|-8-----5-8-6-5-3-|
+	|-6---------------|---------9-7-6-4-|   [2X]
+	|-----------------|-----------------|
+	|-----------------|-----------------|
+	|-----------------|-----------------|
+
+    bass:
+
+	  v   v   v   v     v   v   v   v 
+	|-----------------|-------------0-2-|
+	|-2---2-----4---2-|-5-------0-2-----|   [2X]
+	|-----------------|-------3---------|
+	|-----------------|-----------------|
+
+
+	G/D          Em6         Bm/F#  Bm7   E7/D
+	 /  /  /  /   /  /  /  /   /  /  /  /   /  /  /  /  
+
+	A/E         Fdim          A/E         D#m7-5
+	 /  /  /  /   /  /  /  /   /  /  /  /   /  /  /  /  
+
+	 D             A/C#         Bm
+	God only knows what I'd be without you
+
+(repeat verse 2)
+
+outro:
+
+	A              E/G#         F#m7       E/G#
+	God only knows what I'd be without you       (repeat to fade)
+
+
+-- another ace 60's tab from Andrew Rogers
+

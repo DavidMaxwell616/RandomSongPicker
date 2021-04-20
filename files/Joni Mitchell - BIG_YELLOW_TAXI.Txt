@@ -1,0 +1,100 @@
+Date: Mon, 28 Aug 1995 14:20:59 +0100
+From: spxhaw@astronomy.cardiff.ac.uk (Howard Wright)
+Subject: m/joni_mitchell/big_yellow_taxi.crd
+
+-----------------------------------------------------------
+
+
+                           BIG YELLOW TAXI - Joni Mitchell
+                         -----------------------------------
+
+                        from the album 'Ladies of the Canyon', 1970
+
+
+
+Originally sent by Harlan Thompson <harlant@uhunix.uhcc.Hawaii.Edu>
+
+Corrections/additions by Howard Wright (H.Wright@astro.cf.ac.uk)
+
+
+TUNING: E B E G# B E
+
+(You might also need a capo on the 3rd fret - I'm not sure)
+
+
+All chord shapes given at the end.
+
+Intro :
+-------
+
+A  A6  A  A6  A  B  B6  B  B6  B 
+
+E  A/E  E7  A/E  E  A/E E7  A/E  E   etc
+
+
+Verse :
+--------
+
+       A         A6      A               E     A/E  E7  A/E  E
+They paved paradise and put up a parking lot
+
+         A    A6        B            B6        E
+With a pink hotel, a boutique and a swingin' hot spot
+
+
+CHORUS:
+-------
+
+ E5             Emaj7
+Don't it always seem to go
+
+          A/E                                   E
+That you don't know what you've got till it's gone
+
+       A        A6       B        B6       E
+They paved paradise and put up a parking lot
+
+ E  A/E E7  A/E  E                   A/E  E7  A/E E
+(Choo           bop bop bop bop, choo           bop bop bop bop)
+
+
+They took all the trees, put 'em in a tree museum
+And they charged the people a dollar and a half just to see 'em
+CHORUS
+
+Hey farmer farmer, put away that D.D.T. now
+Give me spots on my apples but leave me the birds and the bees
+please
+CHORUS
+
+Late last night I heard the screen door slam
+And a big yellow taxi took away my old man
+CHORUS TWICE (with only one chooo bop... at each end)
+
+They paved paradise, put up a parking lot (choo bop bop bop bop)
+They paved paradise, put up a parking lot
+
+
+Chord Shapes :
+---------------
+
+     E    A    B   A/E  E7    A6    B6   E5   Emaj7
+E  --0----5----7----0---0------5----7-----0----0---------------------
+B  --0----5----7----0---0------5----7-----0----0---------------------
+G# --0----5----7----1---3------5----7-----3----3--------------------
+E  --0----5----7----0---0------5----7-----0----0-----------------
+B  --0----5----7----2---3------7----9-----5----4----------------
+E  --0----5----7----0---0------5----7-----0----0----------------
+
+
+On the first two lines of the chorus and 
+frequently on the verse, it is better to somewhat muffle the chords so 
+that the rhythm can be heard but the actual notes barely heard.  Also, 
+the song can be played in regular tuning with the same chords, but I 
+think it sounds much better this way (and this is what J.M. actually does).
+Also, please post if you know any J.M. songs in their actual
+tuning.  I hear that of all her guitar songs, she only did around
+two of them in standard tuning!
+
+
+

@@ -1,0 +1,63 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+Date: Tue, 19 Dec 1995 14:16:41 +0100
+From: Darin Nikolow <darin@icsr.agh.edu.pl>
+Subject: Strangers in the night
+
+Here is "Strangers in the night" by Frank Sinatra. It is in Chord Pro format.
+I am not sure about the lyrics if you notice some mistake let me know.
+
+{t:Strangers in the Night}
+{st:Frank Sinatra}
+
+{define: F base-fret 1 frets 1 3 3 2 1 x }
+{define: Fmaj7 base-fret 1 frets 1 x 2 2 1 x}
+{define: F6 base-fret 1 frets 1 x 0 2 1 x}
+{define: Ab0 base-fret 3 frets 2 x 1 2 1 x}
+{define: Gm7 base-fret 3 frets 1 3 1 1 1 1}
+{define: F#7b5#11 base-fret 2 frets 1 2 1 2 2 1}
+{define: Gm7/F base-fret 1 frets 1 x 3 3 3 3 }
+{define: Gm6/E base-fret 1 frets 0 x 2 3 3 3 }
+{define: Am7 base-fret 5 frets 1 3 1 1 1 1}
+{define: Bm6 base-fret 5 frets 2 x 1 2 2 2}
+{define: G7 base-fret 3 frets 1 3 1 2 4 1}
+{define: C9 base-fret 1 frets 0 3 2 3 3 3}
+{define: Gm11 base-fret 1 frets 3 x 3 3 1 x }
+{define: Gb7b5 base-fret 1 frets 2 x 2 3 1 x }
+{define: Am7b5 base-fret 4 frets 2 x 2 2 1 x }
+{define: D7b5 base-fret 3 frets x 3 2 3 1 x }
+{define: Eb9 base-fret 5 frets x 2 1 2 2 2 }
+{define: F6/9 base-fret 1 frets 1 3 3 2 3 3 }
+
+
+[F]Strangers in the [Fmaj7]night [F6]exchanging [Fmaj7]glances
+[F]Wondering in the [Fmaj7]night [F6]what were the [Fmaj7]chances 
+[F]We'll be sharing [Fmaj7]love [F6]before the [Ab0]night was [G7]thru [F#7b5#11] [Gm7/F] [F#7b5#11]
+[Gm7]Something in your [F#7b5#11]eyes [Gm7/F]was so in[Gm6/E]viting
+[Bm6]Something in your smile was so ex[G7]citing
+[Gm11]Something in my [C7]heart [Gm11]told me I [Gb7b5]must have [Fmaj7]you [Gm7] [Ab0] [Am7] 
+
+[Am7b5]Strangers in the [D7b5]night [Am7b5]two lonely [D7b5]people we were
+[Am7b5]Strangers in the [D7b5]night [Am7b5]up to the [D7b5]moment when we
+[Gm7]Set out first at all [Eb9]little did we know 
+[Fmaj7]Love was just a [Dm7]glance away 
+A [Gm7]warm and bracing [C9]dance away and
+
+[F]Ever since that [Fmaj7]night [F6]we've been [Fmaj7]together
+[F]Lovers at first [Fmaj7]sight [F6]in love for [Fmaj7]ever
+[F]It turned out so [Fmaj7]right [Gm7]for strangers [C9]in the [Fmaj7]night [Dm7] [Gm7] [C7]
+
+[Am7b5] [D7b5] [Am7b5] [D7b5] [Am7b5] [D7b5] [Am7b5] [D7b5] [Gm7] [Eb9]
+
+[Fmaj7]Love was just a [Dm7]glance away 
+A [Gm7]warm and bracing [C9]dance away and
+
+[F]Ever since that [Fmaj7]night [F6]we've been [Fmaj7]together
+[F]Lovers at first [Fmaj7]sight [F6]in love for [Fmaj7]ever
+[F]It turned out so [Fmaj7]right [Gm7]for strangers [C9]in the [Fmaj7]night [F6/9]
+
+
+
+

@@ -1,0 +1,125 @@
+Received: from animal-farm.nevada.edu by redrock.nevada.edu (5.65c/M1.4)
+	with SMTP id <AA02464>; Mon, 13 Sep 1993 17:11:42 -0700
+Received: from maple.grove.iup.edu by animal-farm.nevada.edu id <AA26457@animal-farm.nevada.edu>; Mon, 13 Sep 1993 17:11:39 -0700
+Received: from grove.iup.edu by grove.iup.edu (PMDF #2467 ) id
+ <01H2WUMLT7748Y6666@grove.iup.edu>; Mon, 13 Sep 1993 20:11:21 EDT
+Date: 13 Sep 1993 20:11:21 -0400 (EDT)
+From: DAVE RITCHIE <UHLNPYA@grove.iup.edu>
+Subject: StoneTemplePilots---->Creep.tab
+To: jamesb@animal-farm.nevada.edu
+Message-Id: <01H2WUMLTGUQ8Y6666@grove.iup.edu>
+Organization: Indiana University of Pennsylvania
+X-Envelope-To: jamesb@nevada.edu
+X-Vms-To: NETMAIL%"jamesb@nevada.edu"
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; CHARSET=US-ASCII
+Content-Transfer-Encoding: 7BIT
+
+
+                                   Creep
+                             Stone Temple Pilots
+
+
+
+This is the intro part.  I just used the basics, he is strumming but I just
+wrote down the accents.  That Bsus4 might be called something else but just
+for the sake of calling it something I called it Bsus4. ---> 
+  
+ 
+    C             Bsus4     E       ^  EsusG   C      ^    Bsus4    E(hold)
+             ^
+:--------------:--2--2---:-----------:-3----:-----------:--2--2--:---------
+:---1-----1--1-:--4--4---:-----------:------:--1---1--1-:--4--4--:---------
+:--------------:--2--2---:-----------:------:-----------:--2--2--:---------
+:---2-----2--2-:--4--4---:--2---2---2:-2----:--2---2--2-:--4--4--:--2------
+:---3-----3--3-:--2--2---:--2---2---2:-2----:--3---3--3-:--2--2--:--2------
+:---3-----3--3-:--2--2---:-----------:------:--3---3--3-:--2--2--:---------
+
+
+
+This is the verse.  Just keep repeating this until you get to the end of the
+verse where he just stays on E.  In all of these E chords he adds G(1st string
+3rd fret) on the off beats...listen for it.  
+
+    E    E    C   Bsus4   E    E      C    Bsus4
+
+:-----:----:----:--2---:----:---3-:------:--2----                          
+:-----:----:--1-:--4---:----:-----:---1--:--4----
+:-----:----:----:--2---:----:-----:------:--2----                          
+:---2-:--2-:--2-:--4---:--2-:--2--:---2--:--4---- 
+:---2-:--2-:--3-:--2---:--2-:--2--:---3--:--2----                          
+:-----:----:--3-:--2---:----:-----:---3--:--2----
+
+
+This is the next part, whatever you want to call it...bridge I guess.  The last
+two bars are not just C and D chords.  The C is fingered differently.  Use your 
+fourth finger for the C, your third finger for the E and your second finger for
+the high C.  To go up to the D from there just slide your hand up two frets and
+bar the second fret.  I realize it would be just as easy to play a normal first
+position C with a first position D but this sounds better.
+
+
+     G           Am         E          G           Am       E
+
+:----3--3--3-:----------:---------3-:--3--3--3--:--------:---------3---------
+:------------:---2---2--:-----------:-----------:--2--2--:-------------------
+:------------:---3---3--:-----------:-----------:--3--3--:-------------------
+:------------:---3---3--:---2---2---:-----------:--3--3--:--2---2------------
+:----2--2--2-:----------:---2---2---:--2--2--2--:--------:--2---2------------
+:----3--3--3-:----------:-----------:--3--3--3--:--------:-------------------
+
+    G           Am         C       D
+
+:---3--3--3-:---------:--------:---2---2---                                  
+:-----------:---2---2-:----1---:---3---3--- 
+:-----------:---3---3-:--------:---2---2---                                  
+:-----------:---3---3-:----2---:---4---4---
+:---2--2--2-:---------:----3---:---5---5---                                     
+:---3--3--3-:---------:----x---:---x---x---
+
+
+This, finally, is the chorus.  This is what I got out of it anyway.  The chords
+are simple so I'll write the lead.  Now, I might have made a mistake in this
+part, If so please message me and tell me so I can fix it.  Keep playing the
+first two bars until the last part of the chorus.  The only difference is the 
+last three notes.  
+
+
+                                         end part -->
+:-------------------:-------------------:-------------------:------------------
+:------------------0:--------0---------::-----------------0-:--------0---------
+:--------0-------0--:------0------------:-------0-------0---:------0-----------
+:------2-------3----:----5-----------2--:-----2-------3-----:----5-------------
+:----2--------------:-----------2--5---::---2---------------:------------1--2--
+:--0---------1------:--2------5---------:-0---------1-------:--2-------5-------
+
+
+Lyrics:
+
+
+Forward yesterday, makes me want to stay
+What they said was real, makes me want to steal
+Living under house, yes I'm living I'm a mouse
+All I got is time, got no meaning just a rhyme
+
+Take time with a wounded hand, cause It likes to heal
+Take time with a wounded hand, guess I like to steal
+Take time with a wounded hand, cause it likes to heal, I like to steal
+
+I'm half the man I used to be (yes I feel as the sun, it fades to grey)
+I'm half the man I used to be 
+I'm half the man I used to be
+Half the man I used to be, Half the man I used to be
+
+Feeling Uninspired, think I'll start a fire
+Everybody run, Bobby's got a gun
+Think you're kind'a neat, then she tells me I'm a creep
+Friends don't mean a thing, guess I'll leave it up to me
+
+
+If you have any questions, concerns, comments, foibles, mistakes, stinkers,
+etc. please mail me at:
+			uhlnpya@Oak.grove.iup.edu
+thanks, Dave Ritchie
+
+

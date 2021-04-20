@@ -1,0 +1,179 @@
+Received: from nevada.edu (animal-farm.nevada.edu) by redrock.nevada.edu (5.65c/M1.4)
+	with SMTP id <AA15787>; Fri, 11 Dec 1992 08:54:01 -0800
+Received: from gould.encore.COM by animal-farm.nevada.edu. id aa13554;
+          11 Dec 92 8:49 PST
+Received: from mfgml.encore.COM by gould.encore.com with SMTP
+	  id AA10604 (5.64+/UK-2.1-921111); Fri, 11 Dec 92 11:50:24 -0500
+Received: by mfgml.encore.com id AA26517 (5.52/UK-2.1-910806);
+	  Fri, 11 Dec 92 11:51:14 EST
+Message-Id: <26517.9212111651@mfgml.encore.com>
+From: Mike Hoffman <mhoffman@encore.com>
+Date: Fri, 11 Dec 92 11:51:12 EST
+Organization: Encore Computer Corporation
+X-Mailer: Mail User's Shell (7.0.3 12/22/89)
+To: jamesb@nevada.edu
+Subject: TAB: Crazy on You (Intro) - Heart
+
+James,
+
+Here is my contribution to the archives. I have transcribed the acoustic
+intro to crazy on you as it was taught to me; I understand that it appeared
+a few years back in one of the guitar mags, but I have never seen it.
+
+Thanks for doing a great job in maintaining the archives; I have grabbed many
+of the selections stored there, and I hope that my small contribution will
+repay in a small way for this fantastic resource.
+
+					MH++
+
+ _   _  __  ___ ___ __ __   _   _  _      Michael J. Hoffman
+| |_| |/ .\|  =|  =|  V  | / \ | \| |     Encore Computer Corporation
+|_| |_|\__/|_| |_| |_|V|_|/_^_\|_|\_|     mhoffman@encore.com
+"I am logged in, therefore I am."
+
+
+---------8<---CUT HERE--->8----------
+
+Here is the acoustic intro section to 'Crazy on You'. It is split into
+several sections; this has the combined advantages of 1) helping to
+break up the learning of it into smaller pieces, and 2) helping to 
+remember where you are, as there is some repetition and it is easy to
+fall into a 'loop' :-)
+
+I have added the symbol ^ under the tab to try to approximate the
+downbeat; the rhythm is something along the lines of a shuffle. It
+certainly helps to listen to the original when you try to learn this!
+
+I have used the following symbols in the tablature:
+
+/  Slide up
+\  Slide down
+p  Pull off
+h  Hammer on
+() The note is still ringing from the previous time it was struck
+<> The note is a harmonic
+^  Rhythm beat
+
+
+			  CRAZY ON YOU (INTRO)
+
+                                  Heart
+
+
+Section 1
+
+E------------------------
+B--------3-1\0-----------
+G----2/4---2\0-0---------
+D------------------------
+A------------------------
+E------------------------
+     ^     ^ 
+
+Section 2
+
+E------------------------------------------------------------------------
+B------------3p1p0---1-----------------------------------3p1p0---1-------
+G------------------2---2-------0------4---5---0h2-(2)(2)-------2---2-----
+D--------------------------2/4--------4---5---0h2-(2)(2)-----------------
+A--------0-0---------0---0--------0-0---0----------0--0----------0---0---
+E------------------------------------------------------------------------
+         ^   ^       ^   ^   ^    ^   ^   ^   ^    ^     ^       ^   ^
+
+Section 3
+                     rake
+E------------------------------------------------------------------------
+B------------------------------------------------0-----------------------
+G------------0----2-----2--1---2/4---2---0h1--------2p0------------------
+D--------2/4------2----2-------------------------0-----------------------
+A--------------0--3---3----2---3/5---4---2(2)----------------------------
+E----------------------------0-----0---0------0--3-----------------------
+           ^   ^      ^      ^   ^   ^   ^       ^
+
+Section 4 (Just like Section 2 except add 'A' on the first two notes)
+
+E------------------------------------------------------------------------
+B------------3p1p0---1-----------------------------------3p1p0---1-------
+G--------2-2-------2---2-------0------4---5---0h2-(2)(2)-------2---2-----
+D--------------------------2/4--------4---5---0h2-(2)(2)-----------------
+A--------0-0---------0---0--------0-0---0----------0--0----------0---0---
+E------------------------------------------------------------------------
+         ^   ^       ^   ^   ^    ^   ^   ^   ^    ^     ^       ^   ^
+
+Section 5
+                   <---See Note 1---->      <Harm.>
+E------------------------------------5-----------------------------------
+B------------------------3-----5p3---3---0----<12>-----------------------
+G------------0-----4-----4---4-----4-----0----<12>-----------------------
+D--------2/4---------4-------------------0----<12>-----------------------
+A--------------0-0-0---0---0---------0-----------------------------------
+E------------------------------------------------------------------------
+           ^   ^   ^     ^     ^     ^
+
+Section 6 (Same as Section 2)
+
+E------------------------------------------------------------------------
+B------------3p1p0---1-----------------------------------3p1p0---1-------
+G------------------2---2-------0------4---5---0h2-(2)(2)-------2---2-----
+D--------------------------2/4--------4---5---0h2-(2)(2)-----------------
+A--------0-0---------0---0--------0-0---0----------0--0----------0---0---
+E------------------------------------------------------------------------
+         ^   ^       ^   ^   ^    ^   ^   ^   ^    ^     ^       ^   ^
+
+Section 7
+
+E------------------------------------------------------------------------
+B------------------------------------------------------------------------
+G------------0-----------------------------------------------------------
+D--------2/4-----0-----4-----2-------------------------------------------
+A--------------0-----5-----3---------------------------------------------
+E------------------5-----3-----------------------------------------------
+           ^   ^   ^     ^
+
+Section 8
+                                      <---See Note 2--->
+E--------------------------0-------------------------------------0-------
+B------3p1p0---1-------------3-1-0---------3p1p0---1-----------0---0-----
+G------------2---2-----------------2-0-----------2---2---0h1-1---1---1---
+D--------------------0---0-------------------------------------0---0-----
+A--0-0---------0---0-----------------------------------------2-------2---
+E----------------------3---------------2-2---------2---2---0-------------
+   ^   ^       ^   ^   ^   Free Time-->
+Section 9
+
+E---------------------------------
+B-----6---5h6p5p0---5-------------
+G-----------------5---7-5-4-------
+D-----0---------------------6-----
+A---------------------------------
+E-----------------------------0---
+
+
+Note 1: Use the chord shown below. Your pinky belongs on the first string
+	at the 5th fret, but you should move it over to the second string
+	5th fret for the pull-off, then place it on the first string for
+	the chord that follows.
+
+E---5-- pinky
+B---3-- index
+G---4-- ring
+D---4-- middle
+A---0--
+E------
+
+
+Mote 2: Use the chord shown below. Again, you'll need your pinky to pull off
+        from the third fret on the second string, but if your hand is in this 
+	basic position it will make things easier.
+
+E------
+B---1-- index
+G---2-- ring
+D------ 
+A------
+E---2-- middle
+
+---
+ _   _  __  ___ ___ __ __   _   _  _      Michael J. Hoffman
+| |_| |/ .\|  =|  =|  V  | / \ | \| |     
+|_| |_|\__/|_| |_| |_|V|_|/_^_\|_|\_|     mhoffman@encore.com

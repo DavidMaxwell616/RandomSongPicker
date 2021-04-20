@@ -1,0 +1,135 @@
+Received: from husc7.harvard.edu (husc7.harvard.edu [128.103.25.7]) by post-office.nevada.edu (8.6.4/8.6.4) with SMTP id PAA07921 for <jamesb@nevada.edu>; Sat, 29 Jan 1994 15:34:44 -0800
+From: law2@husc.harvard.edu
+Date: Sat, 29 Jan 94 18:34:40 -0500
+Message-Id: <9401292334.AA03254@husc7.harvard.edu>
+To: jamesb@nevada.edu
+Subject: Life s Been Good by Joe Walsh
+
+Article 6145 of alt.guitar.tab:
+Path: husc.harvard.edu!husc-
+news.harvard.edu!kuhub.cc.ukans.edu!wupost!howland.reston.ans.net
+!cs.utexas.edu!news.tamu.edu!eemips.tamu.edu!legg Newsgroups:
+alt.guitar.tab
+Subject: TAB:  "Life's Been Good" -- Joe Walsh (REPOST)
+Message-ID: <2i77kr$j50@news.tamu.edu>
+From: legg@eemips.tamu.edu (James D. Legg)
+Date: 27 Jan 1994 02:07:23 GMT
+Distribution: world
+Organization: Texas A&M University
+NNTP-Posting-Host: eemips.tamu.edu
+Lines: 111
+
+
+  This TAB was originally posted a while back.  I have included the
+original author's e-mail address, as he deserves the credit for
+this.
+
+From: spxhaw@thor.cf.ac.uk (Howard Wright \(???\))
+
+      Life's Been Good    - Joe Walsh
+
+As this is quite a long song, I'll start the ball rolling with the
+intro riff
+
+E---------------------------------------------------
+B---------------------------------------------------
+G--------------------2----------------2---2-2-------
+D--------------------2--------2-----------2-2-------
+A--2b3-3r2-0--2/4------0-2/4-----4--------0-0-------
+E---------------------------------------------------
+
+b=bend up
+r=release bend
+/=slide up
+
+E---------------------------------------------------------
+B--------------------------------------3-3-3--------------
+G---------------------2----------------2-2-2---2-2-2------
+D---------------------2--------2----0--0-0-0---2-2-2------
+A--2b3-3r2-0--2/4-------0-2/4----4-------------0-0-0------
+E---------------------------------------------------------
+
+
+E---
+B---
+G------------------------------2--2-2---------
+D-------------------------2-------2-2-------
+A--2b3-2b3-2b3r2-0--0-2/4---4-----0-0-----
+e-----
+
+
+E-----
+B----------------------------------------3-3-3------2
+G----------------------------------------2-2-2------2
+D-----------------------2-------2----0---0-0-0------2
+A---2b3--3r2--0--2/4------0-2/4----4----------------0
+
+
+
+The last A chord is where the other instruments come in
+
+He carries on playing this riff while the slide guitar etc play
+other stuff
+
+
+Then after 8 or 16 bars the acoustic guitar comes in with :
+
+    F       C      F      F       C      F      Am      G      Am    G
+E---5-5-5---3-3-3--1-1----5-5-5---3-3-3--1-1----5-5-5---3-3-3--0-0-0-0----
+B---6-6-6---5-5-5--1-1----6-6-6---5-5-5--1-1----5-5-5---3-3-3--1-1-0-0h1--
+G---5-5-5---5-5-5--2-2----5-5-5---5-5-5--2-2----5-5-5---4-4-4--2-2-0-0h2--
+
+
+Then a little lead in on the electric:
+
+D------0-2-3
+A---3-------
+
+
+
+And the singing starts here!
+
+I don't know the words, but the chords start with:
+
+F Am D C F Am D C
+
+(repeat once)
+
+then:
+
+G FaddG C G   C G      C   G
+
+G FaddG C G   C  G/B    A
+
+The words over the last C G/B  A are "Life's been good to me so
+far"
+
+Then it goes back to F Em Dm etc
+
+
+Shapes:
+
+EADGBE     EADGBE
+xx3213     x20003
+
+ FaddG       G/B
+I think you know the others....
+
+
+Hope this gets you started- the rest of the song is mostly repeats
+and variations on these bits i.e the intro riff, acoustic chords
+and the main body of the song (the bit above with the chords)
+
+Hope y'all enjoy!
+
+Jaime
+
+-------------------------------------------------------------------------------  
+James D. Legg '88, '90, '94?                  
+Office:    321 E Zachry   Department of Electrical Engineering
+              Phone:     (409) 845-5271   Texas A&M University            
+              FAX:       (409) 845-6259   College Station, Texas 77843                   legg@ee.tamu.edu 
+                            GIG 'EM AGGIES!  
+-------------------------------------------------------------------------------
+
+

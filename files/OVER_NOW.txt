@@ -1,0 +1,151 @@
+From ChrisBarr@postoffice.worldnet.att.netTue Aug 13 23:31:44 1996
+Date: Tue, 13 AUG 1996 23:22:45 GMT 
+From: Christopher Barr <ChrisBarr@postoffice.worldnet.att.net>
+Newsgroups: alt.guitar.tab
+Subject: TAB:"Over Now" by AIC (correct!) 
+
+A couple days ago, some guy posted a version of this song which most
+of us agreed needed some work, but at least it had the basics right.
+The relative tuning for this song is definitely DADF#AD(low to high)
+despite many postings of an alternate tuning (DADF#DG).  Believe me
+I've tried and it is nearly impossible to play it this way.  Any way,
+if your playing along with the album or something, because AIC tunes
+1/2 step down always, the actual tuning would be C#/G#/C#/F/C#/F#, but
+who has time to do that anyway?  The previous posting of this has the
+first part half right at least.
+
+Verse Fig.1 (play twice on most times)
+
+D-|-4-4-7-6-4-4-4-4-----4-4-x---4-x-4-|   <- x=fret hand muting
+A-|-4-4-4-4-4-7-6-4-----4-4-x---4-x-4-|
+F#|-4-4-4-4-4-4-4-4-----5-4-x---5-x-7-|
+D-|-4-4-4-4-4-4-4-4-----4-4-x---4-x-4-|
+A-|-4-4-4-4-4-4-4-4-----4-4-x---4-x-4-|
+D-|-4-4-4-4-4-4-4-4-----4-4-x---4-x-4-|
+
+Verse Fig.2 (Follows Fig.1, play once)
+
+D-|-0-0-3-2-0-0-0-0-----0-0-x---0-x-0-|   <- x=pick hand muting
+A-|-0-0-0-0-0-3-2-0-----0-0-x---0-x-0-|
+F#|-0-0-0-0-0-0-0-0-----2-0-x---2-x-3-|
+D-|-0-0-0-0-0-0-0-0-----0-0-x---0-x-0-|
+A-|-0-0-0-0-0-0-0-0-----0-0-x---0-x-0-|
+D-|-0-0-0-0-0-0-0-0-----0-0-x---0-x-0-|
+
+Thie previous posting had the chorus right, but if you didn't catch
+it, here it is again.
+
+Chorus (play once)
+
+D-|-7----7----7--7----7--7--7---7--7--6----6---6--6---9---9--9--9---9--9--9--9|
+A-|-7---10---10--7---10-10-10--10-10--9----9---9--9---9--12-12--9---9--9--9--9|
+F#|-7----7----7--7----7--7--7---7--7--6----6---6--6---9---9--9--9---9--9--9--9|
+D-|-7----7----7--7----7--7--7---7--7--6----6---6--6---9---9--9--9---9--9--9--9|
+A-|-7----7----7--7----7--7--7---7--7--6----6---6--6---9---9--9--9---9--9--9--9|
+D-|-7----7----7--7----7--7--7---7--7--6----6---6--6---9---9--9--9---9--9--9--9|
+
+(on the chorus, listen to the song or use your own judgement on when
+to hit that one note in each chord with your pinky.)
+
+The biggest problem with the last posting was that the bridge part was
+completely screwed up and didn't even remotely sound like it should.
+So here's how it should go... I guess.
+
+Bridge Fig.1 (listen to song for when to play this)
+
+D-|-----------------------------------2-------|
+A-|-------0--------2-------4------------0-----|
+F#|-----3---3--------3-------3-----3------3---|Immediately followed by
+D-|-----------------------------------------0-|      Fig.2
+A-|-------------------------------------------| 
+D-|-4-----------4-------4-------4-------------|
+
+Bridge Fig.2
+
+D-|--------------------------------0-------|
+A-|------0-------2------4------------4-----|
+F#|----3---3-------3------3-----3------3---|Then return to Fig.1
+D-|--------------------------------------0-|     again.
+A-|----------------------------------------|
+D-|-0---------0-------0------0-------------|
+
+Outro - new and improved
+
+D-|----0---------0---------0---------0-------|
+A-|--------4----------4---------4---------4--|
+F#|--------0--------------------0------------|
+D-|------------------------------------------|
+A-|-4----4----4----4----4----4----4----4-----|
+D-|-4----4----4----4----4----4----4----4-----|
+
+D-|---------0---------0---------0---------0--|
+A-|---4----------4---------4---------4-------|
+F#|---0--------------------0-----------------|Then Repeat this a
+D-|------------------------------------------| couple times.
+A-|-0----0----0----0----0----0----0----0-----|
+D-|-0----0----0----0----0----0----0----0-----|
+
+To end the last repeat of the outro, the bottom 3 strings are strum
+like this.
+
+D-|-------|
+A-|-------|
+F#|-------|
+D-|---0---|
+A-|---0---|
+D-|---0---|
+
+At the end, it repeats only half a bar of the outro, like this.
+
+D-|----0-----------------------0-------|
+A-|---------4-----------------------4--|
+F#|---------0-----------------------0--|
+D-|------------------------------------|
+A-|-4----4------------------0----0-----|
+D-|-4----4------------------0----0-----|
+
+And the lead plays this one weird riff with a few variations.
+
+D-|---------------------------------|
+A-|----------9b11-------9-9b11r9----|
+F#|--7b8r7------------------------8-|
+D-|---------------------------------|
+A-|---------------------------------|
+D-|---------------------------------|
+
+And that's the whole song.  Here are the lyrics if you need them also.
+
+Yeah its over now
+But I can breathe somehow
+When it's all worn out
+I'd rather go without
+
+You know it's been on my mind
+Could you stand right here
+Look me straight in the eye and say
+That it's over now
+
+We pay our debt sometime
+
+Well it's over now
+Yet I can see somehow
+When it's all gone wrong
+It's hard to be so strong
+
+(yeah) We pay our debt sometime
+
+Guess it's over now
+I seem alive some how
+When it's out of sight
+Just wait and do your time
+
+You know it's been on my mind
+Could i stand  right here
+Look myself in the eye and say
+That it's over now
+
+(Yeah) We pay our debt sometime
+
+Comments, questions, requests
+welcome...ChrisBarr@postoffice.worldnet.att.net
+

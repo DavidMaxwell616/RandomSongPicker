@@ -1,0 +1,101 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+#
+
+From: rogers@hi.com (Andrew Rogers)
+Date: Wed, 7 Feb 1996 22:56:11 -0500
+Subject: ./r/raiders/kicks.crd
+
+                                "Kicks"
+                      (Barry Mann - Cynthia Weil)
+
+Intro:
+
+	12-string [2X; chords implied]:
+
+	(Fm)          (Bb)
+	 v   v   v   v     v   v   v   v
+	-----------------|-----------------
+	-----------------|-----------------
+	-----1---3---1---|---1-------------
+	-3-----3-------3-|-----3-1-----1---
+	-----------------|---------3-------
+	-----------------|-----------------
+
+	Bass [enters 2nd time]:
+
+	 v   v   v   v     v   v   v   v
+	-----------------|-----------------
+	-----------1-2-3-|-------3-1---0---
+	-3-----3-3-------|-----------------
+	-----------------|-----------------
+
+Verse (chords on first two lines implied by guitar/bass riffs above):
+
+	          (Fm)                                 (Bb)
+	Girl, you thought you found the answer on that magic carpet ride last
+	    (Fm)      (Bb)
+	    night
+	             (Fm)                       (Bb)
+	But when you wake up in the mornin' the world still gets you
+	      (Fm)     (Bb)
+	    uptight
+	         Db
+	Well, here's nothin' that you ain't tried
+	    Fm            /E    /Eb   /D
+	To fill the emptiness inside
+	     Db
+	But when you come back down, girl
+	                      C
+	Still ain't feelin' right
+
+Chorus:
+
+	[1,2,4:  And don't it seem like]
+	 Ab                      Db
+	Kicks just keep gettin' harder to find
+	    		[3, 4: Oh, you don't need kicks, girl]
+	              Ab                  Db
+	And all your kicks ain't bringin' you peace of mind
+	    		[3, 4: You just need help, girl]
+	            Ab
+	Before you find out it's too late, girl
+	                 C
+	You better get straight
+
+Link (over intro guitar/bass riffs, 2X):
+
+	                  (Fm)      (Bb)
+	No, but not with kicks
+	              (Fm)        (Bb)
+	You just need help, girl
+
+Verse 2:
+
+	Well you think you're gonna find yourself a little piece of
+	    paradise
+	But it ain't happened yet, so girl, you better think twice
+	Don't you see no matter what you do
+	You'll never run away from you
+	And if you keep on runnin'
+	You'll have to pay the price
+
+	[repeat chorus]
+
+Bridge:
+
+	                    F
+	No, you don't need kicks
+	             Dm 
+	To help you face the world each day
+	               Bb
+	That road goes nowhere
+	           C
+	I'm gonna help you find yourself another way
+
+	[repeat chorus 2X; fade second time]
+
+
+-- another ace 60's tab from Andrew Rogers

@@ -1,0 +1,95 @@
+Received: from animal-farm.nevada.edu (animal-farm.nevada.edu 
+[131.216.1.11]) by redrock.nevada.edu (8.6.4/8.6.4) with ESMTP id 
+GAA04877 for <jamesb@redrock.nevada.edu>; Thu, 2 Dec 1993 06:57:03 -0800
+Received: from d26.wu-wien.ac.at (d26.wu-wien.ac.at [137.208.106.126]) 
+by animal-farm.nevada.edu (8.6.4/8.6.4) with SMTP id GAA26967 for 
+<jamesb@animal-farm.nevada.edu>; Thu, 2 Dec 1993 06:56:56 -0800
+Received: by d26.wu-wien.ac.at (5.57/Ultrix3.0-C)
+	id AA02447; Thu, 2 Dec 93 13:48:06 -0100
+From: szojak@d26.wu-wien.ac.at (Martin Szojak)
+Message-Id: <9312021448.AA02447@d26.wu-wien.ac.at>
+Subject: McCartney.Paul/WithALittleLuck.crd
+To: jamesb@animal-farm.nevada.edu
+Date: Thu, 2 Dec 93 13:48:05 GMT-1:00
+X-Mailer: ELM [version 2.3 PL11]
+
+With a little Luck
+(Paul McCartney)
+
+Intro: A/B   E
+       A/B   A/D C#m7   B7sus4   E
+
+              E/G#                 A
+With a little luck, we can help it out.
+                 A/B                   E
+We can make this whole damn thing work out.
+              E/G#                A
+With a little love, we can lay it down.
+                       A/B       C#m7
+Can't you feel the town exploding?
+
+
+F#m         C#7                F#m7        C#7
+There is no end to what we can do together.
+F#m         C#7  F#m7          C#7
+There is no end, there is no end.
+F#m7          C#7            Dmaj7
+The willow turns his back on inclement weather;
+       A/B                                         E
+And if he can do it, we can do it, just me and you,
+
+
+             E/G#                  A
+And a little luck, we can clear it up.
+                   A/B           E
+We can bring it in for a landing, 
+              E/G#                    A      
+With a little luck, we can turn it on.
+                   A/B           C#m7
+There can be no misunderstanding.
+
+
+F#m         C#7                Fm7         C#7
+There is no end to what we can do together.
+F#m         C#7                C#7
+There is no end, there is no end.
+F#m7          C#7            Dmaj7
+The willow turns his back on inclement weather;
+A/B                            E
+We can do it, just me and you.
+
+
+              E/G#                  A
+With a little push, we could set it off.
+                   A/B            E
+We can send it rocketing skywards.
+              E/G#                       A
+With a little love, we could shake it up.
+                   A/B              C#m7
+Don't you feel the comet exploding?
+
+       E
+With a little luck.
+       E/G#
+With a little luck.
+       A                             A/B             
+With a little luck, a little luck, a little luck.
+       E
+With a little luck.
+       E/G#
+With a little luck.
+       A                             A/B
+With a little luck, a little luck, a little luck.
+
+A/D  C#m7    F#m/B  E    A/D  C#m7
+A/B                      E
+
+-- 
+******************************************          *
+* Martin Szojak  szojak@ds1.wu-wien.ac.at*          *
+* Vienna University of Economics and     *         * *         *
+* Business Administration                *         * *        * *
+* Augasse 2-6, A-1090 Vienna, Austria    *         * **********  *
+******************************************        *   *          * 
+                                                  *   *          *
+Ther are no kanguruhs in Austria !!!              *   *          *

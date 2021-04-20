@@ -1,0 +1,946 @@
+Date: Thu, 24 Feb 1994 19:05:34 -0700 (MST)
+From: Paul Zimmerman <IFSXM@ASUVM.INRE.ASU.EDU>
+Subject: Chord & General Theory Chart - Theory
+
+
+CHORD THEORY
+                           compiled by Paul Zimmerman
+
+
+I.  The Fret Board
+==================
+
+The first that you will need to learn is the notes on the fretboard.
+It is very important to any theory on guitar to know where the notes
+are on the neck.  At first, memorize the notes on the first couple
+of strings.  Then figure out what the notes on the rest of the
+strings will be.  In a pretty short amount of time you should be
+able to do that.  In time you'll develop more of a feel for where
+the notes fall, without having to think about it, but that's not
+necessary for chord theory.  What you really need to be able to do
+is to be able to figure out what notes you're playing in a given
+chord.
+
+
+e||-F--|-F#-|-G--|-G#-|-A--|
+B||-C--|-C#-|-D--|-D#-|-E--|        Note: # = sharp
+G||-G#-|-A--|-A#-|-B--|-C--|              b = flat
+D||-D#-|-E--|-F--|-F#-|-G--|
+A||-A#-|-B--|-C--|-C#-|-D--|-D#-|-E--|-F--|-F#-|-G--|-G#-|-A--|
+E||-F--|-F#-|-G--|-G#-|-A--|-A#-|-B--|-C--|-C#-|-D--|-D#-|-E--|
+
+
+Notice that there is a full step between all notes except for B and
+C, and E and F.  For the sake of simplicity I have only shown
+sharps, but it is important to understand where.the flats are.  A#
+(# = sharp) is equal to Bb (b = flat).  D# is equal to Eb.  B# is
+equal to C, and Cb is equal to B.  Once again, for the purpose of
+chord theory, it is not necessary to be instantly familiar with
+every note on the fretboard.  What is necessary is to be able to
+figure out the notes of any given chord that you are playing.
+
+
+II.  Keys (the Circle of fifths)
+================================
+
+The next step in understanding any guitar theory is to understand
+the circle of fifths.  Its importance is that it diagrams several
+important concepts.  First, it is used in determining scales.
+Second, it is used to determine which chords are in any given key.
+Third, it is the basis for chord substitutions.
+
+To begin with, I'll demonstrate how the circle of fifths is used in
+a blues progression in G (something that hopefully everyone is
+familiar with).  Twelve bar blues in G begins with 4 bars of G, 2
+bars of C, 2 bars of G, one bar of D7, one bar of C, one bar of G,
+and finally one bar of D7 (as shown below).  This progression is
+also commonly known as
+
+|G   |G   |G   |G   |C   |C   |G   |G   |D7  |C   |G   |D7  |
+
+a I - IV - V progression.  If you are not familiar with this
+progression, learn it.  It is one of the most basic building blocks
+in rock music.  Traces of it can be found in everything from Led
+Zeppelin to Doo-Wop to surf music to Eric Clapton.
+
+The next diagram shows the chords that are in the key of G.
+
+I  II  III  IV  V  VI  VII
+G   A   B   C   D   E   F#
+
+As you can see, the G is the I, the C is the IV, and the D7 is the V
+in the I- IV - V progression.  Any F chords played in the key of G
+need to be sharped, otherwise they are considered to be out of key.
+
+In the same way, the circle of fifths shows which notes need to
+sharped or flatted in chord constuction.  To form a major chord, the
+first, third, and fifth notes of the scale need to be played.  In
+the case of Gmajor (or just G as it is commonly called), a G note
+would be 1, a B note would be 3, and a D note would be 5.
+
+e||---|---|-o-|---|  G  (1)     As you can see, the open G chord
+B||---|---|---|---|  B  (3)     is made up entirely of G, B, and D notes
+G||---|---|---|---|  G  (1)     (I, 3, and 5).  Note that any G chord
+D||---|---|---|---|  D  (5)     requires a 7 note to be played would
+A||---|-o-|---|---|  B  (3)     be an F#, not an F.
+E||---|---|-o-|---|  G  (1)
+
+
+For the third part, the Circle of fifths gives an indication of when
+to play minors, etc.  The following chart shows some guidelines.
+Later on
+
+I = major
+II = minor7
+III = minor7
+IV = major
+V = dominant7
+VI = minor (known also as the relative minor)
+VII = diminished
+
+I will show some substitution rules for incorporating more unusual
+chords into a progression.  It is important to remember that these
+rules are only general guidelines.  If you look at the chords of
+some songs that you know, you will probably see that as a general
+trend, these rules are followed, but on many occasions they aren't.
+
+One thing to keep in mind: a chord progression may be in the key of
+A (A is the I chord) without playing an A chord first.  Look at the
+following
+example.
+
+  |E   |E   |A   |D   |
+
+This the chord progression in Lola, by the Kinks.  In this case, it
+is in the key of A (A = I, D = IV, E = V).  This shows that the
+first chord played in a progression does not determine the key.
+Another example is the IIm - V - I chord progression, which is one
+of the most common in western music.  As you can see, it starts on
+the IIm chord.
+
+Since I don't have very good graphics capabilities here, I will
+represent the circle of fifths in chart form, as would be read
+clockwise from 12 o'clock.
+
+C - no sharps or flats.
+G - F#
+D - F#, C#
+A - F#, C#, G#
+E - F#, C#, G#, D#
+B - F#, C#, G#, D#, A#
+F# (Gb) - F#, C#, G#, D#, A#, E# (F)
+Db - Bb, Eb, Ab, Db, Gb
+Ab - Bb, Eb, Ab, Db
+Eb - Bb, Eb, Ab
+Bb - Bb, Eb
+F - Bb
+
+Notice the spacing between chords is the same for each key.  Here is
+the example again in the key of G.
+
+I   II   III   IV   V   VI   VII
+G   A     B    C    D   E    F#
+
+Notice that there is a whole step between all chords except between
+III and IV, and between VII and I.  This will be true for all keys.
+
+That pattern is also the same as that for the major scale.  The
+above diagram shows the notes contained in the G major scale.
+
+The VI chord is called the relative minor, because it shares many
+notes with the tonic (I chord).  If C were the tonic, Am would be
+the relative minor.  If you play one after the other, you will
+notice they sound good together.  If something is played in an Am
+key, you use the exact same chords as if it were being played in the
+key of C.  In this way, you can determine all of the mionr keys as
+well from the circle of fifths.
+
+
+3.  Chord Construction
+======================
+
+A chord is a group of three or more different notes played together.
+Every chord is based on a specific formula which relates back to the
+major scale after which it is named.  As shown earlier, the formula
+for a major chord is 1 3 5 hence a G major (GM) chord consists of
+the first, third, and fifth notes of the G major scale, G B D (refer
+to the circle of fifths chart).  **Note the ROOT note is the note
+after which the chord is named (the 1 note).
+The formula for a minor chord is 1 b3 5.  In the case of a G minor
+(Gm) the notes would be G Bb D.  **Note: a G flat major (Gb) is Gb
+Bb Db, therefore a Gbm (G flat minor) would be Gb Bbb Db, or Gb A
+Db.  There are many cases where a flatted note has to be flatted
+again according to the chord formula.
+
+In the following diagrams I will show the names, formulas, and
+fingerings for over 30 of the most common chords.  The numbers show
+where to fret the strings and with which finger.  A 1===1 means to
+barre that number of strings with your index finger.  Any notes with
+a question mark ? underneath are optional (can be muted).  Any
+strings with no note shown below are not to be played.  Sharp and
+flat symbols will come before the note (b3).  Shown are the most
+common barre chord fingerings (all open chords can be derived from
+the barre chord shapes).  Not all chords have the root as the bass
+note, but most do.  1 = index finger, 2 = ring, 3 = middle, 4 = pinky.
+
+
+
+Name: Major          +-+-+-+-+-+      +-+-+-+-+-+      +-+-+-+-+-+
+How it's written: M* +-+-+-+-+-+      +-+-+-+-+-+      +-+-+-+-+-+
+Formula: 1 3 5       | | | | | |      | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+      +-+-+-+-+-+
+                     1=========1      1=========1      | | | 1===1
+                     +-+-+-+-+-+      +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | 2 | |      | | | | | |      | | | | 2 |
+                     +-+-+-+-+-+      +-+-+-+-+-+      +-+-+-+-+-+
+                     | 3 4 | | |      | | 3===3 |      | | 3 | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |      | 4 | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+      +-+-+-+-+-+
+
+                     1 5 1 3 5 1      5 1 5 1 3 5        1 3 5 1 3
+                                      ?         ?
+* G major can either be written GM or more commonly just G.
+======================================================================
+Minor
+m                    +-+-+-+-+-+      +-+-+-+-+-+
+1 b3 5               +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     1=========1      1=========1
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | 2 |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | 3 4 | | |      | | 3 4 | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+
+                     1 5 1b3 5 1      5 1 5 1b3 5
+                                      ?
+
+This is the last standard minor that I will diagram.  All chords can
+be turned into a minor by flatting the 3 note.  I will diagram a
+couple that are not apparent, but the rest are very easy to figure
+out using this formula.
+======================================================================
+Fifth
+5                    +-+-+-+-+-+      +-+-+-+-+-+
+1 5                  +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     1 | | | | |      | 1 | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | 3 4 | | |      | | 3=3 | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+
+                     1 5 1              1 5 1
+
+======================================================================
+Suspended 2
+sus2                 +-+-+-+-+-+      +-+-+-+-+-+
+1 2 5                +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     1=========1      | | 1=1 | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | 2 |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | 3 4 | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | 3 | | | 4
+                     +-+-+-+-+-+      +-+-+-+-+-+
+
+                     5 1 5 1 2 5        1 2 5 1 5
+                     ?                          ?
+======================================================================
+Suspended 4
+sus4                 +-+-+-+-+-+      +-+-+-+-+-+
+1 4 5                +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     1=========1      1=========1
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | 3===3 | |      | | 3=3 | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | 4 |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+
+                     1 5 1 4 5 1      5 1 5 1 4 5
+                             ? ?      ?         ?
+======================================================================
+Suspended 2 Suspended 4
+sus2sus4             +-+-+-+-+-+      +-+-+-+-+-+
+1 2 4 5              +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     1=========1      | 1=======1
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | 3 | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | 4 |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+
+                     5 1 4 1 2 5        5 1 4 1 2
+                     ?
+======================================================================
+Major add 9*
+add9                 +-+-+-+-+-+      +-+-+-+-+-+
+1 3 5 9 (or 2)       +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     1=========1      1=========1
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | 2 | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | 3=3 | | 4      | | 3===3 |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | 4 | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+
+                     1 5 1 3 5 9      5 1 5 9 3 5
+                                      ?         ?
+* 9 = 2, but one octave higher:1 2 3 4 5 6 7 1 2 (or 9) 3 4 (or 11)
+5 6 (or 13)
+======================================================================
+Major 6
+6 or M6              +-+-+-+-+-+      +-+-+-+-+-+
+1 3 5 6              +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     1=========1      1=========1
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | 2 | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | 3=3 | 4 |      | | 3=====3
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+
+                     1 5 1 3 6 1      5 1 5 1 3 6
+======================================================================
+Major 6 add 9
+6add9                +-+-+-+-+-+      +-+-+-+-+-+
+1 3 5 6 9            +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | 1=====1      | 1=======1
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | 2 | |      3 | | 4 | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     4 | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+
+                     1   5 9 3 6      3 5 1 5 6 9
+
+======================================================================
+Dominant 7
+7                    +-+-+-+-+-+      +-+-+-+-+-+
+1 3 5 b7             +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     1=========1      1=========1
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | 2 | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | 3 | | | |      | | 3===3 |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | 4
+                     +-+-+-+-+-+      +-+-+-+-+-+
+
+                     1 5 b73 5 1      5 1 5 1 3 b7
+                                      ?
+
+
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     1=========1      1=========1
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | 2 | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | 3 | | | |      | | 3 | 4 |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | 4 |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+
+                     1 5 b73 b71      5 1 5 b73 5
+                                      ?
+======================================================================
+Minor add 9
+m add9
+1 b3 5 9
+======================================================================
+Minor 6
+m6
+1 b3 5 6
+======================================================================
+Minor 7
+m7
+1 b3 5 b7
+======================================================================
+Minor 6 add 9
+m6 add9
+1 b3 5 6 9
+======================================================================
+Seven suspended 4
+7sus4                +-+-+-+-+-+      +-+-+-+-+-+
+1 4 5 b7             +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     1=========1      1=========1
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | 3 | 4 | |      | | 3 | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | 4 |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+
+                     1 5 b74 5 1      5 1 5 b74 5
+                                      ?
+======================================================================
+Major 7                                                X
+M7                   +-+-+-+-+-+      +-+-+-+-+-+      +-+-+-+-+-+
+1 3 5 7              +-+-+-+-+-+      +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+      +-+-+-+-+-+
+                     1=========1      1=========1      | | | 1===1
+                     +-+-+-+-+-+      +-+-+-+-+-+      +-+-+-+-+-+
+                     | | 3 2 | |      | | | 2 | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+      +-+-+-+-+-+
+                     | 4 | | | |      | | 3 | 4 |      | | 3 | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |      | 4 | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+      +-+-+-+-+-+
+
+                     1 5 7 3 5 1      5 1 5 7 3 5        1 3 5 7 3
+                                      ?
+======================================================================
+Minor Major 7
+mM7
+1 b3 5 7
+======================================================================
+Augmented            X                X X
++                    +-+-+-+-+-+      +-+-+-+-+-+
+1 3 #5               +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | 1=1 |      | | | | | 1
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | 2 | | |      | | | 3 2 |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | 3 | | | |      | | 4 | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | 4      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+
+                       1 3#5 1 #5        #5 1 3 #5
+                      #5 1 3#5 3          1 3#5 1
+                       3#5 1 3 1          3#5 1 3
+
+Because of the nature of the formulat for augmented chords, any note played
+could be considered the root.  Therefore, Ab+, C+, and E+ can all have exactly
+the same shape at the same location on the neck.  The same concept applies to
+diminished chords.
+======================================================================
+Diminished 7                          X X
+dim7                 +-+-+-+-+-+      +-+-+-+-+-+
+1 b3 b5 bb7          +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     1=========1      | | 1 | 2 |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | 2 | | | |      | | | 3 | 4
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | 3 | 4 |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+
+First shape:  1 b5 1 b3 bb7 1, b3 bb7 b3 b5 1 b3, b5 1 b5 bb7 b3 1, or
+bb7 b3 bb7 1 b5 bb7
+Second shape: 1 b5 bb7 b3, b3 bb7 1 b5, b5 1 b3 bb7,  or bb7 b3 b5 1
+======================================================================
+Ninth                                 X
+9                    +-+-+-+-+-+      +-+-+-+-+-+
+1 3 5 b7 9           +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     1=========1      | | 1 | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | 2 | |      | 2 | 3===3
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | 3 | | | 4      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     1 5 b73 1 9        1 3 b79 5
+======================================================================
+Minor 9
+m9
+1 b3 5 b7 9
+======================================================================
+Major 9
+M9                   +-+-+-+-+-+      +-+-+-+-+-+
+1 3 5 7 9            +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | 1=======1      1=========1
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     2 | | | 3 |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | 4 | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | 4 | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+
+                     1 3 7 9 5 7      3 1 9 5 7 3
+
+                                      X         X
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     1=========1      | | 1 | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | 2 | |      | 2 | | 3 |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | 3 | | |      | | | 4 | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+
+                     5 1 5 7 9 5        1 3 7 9    (no fifth)
+                     ?
+
+======================================================================
+Eleventh             X
+11                   +-+-+-+-+-+      +-+-+-+-+-+
+1 3 5 b7 9 11        +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | 1=======1      1=========1
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | 2 | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | 3
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+
+                       1 11b79 5      1 11b73 5 9
+======================================================================
+Minor 11th           X
+m11                  +-+-+-+-+-+      +-+-+-+-+-+
+1 b3 5 b7 9 11       +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | 1=======1      1=========1
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | 2 |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | 3
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+
+                       1 11b7b35      1 11b7b35 9
+                      (no ninth)
+
+======================================================================
+Thirteenth
+13                   +-+-+-+-+-+      +-+-+-+-+-+
+1 3 5 b7 9 13        +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     1=========1      1=========1
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | 2 | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | 3 | | 4=4      | | 2 | 3 4
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+
+                     1 5 b73 139      5 1 5 b73 13
+
+                     X                  X
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | 1 | | |      1 | 2 | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | 2 | 3=3 |      | | | 3 | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | |      | | | | 4=4
+                     +-+-+-+-+-+      +-+-+-+-+-+
+                     | | | | | 4      | | | | | |
+                     +-+-+-+-+-+      +-+-+-+-+-+
+
+                       1 3 b79 13     1  b7 3 139
+======================================================================
+Minor 13th
+m13
+1 b3 5 b7 9 13
+
+The following is a chart of chords which have a slight alteration to
+one of the given formulas, and are therefore called altered chords.
+
+Chord Name                   Chord Formula      Example
+----------                   -------------      -------
+Major flat five              1 3 b5             Cb5: C E Gb
+Minor seven flat five        1 b3 b5 b7         Cm7b5: C Eb Gb Bb
+Seven sharp five             1 3 #5 b7          C7#5: C E G# Bb
+Seven flat five              1 3 b5 b7          C7b5: C E Gb Bb
+Seven sharp nine             1 3 5 b7 #9        C7#9: C E G Bb D#
+Seven flat nine              1 3 5 b7 b9        C7b9: C E G Bb Db
+Seven sharp five flat nine   1 3 #5 b7 b9       C7#5b9: C E G# Bb Db
+Nine sharp five              1 3 #5 b7 9        C9#5: C E G# Bb D
+Nine flat five               1 3 b5 b7 9        C9b5: C E Gb Bb D
+Nine sharp eleven            1 3 5 b7 9 11#     C9#11: C E G Bb D F#
+Minor nine major seven       1 b3 5 7 9         Cm9(M7): C Eb G B D
+Thirteen flat nine           1 3 5 b7 b9 13     C13b9: C E G Bb Db A
+Thirteen flat five flat nine 1 3 b5 b7 b9 13    C13b5b9: C E Gb Bb
+Db A
+
+In altered chords, the notes to be altered are always written as
+part of the chord name, enabling you to construct the chord.  For
+example, Cm7#5b9 (not listed above) is a Cm7 chord with the fifth
+sharped and the ninth flatted.
+
+Another type of alteration occurs when chord symbols are written
+thus:
+   G/F#, or C/G.
+Finger the chord to the left of the slash, then change the note on
+the bass string to the note to the right of the slash.
+
+Here are the substitution rules for altered chords:
+
+9, b9, or #9 replaces 1
+sus2, sus4, or b3 replaces 3
+b5, #5, #11, or 13 replaces 5
+
+
+Chord Substitutions
+===================
+
+Remember this chart from earlier?  It shows the common chords for
+each key.
+
+I = major
+II = minor 7
+III = minor 7
+IV = major
+V = dominant 7
+VI = minor (relative minor)
+VII = diminished
+
+The following chart displays common chord substitutions for the M,
+m, m7 and diminished chords shown above.
+
+Major:  6, M7, M9, sus2, sus4, sus2sus4, Madd9, 6add9, M7#11, M9#11
+Minor:  m, m6, mM7, mM9, mM7#11, m6add9
+m7:     m7, m9, m11, m13, m7#5, m7b5
+7:      9, 11, 13, 7sus4, 7sus2, 13sus4, 7b5, 7#5
+dim:    m7b5
+
+
+I haven't included everything, because you can easily tell which
+category a chord belongs to.  Cmajor13 substitutes for any major (I,
+IV). G7b5b9 susbstitutes for a dominant 7 chord, etc.  There are
+also a few chords that are not shown in the diagrams, but you should
+be able to figure those out too.  Cmajor 13 is 1 3 5 7 9 and 13,
+G7sus2 is 1 2 5 b7, etc.
+
+It is important to keep in mind that these are guides, not rules,
+and there will be many times when you'll want to break them, which
+is fine.  If it sounds good, then it is right.
+
+The following is a more in depth description of several chords and
+their common uses.
+
+Major 7 - gives a fuller sound, often used in jazz
+Major 9 - used in jazz
+Major6add9 - used often in country and in jazz
+Suspended chords usually resolve to the major, often used to break
+up a static
+    vamp (instead a playing C the whole time, switch from C to Csus
+to C, etc)
+Minor - sad chord
+m6 - used in funk
+m7 - used in funk
+m7#5 - used in fusion
+m11 - used in funk
+m(M7) - dark, moody
+Ninth - used in funk
+Augmented - connecting chord
+Diminished - passing chord
+7sus2 - used in folk
+m#5 - often used as a IIIm chord
+maj13#11 - used in soul
+9#11 - chromatic passing chord resolving down a half step, or as a
+substitute
+    for a IV7 chord
+13#11 - same usage as 9#11
+M7#11 - dramatic ending chord
+M7b5#9 - ending chord, or a passing chord to I
+m7b5 - usually used as a IIm in a minor key
+9sus4 (11) - most popular substitution for dominant 7 chords
+Augmented 7 - V chord in a minor key
+Diminished - substitute for second half of IV chord measure in the
+blues, one
+    half step higher (C = I, F = IV, F#dim would be used)
+The V chord may be substituted on the weak beats (2 and 4) for a Im
+7sus4b9 - V chord resolving to Im, or as I chord in Phrygian mode
+m7#5 - IIIm in the harmonized major scale
+13b9 - V7 chord
+Alternate from M6 to M7 and back when playing a static I chord
+
+
+Common chord progressions:
+
+I - IV - V7
+IIm - V - I
+Iv - IVm - I
+
+
+This diagram will help to show some fingerings for many of the
+altered chords.  After studying these two examples, you should be
+able to figure out the rest of the altered chords.  The numbers on
+the frets are the notes, not the fingerings (R = root, 3 = third,
+etc).
+
+C9
++----+----+----+----+----+        +----+----+----+----+----+
++----+----+----+----+----+        +----+----+----+----+----+
+|    |    |    |    |    |        |    |    b3   |    |    |
++----+----+----+----+----+        +----+----+----+----+----+
+|    |    3    |    |    |        |    |    3    |    b9  b5
++----+----+----+----+----+        +----+----+----+----+----+
+|    R    |    b7   9    5        |    R    |    b7   9    5
++----+----+----+----+----+        +----+----+----+----+----+
+|    |    |    |    |    |        |    |    |    |    #9  #5
++----+----+----+----+----+        +----+----+----+----+----+
+|    |    |    |    |    |        |    |    |    |    |   13
++----+----+----+----+----+        +----+----+----+----+----+
+|    |    |    |    |    |        |    |    |    |    |    |
++----+----+----+----+----+        +----+----+----+----+----+
+
+
+ C
+ +----+----+----+----+----+        +----+----+----+----+----+
+ +----+----+----+----+----+        +----+----+----+----+----+
+ |    |    |    |    |    |        |    |    |    |    |    |
+ +----+----+----+----+----+        +----+----+----+----+----+
+ |    |    |    |    |    |        |    |    |    |    |    |
+ +----+----+----+----+----+        +----+----+----+----+----+
+(5)   R    |    |    |   (5)      (5)   R    |    b7   2   (5)
+ +----+----+----+----+----+        +----+----+----+----+----+
+ |    |    |    |    |    |        |    |    |    7    b3   |
+ +----+----+----+----+----+        +----+----+----+----+----+
+ |    |    5    R    3    |        |    |    5    R    3    6
+ +----+----+----+----+----+        +----+----+----+----+----+
+ |    |    |    |    |    |        |    |    |    |    4    7
+ +----+----+----+----+----+        +----+----+----+----+----+
+
+
+
+
+Modes
+=====
+
+The last topic I'm going to cover is modes.  The reason I'm
+including them is that they fit in so well with chord theory (as
+does the major scale, which I mentioned much earlier).  A mode is
+simply a displaced scale.  The ones I will show are a C major scale
+(no sharps or flats), displaced to D, E, F, etc.  The modes are
+commonly used in jazz improvisation, but they also appear very often
+in rock music.  The one thing to remeber about soloing in the modes
+is that you need to change modes according to the chord changes, and
+also you need to resolve to the root when you make these changes.
+The diagrams below show one position for the modes, with the most up-
+to-date method of fingering (but certainly not the only).  If you
+are soloing in the F - Lydian mode, and need to change to G -
+Lydian, you just slide everything up two frets.
+
+I = Ionian
+II = Dorian
+III = Phrygian
+IV = Lydian
+V = Mixolydian
+VI = Aeolian
+VII = Locrian
+
+ F - LYDIAN             G - MIXOLYDIAN        A - Aeolian (minor "pure" scale)
+ E  A  D  G  B  e       E  A  D  G  B  e       E  A  D  G  B  e
+ ================       ================       ================
+ +--+--+--+--+--+       +--+--+--+--+--+       +--+--+--+--+--+
+(*) |  |  |  |  |       |  |  |  |  |  |       |  |  |  |  |  |
+ +--+--+--+--+--+       +--+--+--+--+--+       +--+--+--+--+--+
+ |  *  *  *  |  |       |  |  |  |  |  |       |  |  |  |  |  |
+ +--+--+--+--+--+       +--+--+--+--+--+       +--+--+--+--+--+
+ *  * (*) |  *  *      (*) *  *  |  |  |       |  |  |  |  |  |
+ +--+--+--+--+--+     3 +--+--+--+--+--+       +--+--+--+--+--+
+ |  |  |  *  |  |       |  |  |  *  |  |       |  |  |  |  |  |
+ +--+--+--+--+--+       +--+--+--+--+--+       +--+--+--+--+--+
+ *  *  *  *  *  *       *  * (*) *  *  *      (*) *  *  *  |  |
+ +--+--+--+--+--+       +--+--+--+--+--+     5 +--+--+--+--+--+
+ |  |  |  | (*) |       |  |  |  |  *  |       |  |  |  |  *  |
+ +--+--+--+--+--+       +--+--+--+--+--+       +--+--+--+--+--+
+ |  |  |  |  |  *       *  *  *  *  |  *       *  * (*) *  |  *
+ +--+--+--+--+--+       +--+--+--+--+--+       +--+--+--+--+--+
+ |  |  |  |  |  |       |  |  |  | (*) *       *  *  |  |  *  *
+ +--+--+--+--+--+       +--+--+--+--+--+       +--+--+--+--+--+
+ |  |  |  |  |  |       |  |  |  |  |  |       |  |  *  *  |  |
+ +--+--+--+--+--+       +--+--+--+--+--+       +--+--+--+--+--+
+ |  |  |  |  |  |       |  |  |  |  |  |       |  |  |  | (*) *
+ +--+--+--+--+--+       +--+--+--+--+--+       +--+--+--+--+--+
+
+
+  B - LOCRIAN            C - IONIAN             D - DORIAN
+  E  A  D  G  B  e       E  A  D  G  B  e       E  A  D  G  B  e
+  ================       ================       ================
+  +--+--+--+--+--+       +--+--+--+--+--+       +--+--+--+--+--+
+ (*) *  *  *  |  |      (*) *  |  |  |  |      (*) *  *  *  |  |
+7 +--+--+--+--+--+     8 +--+--+--+--+--+    10 +--+--+--+--+--+
+  *  *  |  |  *  *       |  |  *  *  |  |       |  |  |  |  |  |
+  +--+--+--+--+--+       +--+--+--+--+--+       +--+--+--+--+--+
+  |  | (*) *  |  |       *  * (*) *  *  *       *  * (*) *  *  *
+  +--+--+--+--+--+       +--+--+--+--+--+       +--+--+--+--+--+
+  *  *  *  *  *  *       |  |  |  |  |  |       *  |  |  |  *  *
+  +--+--+--+--+--+       +--+--+--+--+--+       +--+--+--+--+--+
+  |  |  |  |  |  |       *  *  *  *  *  *       |  *  *  *  |  |
+  +--+--+--+--+--+       +--+--+--+--+--+       +--+--+--+--+--+
+  |  |  |  | (*) *       |  |  |  | (*) *       |  |  |  | (*) *
+  +--+--+--+--+--+       +--+--+--+--+--+       +--+--+--+--+--+
+  |  |  |  |  |  |       |  |  |  |  |  |       |  |  |  |  |  |
+  +--+--+--+--+--+       +--+--+--+--+--+       +--+--+--+--+--+
+  |  |  |  |  |  |       |  |  |  |  |  |       |  |  |  |  |  |
+  +--+--+--+--+--+       +--+--+--+--+--+       +--+--+--+--+--+
+
+
+   E - Phrygian
+   E  A  D  G  B  e
+   ================
+  (*) *  *  *  |  |
+12 +--+--+--+--+--+
+   *  |  |  |  *  *             The root notes are in parentheses ().
+   +--+--+--+--+--+             The number on the left shows what fret
+   |  * (*) *  |  |             number to start at.
+   +--+--+--+--+--+
+   *  *  *  |  *  *
+   +--+--+--+--+--+
+   |  |  |  *  |  |
+   +--+--+--+--+--+
+   |  |  |  | (*) *
+   +--+--+--+--+--+
+   |  |  |  |  |  |
+   +--+--+--+--+--+
+   |  |  |  |  |  |
+   +--+--+--+--+--+
+
+Notice the repeating shapes of the modes.  Unlike the scales you may have
+previously learned, there is a repetitive pattern to the modes that makes
+them easy to remember.  A seven string guitar would actually show the
+relationship between modes more clearly.  This is what the Aeolian mode
+would look like on a seven string guitar:
+
+?||---|-*-|---|-*-|-*-|---|---|
+?||---|-*-|---|-*-|-*-|---|---|
+?||---|-*-|-*-|---|-*-|---|---|
+?||---|-*-|-*-|---|-*-|---|---|
+?||-*-|---|-*-|---|-*-|---|---|
+?||-*-|---|-*-|---|-*-|---|---|
+?||-*-|---|-*-|---|-*-|---|---|
+
+There are seven different modes listed above, each one has this pattern,
+only slightly altered: they each start at a different fret, and at a
+different spot in the above pattern.  Since there are only six strings,
+the seventh pattern is left off.  Also, unlike the fictional guitar
+in the above example, the B and high-e strings are tuned higher, so the
+pattern on those two strings is pushed up one fret higher.
+
+This is following the pattern first shown in the circle of fifths. Each "-"
+represents a half step:
+
+I--II--III-IV--V--VI--VII-I....etc
+
+If C is the I chord, then the III and IV chords will be E and F, and the VII
+chord will be B (notice that there is only a half step from E to F, and from
+B to C).  Therefore the above diagram could also look like this, using Roman
+numerals:
+
+?||----|-II-|----|III-|-IV-|----|----|
+?||----|-VI-|----|VII-|-I--|----|----|
+?||----|III-|-IV-|----|-V--|----|----|
+?||----|VII-|-I--|----|-II-|----|----|
+?||-IV-|----|-V--|----|-VI-|----|----|
+?||-I--|----|-II-|----|III-|-IV-|----|
+?||-V--|----|-VI-|----|VII-|-I--|----|
+                             ^
+                             |
+                I put these in to show why there are so many
+                different fingerings for the same scales. Just
+                as in tuning, if you go down one string and back
+                five frets, you get the exact same note.
+
+
+A very good way to practice the modes (or any scale) is to do backsteps.
+Play the first four notes of the scale, then the 2nd - 5th, then the
+3rd - 7th, etc, all the way up, then backwards all the way down.
+In tab for the Ionian mode in G:
+
+e||----------------------------------------------------------------
+B||----------------------------------------------------------------
+G||------------------------------------------------------4-----4-5-
+D||-------------------------------4----4-5---4-5-7-4-5-7---5-7-----
+A||-------3-----3-5---3-5-7-3-5-7---5-7----7-----------------------
+E||-3-5-7---5-7-----7----------------------------------------------
+
+
+e||---------------------------------------5-----5-7---5-7-8-
+B||---------------5-----5-7---5-7-8-5-7-8---7-8-----8-------
+G||---4-5-7-4-5-7---5-7-----7-------------------------------
+D||-7-------------------------------------------------------
+A||---------------------------------------------------------
+E||---------------------------------------------------------
+
+and then repeat in reverse order.
+The best modes to concentrate on at first are the Ionian, Dorian, and
+Aeolian.  These are the most common, and often are used in jazz improvi-
+sation.
+
+
+Chord Voicings
+==============
+
+One way that rhythm players keep things interesting is to use different
+chord voicings (ie. different ways of playing the same chord).  This is a
+very common technique for jazz playing, as it allows the rhythm player to
+essentially improvise different ways of playing the exact same chords.
+
+In the earlier diagrams I show at least two ways of playing every chord,
+but there are in actualality many more ways of playing them.  For this, I
+recommend a chord encyclopedia.  The best one I've seen is the one put out
+by Progressive, called something similar to 'Guitar Chords'.
+
+
+Well, that about raps it up. Hope this helps.
+
+Peace,
+Paul Z
+--
+"He that's not busy being born is busy dying" - Bob Dylan

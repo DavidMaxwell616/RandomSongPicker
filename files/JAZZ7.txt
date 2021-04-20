@@ -1,0 +1,194 @@
+Marc Sabatella's Jazz Improvisation Primer: Playing With Others
+
+As soon as you can get an appropriate group of musicians together, you
+should begin to play in a group setting.  This is helpful for many reasons.
+First, if several players are at approximately the same level of ability,
+then they can learn together.  If one member is more advanced than the
+others, he can help them along.  A good rhythm section can often give a
+soloist ideas or help provide the confidence to allow him to take more
+chances.  On the other hand, you should avoid the temptation to have too
+many horn players, as you will find the tunes dragging out longer and
+longer as everyone gets their solos in.  The rhythm section will tire of
+the chord progression, and the soloists will grow impatient waiting their
+next turn.  It is probably counterproductive to have more than eight or so
+players together at once for this purpose.
+
+Organization
+
+Once an appropriate group of people has been assembled, you must decide
+what to play.  It helps if everyone in the group has access to the same
+fakebooks.  That way, when a person calls out a tune, you can be reasonably
+sure everyone will have it in their books.  The New Real Book by Chuck Sher
+is recommended, since it is available in transposed versions for most wind
+instruments, and contains a good variety of tunes.  You may wish to agree
+in advance on the tunes to be worked on, so everyone has the chance to
+familiarize themselves with the changes.
+
+Although it is not necessary to designate a leader for a group, it does
+help if there is someone to choose songs, decide on the order of soloists,
+pick a tempo, count the song off, and generally keep things moving along.
+It is not essential that this person be the best musician in the group, but
+it should be someone with some leadership or organizational skills.
+
+Beginnings
+
+Once you have selected a song to play, you need to keep in mind the things
+we have observed about form.  Normally, the group would play the melody
+first.  While learning a song, you may decide to have everyone play it in
+unison, but you should eventually give each performer a chance to play a
+head by himself, to allow everyone to work on making a personal statement
+even while simply playing the melody.  In performance situations, it is
+also usually more interesting for the listener to hear a melody interpreted
+by one individual, rather than stated in unison.  This is particularly true
+for ballads.  Fast bop tunes are normally played in unison, however.
+
+For songs with 32 bar forms, the head is usually played only once.  For
+blues tunes or other shorter forms, it is often played twice.  The melodies
+of many songs end on the second to last measure of the form.  For instance,
+Clifford Brown's twelve bar blues "Sandu" ends on the first beat of the
+eleventh measure.  Usually the rhythm section stops playing for the last
+two bars of the form to allow the first soloist an unaccompanied two
+measure lead in, or solo break.  In some tunes, such as John Coltrane's
+"Moment's Notice", this break is traditionally observed on every chorus,
+but usually it is done only as a lead in to the first solo, or at most as a
+lead in to each solo.
+
+Middles
+
+Once you are into your solo, you are largely on your own, although you
+should listen to what everyone else is doing around you, feeding off what
+they are playing, and leading them with your own playing.  This is your
+chance to apply the techniques you have learned so far.  Think melodically.
+Take chances.  Have fun!
+
+I have said several times that a solo should tell a story.  This means it
+should have a clear exposition, development, climax, and release.  If you
+were to chart the intensity level of a good solo, you would often find that
+it starts at a low level and slowly builds to a climax, after which it
+tapers off quickly to lead into the next soloist or whatever else comes
+next.  Beginners often have difficulty deciding how many choruses to play.
+This is something that varies for each performer.  Charlie Parker normally
+took only one or two in recordings, although this was partially because of
+the limitations of the 78 RPM format.  John Coltrane often took dozens of
+choruses, particularly in live performances.  When there are many soloists,
+you probably should try to keep it on the short side, to keep everyone else
+from getting bored.  In any case, when you are approaching the end of your
+solo, you should somehow convey this fact to the other musicians so they
+can decide who goes next, or whether they want to trade fours, or take the
+head out.
+
+If you intend to trade fours after the last solo, someone usually indicates
+this by holding out four fingers where everyone can see them.  Usually, you
+will go through the soloists in the same order in which they originally
+played, giving them four measures each.  The bass player is often skipped;
+sometimes the pianist is as well.  Often, the drummer will take four
+measures in between each of the other soloists.  More so than during the
+original solos, the intensity of the four bar phrases will usually be at a
+consistently high level, and the soloists should try to develop and build
+upon each other's ideas.  This cycle may be repeatedly as long as is
+desired; someone will usually tap their head to indicate when to return to
+the head.
+
+Endings
+
+The endings of songs are, without question, the most difficult to keep
+together.  When you have played a given song several times with the same
+group of people, you may have planned and rehearsed endings.  But when
+playing a song for the first time with a particular group, chaos almost
+always results at the end.  There are a few standard tricks you can use to
+end songs, however.  Once you are familiar with the basic endings, then all
+it takes is one person to act as leader to get everyone to follow along.
+
+The easiest ending, used in fast bebop tunes, is to simply cut the tune off
+short after the last note.  This works for rhythm changes tunes such as
+"Oleo", and other bop forms such as "Donna Lee".  As a variation, you may
+wish to hold the last note out.  Or, you may cut the last note short, but
+then repeat it and hold it out after a few beats rest.  This is done
+especially on 32 bar forms in which the melody ends on the first beat of
+measure 31.  This note is cut short, but then repeated and held on the
+first beat of measure 32, or as an anticipation on the fourth beat or on
+the "and" of the fourth beat of measure 31.
+
+Another ending commonly used on ballads and slow swing songs is the
+ritardando.  Simply slow down over the last two or three measures, and end
+on the last note of the melody, which may be held out as long as desired.
+A variation on this technique is to stop on the second to last note, or on
+any note near the end that falls on the penultimate chord, and have one
+soloist play an unaccompanied cadenza, signaling the rest of the band to
+rejoin him for the last note.
+
+When playing medium tempo or faster tunes, a popular ending is to play the
+last several bars three times before the last note.  In a 32 bar form in
+which the last note is the first beat of measure 31, you would play the
+form through the end of measure 30, then play measures 29 and 30 again, and
+then once more, before finally playing measure 31.  This can be combined
+with the ritardando or the cadenza approaches, or the last note can simply
+be played short.
+
+Another approach is the III-VI-ii-V turnaround.  If the song ends with a
+ii-V-I cadence in the last four bars, then you can replace the final I
+chord with the four bar progression III-VI-ii-V, which may be repeated
+several times.  For instance, in the key of F, if the song ends
+
+
+| Gm7 | C7 | F | F |,
+
+
+then you can replace this with
+
+
+| Gm7 | C7 | A7alt | D7alt | Gm7 | C7 | A7alt | D7alt | Gm7 | C7 |...
+
+
+You can also use tritone substitution on any of the dominant chords.  In
+addition, you can use the I chord F instead of the A7alt chord.  You may
+continue this chord progression as long as you like, soloing or
+collectively improvising on top of it.  This is called a vamp.  The song is
+finally ended with a I chord, usually preceded by frantic hand waving to
+ensure that everyone ends together.
+
+Another  popular  ending  is sometimes called the Duke Ellington ending,
+because it is associated with arrangements of tunes  like  "Take  The  A
+Train"  that were written by Duke or performed by his band.  This ending
+assumes the song ends on the first beat of the second to last measure of
+the  form,  that  the last chord is a I chord, and that the last note is
+the root of that chord.  Assuming the piece in in C  major,  you  simply
+replace  the last two measures with "C, E, F, F#, G, A, B, C", where the
+second note is a sixth below the first, not a third above.  If  you  try
+to  play this line, I think you will recognize the intended rhythm, so I
+will not try to notate it.
+
+Dealing With Problems
+
+You should be prepared for any number of things to go wrong.  If you lose
+your place in the form, or sense that someone else has lost theirs, do not
+panic.  If you have become lost, stop playing for a little while to see if
+you can hear where everyone else is.  This should not be too difficult if
+you are familiar with the song and the other musicians are reasonably
+secure about their own places.  Someone who is sure of where they are may
+wish to call out changes, or shout out "BRIDGE!" or "TOP!"  at the
+appropriate times, to get things back on track.  If one person is clearly
+in the wrong place, and everyone else is sure of where that person is, they
+can attempt to move over to match the out of place performer, but this is
+difficult to coordinate.  Also, it is better to try to correct the person
+who is out of step than to have everyone be out of step together, because
+ideally, you want the form to continue uninterrupted.
+
+Another thing that can go wrong is an unintended tempo change.  Some people
+tend to rush, some tend to drag.  Sometimes the interaction between two
+musicians with good time may cause the tempo to shift.  For instance, if a
+pianist and bassist both play behind the beat, this may make the tempo
+appear to drag, and the drummer may slow down to not appear ahead of them.
+If you are convinced the tempo is moving, you may wish to try to conduct a
+few measures to right the tempo.  A metronome can help keep you honest, but
+playing with a metronome will usually be hopelessly frustrating, because it
+is virtually impossible to keep a group synchronized with one.  For one
+thing, it is often difficult to hear a metronome when several people are
+playing.  For another, it is difficult to get everyone in the group to
+adjust at the same time and in the same way should the group collectively
+get ahead or fall behind.  Nonetheless, practicing with a metronome can be
+a useful way to solidify your concept of time.  One particularly sadistic
+band director I know used to start us off with a metronome, turn the volume
+down after a few measures, then turn it back up a minute or so later to see
+if we had drifted.
+

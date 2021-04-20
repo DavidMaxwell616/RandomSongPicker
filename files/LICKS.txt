@@ -1,0 +1,235 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+Date: Thu, 2 Nov 95 20:04 MEZ
+From: roland kalus <roland.kalus@ns.protel.de>
+
+Favourite licks of guitarist Roland Kalus of DEEP 'N BACK
+
+Hy folks,
+
+I play guitar for over 20 years now and of course I am still learning. The
+licks (or better lines)
+you will find, are some suggestions to break out of the usual stuff
+(pentantonics and scale-
+lines...uuups pentatonic can be very hip, if your phrasing is good and you
+use it in a more
+jazzy-way). My main influences are still Larry Carlton, Robben Ford, Scott
+Henderson and
+Pat Metheny (not ot forgett Pat Martino). You should listen to this guys,
+especially when you
+are a younger player. These guys are playing real melodies and all of them
+have a
+phantastic phrasing. Analysing and transcribing their music can take you
+faster to the most
+exciting step in music: Expressing yourself. Forget all this boring Heavy
+Metal-Stuff (they all
+sound the same and most of them have nothing to say with their
+instrument)(... ok... that are
+my favourit prejudice). Learn the lines slowly and combine them with your
+usual stuff.
+
+If you have any comments or questions you can mail me at
+roland.kalus@ns.protel.de.
+
+I am also very interested in exchanging ideas.
+
+Next time I will show you some harmonic approaches I use in my playing.
+
+Have a good time.......
+
+Roland Kalus
+
+
+
+Lick 1) is a kind of "arabic-sounding" blues-lick (Larry Cartlon-Style...).
+Play it fast over Amin or A7, phrase it very bluesy. This lick is very good
+to take you a little
+outside...
+
+
+                                             ho  pl  sl         sm
+-------------------------------------------6---9---6---5------8-------------
+------
+--------------------4--5----7---8-------------------------------------------
+------
+-------------4--5-----------------------------------------------------------
+------
+-----4---5------------------------------------------------------------------
+------
+----------------------------------------------------------------------------
+------
+----------------------------------------------------------------------------
+------
+
+
+Lick 2) contains lot of chromatic passing tones, picking every note gives it
+a real hard
+character. Same context as lick 1. I was inspired by Pat Martino, though Im
+not a JAZZ-
+Monster I try to transfer this jazzy-stuff into rock and blues. I think
+Robben Ford uses that
+kind of stuff a lot.
+
+
+
+------9-----12---11---10---9---10-------------------------------------------
+------
+-----------------------------------13---12---10------------------10--9--8---
+------
+-------------------------------------------------12--11--10--9--------------
+------
+----------------------------------------------------------------------------
+------
+----------------------------------------------------------------------------
+------
+----------------------------------------------------------------------------
+------
+
+
+Lick 3) is kind a string-skipped F-maj7 killer-appreggio, play it fast as a
+sequence but not too
+often. It sounds great using it over the damned same context as above... (we
+make it easy).
+Analyse the shape and tranfer it minor and dom7. It works fine.
+
+-----------------------8----12----8-----------------------------------------
+------
+----------------------------------------------------------------------------
+------
+--------------9---10----------------10---9----------------------------------
+------
+----------------------------------------------------------------------------
+------
+-----8---12-------------------------------12----8--etc...-------------------
+------
+----------------------------------------------------------------------------
+------
+
+Lick4) takes you again out of the tonal centre. Again phrase bluesy and of
+course use it in the
+same context (Amin, A7, Cmaj7 etc)
+
+-----14---16---12-----------------------------------------------------------
+------
+-------------------12---15--13---12-----------------------------------------
+------
+-------------------------------------13-------------------------------------
+------
+-----------------------------------------13--14-----------------------------
+------
+----------------------------------------------------------------------------
+------
+----------------------------------------------------------------------------
+------
+
+Lick 5) is the last for today....and is a blues-starting lick (of course you
+can use it in Jazz,
+Rock ....) play lick5) and continue with lick 2) or 4)... you have a nice
+solo-line.....
+
+
+----------------------------------------------------------------------------
+------
+------------------------------------10----12^13^12---10---12^13-------------
+------
+--------------------------9--10/11------------------------------------------
+------
+--------------7----10/11----------------------------------------------------
+------
+----------------------------------------------------------------------------
+------
+----------------------------------------------------------------------------
+------
+
+
+
+[2]
+
+Hi Folks, here we are again. Today this doc deals with alternatives to usual modes we all tend to use too much. I will try to give some ideas on approaching this chord to scale relationship a bit easier. Not everything in this chapter is totaly new and even some things derive from musicians I listen to.
+
+O.K lets go on ...... Now we try to say goodby to the mixolydian mode usually used to build lines over a dom7-chord. Lets say we pick A7 in a blues-situation, that means we are in the key of C and the mixolydian-scale starting with the note G would fit perfectly. As a little reminder here is the mixo-scale starting on the 12th fret..
+
+---------------------------------12--13--15---------------
+---------------12---13---15-------------------------------
+--12---14-------------------------------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+
+Here we have that outside-lick of last week again.... 
+some A-melodic-minor color is added:
+
+-----14---16---12-----------------------------------------
+---------------------12---15--13---12---------------------
+---------------------------------------13-----14----------
+-----------------------------------------13---------------
+----------------------------------------------------------
+----------------------------------------------------------
+
+Important is that the outside-notes leads inside again, here we go back to the note A. This line features and underlines the notes Gb,Ab and Eb which gives your C tonality an optional #9, an #11 and an extra 7. Sounds not bad when you get a bit more used to it. Remember that rhythmic phrasing is the key to good lines, so stress the inside-notes a bit more. The optional notes color the chord you are playing over. It is the same if you play an C-maj7 or an A-min7 or A7. They fit... believe it.
+
+If you just add the f# to your G-mixo-scale you get that favourit BeBop-Scale the guys in the 40 and 50th invented. It looks like this and adds more chromatical character to the mixo-mode:
+
+---------------------------------12--13-14-15-------------
+---------------12---13---15-------------------------------
+--12---14-------------------------------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+
+Try this line made out of the bebob-scale:
+
+---12-15--12-14--13--12------12---------------------------
+-------------------------15------13--15~b~17--------------
+----------------------------------------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+
+Another one with lots of chromatic (and a Fmaj9/#11 arpreggio
+in the beginning:
+
+-----------------------17--16-----------------------------
+---------------15--18---------18---15--16--17-------------
+-------14--16---------------------------------------------
+---15-----------------------------------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+
+Almost the same line an octave lower and with even more chromatic at
+the end..... if you play this one real fast and good phrased its a 
+spectacular killer....
+
+----------------------------------------------------------
+-----------------------------------------15-14-13-12-13---
+--------------------14-13-------------12------------------
+------------12--15--------15-12-13-14---------------------
+-----12--14-----------------------------------------------
+--11------------------------------------------------------
+
+The combination of arpreggios and chromatic is a wonderful mean to get
+out of this boring scale-playing.. try this one and listen to Larry Carltons
+Solo on Steely Dan "Kid Charlemagne" , you should find lots of this kind..
+
+--------------------------------8-------------------------
+------------------------8-9-10----8b10--------------------
+--------------7-------9-----------------------------------
+--------7-8-9----9-10-------------------------------------
+--7-10----------------------------------------------------
+----------------------------------------------------------
+
+
+Use this diminished arpreggios and sweep them fast to the 
+upper c-note and bend to d:
+
+------------11HO14------------14HO17-------------17HO20b22-
+---------13----------------16-----------------19-----------
+--11HO14------------14HO17-------------17HO20--------------
+-----------------------------------------------------------
+-----------------------------------------------------------
+-----------------------------------------------------------
+
+So far so good. More in the next edition, experiment with the ideas and make your own...try to break rules, use your ears and (hopefully) your taste. Not everything must be explained,try to explain things by yourself (Why do this diminished arps fit so well??!??), you will learn a lot by this. Don't chew again and again the same boring stuff. Listen to the good muscians - and there are a lots of them.  Analyse them but dont copy them all your live. Don't try to be the fastest, try to be the most musicaly!!!
+

@@ -1,0 +1,251 @@
+From: LIVENGOOD.MIKE@A1GW.GENE.COM (Mike Livengood)
+
+Modes:
+What's a mode? No it's not that green fuzzy stuff that grows on old cheese in 
+the refrigerator. A mode is...well, it's kind of tough to explain I suppose. 
+But let's try to work through it together and see if we can discover for 
+ourselves what modes are.
+
+Let's start with a C major scale 
+C-D-E-F-G-A-B-C
+
+2 Octaves in TAB form:
+
+E-------------------------------------------
+B----------------------------------10-12-13-
+D--------------------------9-10-12----------
+G------------------9-10-12------------------
+A----------8-10-12--------------------------
+E--8-10-12----------------------------------
+
+This is a C major scale in its natural mode, starting on C. This natural mode 
+is called the Ionian mode. No big deal, see, you knew one mode already.
+What about the other modes?
+
+Well, what if we are playing and our progression has a C7 chord in it, (which 
+has a flat 7) and we want to stress that in a melody line or solo? So instead 
+of playing our normal 7 in the scale (B) we play the same scale but flat the 
+seventh each time (Bb). No big deal, just the one note. So now our scale 
+looks like this:
+
+C-D-E-F-G-A-Bb-C
+
+2 Octaves in TAB form:
+
+E-------------------------------------------
+B----------------------------------10-11-13-
+D--------------------------9-10-12----------
+G------------------8-10-12------------------
+A----------8-10-12--------------------------
+E--8-10-12----------------------------------
+
+But wait a minute! I think I recognize those notes. Yeah, a single Bb is the
+key signature for F-major/D minor. Amazing! Who would have thought that? But
+I'm not playing in F major or D minor.
+
+Hmm. My progression is still in C. Yes, I'm in C but I'm no longer in the 
+Ionian mode. With the flat seventh I am now in the Mixolydian mode. I know it 
+sounds like we've been transported to some alien parallel universe, but don't 
+worry, it's just a way of playing.
+
+Hey guys wait up! Apparently the band has switched to C minor on me. Well, I 
+know my C minor scale:
+
+C-D-Eb-F-G-Ab-Bb-C
+
+E-------------------------------------------
+B----------------------------------9-11-13--
+D--------------------------8-10-12----------
+G------------------8-10-12------------------
+A----------8-10-11--------------------------
+E--8-10-11----------------------------------
+
+Well, once again I have changed modes. What we familiarly call the minor scale 
+is also the C Aeolian mode. While the Mixolydian has a flat 7, the Aeolian has
+a flat 3, a flat 6, and a flat 7. Notice also that these notes are the same as 
+an Eb major scale.
+
+OK, Now the guys are really getting on my nerves. We just changed to a 
+progression that demands a Cm6 flavor. Hmmm. First, what's a Cm6? Well, it's a 
+Cm (C-Eb-G) with a major 6th added on (A).
+
+Shoot, I can't play the scales I've been playing if I want to stress the Cm6 
+sound. I either have to flat the 3 of the Mixolydian, or sharp the 6 in the C 
+Aeolian. OK let's try it. The new scale is:
+
+C-D-Eb-F-G-A-Bb-C
+
+E-------------------------------------------
+B----------------------------------10-11-13-
+D--------------------------8-10-12----------
+G------------------8-10-12------------------
+A----------8-10-12--------------------------
+E--8-10-11----------------------------------
+
+There. Hey that works. This new mode is the C Dorian mode and consists of a 
+flat 3 and a flat 7. These are also the notes to the Bb major scale. Cool. I'm 
+getting the hang of this. Don't worry, we'll review at the end if you're 
+getting lost.
+
+You know, I've always liked the sound of passing tones in scales. These tones 
+are usually notes that are added in for color or tension. You know how we 
+convert the minor pentatonic into a minor blues by adding the sharp 4 (blue 
+note)? Let's do something like that with our major scale. Let's replace the 4 
+with a sharp 4, like this:
+
+C-D-E-F#-G-A-B-C
+
+E-------------------------------------------
+B----------------------------------10-12-13-
+D--------------------------9-11-12----------
+G------------------9-10-12------------------
+A----------9-10-12--------------------------
+E--8-10-12----------------------------------
+
+This new mode is the Lydian mode, and contains a C major scale with a sharp 4. 
+These are also the notes in the G major scale.
+Notice the three whole steps in the beginning of the scale? And how the sharp 
+4 leads into the 5 of the scale? Try this up and down a few times. Try to make 
+up a little melody using the notes.
+
+OK. So you say you want a different sound. Something like a minor flat 9 sound. 
+Well, let's try it....oh..oh..wait. We don't have a 9 to flat in our scale. We 
+only have a 2. Oh well, it'll do. So let's take our C minor (Aeolian) and flat 
+the 2. Like this:
+
+C-Db-Eb-F-G-Ab-Bb-C
+
+E------------------------------------------
+B---------------------------------9-11-13--
+D-------------------------8-10-12----------
+G-----------------8-10-11------------------
+A---------8-10-11--------------------------
+E--8-9-11----------------------------------
+
+This new scale is the C Phrygian mode, and has a b2, b3, b6,and b7. These are 
+also the notes in an Ab major scale. Try this over a Cm7 and see how it 
+sounds, or even a Cm7-9 to an Abmaj7.
+
+  Cm7   Cm7-9
+E--3-----9--
+B--4-----8--
+G--3-----8--
+D--5-----8--
+A--3-----10-
+E--------8--
+
+OK, so now you really want to get crazy and flat the 5 of our Phrygian scale. 
+OK, but don't tell your parents. The new scale would be:
+
+C-Db-Eb-F-Gb-Ab-Bb-C
+
+E-----------------------------------------
+B--------------------------------9-11-13--
+D------------------------8-10-11----------
+G----------------8-10-11------------------
+A---------8-9-11--------------------------
+E--8-9-11---------------------------------
+
+This new scale is the C Locrian mode and has the same notes as a Db major 
+scale. This would work over a Cm7b5.
+
+Another way to look at it is as follows. A mode is a displaced scale. It is a 
+new scale created by moving the starting point of another scale. The following 
+table summarizes the seven modes we've just studied
+
+Mode		Accidentals			In C major start on:
+
+Ionian		no flats or sharps			C
+Dorian		b3, b7					D
+Phrygian	b2, b3, b6, b7				E
+Lydian		#4					F
+Mixolydian	b7					G
+Aeolian		b3, b6, b7				A
+Locrian		b2, b3, b5, b6, b7			B
+
+So according to the table, to play an E Phrygian scale, play a C-major scale, 
+but start on E, and end on E.
+
+You see, an A Aeolian scale and a D Dorian scale and all he scales above, all 
+have the same notes as a C major scale, just with different ordered intervals.
+
+The following is an exercise that takes you through all seven modes. It should 
+be played smoothly and at an even tempo repeating each mode twice. 
+
+C Ionian
+E----------------------------l
+B----------------------------l
+D-------------4--------------l
+G-------3-5-7---7-5-3--------l
+A-3-5-7---------------7-5-3--l
+E----------------------------l
+
+C Mixolydian (b7)
+E----------------------------l
+B----------------------------l
+D-------------3--------------l
+G-------3-5-7---7-5-3--------l
+A-3-5-7---------------7-5-3--l
+E----------------------------l
+
+C Dorian (b3, b7)
+E----------------------------l
+B----------------------------l
+D-------------3--------------l
+G-------3-5-7---7-5-3--------l
+A-3-5-6---------------6-5-3--l
+E----------------------------l
+
+C Aeolian (b3, b6, b7)
+E----------------------------l
+B----------------------------l
+D-------------3--------------l
+G-------3-5-6---6-5-3--------l
+A-3-5-6---------------6-5-3--l
+E----------------------------l
+
+C Phrygian (b2, b3, b6, b7)
+E----------------------------l
+B----------------------------l
+D-------------3--------------l
+G-------3-5-6---6-5-3--------l
+A-3-4-6---------------6-4-3--l
+E----------------------------l
+
+C Locrian (b2, b3, b5, b6, b7)
+E----------------------------l
+B----------------------------l
+D-------------3--------------l
+G-------3-4-6---6-4-3--------l
+A-3-4-6---------------6-4-3--l
+E----------------------------l
+
+B Lydian (#4)
+E----------------------------l
+B----------------------------l
+D-------------3--------------l
+G-------3-4-6---6-4-3--------l
+A-2-4-6---------------6-4-2--l
+E----------------------------l
+
+Notice that we end up with a B Lydian if we flat the root of the C Locrian 
+scale so we get a (b1, b2, b3, 4, b5, b6, b7) or a B Lydian scale (#4).
+For reference, the C Lydian scale would be:
+
+C Lydian
+E----------------------------l
+B----------------------------l
+D-------------4--------------l
+G-------4-5-7---7-5-4--------l
+A-3-5-7---------------7-5-3--l
+E----------------------------l
+
+OK...Now we are all experts on modes and can break further out of our timid 
+selves and conquer the musical world.  (Maybe later)
+
+Any questions, comments, additions?
+
+M.L.
+
+
+

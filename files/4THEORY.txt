@@ -1,0 +1,553 @@
+Marc Sabatella's Jazz Improvisation Primer: Applying The Theory To Improvisation
+
+Applying The Theory To Improvisation
+
+The basis of traditional forms of improvisation is to create spontaneously and play 
+melodies that are built on the basic chord progression of the song.  At the most 
+basic levels, the notes you choose for your improvisation are partially dictated 
+by the scale associated with each chord.  This is called playing changes.  More 
+advanced forms of improvisation give the performer more melodic and harmonic 
+freedom, either by reducing the number of chord changes, or by making the chords
+progressions more ambiguous in tonality, to the point of eliminating these structures 
+entirely.  These approaches are discussed separately below.
+
+Pianists, guitarists, or other instrumentalists who accompany themselves while 
+improvising should read the section on accompanying along with this section and try
+to apply both sets of concepts at once when improvising.
+
+
+Melodic Development
+
+One of your prime concerns should be playing melodically. This does not necessarily 
+mean playing prettily, but there should be some sense of continuity to your lines, 
+and they should be interesting in themselves. You should also be conscious of the
+rhythmic and harmonic development of your improvisations; I include these concepts 
+in the term "melodic development". This is hard to teach, and is probably the aspect 
+of improvisation that requires the most creativity. Anyone can learn chord/scale
+relationships; it is what you do with this knowledge that determines how you sound. 
+Hal Crook's book How To Improvise has a lot of information on melodic development, 
+especially on rhythmic variation, geared toward the intermediate player, while
+George Russell's The Lydian Chromatic Concept Of Tonal Organization For Improvisation 
+and David Liebman's A Chromatic Approach To Jazz Harmony And Melody contain advanced 
+and very technical discussions on harmonic development.
+
+Pacing
+
+You should be aware of the contour of your solo. A common way to structure a solo is 
+based on the model of telling a story. You start simply, build through a series of 
+smaller peaks to a climax, and then come to a concluding phrase. This works well in
+most situations. However, you may wish to vary from this format occasionally. You can 
+decide to start more strongly to introduce your solo, or you may wish to finish right 
+at the climax and forego the denouement. You may wish to keep the entire solo at a low 
+intensity level to convey a lazy feel, although you probably don't want to bore the 
+listeners, either. You may wish to keep the intensity level at a controlled simmer. 
+Much like a standup comic working a room, you may want to alter your strategies as 
+you assess the mood of the audience. You should strive to be in control of the 
+emotional response you generate in your listeners.
+There are some common devices that can be used in structuring your solo. One of the 
+most important is repetition. After a soloist plays a phrase, he often repeats it, 
+or a variation of it. Often the phrase, or a variation of it, is played three times 
+before moving on to something else. The variation might be to transpose the phrase, 
+or to alter key notes within it to conform to a new chord/scale. The variation might 
+consist simply of starting the phrase at a different point in the measure, such as 
+on beat three instead of on beat two. The phrase itself may be altered rhythmically, 
+either by playing it faster or slower. Related to the idea of repetition is the 
+concept of call and response. Rather than repeat the original phrase, you can consider
+the phrase as a question or call, and follow it up with an answer or response. This is 
+the musical analogue to asking, "did you go to the store today?", and then responding 
+"yes, I went to the store today".
+On most instruments, you can increase intensity by playing louder, higher, and faster; 
+playing softer, lower, and slower usually reduces intensity. Playing simple rhythms 
+such as quarter notes and eighth notes where the accents fall on the beats is usually
+less intense than playing more complex rhythms such as syncopated rhythms, where most 
+accents fall off the beat. A hemiola is a particular type of rhythmic device where 
+one meter is superimposed on another. An example of this is the use of quarter note
+triplets when playing in 4/4 time.
+One long held note can also generate intensity on most instruments, although pianists 
+may have to use trills or rollings octaves to achieve this type of sustain. A single 
+note or short lick repeated over and over can generate a similar sort of intensity. 
+You have to use your judgement in deciding how much is enough.
+
+Phrase Construction
+
+The relationships between chords and scales should not be seen as limiting or determining 
+your choice of notes. They are merely an aid, a way to help you relate ideas you may have 
+to fingerings on your instrument. Your ideas should not be dictated by the scales, 
+however. Note that very few jazz singers use scales extensively; they generally are 
+able to translate an idea more directly into their voices. For this reason, 
+instrumentalists should practice improvisation by singing, in addition to practicing 
+their instruments. No matter how untrained your voice may be, it is more natural to 
+you than your instrument, so you may find you are able to develop ideas better by 
+singing them than by attempting to play them. Singers also are usually limited in 
+their ability to sing complex harmonic ideas, however, because they do not have 
+well-practiced fingerings to fall back on. Scale theory can indeed be a source of 
+ideas; just make sure it is not your only source.
+Try playing scalar lines that are based mostly on steps, angular lines that are 
+based mostly on leaps, as well as lines that combine these approaches. In addition 
+to being concerned over your choice of notes, you try to vary the rhythmic content of
+your ideas. Beginning improvisers often unwittingly play almost all their phrases 
+with just a few underlying rhythms. Try playing lines that are based mostly on half 
+notes and quarter notes, lines that are based mostly on eighth notes and triplets, 
+as well as lines that combine the two approaches.
+
+Playing Changes
+
+Once you have some idea of the association between chord symbols and scales, and how 
+to develop a melodic line, you can start improvising over chord progressions. In 
+performance situations, the rhythm section will be outlining the chord progressions
+in tempo, while you play improvised lines based on the associated scales. Often the 
+chords will change every measure, and you must keep changing scales to keep up. 
+However, you should not think one chord at a time. You should be trying to construct
+lines that lead from one chord to the next.
+The third and seventh of each chord are the notes that most define the sound of the 
+chord. If you emphasize these notes in your improvisation, it will help guarantee that 
+your lines will accurately imply the changes. Conversely, if you emphasize the other
+scale tones, it can add a harmonic richness to the sounds. You are also free to use 
+notes not in the scale at all. Bebop players often use a device called the enclosure, 
+in which a target note is preceded by notes a half step above and below. This is related
+to the idea of a passing tone, except in the enclosure, the chromaticism is used to 
+emphasize or delay a particular note rather than to connect two other notes. Other 
+non-scale tones can be used as you see fit. While there are many possible chord 
+progressions, there are a few basic building blocks that account for many of the chord
+changes you will see. If you become familiar with these basics, you will be well on 
+your way to being able to play over any set of changes that might come your way. 
+Performers should practice the chord progressions described below in all twelve keys to
+gain the most fluency. You may wish to try out some specific patterns on these 
+progressions, but more importantly, you should simply explore many different ideas 
+on each progression in each key so you will be comfortable truly improvising on them,
+rather than just playing the licks with which you are comfortable in that key. You 
+should experiment with different approaches and learn how to tailor your note choices 
+for a given chord type in a given situation for the sound you are trying to achieve.
+In addition to reading about these concepts you should try to listen specifically for 
+these techniques being applied by other musicians. The most popular jazz musicians of 
+the 1950's make a good starting point. These include Miles Davis, Clifford Brown, 
+Sonny Rollins, John Coltrane, Cannonball Adderly, Art Pepper, Red Garland, Hank Jones, 
+Herb Ellis, Joe Pass, Paul Chambers, and Ray Brown. Any albums from that time period 
+featuring one or more of these musicians are recommended for learning about playing changes.
+
+ii-V
+
+The most important chord progression in jazz is the ii-V, which may or may not 
+resolve to I. Most tunes will have ii-V progressions in several different keys 
+sprinkled throughout. For example, consider the chord progression:
+| Cmaj7 | Dm7 G7 | Em7 | A7  | Dm7 | G7  | Cmaj7 |.
+There are three ii-V progressions here. Bar two forms a ii-V in the key of C, 
+although there is no actual C (I) chord in bar three. Bars three through five 
+form a ii-V-I in the key of D minor, and bars five through seven form a ii-V-I 
+in C again. There are many devices that can be used when playing over ii-V 
+progressions. Some of these are described below.
+
+Major Keys
+
+In a major key, the ii-V-I progression consists of a minor seventh chord, a dominant 
+seventh chord, and a major seventh chord. The first scale choices you learned for 
+these chords are dorian, mixolydian, and major. In the key of C, the chords are
+Dm7 - G7 - Cmaj7, and the associated scales would thus be D dorian, G mixolydian, 
+and C major. As you may have noticed, these are all modes of the same C major 
+scale. Thus when you see a ii-V progression in a major key, you can play the major
+scale of the I chord for the whole progression. This makes it somewhat easier to 
+construct lines that lead from one chord to the next, or transcend the individual 
+chords. This type of progression, where the scales associated with each of the 
+chords are all modes of each other, is called a diatonic progression. While diatonic 
+progressions are easy to play over, they can quickly become boring, since you are 
+playing the same seven notes for an extended period of time. You can add a little 
+variety by using one of the other scales associated with each chord, such as D 
+minor, G dominant bebop, C lydian. The most common way to add interest to a ii-V 
+progression is to alter the dominant (V) chord. Often the alteration will already
+be specified for you, but even when it is not, you generally have the freedom to 
+add alterations to dominant chords. It helps if the soloist and the accompanists 
+are playing the same alterations, but this is not always practical when improvising 
+unless your accompanist has incredible ears and can hear the alterations you are 
+making, and in any case it is not actually all that important. In the key of C, 
+you might replace the G7 chord with a G7#11, a G7alt, a G7b9b5, or a G7+ chord, 
+all of which still fulfill the dominant function in C but imply different scales. 
+For instance, if you choose G7#11, the progression then becomes D dorian, G lydian 
+dominant, C major.
+Another possible alteration to the dominant is called the tritone substitution. 
+This means replacing the dominant chord with a dominant seventh chord a tritone 
+away. In the key of C, this would mean replacing the G7 with a Db7. This may seem a
+strange thing to do, but there are some very good reasons why it works. The third 
+and seventh of a chord are the two most important notes in defining the sound and 
+function of the chord. If you look at a Db7 chord, you will see it contains Db, F, Ab,
+and B, which are respectively the b5, 7, b9, and 3 of a G7 chord. The third and 
+seventh of the G7 chord (B and F) become the seventh and third of the Db7 chord. 
+Thus, Db7 is very similar to a G7b9b5 chord in sound and function. Furthermore, the
+melodic resolution of Db to C in the bass is very strong, functioning almost as a 
+passing tone. Once you have made the chord substitution, you can then play any 
+scale associated with the Db7 chord, for instance yielding a progression of D 
+dorian, Db mixolydian, C major. Using a scale other than mixolydian will yield 
+some surprising things. Try a Db lydian dominant scale, which implies a Db7#11 
+chord for the substitute dominant. Does this look or sound familiar? It should, 
+because the Db lydian dominant and G altered scales are both modes of the same Ab 
+melodic minor scale. When you play lines based on Db lydian dominant, you are playing 
+lines that are also compatible with G altered. Conversely, Db altered and G lydian 
+dominant are both modes of the same D melodic minor scale, and can be used 
+interchangeably. Furthermore, the Db and G HW diminished scales are identical, as 
+are the respective whole tone scales. These are other reasons the tritone substitution 
+works so well.
+
+Minor Keys
+
+ii-V progressions in a minor key generally do not suffer the problem of sounding too 
+diatonic. Since the harmonic minor is normally used to generate chord progressions 
+in a minor key, a ii-V progression in A minor might consist of | Bm7b5 E7 |
+Am-maj7 |. If we try to build a ninth chord from the E7, we see the that the F natural 
+in the key of A harmonic minor generates an E7b9 chord. Without any special 
+alterations, this progression could imply B locrian, E HW diminished, and A melodic
+minor. These scales are sufficiently rich that further alterations are not necessary.
+However, most of the same techniques from major keys can be used in a minor key as 
+well. We can use the melodic or harmonic minor scales from the i chord, or the major 
+bebop scale from its relative major, over the entire progression. We can use a 
+different variation of the E7 chord such as E7alt or E7+, or even E7sus; we can 
+make a tritone substitution to yield Bb7; and so on. We can also substitute for the 
+ii chords, for example using the locrian #2 scale, or replacing the Bm7b5 with an
+ordinary Bm7 chord, where the F# comes from the key of A melodic rather than A harmonic 
+minor. If we were to make a ninth chord, the C natural in the key of A melodic minor 
+generates a Bm7b9 chord, which implies a B phrygian scale. We can even replace the 
+ii Bm chord with a II B7 chord, especially a B7alt chord, which contains the D natural 
+from the Bm chord. We can also alter the i chord, replacing it with a simple Am7 chord, 
+and using any of the various possible scales associated with that chord such as A minor, 
+A phrygian, A minor pentatonic, and so on.
+
+Blues
+
+The term "blues" is somewhat overloaded, describing a general style of music and a 
+more specific category of chord progressions, as well as its colloquial meaning of 
+a particular mood, as in the phrase "I've got the blues". The blues as a style
+has a rich history that is beyond the scope of this primer. The basic twelve bar 
+blues form was mentioned earlier. In its original form, still played often in rock 
+and R&B music, only three chords are used: the I chord, the IV chord, and the V chord. 
+The basic blues progression is:
+|| I  | I  | I  | I  |         which,       || F  | F  | F  | F  |
+ | IV | IV | I  | I  |    in the key of F,   | Bb | Bb | F  | F  |
+ | V  | IV | I  | I  ||        yields:       | C  | Bb | F  | F  ||.
+The chords are usually all played as dominant seventh chords, although they are not 
+actually functioning as dominant chords in that they do not resolve to a tonic. The 
+F blues scale can be played over this entire progression. While the blues progression
+can be played in any key, the most popular keys among jazz musicians seem to be F, Bb, 
+and Eb, whereas rock musicians often prefer E, A, D, or G. This has a lot to do with 
+the way instruments are tuned. Popular jazz instruments such as the trumpet and the 
+various members of the saxophone family are usually tuned in Bb or Eb, meaning that 
+the notated "C" played on these instruments actually sounds like a Bb or Eb 
+respectively. Music written for these instruments is therefore transposed.
+The fingerings for the instruments favors playing in the key of C, which is actually 
+Bb or Eb, depending on the instrument. Guitars tend to dominate rock music, and guitars 
+are tuned to favor the keys containing sharps. Playing the blues scale over the basic 
+three chord blues progression in a jazz setting gets old very quickly. Starting around 
+the swing era, and most notably in the bebop era, musicians began to make additions to 
+this simple formula. One common adaptation of the blues progression, which is still 
+considered the standard for jazz jam sessions, is:
+|| F7   | Bb7  | F7   | F7    |
+ | Bb7  | Bb7  | F7   | D7alt |
+ | Gm7  | C7   | F7   | C7    |.
+This progression offers a wider range of scale possibilities than does the basic three 
+chord blues. For example, bars 8 and 9 form a V-i in G minor, and bars 9-11 form 
+a ii-V-I in F. The idea of adding ii-V's to the blues progression yields more variations. 
+For example, consider:
+|| F7     | Bb7    | F7        | Cm7   F7    |
+ | Bb7    | Bdim   | F7        | Am7b5 D7alt |
+ | Gm7    | C7alt  | F7  D7alt | Gm7   C7alt |.
+This particular progression is especially common in bebop and later styles. Note the 
+substitution of a Bb ii-V-I in bars 4-5, a G minor ii-V-i in bars 8-9, and a G minor 
+V-i in bars 11-12. Also note the diminished chord in bar 6. This diminished chord is
+serving as a substitute for the dominant seventh, since both Bdim and Bb7b9 share the 
+same Bb HW (B WH) diminished scale.
+This same substitution can be made for the second half of bar 2.
+Other variations can be made using tritone substitutions. For example, Ab7 can be 
+played instead of D7alt in the second half of bar 8. You can also change the qualities 
+of the chords, for instance replacing that Ab7 with an Abm7. Another common
+substitution is A7alt for the F7 in bar 11. This substitution works because the 
+chords share several notes, including the tonic, F, and because the A7alt forms part 
+of a G minor II-V-i progression with the D7alt and Gm7 that follow.
+Charlie Parker carried these types of substitutions to an extreme in "Blues For 
+Alice". The chord progression in that tune is:
+|| Fmaj7  | Em7b5 A7b9 | Dm7   G7    | Cm7   F7  |
+ | Bb7    | Bbm7  Eb7  | Am7   D7    | Abm7  Db7 |
+ | Gm7    | C7         | Fmaj7 D7alt | Gm7   C7  |.
+This uses most of the techniques described above. You may wish to play with this 
+progression for a while.
+
+Rhythm Changes
+
+The George Gershwin song "I Got Rhythm" is the source for one of the most popular 
+chord progressions of the bebop era, second only to the blues progression. This 
+form is often called simply rhythm changes. As with the blues progression, there are
+many possible variations on rhythm changes. Most tunes based on rhythm changes are 
+played in the key of Bb, and are played at very fast tempos, often well over 200 
+beats per minute. These songs have a 32 bar AABA form based on the chord
+progression:
+A || Bbmaj7 G7  | Cm7    F7  | Bbmaj7 G7 | Cm7   F7  |
+   | Fm7    Bb7 | Ebmaj7 Ab7 | Dm7    G7 | Cm7   F7  ||
+A || Bbmaj7 G7  | Cm7    F7  | Bbmaj7 G7 | Cm7   F7  |
+   | Fm7    Bb7 | Ebmaj7 Ab7 | Cm7    F7 | Bbmaj7    ||
+B || Am7        | D7         | Dm7       | G7        |
+   | Gm7        | C7         | Cm7       | F7        ||
+A || Bbmaj7 G7  | Cm7    F7  | Bbmaj7 G7 | Cm7   F7  |
+   | Fm7    Bb7 | Ebmaj7 Ab7 | Cm7    F7 | Bbmaj7    ||
+This progression contains many ii-V progressions. Any of the standard alterations 
+described under ii-V progressions above can be used when playing rhythm changes. 
+Many tunes contain slight alterations to this basic progression, especially in the 
+last four measures of the A sections. Some of the common alterations are to replace 
+the second chord G7 with a diminished chord Bdim, or to replace the fifth chord Bbmaj7 
+with Dm7. The former substitution has already been described under the diminished
+scale. The latter replaces a I chord with a iii chord, which has three of four notes 
+in common, and the respective scales differ by only one note. Furthermore, the Dm7 
+and following G7 form a ii-V in C minor, so this is an especially strong substitution
+harmonically.
+The important characteristics of rhythm changes are the repeated I-VI-ii-V (or 
+substitutes) in the first four bars of the A sections, and the basic tonality 
+movements by fifths in the bridge, leading back to the original tonic in the 
+last A section. If you intend to become an improvising musician, you should become 
+fluent in the basic rhythm changes, particularly in the key of Bb, and become 
+familiar with the particular variations associated with specific tunes. This 
+is also a good opportunity to try out what you have learned about ii-V's, and to 
+work on you up tempo playing.
+
+Coltrane Changes
+
+John Coltrane, through original compositions such as "Giant Steps" and "Countdown" 
+on the album Giant Steps, and arrangements of standards such as "But Not For Me" on 
+the album My Favorite Things, became known for using a particularly complex 
+progression that is often called the Coltrane changes, although he was not the 
+first or only musician to make use of it.
+The primary characteristic of Coltrane changes is tonality movement by major thirds. 
+The progression to "Giant Steps" is:
+|| Bmaj7  D7  | Gmaj7  Bb7 | Ebmaj7    | Am7   D7   |
+ | Gmaj7  Bb7 | Ebmaj7 F#7 | Bmaj7     | Fm7   Bb7  |
+ | Ebmaj7     | Am7    D7  | Gmaj7     | C#m7  F#7  | 
+ | Bmaj7      | Fm7    Bb7 | Ebmaj7    | C#m7  F#7  ||
+The first key center here is B, then G, then Eb, and it continues to cycle through 
+these three keys, which are a major third apart.
+Coltrane was able to develop this idea in many ways. For example, he used it as a 
+substitute for an ordinary ii-V progression.
+The progression to "Countdown" is loosely based on that to the Miles Davis 
+composition "Tune-up". The latter tune begins with the four measure progression:
+| Em7    | A7         | Dmaj7     | Dmaj7 |,
+which is a vanilla ii-V-I progression in D major. The first four bars of "Countdown" are:
+| Em7 F7 | Bbmaj7 Db7 | Gbmaj7 A7 | Dmaj7 |.
+Coltrane starts with the same ii chord, and then modulates to the dominant seventh 
+chord one half step higher. From there, he launches into the cycle of major thirds, 
+going from the key of Bb to Gb and finally back to D. The next four bars of the tune 
+are identical harmonically, except they are based on a ii-V in the key of C; the next 
+four bars are the same in the key of Bb. Soloing over Coltrane changes can be challenging, 
+since the apparent key center changes so often. You cannot simply play a single diatonic 
+scale across several measures. The tunes are usually played at fast tempos, and it is 
+also easy to fall into the trap of playing nothing but arpeggios outlining the chords. 
+You must try to be especially conscious of playing melodically when soloing over a 
+progression as complex as the Coltrane changes.
+
+Modal Improvisation
+
+A typical modal tune may have only two or three chords, and each may last 8 or 
+even 16 measures. In one sense, modal playing is much easier than playing changes, 
+since it does not require your brain to do as much fast computation to constantly
+change scales. In another sense, however, it is more challenging, since you cannot 
+merely string together rehearsed ii-V licks, nor can you rely on clever scale use 
+and chord substitution to cover up basic problems thinking melodically. Some music 
+is often considered modal even though it follows traditional chord progressions 
+such as the blues. The concept of modality has as much to do with what is done with 
+the harmony as with its rate of change. In bebop derived styles, a soloist may 
+sustain interest by his choice of notes over the harmony, including dissonances, 
+tensions, and releases. For example, bebop players often enjoyed ending phrases on 
+the raised fourth over a dominant chord, just for the effect that one note had.
+When soloing over modal music, there is less emphasis on harmonic choices, and 
+more on melodic development. The ballad "Blue In Green" from Miles Davis' Kind 
+Of Blue has as much harmonic motion as many other tunes, and the chords themselves
+are relatively complex chords such as Bbma7#11 or A7alt. Yet the solos on this 
+track do not exploit the harmony; instead they focus on melodicism of individual 
+phrases. Bebop improvisers may emphasize the chordal extensions in their solos, 
+whereas modal improvisers tend to emphasize basic chord notes. Bebop players 
+are often more inclined to fill up all spaces with notes to completely define 
+the harmony, whereas modal players are more likely to use rhythmic space as a 
+melodic structuring element. Both approaches are valid, but it is important to 
+understand the differences between them. The Miles Davis tune "So What" on the 
+album Kind Of Blue is the classic example of a modal tune. It follows a basic AABA
+structure, where the A section consists of the D dorian mode, and the B section 
+consists of the Eb dorian mode. This yields 16 consecutive bars of D dorian at the 
+beginning of each chorus; 24 counting the last 8 of the previous chorus. You may find
+yourself running out of ideas quickly if you limit yourself to just the seven notes 
+in the D dorian scale, but that is the challenge. You cannot rely on the consciously 
+hip sound of an F# over a C7 chord; you must play melodically with the notes you are
+given.
+You are not completely restricted to the notes of the scale, however. As with 
+ii-V progressions, there are some devices that you can use in a modal setting to 
+add tension. One of the most popular of such devices is called sideslipping. Over 
+a D dorian background, try playing lines based on Db or Eb scales for a measure or 
+two. This dissonance creates a tension, which you can release by returning to the 
+original scale. You can also use chromatic passing tones. For instance, over a D 
+dorian scale, you might try playing "G, G#, A", where the G# is a passing tone.
+You can also vary the scale used. For instance, instead of D dorian, try a D natural 
+minor, or a D minor pentatonic, for a few measures. You can also use alternate a 
+tonic chord with the dominant seventh chord in that key. For example, the chord
+associated with D dorian is Dm7. If you treat that as a i chord, the V7 chord is 
+A7. So you can use lines from any of the scales associated with A7, A7b9b5, A7alt, 
+or other A dominant seventh chords, at points in your improvisation. This will 
+create a kind of tension that you can resolve by returning to the original D 
+dorian scale.
+For the most part, however, you should try to stick to the modal philosophy when 
+playing modal tunes, and concentrate on being as melodic as possible with the 
+basic chord and scale tones. Pentatonic scales are an especially appropriate choice in
+modal playing, since they narrow your choices to only five notes instead of seven, 
+and further force you to think about using space and playing melodically. A similar 
+sound is achieved by playing lines built from the interval of a fourth. This is 
+called quartal harmony. It is particularly effective in modal tunes with few chord 
+changes, although these types of lines can be used in other situations as well.
+
+Chromaticism
+
+Bebop styles were characterized above as exploiting the harmonies by choosing scales 
+with a lot of color tones, whereas modal playing was characterized as emphasizing 
+the basic chord tones. Both of these approaches still use chord/scale relationships 
+in the traditional manner of choosing a scale that implies the sound of the chord to 
+some degree, and playing mostly within that scale. Another approach is to maintain 
+the sense of chord progressions but play lines that lie largely outside the associated 
+scales. This is sometimes called chromaticism. Eric Dolphy used this approach when 
+playing with Charles Mingus and on some of his own albums such as Live At The Five 
+Spot and Last Date. Woody Shaw and Steve Coleman are also chromatic players.
+You have by now probably played some outside notes, say an Ab against a Cmaj7 
+chord, possibly by accident. These notes may sound wrong when played in the context 
+of an otherwise inside melody. By playing a melody derived from a scale, you 
+establish a particular sound, and one wrong note will sound out of place. However, 
+when playing a melody that lies mostly outside the scale, the same notes may fit 
+in much more logically. That is to say, non-scale tones used melodically can often
+sound consonant (the opposite of dissonant).
+The aforementioned musicians often play very angular melodic lines, meaning they 
+consist of large or unusual intervals and change direction often rather than being 
+primarily stepwise and scalelike. This often seems to establish a sound in which wrong
+notes sound perfectly natural. Interestingly, the opposite approach works as well: 
+lines that contain a lot of half steps often sound right even though they consist 
+of many wrong notes. These lines are sometimes called chromatic. You can continue to 
+use your knowledge of chord/scale relationships when playing chromatically. For 
+example, you know that a Db lydian scale is not normally an appropriate choice to 
+play over a Cmaj7 chord, and you probably have some idea why. These same wrong notes, 
+however, if used melodically over the chord, create a sound that is not all that 
+dissonant and has a harmonic richness that is very modern sounding. In fact, even 
+simple melodic ideas like arpeggios and scales can sound complex in this context.
+You can practice these ideas with Aebersold albums, or Band-In-A-Box, or your fellow 
+musicians, although you should be prepared for some strange looks. It has been said 
+that there are no wrong notes, only wrong resolutions. This certainly explains
+why passing tones and enclosures sound consonant, but I feel it still places too 
+high a value on playing the notes suggested by the standard chord/scale relationships. 
+I would restate this; the only wrong notes are notes you didn't intend to play. 
+Any note you play is right if it is in a meaningful context and it does not sound 
+like an accident. There is even value in making mistakes.
+The trick is in forming a coherent whole.
+
+Non-tonal Improvisation
+
+The terms pan-tonal, non-tonal, and atonal all describe the blurring or elimination of 
+traditional tonality. The distinction between these terms is not always clear, so I 
+will use most general of these, "non-tonal", to describe music that has no specific key
+center, or over which standard chord/scale relationships do not always apply.
+Although non-tonal music may appear to have chord progressions, the individual chords 
+are often chosen for their overall sound rather than for their resolutions. Any chord 
+from any key is likely to be used if it has the right sound. For example, many
+of the tunes on Miles' albums E.S.P., Nefertiti, Miles Smiles, and Sorcerer have no 
+specific key centers, nor do they contain many traditional ii-V's that would indicate 
+temporary key centers. Many of the chords are relatively complex, for example 
+Abmaj7#5, and each chord is chosen for its individual sound, not because the 
+previous chord resolves to it naturally or because it resolves to the next chord. A 
+traditional functional analysis of the harmony (that is, analyzing chords in terms 
+of their relationship to the key) is not always the best way to approach this sort 
+of music. You may wish to treat this music modally, and let the chords themselves 
+dictate the scale choices. You should be careful in doing this, however. Many of the 
+standard chord/scale relationships were established with traditional resolutions in 
+mind. Your phrases may seem random and disconnected if you blindly change scales 
+according to the chord progression in non-tonal music. You should be prepared to 
+treat the chord/scale relationships more loosely than you would when simply playing
+changes.
+In tonal music, alterations to a chord are often considered merely color tones that 
+do not affect the basic function of a chord, and improvisers are free to make their 
+own alterations to the basic chord. For example, a G7b9 chord is likely to be a
+dominant chord, resolving to Cmaj7. Any other chord that serves this function, such 
+as G7#11, or even a tritone substitution like Db7, can be used instead without 
+radically changing how the phrase is perceived, so tonal improvisers will often 
+make this sort or alteration freely, either explicitly, or implicitly by their scales 
+choices. In non-tonal music, however, a chord is often specifically called for because 
+of its unique sound, and not because of how it functions in a progression. The same 
+G7b9 chord may have been chosen because of the particular dissonance of the G against 
+the Ab, or because that happened to be the most convenient way to spell the chord 
+voicing the composer intended (a voicing is simply a way of specifying the particular 
+notes to be played for a given chord). Changing this chord to G7#11 may change the 
+sound of the chord more radically than substituting an otherwise unrelated chord that 
+has the same G/Ab dissonance, such as Abmaj7, or one that may be voiced similarly, such
+as E7#9. You may find scale choices associated with these chords to be more appropriate 
+substitutions than ones based on the traditional dominant function of G7b9.
+The real intent of non-tonal music, however, is to free you from the specifics of 
+chord/scale relationships and allow you to concentrate on the sounds themselves. 
+The lines you play need not be analyzed in terms of their relationships to the notated
+chords, but may instead be thought of in terms of how they fit the sound of the 
+phrase at that point. If the chord in a given measure is a maj7#5 chord, then you 
+should hear the sound of that chord, and feel free to play any lines that imply that sound.
+This is as much an emotional implication as a rational one. For me, that particular 
+chord has an open, questioning, sound that I associate with wide intervals and the 
+use of rhythmic space. I would probably tend to play lines that reflect this feeling,
+regardless of the actual notes involved. Furthermore, the sound of that chord may 
+also be affected by its context in the piece itself. For instance, a chord played 
+for two measure in a ballad may sound entirely differently from the same chord used 
+as an accent in a driving up-tempo piece. Chord scale relationships may still help 
+define which notes tend to be more or less dissonant against a given chord, but you 
+should try organize your thinking along lines of sounds, and use the chord/scale
+relationships only as tools to help you achieve the desired sounds.
+Even in tonal music, of course, chord/scale relationships can be considered as tools, 
+and one could claim the goal is always to represent sounds. However, you may find 
+tunes with many ii-V's in them tend to "sound" the same in this respect. Non-tonal
+music was created to provide a more varied palette of sounds, to encourage thinking 
+along these lines. As with chromaticism in tonal music, you can deliberately play 
+lines that contradict the sound of the chord, if that is the effect you desire. The 
+important thing is that you perceive a non-tonal chord progression as a recipe of 
+sounds over which you improvise, not as a specific pattern of chord resolutions.
+
+Free Improvisation
+
+The next of level of freedom in improvisation is to eliminate chords entirely. 
+Depending on how far you are willing to go, you can also dispense with traditional 
+melody, rhythm, timbre, or form. There are many different approaches to free playing, 
+but by its very nature, there are no rules. Instead of technical details, examples 
+of other musicians will be used for the most part. Many of Ornette Coleman's 
+compositions have no chords at all. Most of his freebop quartet recordings with Don 
+Cherry for Atlantic fall into this category. The head consists of a melody only, 
+and the solos are variations on the melody or on the feel of the piece in general, 
+not on any chord progression. For the most part, these recordings still show a very 
+melodic approach and are accessible to many listeners. A walking bass line and 4/4 
+swing drum beat are constant throughout, and the forms are the standard head-solos-head 
+forms.
+Ornette's album Free Jazz, featuring a double quartet including Eric Dolphy and 
+Freddie Hubbard, is decidedly different. Here Ornette is not only putting aside 
+traditional concepts of harmony, but also of melody. There is no definable head 
+to the one performance that comprises this album, and the improvisations are 
+less melodic than on the quartet albums. The double quartet also experiments 
+with form on this album, often having several improvisers playing at once. This 
+idea is as old as jazz itself, but was largely forgotten with the advent of the 
+swing era. The free players' idea of collective improvisation is much less structured
+than the dixieland players', and the results are more cacophonous.
+John Coltrane made similar advances late in his career, in albums such as 
+"Ascension". Coltrane also experimented with rhythm, especially in albums like 
+"Interstellar Space" that do not feature any definable pulse. Both Coleman and 
+Coltrane, as well as musicians influenced by them such as Archie Shepp and Albert 
+Ayler, also experimented with timbre, finding new ways to get sounds out of 
+their instruments, even to the extent of playing instruments on which they had 
+little or no training, as Ornette did with the trumpet and the violin.
+Cecil Taylor plays the piano in a completely free manner, utilizing it as much 
+as a percussion instrument as a melodic or chordal instrument. His performances 
+generally do not contain any traditional harmonic, melodic, or rhythmic structuring 
+elements. He creates his own structures. When playing free music in a solo setting, 
+you have complete freedom to change the directions of the music at any time, and 
+are accountable only to yourself. You can change tempo, you can play without tempo, 
+you can vary the intensity of your performance as you see fit. When playing 
+music with no set form in a group setting, communication becomes especially 
+important, because there is no automatic frame of reference to keep everyone 
+together. Cecil Taylor does play in a group setting as well, and other groups 
+such as the Art Ensemble Of Chicago are known for this type of freedom.
+It is hard to analyze these styles of music in terms we are accustomed to 
+using. The music must reach us on an emotional level in order to be successful, 
+and each person's emotions may be affected differently. It often seems to be 
+that the more free the music, the more intensely personal the statement. You 
+will need to decide for yourself how far you are willing to go in your own
+playing, as well as in your own listening. You should also be aware that this 
+type of music is often more fun to play than to listen to for many people. The 
+challenge of the communication and the excitement of the free exchange of ideas 
+are things that some listeners are unable to appreciate. This a gentle way of 
+saying that your experimentation may alienate some of your original audience. However, 
+there are audiences that do appreciate this music. You should not be discouraged from 
+playing as freely as you desire.

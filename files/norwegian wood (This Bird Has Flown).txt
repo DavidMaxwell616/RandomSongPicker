@@ -1,0 +1,988 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+#
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+Date: Wed, 23 Aug 1995 18:06:42 -0400 (EDT)
+From: Douglas French <dfrench@site.gmu.edu>
+Subject: TAB: Norwegian Wood
+
+
+
+Yet another TAB of Norwegian Wood (This Bird Has Flown) along with
+2 corrections to the existing TABs of the song.  I have included
+the existing TABs in their entirety and unedited for reference.
+
+=============================================================================
+Title:       Norwegian Wood (This Bird Has Flown)
+Composers:   John Lennon and Paul McCartney
+Group:       The Beatles
+Album:       Rubber Soul
+Arrangement: Doug French, dfrench@site.gmu.edu
+ 
+capo: 2nd fret
+time: 12/8
+
+Intro, play 2 times:
+
+  #1  D
+E ||------2-2-2-------------------2-2-2----------------|
+B ||--3---3-3-3---3---3---3-------3-3-3-------3--------|
+G ||--2---2-2-2---4---2---0---2---2-2-2---0---0---2----|
+D ||--0-----------------------4-----------2-------4----|
+A ||---------------------------------------------------|
+E ||---------------------------------------------------|
+      +   .   .   +   .   .   +   .   .   +   .   .
+
+
+      D           C       G   D
+E  |------2-2-2-------------------2-2-2-2-----2--------||
+B  |--3---3-3-3-------3-------3---3-3-3-3-----3--------||
+G  |--2---2-2-2-------0-------2---2-2-2-2-2---2--------||
+D  |--0-------------------0---0-----------0------------||
+A  |--------------3-------2---0------------------------||
+E  |---------------------------------------------------||
+      +   .   .   +   .   .   +   .   .   +   .   .
+
+
+Use same guitar pattern under solo voice:
+
+  #4  D
+E ||------2-2-2-------------------2-2-2----------------|
+B ||--3---3-3-3---3---3---3-------3-3-3-------3--------|
+G ||--2---2-2-2---4---2---0---2---2-2-2---0---0---2----|
+D ||--0-----------------------4-----------2-------4----|
+A ||---------------------------------------------------|
+E ||---------------------------------------------------|
+      +   .   .   +   .   .   +   .   .   +   .   .
+   1. I          once had a   girl,       or should I
+   2. (Instrumental) ....
+
+      D           C       G   D
+E  |------2-2-2-------------------2-2-2-2-----2--------|
+B  |--3---3-3-3-------3-------3---3-3-3-3-----3--------|
+G  |--2---2-2-2-------0-------2---2-2-2-2-2---2--------|
+D  |--0-------------------0---0-----------0------------|
+A  |--------------3-------2---0------------------------|
+E  |---------------------------------------------------|
+      +   .   .   +   .   .   +   .   .   +   .   .
+      say,       she once had me;
+      ....
+
+      D
+E  |------2-2-2-------------------2-2-2----------------|
+B  |--3---3-3-3---3---3---3-------3-3-3-------3--------|
+G  |--2---2-2-2---4---2---0---2---2-2-2---0---0---2----|
+D  |--0-----------------------4-----------2-------4----|
+A  |---------------------------------------------------|
+E  |---------------------------------------------------|
+      +   .   .   +   .   .   +   .   .   +   .   .
+      She      showed me her  room,       is- n't it
+      ...
+
+      D           C       G   D
+E  |------2-2-2-------------------2-2-2-2--------------|
+B  |--3---3-3-3-------3-------3---3-3-3-3-----3--------|
+G  |--2---2-2-2-------0-------2---2-2-2-2-2---2--------|
+D  |--0-------------------0---0-----------0-------0----|
+A  |--------------3-------2---0------------------------|
+E  |---------------------------------------------------|
+
+      +   .   .   +   .   .   +   .   .   +   .   .
+      good        Nor-we-gian wood.               She
+      ...                                         She
+
+
+      Dm
+E  |--1---1-1-1---1---0-0-0---0------------------------|
+B  |--3---3-3-3---3---3-3-3---3---3-3-3----------------|
+G  |--2---2-2-2---2---0-0-0---0---2-2-2---2---0---2----|
+D  |--0-----------0-----------0-----------3---0---3----|
+A  |--0-----------0-----------0------------------------|
+E  |---------------------------------------------------|
+      +   .   .   +   .   .   +   .   .   +   .   .
+    asked me  to stay and she told me to  sit an- y -
+    told me she worked in the morning and started to
+
+
+      G
+E  |--3---3-3-3-3-----3-3-3-3-----3-3-3-3-----3--------|
+B  |--3---3-3-3-3-----3-3-3-3-----3-3-3-3-----3--------|
+G  |--0---0-0-0-0-----0-0-0-0-----0-0-0-0-----0--------|
+D  |--0---0-0-0-0-0---0-0-0-0-----0-0-0-0-0---0--------|
+A  |--2-------------------------------------------0----|
+E  |--3-----------------------3------------------------|
+      +   .   .   +   .   .   +   .   .   +   .   .
+     where.                                       So
+     laugh.                                       I
+
+
+      Dm
+E  |--1---1-1-1---1---0-0-0---0------------------------|
+B  |--3---3-3-3---3---3-3-3---3---3-3-3----------------|
+G  |--2---2-2-2---2---0-0-0---0---2-2-2---2---0---2----|
+D  |--0-----------0-----------0-----------3---0---3----|
+A  |--0-----------0-----------0-----------0------------|
+E  |---------------------------------------------------|
+      +   .   .   +   .   .   +   .   .   +   .   .
+     I looked a round and I noticed there was-n't  a
+     told her I did-n't and crawled off to sleep in the
+
+
+      Em7                     A7
+E  |--0---0-0-0-0-----0-----0-0---0-0-0-0-0----------|
+B  |--3---3-3-3-3-----3-----3-2---2-2-2-2-2----------|
+G  |--0---0-0-0-0-----0-----0-0---0-0-0-0-0----------|
+D  |--2---2-2-2-2-2-----------2---2-2-2-2-2----------|
+A  |--2-----------2-----------0-----------0----------|
+E  |-------------------------------------------------|
+      +   .   .   +   .   .   +   .   .   +   .   .
+      chair.
+      bath.
+
+
+Use same guitar pattern as in measure #4 above:
+
+      D
+   1. I           sat on  a   rug,        bid-ing my
+   2. And,       when I   a - woke,       I   was a-
+
+
+      D           C       G   D
+      time,      drinking her wine.
+      lone,     this bird had flown.
+
+
+      D
+      We        talked un-til two,       and then she
+      So,         I   lit a   fire,       is- n't it
+
+
+      D           C       G   D
+      said      "It's time for bed."
+      good        Nor-we-gian wood.
+
+
+Repeat from measure #4 above.
+
+Ending:
+
+      D
+E ||---------------------------------------------------|
+B ||--3---3-3-3---3---3---3-------3-3-3-------3--------|
+G ||--2---2-2-2---4---2---0---2---2-2-2---0---0---2----|
+D ||--0-----------------------4-----------2-------4----|
+A ||---------------------------------------------------|
+E ||---------------------------------------------------|
+      +   .   .   +   .   .   +   .   .   +   .   .
+
+
+      D           C       G   D
+E  |---------------------------------------------------||
+B  |--3---3-3-3-------3-------3------------------------||
+G  |--2---2-2-2-------0-------2------------------------||
+D  |--0-------------------0---0------------------------||
+A  |--------------3-------2---0------------------------||
+E  |---------------------------------------------------||
+      +   .   .   +   .   .   +   .   .   +   .   .
+
+
+
+=============================================================================
+=============================================================================
+Corrections to existing TABS:
+
+1)  Richard Cook's TAB (in D, capo on 2nd fret) lists the chords of the
+    bridge as:
+
+    Dm         G
+    She ... anywhere
+    Dm         G     A
+    I   ...    chair.
+
+    which contains 2 errors. To be played in D the chords should be:
+
+    Dm         G
+    She ... anywhere
+    Dm         Em7  A7
+    I   ...    chair.
+
+2)  Robert Hall's TAB (in E) lists the chords of the bridge as:
+
+    Am         D
+    She ... anywhere
+    Am         D     F#
+    I   ...    chair ---> verse (E riff above)
+
+    which are in the wrong key.  To be played in E the chords should be:
+
+    Em         A
+    She ... anywhere
+    Em         Fm7   B7
+    I   ...    chair.
+
+=============================================================================
+Existing TABs:
+=============================================================================
+
+Date: Sun, 20 Aug 1995 09:18:02 -0700
+From: rwcook@ix.netcom.com (Richard Cook )
+Subject: TAB: Norwegian Wood by The Beatles
+
+                            Norwegian Wood
+                                                                 The Beatles
+
+Tabbed by Richard Cook
+
+
+Capo 2nd fret.
+
+
+     D                                                               D    D
+E ||-2----2------2---2---2--2--2------------------2------------------2----0h2-|
+B ||-3----3------3---3---3--3--3------------------3--------3---------3----3---|
+G ||-2----4------2---0---0--0--0-------0----------2--------0---------2----2---|
+D |--0----0------0---0---4--4--4---2----------4---0------------------0----0---|
+A ||-0-------------------------------------------------3--------2----0----0---|
+E ||--------------------------------------------------------------------------|
+
+
+
+     D                                                               D    D
+E |--2----2------2---2---2--2--2------------------2------------------2----0h2-|
+B |--3----3------3---3---3--3--3------------------3--------3---------3----3---|
+G |--2----4------2---0---0--0--0-------0----------2--------0---------2----2---|
+D |--0----0------0---0---4--4--4---2----------4---0--------0---------0----0---|
+A |--0-------------------------------------------------3--------2----0----0---|
+E |---------------------------------------------------------------------------|
+     I    once had a     girl,     or  should I   say, she once had me.
+
+
+
+     D                                                               D    D
+E |--2----2------2---2---2--2--2------------------2------------------2----0h2-|
+B |--3----3------3---3---3--3--3------------------3--------3---------3----3---|
+G |--2----4------2---0---0--0--0-------0----------2--------0---------2----2---|
+D |--0----0------0---0---4--4--4---2----------4---0--------0---------0----0---|
+A |--0-------------------------------------------------3--------2----0----0---|
+E |---------------------------------------------------------------------------|
+     She  showed me  her room,     is  n't    it  good nor-we - gian wood.
+
+
+bridge
+           Dm                                            G
+E |--------1---------------------------------------------3--------------------|
+B |--------3---------------------------------------------0--------------------|
+G |--------2---------------------------------------------0--------------------|
+D |--------0---------------------------------------------0--------------------|
+A |--------0---------------------------------------------2--------------------|
+E |------------------------------------------------------3--------------------|
+      She  asked me to stay and she told me to sit any - where.
+
+
+   Dm                                           G              A
+|--1--------------------------------------------3--------------0------------|
+|--3--------------------------------------------0--------------2------------|
+|--2--------------------------------------------0--------------2------------|
+|--0--------------------------------------------0--------------2------------|
+|--0--------------------------------------------2--------------0------------|
+|-----------------------------------------------3---------------------------|
+   I looked around and I noticed there wasn't a chair.
+
+
+
+I sat on a rug, biding my time
+    drinking her wine.
+We talked until two, and then she said
+    it's time for bed.
+
+[repeat 1st measure]
+
+She told me she worked in the morning
+    and started to laugh.
+I told her I didn't
+    and crawled off to sleep in the bath.
+
+And, when I awoke, I was alone
+    this bird had flown.
+So, I lit a fire, isn't it good
+    Norwegian wood.
+
+[repeat 1st measure]
+
+
+notes:
+1.  Spacing doesn't indicate timing - I just lined the tab up with the lyrics.
+2.  Chords are tabbed for their first beat only.  The D chord is strummed down,
+    up, down.  Note the hammer-on at the end of each measure.
+3.  Holding the D chord, use your pinky for 3rd fret notes and index finger
+    for 1st fret notes, middle finger for 3rd fret on the A string.
+4.  Have an accompanist play along without a capo:
+     E     D     E     D    [bridge]  Em    A    Em     A   B
+
+--mxrangnjfumchebcqtfmbcrosshkmp--
+
+
+=============================================================================
+
+From: rh34+@andrew.cmu.edu (Robert R. Hall)
+Subject: Alternate TAB: Norwegian Wood
+Date: 6 Aug 92 16:22:34 GMT
+
+This song is in E; you can play it in D with a capo, but
+I don't have one, so I figured out this version.  It lets
+you play the rhythm and lead guitar parts at the same time:
+
+e --0---0---0---0---0---x---x---x---0---x---x---x---0----------
+B --0---2---0---0---0---0---0---0---0---0---0---0---0----------
+G --1---1---1---2---1---2---2---0---1---2---2---2---1----------
+D --2---2---2---2---2---4---4---4---2---0---0---0---2----------
+A --2---2---2---2---2---0---0---0---2---4---4---4---2----------
+E --0---2---0---2---0---x---x---x---0---x---x---x---0----------
+|
+|   I  once had a  girl or shld I  say she once had me
+-> (c)  B   (c) G  (c)  D   G   G  (c)  D   G    A  (c)   
+         
+
+Accent the string listed below the word to bring out
+the melody. (c) means accent the whole chord.  Use your
+smallest finger to hit the notes during "I once had a girl."
+
+Chorus
+------
+Am                                             D
+She asked me to stay and she told me to sit anywhere
+
+Am                                            D     F# 
+I looked around and I noticed there wasn't a chair ---> verse (E riff above)
+
+----------------------------
+I'm not sure of the complete lyrics, they're pretty clear
+on the album (Rubber Soul)
+
+Bob
+
+=============================================================================
+
+
+
+Date: Thu, 20 Jun 1996 20:55:37 -0400
+From: Laurence Watson <lrw@virginia.edu>
+
+
+	This is the song Norwegian Wood, by the Beatles.
+	The song appeared on the Rubber Soul album, released
+	in 1965.  Here it is:
+
+
+|-----------2--------2--------|-----------------2---2-------|
+|-----------3--------3--------|-----------------3---3-------|
+|----2------2--------2--------|--2h4--2--0------2---2-------|
+|-----------0--------0--------|-------------4---0---0-------|
+|-----------0--------0--------|-----------------0---0-------|
+|-----------------------------|-----------------------------|
+
+
+|-----------------2---2-------|------------2--2--2--2--2--2-|
+|-----------------3---3-------|------------3--3--3--3--3--3-|
+|------0----------2---2-------|----0-------2--2--2--2--2--2-|
+|---2-----4---0---0---0-------|------------0--0--0--0--0--0-|
+|-----------------0---0-------|--3---2--0--0--0--0--0--0--0-|
+|-----------------------------|-----------------------------|
+
+
+|----1---1---1----1---0-------|----0------------------------|
+|----3------------3-------3---|----3---3---1-----1---3---1--|
+|----2------------2-----------|----2-------------0----------|
+|----0------------0-----------|----0-------------2----------|
+|-----------------------------|------------------3----------|
+|-----------------------------|-----------------------------|
+
+	  
+	(strum a few times)
+|-----------------------------|----1---1---1----1---0-------|
+|----3------------------------|----3------------3-------3---|
+|----0------------------------|----2------------2-----------|
+|----0------------------------|----0------------0-----------|
+|----2------------------------|-----------------------------|
+|----3------------------------|-----------------------------|
+
+                              (strum a little)(strum a little)
+|----0------------------------|------0-------|-------0------|
+|----3---3---1-----1---3---1--|------3-------|-------2------|
+|----2-------------0----------|------0-------|-------0------|
+|----0-------------2----------|------2-------|-------2------|
+|------------------3----------|------0-------|-------0------|
+|-----------------------------|--------------|--------------| (then back to verse)
+
+
+
+LYRICS:    I once had a girl, or should I say, she once had me.
+	   She showed me her room.  Isn't it good, Norwegian Wood?
+
+	   She asked me to stay, and she told me to sit anywhere.
+	   So I looked around, and I noticed there wasn't a chair.
+
+	   I sat on a rug, biding my time, drinking her wine.
+	   We talked until two, and then she said, it's time for bed.
+
+	   She told me she worked in the morning and started to laugh.
+	   I told her I didn't and crawled off to sleep in the bath.
+
+	   And, when I awoke, I was alone.  This bird had flown.
+	   So, I lit a fire.  Isn't it good, Norwegian Wood?
+
+		       --------------------------
+		
+
+		The sitar is the actual instrument used by
+		George Harrison to play this song.  It is
+		the first Beatle's song where it is present. 
+		
+
+						- Stuart Watson
+
+--------------27A36151D
+Content-Type: text/plain; charset=us-ascii; name="submitting.txt"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline; filename="submitting.txt"
+
+              .oooooo.   ooooo          .oooooo.          .o.
+             d8P'  `Y8b  `888'         d8P'  `Y8b        .888.
+            888      888  888         888               .8"888.
+            888      888  888         888              .8' `888.
+            888      888  888         888     ooooo   .88ooo8888.
+            `88b    d88'  888       o `88.    .88'   .8'     `888.
+             `Y8bood8P'  o888ooooood8  `Y8bood8P'   o88o     o8888o
+
+
+
+	HOW TO SUBMIT FILES TO OLGA (THE ON-LINE GUITAR ARCHIVE)
+	::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+	OLGA, the On-Line Guitar Archive, is a natural development of
+the guitar.tab newsgroups. The Archive provides a library of files that 
+is more permanent than usenet and is easily accessible, and attempts to 
+prevent repetition of work already done by the community.
+
+	If you can educate others in how to play a song, type up
+the chords and/or tab and/or playing tip and send it to both the 
+newsgroups *AND* the archive, and contribute to the community. 
+
+It's very simple:
+
+Step 1:		Before you submit, make sure of the following:
+Final		That you have included the song name, artist's name
+Preparations	and your own name (and if different, the transciber's name)
+
+		If you can, include other information such as the name
+		of the album from which the track comes, the name of the
+		author of the words and music, details of the publisher
+		and catalogue number, and notes on what effects are used
+		and on how to play the music.
+
+		Make sure that the file is 'all your own work'. If you
+		use copyrighted material, it won't (knowingly) be 
+		archived. 
+
+		You should also check the archive to ensure that you
+		are not duplicating material already there. If a chord
+		or tab file already exists for the song, take it down
+		and incorporate your material with it. Always credit
+		the original author and mention what each of you has
+		done. If the file is anonymous at the archive, you 
+		should nonetheless state that you used material from 
+		the archive, and if practicable, disclaim credit for 
+		the portions used.
+
+Step 2:		The simplest method of submitting for all concerned is 
+Submitting	simply to email it to guitar@nevada.edu  Use a subject 
+		line of the same form as you post to news, i.e.
+		TAB: <songname> by <artistname>
+
+		Alternatively, you can use ftp. If you don't know how, 
+		read the FAQ file posted to the guitar.tab newsgroups by 
+		Ryan Harding called 'The Ultimate Guide to the Tab Archives'.
+		Use the 'put' command during an ftp session to 
+			ftp.nevada.edu/pub/guitar/incoming
+		Please follow the instructions in the file READ_BEFORE_PUTTING
+		N.B.: You can submit by ftp to the *nevada site only*. 
+		There are incoming directories at some of the other OLGA 
+		sites (for different purposes), but if you upload tab or 
+		chords to those sites they won't be archived at *any* site.
+
+Step 3:		Files are processed and archived manually, so it can take
+Checking	anywhere from 30 seconds to 2 weeks to archive your file.
+		In practice, it never takes more than a week, so you can start
+		checking if your file is at OLGA 4-7 days after submission.
+		Note that the file filters down through the sites, and this
+		may also take some time
+		The best way to check is to read the INFO file posted to 
+		the guitar.tab newsgroups every Monday called 'OLGA WEEKLY 
+		INDEX'. The indexes are for the second previous week, so
+		if the name of your file does not appear on this list 
+		one of the *three* Monday's after you submit it, contact 
+		guitar@nevada.edu and inquire politely as to its whereabouts.
+		You can receive the WEEKLY INDEX and other OLGA notices by 
+		email. Write to rcwoods@alf2.tcd.ie to have your name added.
+
+Your file at OLGA:
+Any file archived becomes the property of the archive in so far as
+material extraneous to the musical content (the header and .sig) may
+be removed or edited. The author's name and e-mail address will always 
+be retained if accompanying the file, along with any other information 
+the archivists deem relevant.
+The archivists retain the right to modify or remove files as they see fit.
+In cases of duplication of a song, the archivists may remove a 
+transcription of inferior quality. 
+Copyright of work remains with the author of that work. Posting to usenet 
+or to the archive implicitly gives permission for fair-use distribution.
+Requests to have files removed or modified should be made to the
+archivists by e-mail to guitar@nevada.edu.
+
+
+Additions/corrections to this file welcomed.
+Pete Palmer     ppalmer@cray.com
+cal woods       rcwoods@scrg.cs.tcd.ie
+Ryan Harding    rkh2@ukc.ac.uk
+Dean Gaudet     dgaudet@cs.ubc.ca
+
+--------------27A36151D--
+
+
+From lrw@virginia.edu Thu Jun 20 04:35:05 1996
+Received: from post-office.nevada.edu (post-office.nevada.edu [131.216.1.11]) by mailhost.tcs.tulane.edu (8.6.12/8.5) with ESMTP id XAA28168; Wed, 19 Jun 1996 23:35:03 -0500
+Received: from virginia.edu (mars.itc.Virginia.EDU [128.143.2.9]) by post-office.nevada.edu (8.6.12/8.6.4) with SMTP id VAA22609 for <guitar@nevada.edu>; Wed, 19 Jun 1996 21:32:22 -0700
+Received: from avery.med.virginia.edu by mail.virginia.edu id aa11137;
+          20 Jun 96 0:32 EDT
+Received: from UROLOGY.Virginia.EDU (slip-23-7.itc.Virginia.EDU [128.143.3.67]) by avery.med.Virginia.EDU (8.7.1/8.6.6) with SMTP id AAA27079 for <guitar@nevada.edu>; Thu, 20 Jun 1996 00:32:17 -0400
+Message-ID: <31C8D44E.1A9B@virginia.edu>
+Date: Thu, 20 Jun 1996 00:32:15 -0400
+From: Laurence Watson <lrw@virginia.edu>
+X-Mailer: Mozilla 3.0b4 (Win95; I)
+MIME-Version: 1.0
+To: guitar@nevada.edu
+Subject: MONEY
+Content-Type: multipart/mixed; boundary="------------32E24A777925"
+X-email-warning: As a cautionary note, there have been recent instances of
+	people forging mail addresses. If you have any reason to believe
+	this message is not authentic, please contact the listed sender or
+	System Computing Services at (702) 895-4585.
+Status: RO
+
+This is a multi-part message in MIME format.
+
+--------------32E24A777925
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Dear guitar@nevada.edu,
+		My name is Stuart Watson, and I would like to submit a tabbed-out 
+version of the song Money, by Pink Floyd, to you.  So, here it is:
+-----------------------------------------------------------------------------------
+From: lrw@virginia.edu (Stuart Watson)
+
+	Here's the tablature for the song Money, by Pink Floyd.  The song appeared 
+	on the album The Dark Side of the Moon, released in 1973.  Roger Waters 
+	wrote and sang the song.  Here it is:
+
+ (repeat this many times)        (then...)
+|--------------------------|--------------------------|--------------------------||--------------------------|--------------------------|--------------------------||----4---------------------|--------------------------|--------------------------||-------4---------------0--|-----4--------------4--3--|---2--------------------0-||--2-------2-----0--2------|-------4------0--4--------|------2-----------0--2----||-------------2------------|--2------2--2-------------|----------0---3-----------|							(then back to first riff)
+
+
+SOLOS:
+ 
+(play this for a little bit)       (then this)                (then this) 
+|--------------------------|--------------------------|--------------------------||--------------------------|--------------------------|--------------------------||--------------------------|-----4----7----6----5-----|--------------------------||-----4----7----6----5-----|-----2----5----4----3-----|-----4----7----6----5-----||-----2----5----4----3-----|--------------------------|-----2----5----4----3-----||--------------------------|--------------------------|--------------------------|
+      (and then this)           (and finally this)         
+|--------------------------|--------------------------|       
+|--------------------------|--------------------------|
+|--------------------------|--4--2--------------------|
+|--------------------------|-------5--4--2------------|
+|-----4----7----6----5-----|----------------5--4--3-2-|
+|-----2----5----4----3-----|--------------------------|
+
+
+
+		To get the song completely right, and know what order 
+		to play it in, I'd listen to it.
+
+
+
+							- Stuart Watson
+
+--------------32E24A777925
+Content-Type: text/plain; charset=us-ascii; name="norwegian_wood.tab"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline; filename="norwegian_wood.tab"
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+Date: Wed, 23 Aug 1995 18:06:42 -0400 (EDT)
+From: Douglas French <dfrench@site.gmu.edu>
+Subject: TAB: Norwegian Wood
+
+
+
+Yet another TAB of Norwegian Wood (This Bird Has Flown) along with
+2 corrections to the existing TABs of the song.  I have included
+the existing TABs in their entirety and unedited for reference.
+
+=============================================================================
+Title:       Norwegian Wood (This Bird Has Flown)
+Composers:   John Lennon and Paul McCartney
+Group:       The Beatles
+Album:       Rubber Soul
+Arrangement: Doug French, dfrench@site.gmu.edu
+ 
+capo: 2nd fret
+time: 12/8
+
+Intro, play 2 times:
+
+  #1  D
+E ||------2-2-2-------------------2-2-2----------------|
+B ||--3---3-3-3---3---3---3-------3-3-3-------3--------|
+G ||--2---2-2-2---4---2---0---2---2-2-2---0---0---2----|
+D ||--0-----------------------4-----------2-------4----|
+A ||---------------------------------------------------|
+E ||---------------------------------------------------|
+      +   .   .   +   .   .   +   .   .   +   .   .
+
+
+      D           C       G   D
+E  |------2-2-2-------------------2-2-2-2-----2--------||
+B  |--3---3-3-3-------3-------3---3-3-3-3-----3--------||
+G  |--2---2-2-2-------0-------2---2-2-2-2-2---2--------||
+D  |--0-------------------0---0-----------0------------||
+A  |--------------3-------2---0------------------------||
+E  |---------------------------------------------------||
+      +   .   .   +   .   .   +   .   .   +   .   .
+
+
+Use same guitar pattern under solo voice:
+
+  #4  D
+E ||------2-2-2-------------------2-2-2----------------|
+B ||--3---3-3-3---3---3---3-------3-3-3-------3--------|
+G ||--2---2-2-2---4---2---0---2---2-2-2---0---0---2----|
+D ||--0-----------------------4-----------2-------4----|
+A ||---------------------------------------------------|
+E ||---------------------------------------------------|
+      +   .   .   +   .   .   +   .   .   +   .   .
+   1. I          once had a   girl,       or should I
+   2. (Instrumental) ....
+
+      D           C       G   D
+E  |------2-2-2-------------------2-2-2-2-----2--------|
+B  |--3---3-3-3-------3-------3---3-3-3-3-----3--------|
+G  |--2---2-2-2-------0-------2---2-2-2-2-2---2--------|
+D  |--0-------------------0---0-----------0------------|
+A  |--------------3-------2---0------------------------|
+E  |---------------------------------------------------|
+      +   .   .   +   .   .   +   .   .   +   .   .
+      say,       she once had me;
+      ....
+
+      D
+E  |------2-2-2-------------------2-2-2----------------|
+B  |--3---3-3-3---3---3---3-------3-3-3-------3--------|
+G  |--2---2-2-2---4---2---0---2---2-2-2---0---0---2----|
+D  |--0-----------------------4-----------2-------4----|
+A  |---------------------------------------------------|
+E  |---------------------------------------------------|
+      +   .   .   +   .   .   +   .   .   +   .   .
+      She      showed me her  room,       is- n't it
+      ...
+
+      D           C       G   D
+E  |------2-2-2-------------------2-2-2-2--------------|
+B  |--3---3-3-3-------3-------3---3-3-3-3-----3--------|
+G  |--2---2-2-2-------0-------2---2-2-2-2-2---2--------|
+D  |--0-------------------0---0-----------0-------0----|
+A  |--------------3-------2---0------------------------|
+E  |---------------------------------------------------|
+
+      +   .   .   +   .   .   +   .   .   +   .   .
+      good        Nor-we-gian wood.               She
+      ...                                         She
+
+
+      Dm
+E  |--1---1-1-1---1---0-0-0---0------------------------|
+B  |--3---3-3-3---3---3-3-3---3---3-3-3----------------|
+G  |--2---2-2-2---2---0-0-0---0---2-2-2---2---0---2----|
+D  |--0-----------0-----------0-----------3---0---3----|
+A  |--0-----------0-----------0------------------------|
+E  |---------------------------------------------------|
+      +   .   .   +   .   .   +   .   .   +   .   .
+    asked me  to stay and she told me to  sit an- y -
+    told me she worked in the morning and started to
+
+
+      G
+E  |--3---3-3-3-3-----3-3-3-3-----3-3-3-3-----3--------|
+B  |--3---3-3-3-3-----3-3-3-3-----3-3-3-3-----3--------|
+G  |--0---0-0-0-0-----0-0-0-0-----0-0-0-0-----0--------|
+D  |--0---0-0-0-0-0---0-0-0-0-----0-0-0-0-0---0--------|
+A  |--2-------------------------------------------0----|
+E  |--3-----------------------3------------------------|
+      +   .   .   +   .   .   +   .   .   +   .   .
+     where.                                       So
+     laugh.                                       I
+
+
+      Dm
+E  |--1---1-1-1---1---0-0-0---0------------------------|
+B  |--3---3-3-3---3---3-3-3---3---3-3-3----------------|
+G  |--2---2-2-2---2---0-0-0---0---2-2-2---2---0---2----|
+D  |--0-----------0-----------0-----------3---0---3----|
+A  |--0-----------0-----------0-----------0------------|
+E  |---------------------------------------------------|
+      +   .   .   +   .   .   +   .   .   +   .   .
+     I looked a round and I noticed there was-n't  a
+     told her I did-n't and crawled off to sleep in the
+
+
+      Em7                     A7
+E  |--0---0-0-0-0-----0-----0-0---0-0-0-0-0----------|
+B  |--3---3-3-3-3-----3-----3-2---2-2-2-2-2----------|
+G  |--0---0-0-0-0-----0-----0-0---0-0-0-0-0----------|
+D  |--2---2-2-2-2-2-----------2---2-2-2-2-2----------|
+A  |--2-----------2-----------0-----------0----------|
+E  |-------------------------------------------------|
+      +   .   .   +   .   .   +   .   .   +   .   .
+      chair.
+      bath.
+
+
+Use same guitar pattern as in measure #4 above:
+
+      D
+   1. I           sat on  a   rug,        bid-ing my
+   2. And,       when I   a - woke,       I   was a-
+
+
+      D           C       G   D
+      time,      drinking her wine.
+      lone,     this bird had flown.
+
+
+      D
+      We        talked un-til two,       and then she
+      So,         I   lit a   fire,       is- n't it
+
+
+      D           C       G   D
+      said      "It's time for bed."
+      good        Nor-we-gian wood.
+
+
+Repeat from measure #4 above.
+
+Ending:
+
+      D
+E ||---------------------------------------------------|
+B ||--3---3-3-3---3---3---3-------3-3-3-------3--------|
+G ||--2---2-2-2---4---2---0---2---2-2-2---0---0---2----|
+D ||--0-----------------------4-----------2-------4----|
+A ||---------------------------------------------------|
+E ||---------------------------------------------------|
+      +   .   .   +   .   .   +   .   .   +   .   .
+
+
+      D           C       G   D
+E  |---------------------------------------------------||
+B  |--3---3-3-3-------3-------3------------------------||
+G  |--2---2-2-2-------0-------2------------------------||
+D  |--0-------------------0---0------------------------||
+A  |--------------3-------2---0------------------------||
+E  |---------------------------------------------------||
+      +   .   .   +   .   .   +   .   .   +   .   .
+
+
+
+=============================================================================
+=============================================================================
+Corrections to existing TABS:
+
+1)  Richard Cook's TAB (in D, capo on 2nd fret) lists the chords of the
+    bridge as:
+
+    Dm         G
+    She ... anywhere
+    Dm         G     A
+    I   ...    chair.
+
+    which contains 2 errors. To be played in D the chords should be:
+
+    Dm         G
+    She ... anywhere
+    Dm         Em7  A7
+    I   ...    chair.
+
+2)  Robert Hall's TAB (in E) lists the chords of the bridge as:
+
+    Am         D
+    She ... anywhere
+    Am         D     F#
+    I   ...    chair ---> verse (E riff above)
+
+    which are in the wrong key.  To be played in E the chords should be:
+
+    Em         A
+    She ... anywhere
+    Em         Fm7   B7
+    I   ...    chair.
+
+=============================================================================
+Existing TABs:
+=============================================================================
+
+Date: Sun, 20 Aug 1995 09:18:02 -0700
+From: rwcook@ix.netcom.com (Richard Cook )
+Subject: TAB: Norwegian Wood by The Beatles
+
+                            Norwegian Wood
+                                                                 The Beatles
+
+Tabbed by Richard Cook
+
+
+Capo 2nd fret.
+
+
+     D                                                               D    D
+E ||-2----2------2---2---2--2--2------------------2------------------2----0h2-|
+B ||-3----3------3---3---3--3--3------------------3--------3---------3----3---|
+G ||-2----4------2---0---0--0--0-------0----------2--------0---------2----2---|
+D |--0----0------0---0---4--4--4---2----------4---0------------------0----0---|
+A ||-0-------------------------------------------------3--------2----0----0---|
+E ||--------------------------------------------------------------------------|
+
+
+
+     D                                                               D    D
+E |--2----2------2---2---2--2--2------------------2------------------2----0h2-|
+B |--3----3------3---3---3--3--3------------------3--------3---------3----3---|
+G |--2----4------2---0---0--0--0-------0----------2--------0---------2----2---|
+D |--0----0------0---0---4--4--4---2----------4---0--------0---------0----0---|
+A |--0-------------------------------------------------3--------2----0----0---|
+E |---------------------------------------------------------------------------|
+     I    once had a     girl,     or  should I   say, she once had me.
+
+
+
+     D                                                               D    D
+E |--2----2------2---2---2--2--2------------------2------------------2----0h2-|
+B |--3----3------3---3---3--3--3------------------3--------3---------3----3---|
+G |--2----4------2---0---0--0--0-------0----------2--------0---------2----2---|
+D |--0----0------0---0---4--4--4---2----------4---0--------0---------0----0---|
+A |--0-------------------------------------------------3--------2----0----0---|
+E |---------------------------------------------------------------------------|
+     She  showed me  her room,     is  n't    it  good nor-we - gian wood.
+
+
+bridge
+           Dm                                            G
+E |--------1---------------------------------------------3--------------------|
+B |--------3---------------------------------------------0--------------------|
+G |--------2---------------------------------------------0--------------------|
+D |--------0---------------------------------------------0--------------------|
+A |--------0---------------------------------------------2--------------------|
+E |------------------------------------------------------3--------------------|
+      She  asked me to stay and she told me to sit any - where.
+
+
+   Dm                                           G              A
+|--1--------------------------------------------3--------------0------------|
+|--3--------------------------------------------0--------------2------------|
+|--2--------------------------------------------0--------------2------------|
+|--0--------------------------------------------0--------------2------------|
+|--0--------------------------------------------2--------------0------------|
+|-----------------------------------------------3---------------------------|
+   I looked around and I noticed there wasn't a chair.
+
+
+
+I sat on a rug, biding my time
+    drinking her wine.
+We talked until two, and then she said
+    it's time for bed.
+
+[repeat 1st measure]
+
+She told me she worked in the morning
+    and started to laugh.
+I told her I didn't
+    and crawled off to sleep in the bath.
+
+And, when I awoke, I was alone
+    this bird had flown.
+So, I lit a fire, isn't it good
+    Norwegian wood.
+
+[repeat 1st measure]
+
+
+notes:
+1.  Spacing doesn't indicate timing - I just lined the tab up with the lyrics.
+2.  Chords are tabbed for their first beat only.  The D chord is strummed down,
+    up, down.  Note the hammer-on at the end of each measure.
+3.  Holding the D chord, use your pinky for 3rd fret notes and index finger
+    for 1st fret notes, middle finger for 3rd fret on the A string.
+4.  Have an accompanist play along without a capo:
+     E     D     E     D    [bridge]  Em    A    Em     A   B
+
+--mxrangnjfumchebcqtfmbcrosshkmp--
+
+
+=============================================================================
+
+From: rh34+@andrew.cmu.edu (Robert R. Hall)
+Subject: Alternate TAB: Norwegian Wood
+Date: 6 Aug 92 16:22:34 GMT
+
+This song is in E; you can play it in D with a capo, but
+I don't have one, so I figured out this version.  It lets
+you play the rhythm and lead guitar parts at the same time:
+
+e --0---0---0---0---0---x---x---x---0---x---x---x---0----------
+B --0---2---0---0---0---0---0---0---0---0---0---0---0----------
+G --1---1---1---2---1---2---2---0---1---2---2---2---1----------
+D --2---2---2---2---2---4---4---4---2---0---0---0---2----------
+A --2---2---2---2---2---0---0---0---2---4---4---4---2----------
+E --0---2---0---2---0---x---x---x---0---x---x---x---0----------
+|
+|   I  once had a  girl or shld I  say she once had me
+-> (c)  B   (c) G  (c)  D   G   G  (c)  D   G    A  (c)   
+         
+
+Accent the string listed below the word to bring out
+the melody. (c) means accent the whole chord.  Use your
+smallest finger to hit the notes during "I once had a girl."
+
+Chorus
+------
+Am                                             D
+She asked me to stay and she told me to sit anywhere
+
+Am                                            D     F# 
+I looked around and I noticed there wasn't a chair ---> verse (E riff above)
+
+----------------------------
+I'm not sure of the complete lyrics, they're pretty clear
+on the album (Rubber Soul)
+
+Bob
+
+
+

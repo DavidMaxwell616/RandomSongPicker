@@ -1,0 +1,348 @@
+[lots of versions]
+Date: Wed, 28 Jun 1995 15:10:55 -0700
+From: kclamp@cctr.umkc.edu (Ken Lamp)
+Subject: TAB: I'll be There for You by The Rembrandts
+
+I'll Be There For You (Theme to "Friends")
+Music by Michael Skloff
+Lyrics by Allee Willis
+The Rembrandts
+
+Originally tabbed by: sobeski@lf.hp.com (Carl Sobeski),
+completed by kclamp@cctr.umkc.edu (Ken Lamp)
+Some of the D chords may be Dsus2, see which you think is better
+
+Intro
+e---------------------------------------------
+B---------------------------------------------
+G-----5b6--5b6--4--2--0--0--2--4--2----------- played 4 times
+D---------------------------------------------
+A--0-(let ring)------------------------------- Bass and drums
+E--------------------------------------------- in on 3rd time
+
+A                                         G
+So no one told you life was gonna be this way
+A                                                 C#m
+Your job's a joke, you're broke, your love life's D.O.A.
+G                Bm              A
+It's like you're always stuck in second gear
+        G                D                    E
+When it hasn't been your day, your week, your month, or even your year
+
+
+     A       D         E
+But, I'll be there for you (When the rain starts to pour)
+A       D         E
+I'll be there for you (Like I've been there before)
+A       D         E                               G
+I'll be there for you ('Cause you're there for me too)
+
+
+A                                           G
+You're still in bed at 10 and work began at 8
+A                                                  C#m
+You burned your breakfast so far, things are going great
+G           Bm                    A
+Your mother warned you there'd be days like these
+        G               D                  E
+But she didn't tell you when the world has brought you down to your knees
+
+
+     A       D         E
+And, I'll be there for you (When the rain starts to pour)
+A       D         E
+I'll be there for you (Like I've been there before)
+A       D         E                               G         A
+I'll be there for you ('Cause you're there for me too)
+
+
+D
+No one could ever know me
+D
+No one could ever see me
+F#m
+Sometime the only one who knows what its like to be me
+Bm                            A
+Someone to face the day with, make it through all the mess with
+G                               E              D         E         F#m
+Someone I'll always laugh with, even under the worst I'm best with you
+
+
+Lead
+D     E
+A     D     E
+F#m   D     E
+A     D     E
+
+G                Bm              A
+It's like you're always stuck in second gear
+        G                D                    E
+When it hasn't been your day, your week, your month, or even your year
+
+
+A       D         E
+I'll be there for you (When the rain starts to pour)
+A       D         E
+I'll be there for you (Like I've been there before)
+A       D         E                               G
+I'll be there for you ('Cause you're there for me too)
+
+
+A       D         E
+I'll be there for you
+A       D         E
+I'll be there for you
+A       D         E                               G        A
+I'll be there for you ('Cause you're there for me too)
+
+
+Ending played during last G chord
+e--------------------------------------------
+B--------------------------------------------
+G----4--4-2-0--5-4-2--0--2-------------------
+D--------------------------------------------
+A--------------------------------------------
+E--------------------------------------------
+
+Ken Lamp, PharmD                                     ||==\\
+School of Pharmacy                                   ||==//
+University of Missouri-Kansas City                   ||  \\//
+                                                         //\\
+
+
+
+In article <3k2ar0$tmm@saba.info.ucla.edu>, jma@pediatrics.medsch.ucla.edu
+(Jeffrey Ma) wrote:
+
+> Hello, everyone!  This is my first REAL post, so forgive me if I make any
+> mistakes.  Before I get to the song, I want to thank everyone who has
+> contributed to r.m.m.g.t and a.g.t as well as Neveda.  Ever since I started
+> reading this group I've had more fun playing the six-string than ever.
+> And since I'm still a little green with the guitar, this group has helped
+> me a ton.  Now I'd like to try to contribute.  Thanks to all!
+> 
+> Now, a while ago someone had requested the theme to the show "Friends," 
+> and I was waiting for a response myself.  I never saw it so I decided
+> to give it a try, and I think I got it.  But remember, I'm not that
+> experienced (this is only the second song I've figured out), so
+> I would appreciate any corrections.  Also, someone else will have to tab
+> the riffs.  And here we go...
+> 
+> Theme to "Friends"
+> Music by Michael Skloff
+> Lyrics by Allee Willis
+> Performed by The Rembrandts
+> 
+> Intro:  A A
+> 
+> A                                            Em
+> So no one told you that it was gonna be this way.
+> A                                                      E
+> Your job's a joke, you're broke, your love's blasting away.
+> 
+> G                Dsus2           E            E
+> It's like you're always stuck in second gear,
+>         G                Dsus2                E                  E
+> When it hasn't been your day, your week, your month or even your year. But...
+> 
+> A                 E              
+> I'll be there for you (When your world starts to fall).
+> I'll be there for you (Like I've been there before).
+> I'll be there for you ('Cause I'm there for you).
+> 
+> G G A
+> 
+> 
+> You'll have to listen for the strum pattern!
+> 
+> Enjoy!
+> 
+> Jeff
+> jma@pediatrics.medsch.ucla.edu
+
+The intro lick to this song goes something like this:
+
+---0----------------------0-------------------
+-----3-2-0------------------3-2-0-------------
+-2---------0-0-2-4-2---2----------0-0-4-2----- played 2 times
+-2---------------------2----------------------
+-0---------------------0----------------------
+-0---------------------0----------------------
+
+
+Dave Singer (dmsinge@erenj.com) 
+
+
+From: arabella@mail.utexas.edu (Arabella Clauson)
+Subject: CRD: "Friends" theme by the Rembrandts
+
+These are from the FRIENDS FAQ file:
+
+Carl Sobeski (sobeski@lf.hp.com) figured them out as follows: 
+
+             Fret                Fret                Fret
+     A                   G                  C#m
++---------+         +---------+         +---------+
+1 | | | 1 1  5th    1 | | | 1 1  3rd    | 1 | | | 1  4th
++---------+         +---------+         +---------+
+| | | 2 | |         | | | 2 | |         | | | | 2 |
++---------+         +---------+         +---------+
+| 3 4 | | |         | 3 4 | | |         | | 3 4 | |
+
+
+    Bm                   D                   E
++---------+         +---------+         +---------+
+| 1 | | | 1  2nd    | 1 | | | |  5th    | | | 1 | |  1st
++---------+         +---------+         +---------+
+| | | | 2 |         | | | | | |         | 2 3 | | |
++---------+         +---------+         +---------+
+| | 3 4 | |         | | 3 3 3 |         | | | | | |
+
+
+A                                         G
+So no one told you life was gonna be this way
+
+A                                                     C#m
+Your job's a joke, you're broke, your love life's D.O.A.
+
+G                Bm              A
+It's like you're always stuck in second gear
+
+         G               D                    E
+And it hasn't been your day, your week, your month, or even your year
+
+     A       D         E
+But, I'll be there for you (When the rain starts to pour)
+
+A       D         E
+I'll be there for you (Like I've been there before)
+
+A       D         E                  G                 A
+I'll be there for you ('Cause you're there for me too)
+
+
+
+Music by Michael Skloff
+Lyrics by Allee Willis
+So no one told you life was gonna be this way 
+Your job's a joke, you're broke, your love life's D.O.A. 
+It's like you're always stuck in second gear 
+And it hasn't been your day, your week, your month, or even your year 
+
+but 
+I'll be there for you 
+(When the rain starts to pour) 
+I'll be there for you 
+(Like I've been there before) 
+I'll be there for you 
+('Cause you're there for me too)
+
+
+I'll Be There For You (The Rembrandts)
+
+> Theme to "Friends"
+> Music by Michael Skloff
+> Lyrics by Allee Willis
+> Performed by The Rembrandts
+> 
+
+Intro 
+  A
+|--------------------------|
+|---/2-2-0-----------------|
+|----------2-0-0-0-(2)/4-2-|  x4 
+|--------------------------|
+|-0------------------------|
+|--------------------------|
+
+
+Verse 1
+A                                                      G
+So no one told you life was gonna be this way
+A                                                            c#m
+Your job's a joke, you're broke, your love life's D.O.A.
+G                bm                  A
+It's like you're always stuck in second gear
+         G               D                    E
+And it hasn't been your day, your week, your month, or even your year
+
+Chorus
+A       D         E
+But, I'll be there for you (When the rain starts to pour)
+A       D         E
+I'll be there for you (Like I've been there before)
+A       D         E                                         G    A
+I'll be there for you ('Cause you're there for me too)
+
+Verse 2
+You're still in bed at ten, but work began at eight,
+You burned your breakfast, so far, things are goin' great,
+Your mother warned you there'd be days like these,
+But she didn't tell you when the world has brought you down to your knees, that
+
+Chorus
+
+Bridge
+D
+No one could ever know me, No one could ever see me,
+f#m
+Seems you're the only who knows What it's like to be me.
+hm                                   bm(A)
+Someone to face the day with, Make it through all the rest with
+G                G(F#)                    E
+Someone I'll always laugh with, Even at my worst I'm best with you.
+
+Solo A | D | E | E  (4x)
+
+Verse1 (last two lines)
+It's like you're always stuck in second gear
+And it hasn't been your day, your week, your month, or even your year, but
+
+Chorus
+
+Chorus
+But, I'll be there for you
+I'll be there for you
+I'll be there for you Cause you're there for me too
+
+
+Chords: 
+
+bm(A)	x04432 
+G(F#)	2x0003
+
+Carl Sobeski (sobeski@lf.hp.com) figured them out as follows: 
+
+             Fret                Fret                Fret
+     A                   G                  C#m
++---------+         +---------+         +---------+
+1 | | | 1 1  5th    1 | | | 1 1  3rd    | 1 | | | 1  4th
++---------+         +---------+         +---------+
+| | | 2 | |         | | | 2 | |         | | | | 2 |
++---------+         +---------+         +---------+
+| 3 4 | | |         | 3 4 | | |         | | 3 4 | |
+
+
+    Bm                   D                   E
++---------+         +---------+         +---------+
+| 1 | | | 1  2nd    | 1 | | | |  5th    | | | 1 | |  1st
++---------+         +---------+         +---------+
+| | | | 2 |         | | | | | |         | 2 3 | | |
++---------+         +---------+         +---------+
+| | 3 4 | |         | | 3 3 3 |         | | | | | |
+
+
+
+
+\____ ----- ____/  Arabella Clauson         
+     ( o o )       arabella@mail.utexas.edu  
+      \   /        http://ccwf.cc.utexas.edu/~arabella/index.html
+       (_)         Home of the JACKOPIERCE guitar chord file
+
+
+
+Completed (Bridge) by Matthias Kiess on 4.VII.1995, 
+e-mail: kiess@ipa.fhg.de
+
+
+

@@ -1,0 +1,144 @@
+        Slapping on Bass Guitar Lesson #3
+        ================================
+                        Doug Wellington
+                        doug@arizona.edu
+
+
+OK, you guys should be real good with the octave slap and pop, the
+pop and mute, and the slap, hammer, slap mute, so we'll get into some
+combinations today.
+
+First, let's talk some more about muting.  (Did I mention that muting is
+about the most important thing in the slap and pop style?)  Last time, we
+did an octave slap and pop and let the notes ring.  Let's clean up the
+sound now, by lifting the fretting finger after the slap or pop.  You can
+either wait until just before playing the next note, thus holding the notes
+and making a long tone (legato) or you can stop the note quickly, making a
+short tone (staccato).  Both sounds have their uses, but let's have you work
+on the staccato now.  Play the same octave pattern we discussed last time
+(fifth fret of A string, seventh fret of G string), but instead of letting
+the notes ring, let up on the pressure almost immediately after you slap or
+pop, making each note a short tone.  Just let up enough to stop the note
+from ringing.  Don't actually take your finger off of the string.  Again,
+set your metronome for a slow tempo, and make this sound good and clean.
+
+     S = short tone                          O     O     O     O
+                                            ---   ---   ---   ---
+   S S S S S S S S              __
+|----7---7---7---7----|     |--/--\------------------------------
+|.-------------------.|     |  \   | .
+|.-5---5---5---5-----.|     |---@--|-----------------------------
+|---------------------|     |      / .
+   S P S P S P S P          |-----/-------O-----O-----O-----O----
+                            |    /
+     S = Slap               |---/--------------------------------
+     P = Pop                |
+                            |------------------------------------
+
+
+
+Once you feel comfortable with that, let's add in that slap, hammer, slap
+and mute pattern we learned in lesson one.  Stay at the same position.
+Slap two octave patterns starting at the fifth fret on the A string then 
+slap the A string and hammer on to the seventh fret.  Slap the open E string,
+then mute.  Start up your metronome again and play this pattern, with all
+slaps occurring on the beat, and the pops, hammers and mutes occurring in
+between.  Remember, we're still using quiet mutes.  We'll get into slap-mutes
+in the next lesson.
+
+
+                 O     O
+                ---   ---
+    __
+|--/--\------------------------------------------|
+|  \   | .                                       |
+|---@--|-----------------------------------------|
+|      / .                   O                   |
+|-----/-------O-----O-----O----------------------|
+|    /                                           |
+|---/--------------------------------------------|
+|                                                |
+|------------------------------------------------|
+|                                                |
+|                              -O-               |
+|                                                |
+|             S  S  S  S  L  L  L M              |  S = Short tone
+|----------------7-----7-------------------------|  L = Long tone
+|------------------------------------------------|  M = Mute
+|-------------5-----5-----5--7-------------------|
+|-------------------------------0----------------|
+              S  P  S  P  S  H  S  M
+
+              S = Slap
+              P = Pop
+              H = Hammer on
+              M = Mute
+
+
+
+Now, let's add a little movement to this line.  Start the pattern on the
+fourth fret of the A string.  Slap and pop one octave pattern, move up to
+the fifth fret of the A string, slap and pop an octave and then slap and
+hammer on the A string and slap and mute on the E string.  Start slow and
+keep it clean!
+
+
+                bO     O
+                ---   ---
+    __
+|--/--\------------------------------------------|
+|  \   | .                                       |
+|---@--|-----------------------------------------|
+|      / .                   O                   |
+|-----/------bO------O-----O---------------------|
+|    /                                           |
+|---/--------------------------------------------|
+|                                                |
+|------------------------------------------------|
+|                                                |
+|                              -O-               |
+|                                                |
+|             S  S  S  S  L  L  L  M             |  S = Short tone
+|----------------6-----7-------------------------|  L = Long tone
+|------------------------------------------------|  M = Mute
+|-------------4-----5-----5--7-------------------|
+|-------------------------------0----------------|
+              S  P  S  P  S  H  S  M
+
+              S = Slap
+              P = Pop
+              H = Hammer on
+              M = Mute
+
+
+Once you feel comfortable with that, try holding the slapped and popped
+octave notes for the whole duration (eighth notes) and see how this legato
+style changes the "feel".  The legato notes should almost seem to drag.
+Playing staccato keeps things moving.  Then, try playing the slaps as
+long tones and the pops as short tones.  (I think this sounds best of all.)
+Also, try letting the last slap on the open E string ring.  This sounds
+good at the end of a phrase or song.  Experiment, and have fun.
+
+Lastly, here's a simple pattern for you to play.  See if you recognize it.
+HINT:  it's part of a theme for a TV comedy show
+
+Staccato:
+|------5---------|---------------------|
+|----------------|---------------------|
+|---3------------|----1--2--3--3--3----|
+|----------------|---------------------|
+
+
+More again soon!
+-Doug
+
+Email any comments to me: doug@arizona.edu.
+This article (c) Copyright 1993 by Doug Wellington.
+You may distribute it freely so long as it is not modified.
+
+------------------------------------------------------------------
+Previous tapping and slapping lessons are available via FTP from
+KAPPA.RICE.EDU in the directory /pub/bass/lessons.  If you do not
+have FTP, and wish to retrieve the lessons via email, send mail to
+ftpmail@decwrl.dec.com with the message "help".
+------------------------------------------------------------------

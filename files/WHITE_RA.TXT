@@ -1,0 +1,195 @@
+From: Mike Bremford <Michael.Bremford@comp.vuw.ac.nz>
+
+
+                   The White Rabbit, by Jefferson Airplane
+                           Tabbed by Mike Bremford
+
+
+Notation: h  - Hammer on                /  - Slide up
+          p  - Pull off                 \  - Slide down
+          () - Quickly sound this note
+
+
+
+Intro: G5 (Just Bass) then G#5 (With drums as well)
+
+Solo: Over  G5 G#5 G5 G#5
+
+  G5                                     G#5
++--------------------------------------+----------------------------------+
++--------------------------------------+----------------------------------+
++-------------------------------9/10---+---------(10)h12-10---------------+
++-----------------------------8--------+--------------------13-12----10\8-+
++-10--------------------10-11----------+----------------------------------+
++-----------------10h11----------------+----------------------------------+
+
+
+  G5                                  G#5
++-----------------------------------+---------------------------------------+
++-----------------------------------+---------------------------------------+
++-----------------------------------+---------------------------------------+
++----9------------------------------+---------------------------------------+
++-10-------10-11-----------------10-+-11p10---------------------------------+
++------------------11-10---10-11----+-------11-10-8-10-11-10-8h10p8\6-8-6-4-+
+
+Verse 1 Start.
+  G5               Bass Tab: (I dont play bass but I think its right.)
++-----+
++-----+            G5                          G#5
++-----+          +-0---0-------------0-----0-+-1---1-------------1-----1-+
++-----+          +---------0-0-0-0-----------+---------1-1-1-1-----------+
++-----+          +---------------------------+---------------------------+
++-3---+          +---------------------------+---------------------------+
+
+
+G5                             G#5
+One pill makes you larger, and one pill makes you small
+        G5                                  G#5
+And the ones that mother gives you, don't do anything at all
+       A#5   C5         D#5      A#5        A#5
+Go ask Alice, when shes ten feet tall.
+
+
+G5                                     G#5
+And if you go chasing rabbits, and you know you're going to fall
+           G5                            G#5
+Tell 'em a hookah-smoking Caterpiller has given you the call
+     A#5   C5    D#5          A#5        A#5
+Call Alice, when she was just small.
+
+
+F5                                    A#5
+When men on the chessboard get up and tell you where to go,
+           F5                                      A#5
+And you've just had some kind of mushroom, and your mind is moving(?) ???
+       G5                    G5
+Go ask Alice, I think she'll know.
+
+
+     G5                        G#5
+When logic and proportion have fallen slightly dead,
+        G5                                         G#5
+And the White Knight is talking backwards, and the Red Queens off her head,
+  A#5   C5        D#5       A#5    F5        A#5   F5        A#5      A#5
+Remember what the Doormouse said - Keep your head, Keep your head
+
+
+
+* I play all the chords as standard 2 note power chords in the 5th and 6th
+  string, except for F5, which I play at the 13 position instead of the 1st.
+  Keep the beat military! And if there are any chords other than 5ths in
+  here, I can't hear 'em...
+  PS.  I think the solo is in G Phyrigian, played on a Strat, neck pickup with
+       just a bit of gain.
+  PPS. Can anyone tell me what she sings just after the mushrooms? And is she
+       really smoking Caterpillers? Why?
+
+================================================================================
+From: eisenboc@Informatik.TU-Muenchen.DE (Thomas `E.T.` Eisenbock)
+Subject: CRD/TAB : White Rabbit (Jefferson Airplane)
+
+Here's Dave's version, a bit of overworked. Still some words a missing ( ? ).
+
+Key:
+H    - Hammer On
+P    - Pull Off
+/    - Slide Up
+\    - Slide Down
+(44) - very slightly played
+
+INTRO
+
+    F#            G                      F#
+----------------------------------------------------------
+T--------------------7H8P7--------------------------------
+A---------------8/9--------9--7-6---4\2----3--------------
+B---4-----4/5/7--------------------------4----------------
+------4/5-------------------------------------------------
+----------------------------------------------------------
+                   G                                  F#
+----------------------------------------------------------
+T---------------------------------------------------------
+A---------------------------------------------------------
+B--4/5-----------4\5-4------------------------------------
+-------5\4(44)/5--------5-4--2-4-5-4---2-4-5--4--2--5-----
+------------------------------------------------------2---
+
+The Slides could also be Legatos, but I think only Jefferson knows. ;) 
+
+
+
+F#m                           G
+One pill makes you larger and one pill makes you small
+        F#m                                 G
+And the ones that mother gives you don't do anything at all
+       A      C        D    A
+Go ask Alice when she's ten feet tall
+
+And if you go chasing rabbits and you know you're gonig to fall.
+(                        ?                       )
+Go ask Alice when she's just small.
+
+      E                               A
+When men on the chessboard get up and tell you where to go..
+E                                                   A
+And you've just have some kind of mushroom and your mind is moving low.
+
+       F#m            
+Go ask Alice   I think she'll know
+F#m                              G
+When logic and proportion   have fallen  ( ?)ly dead.
+        F#m                                           G
+And the white knight is talking backwards and the red queen's off with her head
+  A      C          D          A
+Remember   what the door mouse said
+E         A
+Feed your head
+E         A
+Feed your head
+
+
+Originally typed by Dave Singer.
+
+From: mjp@jach.hawaii.edu (Magnus Paterson)
+Subject: Re: CRD/TAB : White Rabbit (Jefferson Airplane)
+
+This won't be comprehensive, but it might help...
+
+In article <2tpfcr$303@hpsystem1.informatik.tu-muenchen.de>, eisenboc@Informatik.TU-Muenchen.DE (Thomas `E.T.` Eisenbock) writes:
+>
+>
+>F#m                           G
+>One pill makes you larger and one pill makes you small
+>        F#m                                 G
+>And the ones that mother gives you don't do anything at all
+>       A      C        D    A
+>Go ask Alice when she's ten feet tall
+>
+>And if you go chasing rabbits and you know you're gonig to fall.
+>(                        ?                       )
+
+Tell 'em a hookah-smoking caterpillar has given you the call(?)
+
+>Go ask Alice when she's just small.
+>
+>      E                               A
+>When men on the chessboard get up and tell you where to go..
+>E                                                   A
+>And you've just have some kind of mushroom and your mind is moving low.
+>
+>       F#m            
+>Go ask Alice   I think she'll know
+>F#m                              G
+>When logic and proportion   have fallen  ( ?)ly dead.
+>        F#m                                           G
+>And the white knight is talking backwards and the red queen's off with her head
+>  A      C          D          A
+>Remember   what the door mouse said
+                     ^^^^^^^^
+                     dormouse
+
+
+>E         A
+>Feed your head
+>E         A
+>Feed your head

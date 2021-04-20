@@ -1,0 +1,58 @@
+
+ COLOR MY WORLD (Chicago)
+ ==============
+  
+   -- comp. James Pankow, 1970
+   -- guitar arrangement: tcg, c.1983
+   --6/8 (orig. 12/8) // Key of F // Moderately
+   --Legato (hold all chord forms)
+   --note durations: all eighth notes unless otherwise indicated
+       (q. = dotted quarter [3-eighths-worth])
+   --some lyrics run together to more closely approximate which notes
+      they belong to. . . .
+  
+ INTRO
+
+ VERSE
+FM7                  Am                 Bb
+As time goes on I realize just what you mean to-oo
+EbM9    AbM7                 GbM7              D9
+me, and now, now that you're near promise your love
+D7                  GM7        Eb9  
+that I've waited to share. And dreams of our moments 
+  C7                           FM7       C7    FM7
+together, colour my world with hopes of loving you.
+
+
+Chords:
+  EbM9   AbM7 GbM7  /Bb D9/A  D7  GM7   GM7/B  Eb9  Eb7
+---1------3----1--------------2----2------------1--------------
+---3------1----2---------1----1----3------------2--------------
+---0------1----3---------2----2----4------------1--------------
+---1------1----4--------------0----5------------1--------------
+------------------------------0--------------------------------
+-------------------------2-------------------------------------
+
+
+
+
+
+Alternate Chords:
+  EbM9   AbM7 GbM7  /Bb D9/A  D7  GM7   GM7/B  Eb9/B  Eb7
+-----------------------------------------------------------
+---6------4----2----6----5----3---3-----7--------6-----4---
+---7------5----3----6----5----5---4-----7--------6-----6---
+---5------5----3----4----4----4---4-----5--------5-----5---
+---6--------------------------5------------------------6---
+----------4----2----6----5--------3-----7--------6---------
+
+
+  *===*===*===*===*===*===*===*===*===*===*===*===*===*===*===*===*===*===*
+  | Thomas C. Gannon | tgannon@charlie.usd.edu | U of SoDak (Vermillion)  |
+  * ------------------------------- _-^-_ ------------------------------- *
+  | "--If I decide to practice a   / o )=\    slight movement from right  |
+  *  to left . . . or from left   {   /===}    to right . . . it's        *
+  |     nobody's business but my   \ (=o=/    own." (_A_Day_for_Eeyore_)  |
+  *===*===*===*===*===*===*===*===* ^-_=^ *===*===*===*===*===*===*===*===*
+
+

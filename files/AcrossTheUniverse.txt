@@ -1,0 +1,81 @@
+#-----------------------------PLEASE NOTE-------------------------------------#
+#This OLGA file is the author's own work and represents their interpretation  #
+#of the song. You may only use this file for private study, scholarship, or   #
+#research. Remember to view this file in Courier, or some other monospaced    #
+#font. See http://www.olga.net/faq/ for more information.                     #
+#-----------------------------------------------------------------------------#
+
+Subject: b/beatles/across_the_universe.tab
+Date: Tue, 22 Jan 2002 17:48:24 -0500
+
+Artist: 		The Beatles
+
+Song: 			Across The Universe (Album Version)
+Music & Lyrics By: 	Lennon and McCartney
+Album:			Let It Be
+
+Tabbed By:  Nicholas Kent (nk_uofg@hotmail.com)
+Intro Tabbed By: Chris (cts@mail.utexas.edu)
+
+Hey, whats up everyone?  This is my first tab attempt, so bare with me here. 
+  I recently heard a cover to this Beatles song which made me want to learn 
+how to play it.  But when I looked around "Olga.net" for the tab I realized 
+the present versions were all wrong.  I recently saw an old interview (from 
+the 80's) with Paul McCartney and he was going through the chord 
+progressions for various Beatles songs and this happened to be one of them.  
+So......here are the correct chords (I think Paul is right considering he 
+wrote the song) and intro (not to sure about the intro, but I can guarentee 
+the chords are correct)
+
+Note:  I took the intro from previous tab attempts cause it's the closest 
+I've heard so far, but any corrections are welcome.
+
+
+*Standard Tuning*
+(I think the original song is played in C# or their is a capo being used, 
+but I don't have one...... so figure out where to put it yourself)
+
+INTRO:
+
+|--2-----/10-----9--7--5-----------------------------------------------------
+|------------------------7---2--2--2--2--2--2--2--2--------------2-----------
+|--2-----/11-----9--7--6-----2--4--2--4--2--4--2--4--2--4--2--4--2--4--2--4--
+|-----0-------0--------------4--4--4--4--4--4--4--4--2--2--2--2--2--2--2--2--
+|----------------------------x--x--x--x--x--x--x--x--0-----0-----0-----0-----
+|----------------------------2-----2-----2-----2-----------------------------
+
+CHORD CHART:
+
+    D    F#m   Em7    A    A7    Gm   Em7/A  G/D
+E---2-----2-----3-----0-----0-----3-----0-----3
+B---3-----2-----3-----2-----2-----3-----3-----0
+G---2-----2-----0-----2-----0-----3-----0-----0
+D---0-----4-----2-----2-----2-----5-----2-----0
+A---x-----x-----2-----0-----0-----x-----0-----x
+E---x-----x-----0-----x-----x-----x-----x-----x
+
+	D                               F#m
+	Words are flowing...............rain ....
+        Em7                             A            A7
+	slither while they............across the universe
+	D                         F#m
+	Pools of sorrow.........drifting ....
+	Em7              Gm
+	-ssessing and caressing....
+
+
+	D                                      Em7/A
+	Jai____  Gu - ru_____ De - va__........Om___
+
+
+	A7
+	Nothing's gonna change my world
+	G/D		           D
+	Nothing's...........
+  	A7
+	Nothing's...........
+        G/D			   D
+	Nothing's...........
+
+
+**(Repeat Chords Exactly Next Time Through)**

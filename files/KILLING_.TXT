@@ -1,0 +1,106 @@
+Received: from top.cs.vu.nl (top.cs.vu.nl [192.31.231.43]) by post-office.nevada.edu (8.6.4/8.6.4) with SMTP id FAA05228 for <jamesb@nevada.edu>; Wed, 23 Feb 1994 05:25:43 -0800
+Received: from brik.cs.vu.nl by top.cs.vu.nl id aa10468; 23 Feb 94 14:25 MET
+Received: from jol37.cs.vu.nl by brik.cs.vu.nl id aa07479; 23 Feb 94 14:25 MET
+Date:     Wed, 23 Feb 94 14:25:11 MET
+From: "Mark van 't Zet" <tmvtzet@cs.vu.nl>
+To: jamesb@nevada.edu
+Subject:  "Killing in the name" tab / Rage against the Machine
+Message-ID:  <9402231425.aa18722@jol37.cs.vu.nl>
+
+
+"Killing in the name" - Rage against the Machine
+Tabbed by Mark van 't Zet (tmvtzet@cs.vu.nl)
+
+
+OK, I bought Guitar School yesterday and played the tab from it.. I haven't
+got it now but I pretty much know all of it and I can't WAIT to share it
+with y'all.. Here are the most important parts, stick them together yourself.
+The vertical lines between the tabs mean: repeat it, or use it somewhere.
+(Forget about the solo; it's a bitch without a 'Whammy Pedal'!!)
+
+Tuning: Dropped D (DADGBE)
+
+
+INTRO
+
+-------------------|----------------------|----------------------------|
+-------------------|----------------------|----------------------------|
+-------------------|---------------11-12--|------------------12b14r12--|
+-------------------|---------11-12--------|-----------11-12------------|
+----------6--6--6--|----------------------|----------------------------|
+--0--0--0----------|-0--0--0--------------|-0--0--0--------------------|
+
+  ---3--- ---3---    ---3---                ---3---
+
+
+VERSE
+
+Some of those that work forces
+are the same that burn crosses.. etc
+
+---------------------------------|
+---------------------------------|
+---------------------------------|
+---------------3h4---------------|
+-----3h5--x-x-------5-----2h3p2--|
+--0--------------------0--2h3p2--|
+
+
+PRE-CHORUS
+
+--------------------------------------------------------|
+--------------------------------------------------------|
+--------------------------------------------------------|
+-------------9------------8------------7-------2h3p2h3--|
+----3h5-x-x------3h5-x-x-------3h5-x-x-------0-2h3p2h3--|
+--0------------0-------------0-------------0-0-2h3p2h3--|
+
+
+CHORUS (with swing or triplet feel)
+
+Fuck you I won't do what you tell me..
+
+-----------|------------------------
+-----------|------------------------
+-----------|------------------------
+--7-7---7--|--7-7-x-7-7-x-x-x-x-x-x- etc.
+--x-x---x--|--x-x-x-x-x-x-x-x-x-x-x-
+--5-5---5--|--5-5-x-5-5-x-x-x-x-x-x-
+--0-0---0--|--0-0-x-0-0-x-x-x-x-x-x-
+
+Fuck you I won't do what you tell me!!
+
+--------------------------|
+--------------------------|
+--7-7-x-x-7-x-7-----------|
+--x-x-x-x-x-x-x--3--5-----|
+--5-5-x-x-5-x-5--3--5--3--|
+--0-0-x-x-0-x-0--3--5-----|
+
+
+BRIDGE
+
+Repeat each chord 24 times REALLY fast
+
+
+-------------------------------|
+-------------------------------|
+--7--9--10-12--14--15--17--19--| this is the part where
+--x--x--x--x---x---x---x---x---| Zack is freaking out
+--5--7--8--10--12--13--15--17--|
+--0--0--0--0---0---0---0---0---|
+
+
+END BIT
+
+----------------------
+----------------------
+----------------------
+--0--0--0---13-13-13--
+--0--0--0---13-13-13--
+--0--0--0---13-13-13--
+
+  ---3---   ---3---
+
+
+Hope it's right.. Enjoy it!

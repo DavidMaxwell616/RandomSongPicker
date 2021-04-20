@@ -1,0 +1,88 @@
+SCALES         last revision - 8/21/94 - By Roy Truelove
+(royt180@liii.com)
+ 
+For those of you who don't know many scales, here's the file for
+you. Scales for the most part are used in soloing, and you have
+to know what scaleto use when.  Hopefully, this file will help
+you out.
+
+NOTE: This is not a complete list of scales. I created this file
+for people to download, change and/or add to, and then upload
+again. I only know a few scales and those are the scales that are
+included. If there are any scales that you know that aren't on
+this file (and I know there are) please upload it to the nevada
+archives and change the date on the top of the file.
+
+HOW TO READ SCALES -
+
+     This is the form you will see the scales in----
+
+   EADGBE
+   ______
+ 3 OOOOOO
+ 4 ||||||
+ 5 |OOO||
+ 6 O|||OO
+
+Looks confusing, right? If you're farmiliar with chord charts,
+these are almost the same.  The letters on the top represent the
+6 different strings, and the numbers on the side represent fret
+numbers. So the lowest note on this scale would be played on the
+low E string, 3rd fret. The scales are played from low to high. 
+So the next would be played on the low E string, 6th fret. And
+the next,on the A string, 3rd fret. Get it? So once you get to
+the top, you can go back down the scale. After you get used to
+the scale, you can start playing around with it, and start
+impressing your friends.
+
+All of the scales I will show you are in the key of G.  You can
+easily transpose
+by moving the scale up or down a fret. ( I ask that others who
+add scales also
+put them in the key of G.)
+
+Now, on to the scales - 
+
+BLUES SCALES -
+
+     These are the most basic scales, and the ones used most
+often in solos.
+
+
+Here they are (with my favorate one first) - 
+
+
+
+
+   ______     ______     ______     ______     __OO__
+3  OOOOOO   5 |OOO||   7 |||O||  10 OOOO|O   1 OO||OO
+4  |O||||   6 O||OOO   8 OOO|OO  11 ||O|O|   2 ||||O|
+5  |OOO||   7 |||O||   9 OOOO|O  12 ||OO||   3 OOOOOO
+6  O||OOO   8 OOO|OO  10 ||||O|  13 OO||OO
+
+Note that there are 5 scales above, not just one mushed together
+
+PENTATONIC SCALES - 
+
+     These scales are also pretty common, and are mostly used in
+a major key or a major progression. You'll just have to try them
+and see-
+
+   ______     ______     ______     ______
+2  |OOO||  11 |OOOOO   9 ||OO||   3 O|||||
+3  O|||OO  12 ||||||  10 |O||OO   4 ||||||
+4  |||O||  13 |OOO||  11 ||||||   5 OOO|||
+5  OOO|OO  14 O|||OO  12 |OOOOO   6 ||||||
+                                  7 OOOO||
+                                  8 ||||OO
+                                  9 ||OO||
+                                 10 ||||OO
+                                 11 ||||||
+                                 12 ||||OO
+
+Any corrections, comments, anything, please send to
+royt180@liii.com
+
+    
+
+

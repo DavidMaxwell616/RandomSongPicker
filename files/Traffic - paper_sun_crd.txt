@@ -1,0 +1,114 @@
+#----------------------------------PLEASE NOTE--------------------------------#
+#This file is the author's own work and represents their interpretation of the#
+#song. You may only use this file for private study, scholarship, or research.#
+#-----------------------------------------------------------------------------#
+                              "Paper Sun"
+                   (Winwood - Capaldi - Wood - Mason)
+
+Intro:
+
+	(tabla fill)
+
+	sitar arr. for guitar [4X]:
+
+	D5
+	 v   v   v   v     v   v   v   v
+	-----------------|-----------------
+	-----------------|-----------------
+	-----7-----5-----|-4-----2---------
+	-0---------------|-----------------
+	-----------------|-----------------
+	-----------------|-----------------
+
+Verse 1:
+
+	             G
+	Though you think you're having good times
+	          E
+	With the boy that you just met (paper sun)
+	Gm
+	Kicking sand from beach to beach
+	        D
+	Your clothes all soaking wet
+	    G
+	But if you look around and see
+	    E
+	A shadow on the run (on the run)
+	Gm                               D
+	Don't be too upset because it's just a paper sun
+
+Chorus:
+
+	(guitar and sitar, 2X):
+
+	 Cm                Bb      G         A
+	 v   v   v   v     v   v   v   v     v   v   v   v     v   v   v   v
+	-----------------|-----------------|-----------------|-----------------
+	---------------1-|-3-1-----------3-|-2---------------|-----------------
+	-------------0---|-----3---0-2-3---|-----------------|-----------------
+	-------0-1-3-----|-------3---------|-----------------|-----------------
+	-2-3-2-----------|-----------------|---------0-0---0-|-0-------0-0---0-
+	-----------------|-----------------|-----------------|-----------------
+	 A                pa...    per      sun
+
+[repeat intro]
+
+Verse 2:
+
+	In the room where you've been sleeping
+	All your clothes are thrown about
+	Cigarettes burn window sills 
+	Your meter's all run out
+	But then again its nothing
+	You just split when day is done
+	Pitching lips [?] to nowhere, hung up on the paper sun
+
+[repeat chorus]
+
+[repeat intro]
+
+Bridge:
+
+	D5 [w/sitar as per intro]
+	Standing in the cool of my room
+	Fresh cut flowers give me sweet perfume
+	Too much sun will burn
+	                    D        F   G    D 
+	                  (Too much sun will burn)
+	Too much sun will burn
+	                    D        F   G    D 
+	                  (Too much sun will burn)
+
+Verse 3:
+
+	When you're feeling tired and lonely
+	You see people going home
+	You can't make the train fare
+	Or the sixpence for the phone
+	And icicles you're crying 
+	From your cheek have just begun
+	Don't be sad, good times are had
+	Beneath the paper sun
+
+[repeat chorus]
+
+Coda [separated from "Paper Sun", titled "We're A Fade, You Missed This",
+      and moved to last track of US LP]
+
+	Asus4              A
+	 / / / /  / / / /  / / / /  / / / /
+
+	Asus4                                   A
+	Daylight breaks while you sleep on the sand
+	 Asus4                                    A
+	A seagull is stealing the ring from your hand
+	    Asus4                           A
+	That boy who had given you so much fun
+	    Asus4                    A
+	Has left you so cold in the paper sun
+
+	(continue and fade)
+
+
+-- another ace 60's tab from Andrew Rogers
+</PRE></BODY></HTML>

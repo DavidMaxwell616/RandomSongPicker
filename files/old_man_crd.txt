@@ -1,0 +1,107 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+Date: Mon, 28 Aug 1995 12:46:07 -0400
+From: dbuell@qks.com (David Buell)
+
+
+
+Anyways, here's the tab, which with a *very* quick glance, looks fairly accurate to me. I quickly fixed a couple of things (noted by the "DWB:"), but the real interesting stuff is the passing notes/chords/riffs that I don't have a clue how to annotate. But I tried anyways :-)
+
+*****
+ lyrics: audio
+ chords: audio
+ corrections/additions welcome
+ rcwoods@alf2.tcd.ie
+famoore@unix1.tcd.ie
+ -----------------
+
+ Old Man : Harvest 
+
+ FM7             D Dsus4 D     x2 
+
+ FM7                                     D          
+ Old man look at my life, I'm a lot like you were       x2
+
+ D F C G  D F C F
+
+DWB: (try a quick F-G at the end of the phrase on the way back to D)
+              
+ D       F               
+ Old man look at my life 
+
+ C                       G           
+ Twenty four and there's so much more
+
+ D               F       
+ Live alone in a paradise
+
+      C                 F
+ That makes me think of two
+
+DWB: (try a quick F-G at the end of the verse on the way back to D)
+
+ D          F           
+ Love lost, such a cost,
+
+ C                   G              
+ Give me things that don't get lost.
+
+ D                C               
+ Like a coin that won't get tossed
+
+ F               G   
+ Rollin' home to you.
+
+
+ D Am7 Em7 G D/F#
+
+DWB: (Between to D and Am7, try Dsus4->D->D9->D, pulling-off the high E from the 3rd fret to 2nd fret to open E, then a quick punch on the 2nd fret again)
+       
+ D                                    Am7      Em7  G
+ Old man take a look at my life I'm a lot like you
+
+ D                             Am7       Em7       G 
+ I need someone to love me the whole day through
+
+ D                                   Am7         Em7  
+ Oh, one look in my eyes and you can tell that's true.
+
+ D F C G  D F C F
+
+(DWB: play a quick F-G at the end of the phrase on the way back to D)
+                              
+ Lullabies, look in your eyes,
+ Run around the same old town.
+ Doesn't mean that much to me 
+ To mean that much to you
+ I've been first and last
+ Look at how the time goes past.
+ But I'm all alone at last.
+ Rolling home to you.
+
+ Old man look at my life, I'm a lot like you were  x2 (intro chords)
+
+D F C G
+
+D       
+
+ notes :
+ FM7: x00560
+ Dsus4: x00233
+ D9: x00320
+ Am7: x002010
+ Em7: 022030
+
+ FM7 is x00560, and you repeatedly hammer-on the third (G) string (0h5)
+ The mention of Dsus4 is to indicate that you should fiddle around with the
+ high E string, between D, Dsus4 and D9.
+
+(DWB: I made the corrections he notes in the next paragraph, and fixed up the ending)
+
+Just looking at the file right now, i wonder if the line: D F C G  D F C G
+ (or D F C G x2 )  is correct - strikes me it should end in F. hmmm
+ 
+If you make any additions or corrections - let me know of them!
+ cheers! rcwoods@unix1.tcd.ie

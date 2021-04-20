@@ -1,0 +1,82 @@
+Received: from animal-farm.nevada.edu by redrock.nevada.edu (5.65c/M1.4)
+	with SMTP id <AA15170>; Tue, 15 Jun 1993 08:34:59 -0700
+Received: from pobox.ucs.umass.edu by animal-farm.nevada.edu id <AA14270@animal-farm.nevada.edu>; Tue, 15 Jun 1993 08:34:57 -0700
+Received: from titan.ucs.umass.edu by POBOX.UCS.UMASS.EDU (PMDF #2573 ) id
+ <01GZEMDPNQA800VV8O@POBOX.UCS.UMASS.EDU>; Tue, 15 Jun 1993 11:34:53 -0400
+Received: by titan.ucs.umass.edu (5.65/DEC-Ultrix/4.3) id AA27777; Tue,
+ 15 Jun 1993 11:34:45 -0400
+Date: 15 Jun 1993 11:34:42 -0400 (EDT)
+From: Zvi Gilbert <zgilbert@titan.ucs.umass.edu>
+Subject: For the archive: Monty Python!
+To: jamesb@animal-farm.nevada.edu
+Message-Id: <9306151534.AA27777@titan.ucs.umass.edu>
+Content-Type: text
+Content-Transfer-Encoding: 7BIT
+X-Mailer: ELM [version 2.4 PL21]
+Content-Length: 2014
+
+
+"The Universe Song"  from _The Meaning of Life_ by Monty Python
+
+
+I'd call this one "The Universe Song"; I don't know if that's
+the real title.  From Monty Python's _The Meaning of Life_:
+
+*Intro*
+(Spoken... music creeps in towards the end...)
+Whenever life gets you down, Mrs. Brown
+And things seem sad or tough
+And people are useless, or obnoxious, or daft,
+And you feel that you've had quite enough... (G)
+
+(played in a simple bass-note/chord form in 4)
+
+*Verse I*
+G    G7
+Just re-
+C
+member that you're standing on a planet that's evolving
+C                                  G 
+revolving at nine-hundred miles an hour
+G7
+and orbiting at nineteen miles a second, so it's reckoned,
+                                    C
+a sun that is the source of all our power.
+C
+Now the sun and you and me, and all the stars that we can see
+A7                           F
+Are moving a million miles a day
+F7                               C
+In an outer spiral arm at forty thousand miles an hour 
+G7                              C
+of the galaxy we call the Milky Way.
+
+(chords same for all verses)
+
+*Verse II*
+Our galaxy itself contains a hundred million stars,
+it's a hundred thousand light-years side to side,
+it bulges in the middle, sixty thousand light-years thick,
+but out by us it's just three thousand light-years wide.
+We're thiry thousand light-years from galactic central point
+We go 'round every two hundred million years,
+and our galaxy itself is one of millions of billions in this
+Amazing and Expanding Universe!
+
+Break -- odd animations...
+
+*Verse III*
+The universe itself keeps on expanding and expanding
+in all of the directions it can whiz,
+as fast as it can go, the speed of light, y'know,
+twelve million miles a minute, and that's the fastest speed there is,
+So remember when you're feeling very small and insecure
+How amazingly unlikely is your birth,
+And pray that there's intelligent life somewhere up in space,
+'Cause there's bugger-all down here on Earth.
+
+Enjoy!
+
+--Zvi
+zgilbert@titan.ucs.umass.edu
+

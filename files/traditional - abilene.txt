@@ -1,0 +1,56 @@
+
+<!--a152.html-->
+
+<HTML>
+
+<HEAD>
+  <TITLE> Abilene, Abilene</TITLE>
+  <LINK rel="stylesheet" href="style1.css"> 
+  <META name="keywords" content="">
+  <META name="description" content="Lyrics to the song: 
+    Abilene, Abilene   Prettiest town I ever seen.
+    Folks down there don't treat you mean   In Abilene, my Abilene">
+</HEAD>
+
+<BODY>
+
+<P>
+
+<H2> Abilene, Abilene</H2>
+
+<H4> 
+
+Abilene, Abilene<BR>
+Prettiest town I ever seen.<BR>
+Folks down there don't treat you mean<BR>
+In Abilene, my Abilene.<BR><BR>
+
+I sit alone most every night<BR>
+Watch them trains roll out of sight<BR>
+Wish that they were carryin' me<BR>
+To Abilene, my Abilene.<BR><BR>
+
+Crowded city, ain't nothin' free<BR>
+Nothin' in this town for me<BR>
+Wish to God that I could be<BR>
+In Abilene, my Abilene.<BR><BR>
+
+How I wish that train would come<BR>
+Take me back where I come from.<BR>
+Take me where I want to be<BR>
+In Abilene, my Abilene.<BR><BR>
+
+Rotgut whiskey numbs the brain<BR>
+If I stay here I'll go insane.<BR>
+Think I need a change of scene<BR>
+To Abilene, my Abilene.<BR><BR>
+
+Outside my window cold rain falls,<BR>
+Sit here starin' at the walls;<BR>
+If I was home, I'd be serene<BR>
+In Abilene, my Abilene.<BR><BR>
+
+<A HREF="singa.html#A152">back</A></H4>
+
+</BODY>
+</HTML>

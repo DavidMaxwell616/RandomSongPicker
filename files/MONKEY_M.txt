@@ -1,0 +1,132 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+Monkey Man - Rolling Stones
+>From the album 'Let It Bleed'
+Written by M. Jagger and K. Richard
+
+Tabbed by Koen van der Drift <v.d.drift@ams.chem.ruu.nl>
+
+Have fun,
+
+- Koen.
+
+---
+
+Standard tuning (!!!)
+Capo at 2nd fret
+
+Intro:
+
+( first four bars omitted )
+
+with a funky feel
+
+   C#m7     C#m6      A         C#m    C#m7     C#m6      A     C# riff
+
+|---9----|---9----|---9----|----9-9-|---7----|---6----|---5----|---------|
+|--12----|--11----|--10----|----9-9-|---5----|---5----|---5----|---------|
+|---9----|---9----|---9----|----9-9-|---6----|---6----|---6----|---------|
+|--------|--------|--------|--------|--------|--------|--------|---------| 
+|--------|--------|--------|--------|--------|--------|--------|---------|
+|--------|--------|--------|--------|--------|--------|--------|---------|
+
+
+The C# riff part is written below. It's almost impossible to get the exact 
+notes, since Keith hardly plays two bars the same twice. Just play along with 
+the record to get the right feeling.
+
+
+|-------------------------|
+|----6-6--7--7-7-7--7--6--|
+|----6-6--6--6-6-6--9--6--|
+|----6-6--8--8-8-8--------|
+|-/8----------------------|
+|-------------------------|
+
+
+The chords in the verse are:
+
+| E | E | C# riff | C# riff |
+| E | E | C# riff | C# riff |
+| A | B | C# riff | C# riff |
+| A | B | C# riff | C# riff |
+
+The E is played using the following pattern:
+
+ E
+|----------|
+|-8p7--8p7-|
+|---7----7-|
+|---7----7-|
+|---5----5-|
+|----------|
+
+Remember the capo, so the A can be played as a regular G and the B can be played
+as a regular A.
+
+The next part is the instrumental after the first two verses. Again, listen to
+the record to get the timing right! This section was previously published in
+Guitar World, December 1988 and transcribed by Dave Whitehall.
+
+
+|-------------------------|-------------------------|-------------------------|
+|--------6----7--7--7--6--|--7-7---7-------6-6h7-6--|-------6----7-----7-7-6--|
+|--4/6---6----6--9--9--6--|--9---9-9---9---6-6---6--|-------6----6-----9-9-6--|
+|--4/6---6--6-8-----------|------------------6h8-6--|----------6-----8--------|
+|-------------------------|-------------------------|-7--8--------------------|
+|-------------------------|-------------------------|-------------------------|
+
+
+|-------------------------|-------------------------|-------------------------|
+|-6-----6----6--------6---|-----------7----7--7--6--|--6-----6----7-----8--6--|
+|-6-----6--6-6-----9--6---|------6----6--9-9--9--6--|--6-----6----------9--6--|
+|-------6--6-----8--------|------6--6-8--8-------6--|--6-----6--8-----8----6--|
+|-7--8------------------7-|-7--8--------------------|--7--8-------------------|
+|-------------------------|-------------------------|-------------------------|
+
+
+|-------------------------|-------------------------|
+|--6h7----7--6h7---6--6---|--6h7----7--6-6h7-----6--|
+|--6------6--6-----7--6---|--6------6--6-6----6--6--|
+|--6h8-8--8--6h8-8------8-|--6h8--8----6-6h8--8--6--|
+|-------------------------|-------------------------|
+|-------------------------|-------------------------|
+
+
+This instrumental part is followed after a while by the next chord progression:
+
+
+ E     B     A     B
+|--4--|--2--|--5--|--2--|
+|--5--|--4--|--3--|--4--|
+|--4--|--4--|--3--|--4--|   play 4 times
+|--2--|--4--|--3--|--4--|
+|-----|--2--|--4--|--2--|
+|-----|-----|--5--|-----|
+
+
+And then back to the instrumental part, accompanied by Mick`s shouting:
+
+I`M A MONKEEEEYYY-AAAAHHHHH!!!!!
+
+
+Finally, the lyrics:
+
+
+I`m a fleabit peanut monkey, all my friends are junkies
+That`s not really true.
+I`m a cold Italian pizza, I could use a lemon squeezer
+What`d you do?
+I`ve been bitten, I`ve been tossed around, by every she-rat in this town
+Have you, babe?
+Well I am just a monkey man, I`m glad you are a monkey woman too!
+
+I was bitten by a boar, I was gouged and I was gored
+But I pulled on through.
+Yes, I`m a sack of broken eggs, I always have an unmade bed
+Don`t you?
+Well I hope we`re not too messianic, or a trifle too satanic
+We love to play the blues.
+But when I am just a monkey man, I`m glad you are a monkey woman too.

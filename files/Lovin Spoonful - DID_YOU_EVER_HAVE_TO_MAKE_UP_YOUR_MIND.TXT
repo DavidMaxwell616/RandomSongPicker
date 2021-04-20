@@ -1,0 +1,82 @@
+From: rogers@sasuga.Hi.COM (Andrew Rogers)
+
+		"Did You Ever Have To Make Up Your Mind"
+			    (J. Sebastian)
+
+Intro:
+
+	guitar 1:
+	                                       [G     C     G]
+	v     v       v     v     v     v       v     v     v     v      
+	------------|-------------------------|-------------------------
+	---6--7-----|-------------------------|-------------------------
+	---------7--|-------------------------|-------------------------
+	------------|-------7-----------------|-5-----------------------
+	------------|-5-----------------------|----7--5-----------------
+	------------|-------------------------|----------7--5-----------
+					       [doubled by bass]
+
+	guitar 2:
+
+	v     v       v     v     v     v       v     v     v     v      
+	------------|-14-13-12----------------|--------------------------
+	------------|-15-14-13-14-15-12-------|--------------------------
+	------------|----------15-16-12-------|-12----------------------
+	------------|-------------------14-12-|----14-12----------------
+	------------|-------------------------|----------14-10----------
+	------------|-------------------------|-------------------------
+
+
+	(N.B: the "organ" - actually Zal's Guild Thunderbird with the
+	treble rolled off - plays the following chords during the verses:
+
+		  111	  111	  111     111		
+		xx765x	xx777x	xx432x	xx645x
+		   G       C       E       D
+	
+	as denoted by brackets wherever the rhythm guitar stays on G:)
+
+verse 1:
+
+	         G            [C]         [G     C]
+	Did you ever have to make up your mind
+	    G         [C]                G       E
+	To pick up on one and leave the other behind
+	      G         D         C 
+	It's not often easy, and not often kind
+	         D                         G 
+	Did you ever have to make up your mind
+
+verse 2:
+
+	Did you ever have to finally decide
+	To say yes to one and let the other one ride
+	There's so many changes and tears you must hide
+	Did you ever have to finally decide
+
+chorus 1:
+
+	                  E7
+	Sometimes there's one with big blue eyes, cute as a bunny
+	      A7
+	With hair down to here and plenty of money
+	     C             A7               G          E7
+	And just when you think she's that one in the world
+	      D         Dsus4           D           Dsus4
+	Your heart gets stolen by some mousy little girl and...
+
+	[repeat verse 1 ("Then you know you better...")]
+
+	[guitar solo over verse chords]
+
+chorus 2:
+
+	Sometimes you really dig a girl the moment you kiss her
+	And then you get distracted by her older sister
+	Then in walks her father, and takes you in line
+	And says "better go home, son, and make up your mind"
+
+	[repeat verse 3 ("Then you bet you better...")]
+
+coda:   (repeat last bar of intro)
+

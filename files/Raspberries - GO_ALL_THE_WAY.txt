@@ -1,0 +1,235 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+From: rogers@hi.com (Andrew Rogers)
+Date: Tue, 26 Sep 1995 21:47:44 -0400
+Subject: ./r/raspberries/go_all_the_way.crd
+
+			    "Go All The Way"
+			(E. Carmen - W. Bryson)
+
+Intro (there are two guitars on the record, but when I saw the Raspberries
+       on TV, Wally Bryson combined both parts into one:
+
+	Intro riff 1 [4X]:
+
+         A5 D  A      A  D
+	------------------------
+	-17-15-14-----14-15-15--
+	-14-14-14-----14-14-14--
+	-14-16-14-----14-16-16--
+	-0----------------------
+	------------------------
+	[^ let ring (3rd, 4th time only)]
+
+
+	Intro riff 2 [3X:]
+
+	                        A  D/A
+	----------------------------------------
+	------------------------14-15-15--------
+	------2---2-------------14-14-14--------
+	------2-4-2-4-----------14-16-16--------
+	--3h4---------0-------------------------
+	----------------------------------------
+	             [^ let ring]
+
+
+	              G5
+	------------------
+	------------------
+	------2---2---0-0-
+	------2-4-2---0-0-
+	--3h4-------------
+	--------------3-3-
+	
+Verse 1:
+
+	C                     Am             Dm
+	I never knew how complete life could be
+	Dm/C     Bm7-5          E
+	Til' she kissed me and said, baby
+
+Chorus:
+
+	A            F#m         D      C#m Bm
+	Please (baby) go all the way
+	    E       C#m              F#
+	It feels so right (feels so right)
+	           Bm           Dm   E
+	Being with you here tonight
+	A            F#m         D      C#m Bm
+	Please (baby) go all the way
+	      E      C#m              F#
+	Just hold me close (hold me close)
+	             Bm     Dm  [1: G   2, 3: A]
+	Don't let me go
+
+Verse 2:
+
+	I couldn't say what I wanted to say
+	'Til she whispered, "I love you" so
+
+	(repeat chorus)
+
+	(repeat intro riff #1 [2X])
+
+Bridge:
+
+	   A   D/A  A                   D/A   [A and D as per intro riff 2]
+	Before her love I was cruel and mean
+	   A     F           G              A
+	I had a hole in the place where my heart should've been
+	    D/A    A                       D/A
+	Now I'm changed and it feels so strange
+	A        F             G              A        B
+	I come alive when she says all those things to me
+	         E
+	And she says
+	                A
+	(Come on) come on
+	E               A
+	(Come on) come on
+           D
+	I need you (come on)
+	   G
+	I love you (come on)
+	   C        Bm       E
+	I need you     (come on)
+
+	(repeat chorus)
+
+Coda:
+
+	F#m(add9)    F#m9/maj7   F#m9    F#m6	[arpeggiate on 12-string]
+        xx4224        xx3224    xx2224  xx1222
+
+	DaddE  A/C#  F/C   Bm  E
+	xx0230
+
+	(repeat Intro Riff #1 [3X]; end on A)
+
+
+-- another ace 70's tab from Andrew Rogers
+
+From rogers@hi.com Tue Sep 26 16:56:59 1995
+Received: from post-office.nevada.edu (root@post-office.nevada.edu [131.216.1.11]) by mailhost.tcs.tulane.edu (8.6.12/8.5) with ESMTP id LAA07116; Tue, 26 Sep 1995 11:56:50 -0500
+Received: from loki.hi.com (loki.Hi.COM [140.243.30.55]) by post-office.nevada.edu (8.6.12/8.6.4) with SMTP id JAA32709 for <guitar@nevada.edu>; Tue, 26 Sep 1995 09:56:42 -0700
+Received: from star.Hi.COM by loki.hi.com (4.1/SMI-4.1.hi-2)
+	id AA12524; Tue, 26 Sep 95 13:00:58 EDT
+From: rogers@hi.com (Andrew Rogers)
+Received: by star.Hi.COM (1.38.193.4/Spike-2.0)
+	id AA13000; Tue, 26 Sep 1995 12:57:13 -0400
+Date: Tue, 26 Sep 1995 12:57:13 -0400
+Message-Id: <9509261657.AA13000@star.Hi.COM>
+To: guitar@nevada.edu
+Subject: ./r/raspberries/go_all_the_way.crd
+Status: O
+
+			    "Go All The Way"
+			(E. Carmen - W. Bryson)
+
+Intro (there are two guitars on the record, but when I saw the Raspberries
+       on TV, Wally Bryson combined both parts into one:
+
+	Intro riff 1 [2X]:
+
+         A5 D  A      A  D
+	------------------------
+	-17-15-14-----14-15-15--
+	-14-14-14-----14-14-14--
+	-14-16-14-----14-16-16--
+	-0----------------------
+	------------------------
+	[^ let ring (second time only)]
+
+
+	Intro riff 2 [3X:]
+
+	                        A  D/A
+	----------------------------------------
+	------------------------14-15-15--------
+	------2---2-------------14-14-14--------
+	------2-4-2-4-----------14-16-16--------
+	--3h4---------0-------------------------
+	----------------------------------------
+	             [^ let ring]
+
+
+	              G5
+	------------------
+	------------------
+	------2---2---0-0-
+	------2-4-2---0-0-
+	--3h4-------------
+	--------------3-3-
+	
+Verse 1:
+
+	C                     Am             Dm
+	I never knew how complete life could be
+	Dm/C     Bm7-5          E
+	Til' she kissed me and said, baby
+
+Chorus:
+
+	A            F#m         D      C#m Bm
+	Please (baby) go all the way
+	    E       C#m              F#
+	It feels so right (feels so right)
+	           Bm           Dm   E
+	Being with you here tonight
+	A            F#m         D      C#m Bm
+	Please (baby) go all the way
+	      E      C#m              F#
+	Just hold me close (hold me close)
+	             Bm     Dm  [1: G   2, 3: A]
+	Don't let me go
+
+Verse 2:
+
+	I couldn't say what I wanted to say
+	'Til she whispered, "I love you" so
+
+	(repeat chorus)
+
+	(repeat intro riff #1 [2X, without open A])
+
+Bridge:
+
+	   A   D/A  A                   D/A   [A and D as per intro riff 2]
+	Before her love I was cruel and mean
+	   A     F           G              A
+	I had a hole in the place where my heart should've been
+	    D/A    A                       D/A
+	Now I'm changed and it feels so strange
+	A        F             G              A        B
+	I come alive when she says all those things to me
+	         E
+	And she says
+	                A
+	(Come on) come on
+	E               A
+	(Come on) come on
+           D
+	I need you (come on)
+	   G
+	I love you (come on)
+	   C        Bm       E
+	I need you     (come on)
+
+	(repeat chorus)
+
+Coda:
+
+	F#m(add9)    F#m9/maj7   F#m9    F#m6	[arpeggiate on 12-string]
+        xx4224        xx3224    xx2224  xx1222
+
+	DaddE  A/C#  F/C   Bm  E
+	xx0230
+
+	(repeat Intro Riff #1 [3X]; end on A)
+
+
+-- another ace 70's tab from Andrew Rogers

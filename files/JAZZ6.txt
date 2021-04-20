@@ -1,0 +1,449 @@
+Marc Sabatella's Jazz Improvisation Primer: Accompanying
+
+Accompanying, or comping as pianists often call it, is a vital skill for
+rhythm section players, because they usually spend more time comping than
+soloing.  An understanding of accompanying is also useful for other
+instrumentalists, because it can foster better musical communication
+between the soloist and the accompanists.  Pianists are in the unique
+position of providing much of their own accompaniment, which allows
+especially tight interaction.  Some of the musical devices used by
+accompanists can also be adapted to be used more directly in solos by any
+instrumentalist.
+
+Chordal Instruments
+
+The main concerns for polyphonic instruments, or instruments that can easily play more than one note at time, such as piano,
+organ, guitar, and the various mallet instruments, are voicing chords, reharmonizing, and playing rhythms.
+Chord Voicings
+In jazz, when the music calls for a Cmaj7 chord, this almost never implies a pianist should play "C E G B". Usually, the pianist
+will choose some other way of playing the chord, even if it is simply an inversion of the basic root position chord. There have
+been entire books written on the subject of chord voicings. The discussion here only scratches at the surface of the possibilities.
+I have loosely categorized the voicings described here as 3/7 voicings, quartal voicings, polychord voicings, close position and
+drop voicings, and other scale based voicings.
+
+
+3/7 Voicings
+It is somewhat of a shame that the most common type of voicing used by most pianists since the 1950's has no well established
+name. I have seen these type of voicings called Category A and Category B voicings, Bill Evans voicings, or simply left hand
+voicings. Because they are based on the third and seventh of the associated chord, I call them 3/7 voicings.
+The basis of these voicings is that they contain both the third and seventh of the chord, usually with at least one or two other
+notes as well, and either the third or the seventh is at the bottom. Because the third and the seventh are the most important
+notes that define the quality of a chord, these rules almost always produce good sounding results. Also, these voicings can
+automatically produce good voice leading, meaning that when they are used in a chord progression, there is very little
+movement between voicings. Often, the same notes can be preserved from one voicing to the next, or at most, a note may have
+to move by step.
+For instance, consider a ii-V-I progression in C major. The chords are Dm7, G7, and Cmaj7. The simplest form of the 3/7
+voicing on this progression would be to play the Dm7 as "F C", the G7 as "F B", and the Cmaj7 as "E B". Note that in the first
+chord, the third is at the bottom; in the second chord, the seventh is at the bottom; in the third chord, the third is at the bottom.
+Also note that, when moving from one voicing to the next, only one note changes; the other notes stay constant. This is an
+important characteristic of 3/7 voicings: when they are used in a ii-V-I progression, or any progression in which root movement
+is by fourth or fifth, you alternate between the third and the seventh at the bottom. An analogous set of voicings is obtained by
+starting with the seventh at the bottom: "C F", "B F", "B E".
+Normally, you would use more than just the third and seventh. Often, the added notes are the sixth (or thirteenth) and ninth.
+For example, the C major ii-V-I could be played as "F C E", "F B E", "E B D", or as "F A C E", "F A B E", "E A B D". The
+added notes are all sixths or ninths, except for a fifth in the first chord of the second example. When playing these four note
+voicings on guitar, any added notes will usually be added above the third and the seventh, or else your voicing may end up
+containing several small intervals, which is usually possible to play only with difficult hand contortions. Thus, the C major ii-V-I
+might be played with four note voicings on guitar as "F C E A", "F B E A", "E B D A".
+Note that none of these voicings contain the roots of their respective chords. It is assumed that the bass player will play the
+root at some time. In the absence of a bassist, pianists will often play the root in their left hand on the first beat, and then one of
+these voicings on the second or third beats. Actually, you can often get away with not playing the root at all; in many situations,
+the ear anticipates the chord progression and provides the proper context for the voicing even without the root. It is not
+forbidden to play the roots in these voicings, but it is neither required nor necessarily better to do so.
+These basic voicings can be modified in several ways. Sometimes, you may wish to omit either the third or the seventh. Often,
+a minor of major chord that is serving as a tonic will be voiced with the third, sixth, and ninth, and these voicings might be
+interspersed with regular 3/7 voicings. Also, voicings with the fifth or some other note at the bottom can be interspersed with
+true 3/7 voicings. This might done for any of several reasons. For one thing, when played on the piano, note the voicings
+described thus far all tend to slide down the keyboard as the roots resolve downward by fifth. The normal range for these
+voicings is in the two octaves from the C below middle C on the piano to the C above middle C. As the voicings settle
+downward, they will start to sound muddy, at which time you might want to jump up. For instance, if you have ended up on a
+Dm7 as "C F A B" below middle C, and need to resolve to G7 and then Cmaj7, you might want to play these two chords as
+"D F G B" and "E A B D" respectively to move the voicing upward while preserving good voice leading. Also, roots do not
+always move by fifths; in a progression such a Cmaj7 to A7, you might want to voice this as "G B C E" to "G B C# F#" to
+preserve good voice leading.
+One thing to note about these voicings in the context of a diatonic ii-V-I is that, because the chords imply modes of the same
+scale (D dorian is the same as G mixolydian is the same as C major), a given voicing can sometimes be ambiguous. For
+example, "F A B E" might be either a Dm7 with the seventh omitted, or a G7. In the context of a modal tune like "So What", it
+clearly defines the Dm7 or D dorian sound. In the context of a ii-V progression, it probably sounds more like a G7. You can
+use this ambiguity to your advantage by making one voicing stretch over several chords. This technique is especially useful
+when applied to the more general scale based voicings discussed later.
+Another thing you can do with 3/7 voicings is alter them with raised or lowered fifths or ninths. For instance, if the G7 chord is
+altered to a G7b9 chord, then it might be voiced as "F Ab B E". In general, the notes in the voicing should come from the scale
+implied by the chord.
+These voicings are well suited on the piano for playing in the left hand while the right hand is soloing. They can also be played
+with two hands, or with all strings on a guitar, by adding more notes. This provides a fuller sound when accompanying other
+soloists. One way to add more notes is to choose a note from the scale not already in the basic voicing and play it in octaves
+above the basic voicing. For instance, on piano, for Dm7 with "F A C E" in the left hand, you might play "D D" or "G G" in the
+right. In general, it is a good idea to avoid doubling notes in voicings, since the fullest sound is usually achieved by playing as
+many different notes as possible, but the right hand octave sounds good in this context. The note a fourth or fifth above the
+bottom of the octave can often be added as well. For example, with the same left hand as before, you might play "D G D" or
+"G D G" in the right hand.
+The 3/7 voicings are perhaps the most important family of voicings, and many variations are possible. You should try to
+practice many permutations of each in many different keys.
+
+Quartal Voicings
+
+A style of voicing made popular by McCoy Tyner is based on the interval of the fourth. This type of voicing is used most often
+in modal music. To construct a quartal voicing, simply take any note in the scale associated with the chord, and add the note a
+fourth above, and a fourth above that. Use perfect fourths or augmented fourths depending on which note is in the scale. For
+instance, quartal voicings for Cm7 are "C F Bb", "D G C", "Eb A D" (note the augmented fourth), "F Bb Eb", "G C F", "A D
+G", and "Bb Eb A". This type of voicing seems to work especially well for minor chords (dorian mode), or dominant chords
+where a suspended or pentatonic sound is being used.
+These voicings are even more ambiguous, in that a given three note quartal voicing can sound like a voicing for any number of
+different chords. There is nothing wrong with this. However, if you wish to reinforce the particular chord/scale you are playing,
+one way to do this is to move the voicing around the scale in parallel motion. If there are eight beats of a given chord, you may
+play one of these voicings for the first few beats, then move it up a step for a few more beats. The technique of alternating the
+voicing with the root in the bass, or the root and fifth, works well here, too. On a long Cm7 chord, for instance, you might play
+"C G" on the first beat, then play some quartal voicings in parallel motion for the duration of the chord.
+As with the 3/7 voicings, these voicings are convenient left hand voicings on the piano or three or four string voicings on the
+guitar They can also be made into two handed or five or six string voicings by stacking more fourths, fifths or octaves on top.
+For instance, the Cm7 chord can be voiced as "D G C" in the left hand and "F Bb Eb" in the right, or "Eb A D" in the left and
+"G C G" in the right. The tune "So What" from the album Kind Of Blue used voicings consisting of three fourths and a major
+third. On a Dm7 chord, the voicings used were "E A D G B" and "D G C F A".
+
+Polychord and Upper Structure Voicings
+
+The basis of a polychord voicing is to play two different chords at the same time, such as one in the left hand and one in the
+right on a piano. The relationship between the two chords determines the quality of the resultant chord. These are always two
+handed voicings on a piano, or five or six string voicings on the guitar. They produce a very rich, complex sound compared to
+the voicings presented so far.
+The simplest style of polychord voicing is to play two triads; for instance, a C major triad in the left hand on a piano, and a D
+major triad in the right. This will be notated D/C. This notation is overloaded in that it is usually interpreted as meaning a D triad
+over the single note C in the bass; it is not always clear when a polychord is intended. Polychords are seldom explicitly called
+for in written music, so there is no standard way to notate them. You must normally find your own opportunities to play
+polychords.
+If you take all the notes in this D/C voicing and lay them in a row, you will see that this describes either the C lydian or C lydian
+dominant scales. Therefore, this voicing can be used over any chord for which those scales are appropriate. If you experiment
+with other triads over a C major triad, you will find several combinations that sound good and describe well known scales.
+However, many of these combinations involve doubled notes, which can be avoided as described below. Among the
+polychords that do not involve doubled notes are Gb/C, which produces a C HW diminished scale, Bb/C, which produces a C
+mixolydian scale, Dm/C, which produces a C major or C mixolydian scale, Ebm/C, which produces a C HW diminished scale,
+F#m/C, which also produces a C HW diminished scale, and Bm/C, which produces a C lydian scale. These polychords may
+be used as voicings for any chords that fit the corresponding scales.
+You may have noticed that Db/C, Abm/C, Bbm/C, and B/C also involve no doubled notes and sound very interesting,
+although they do not obviously describe any standard scales. There are no rules for when these polychords may be played as
+voicings. When your ear becomes accustomed to the particular nuances and dissonances of each, you may find situations in
+which you can use them. For example, the last polychord listed, B/C, sounds good when used as a substitute for Cmaj7,
+particularly in the context of a ii-V-I progression, and especially at the end of a song. You may resolve it to a normal Cmaj7
+voicing if you wish.
+You can construct similar polychords with a minor triad at the bottom. Db/Cm produces a C phrygian scale; F/Cm produces a
+C dorian scale; Fm/Cm produces a C minor scale; A/Cm produces a C HW diminished scale; Bb/Cm produces a C dorian
+scale; and Bbm/Cm produces a C phrygian scale. In addition, D/Cm produces an interesting, bluesy sounding scale.
+I mentioned before the desire to avoid doubled notes. One way to construct polychords that avoid doubled notes is to replace
+the triad at the bottom with either the third and seventh, the root and seventh, or the root and third of a dominant chord.
+Voicings constructed in this fashion are also called upper structures. They always imply some sort of dominant chord.
+For example, there are several possible C7 upper structures. A Dbm triad over "C Bb" yields a C7b9b5 chord. A D triad over
+"E Bb" yields a C7#11 chord. An Eb triad over "C E" yields a C7#9 chord. An F# triad over "C E" yields a C7b9b5 chord.
+An F#m triad over "E Bb" yields a C7b9b5 chord. An Ab triad over "E Bb" yields a C7#9#5 chord. An A triad over "C Bb"
+yields a C7b9 chord.
+You will find it takes a lot of practice to become familiar enough with these voicings to be able to play them on demand. You
+may wish to choose a few tunes and plan ahead of time where you will use these voicings. It is well worth the effort. The
+richness and variety introduced by these voicings can add a lot to your harmonic vocabulary.
+
+Close Position and Drop Voicings
+
+The simplest voicing for a four note chord is the close position voicing, in which all the notes in the chord are arranged as close
+together as possible. For example, a C7 chord might be voiced in close position as "C E G Bb". This is referred to as root
+position, since the root, C, is at the bottom. The chord might also be voiced in close position as "E G Bb C", which is also
+called the first inversion, since the bottom note has been inverted to the top. The second inversion is "G Bb C E" and the third
+"Bb C E G".
+A drop voicing is created from a close position voicing by dropping one of the notes down an octave. If the second note from
+the top is dropped, the voicing is called a drop 2 voicing; if the third note from the top is dropped, the voicing is called a drop 3
+voicing. For a C7 chord in root position, "C E G Bb", the corresponding drop 2 voicing is "G C E Bb". The second note from
+the top, G, has been dropped down an octave. The corresponding drop 3 voicing would be "E C G Bb". Drop 2 and drop 3
+voicings can be constructed from any of the inversions of the chord as well. On the piano, the dropped note must normally be
+played in the left hand, so these are almost always two handed voicings. The intervals in these voicings make them perfectly
+suited for guitar.
+Close position and drop voicings are effective when used to harmonize a melody, particularly in a solo setting. Each melody
+note may be harmonized by a different drop voicing, with the melody note on top. Pianists and guitarists often use this type of
+approach in their own solos. A phrase in which every note is accompanied by close position or drop voicings is said to be
+harmonized with block chords. Red Garland, Dave Brubeck, and Wes Montgomery all regularly played block chord solos.
+
+Other Scale Based Voicings
+
+There are other logical ways of constructing voicings; too many to describe individually here. Most approaches are similar in
+that they they associate a scale with each chord and construct the voicing from notes in that scale. By using a scale approach,
+you can devise your own patterns for voicings. For instance, a second with a third stacked on top is a somewhat dissonant but
+not too cluttered sound that many pianists use extensively. For a chord such as Fmaj7, you can apply this format at any
+position in the associated F lydian or F major scale. Since the F major scale contains an avoid note (Bb) in this context, one
+would normally opt for the lydian scale and the B natural, so that none of the generated voicings would contain any avoid notes.
+The particular pattern described above yields "F G B", "G A C", "A B D", "B C E", "C D F", "D E G", and "E F A" over the F
+lydian scale.
+Most of these voicings are very ambiguous, in the sense that they do not readily identify the chord. As with the 3/7 and quartal
+voicings, however, you will find that the presence of a bass player, or just the context of the chord progression being played,
+will allow almost any combination of notes from a given scale to make an acceptable voicing for the associated chord.
+You may wish to experiment with different patterns and different scales to see if you can find any voicings you particularly like.
+Often, the goal is not to find a voicing that completely describes a given chord, but rather to find a voicing that conveys a
+particular sound without seriously corrupting the chord. You may find that at a given point in the music, you may wish to hear
+the characteristic authority of a perfect fifth, or the characteristic dissonance of a minor ninth or of a cluster of several notes a
+second apart, but without the characteristic wrong note sound of a completely random selection of notes. Thinking of the
+associated scale and putting your sound into that context gives you a logical and reliable way to get the sound you want without
+compromising the harmony.
+
+Reharmonizing
+
+An accompanist may occasionally reharmonize a chord progression to sustain interest, introduce contrast, or create tension.
+This involves replacing some of the written or expected chords with other unexpected chords. Substitutions such as the tritone
+substitution are one type of reharmonization.
+Some musicians spend a lot of time trying different reharmonizations when working on a tune. However, unless they tell the
+soloist what they doing beforehand, many of the reharmonizations they may come up with are not suitable for use in
+accompanying, since the soloist will be playing from a different set of changes. There are some simple reharmonizations that can
+be used without disturbing the soloist too much. The tritone substitution is one example; at any time a dominant seventh chord is
+called for, the accompanist may substitute the dominant seventh chord a tritone away. This creates exactly the same type of
+tension that is created when the soloist performs the substitution. Another simple reharmonization is to change the chord quality.
+That is, play a D7alt in place of a Dm, and so forth.
+Another common reharmonization is to replace a dominant chord with a ii-V progression. This was already demonstrated when
+discussing the blues progression; one of the progressions replaced the F7 chord in bar 4 with a Cm7 - F7. This is especially
+common at the end of a phrase, leading to the tonic at the start of the next phrase. Most of the scale choices the soloist may
+have been using over the F7 chord will also work over the Cm7 chord, so this reharmonization doesn't usually create too much
+tension. This technique can be combined with the tritone substitution to create a more complex reharmonization. Rather than
+replace the V with a ii-V, first replace the V with its tritone substitution, and then replace that with a ii-V. For example, in bar 4
+of the F blues, first replace the F7 with B7, and then replace that with F#m7 - B7.
+Another type of reharmonization involves the use of alternation. Rather than play several measures of a given chord, the
+accompanist may alternate between it and the chord a half step above or below, or a dominant chord a fifth below. For
+instance, on a G7 chord, you might alternate between G7 and Ab7, or between G7 and F#7, or between G7 and D7. This is
+especially common in rock based styles, where the alternation is performed in rhythm. If the alternation is performed regularly,
+such as throughout an entire chorus, or even the whole tune, the soloist should be able to pick up on it and control the amount
+of tension produced by playing along with the reharmonization or by playing against it. That is, the soloist can lessen the tension
+by changing scales as you change chords, or increase tension by keeping to the original scale.
+Comping Rhythms
+Once you have decided what notes you want to play, you must decide when to play them. You do not want to simply play
+whole notes or half notes; your accompanying generally should be rhythmically interesting, although not distracting to the soloist
+or listener.
+There are few guidelines that can be given for playing comping rhythms. Because there is very little theory to fall back on, the
+first piece of advice I can give is to listen to other accompanists. Too often we tend to ignore everyone but the soloist anyhow.
+Be sure to choose albums that have solo instrumentalists other than the accompanist on them. Pianists to listen to include Bud
+Powell, Thelonious Monk, Horace Silver, Bill Evans, Wynton Kelly, Herbie Hancock, and McCoy Tyner. Pianists should also
+listen to guitarists and mallet players; often the constraints of those instruments can lead to ideas you might not have thought of
+otherwise.
+Guitarists should listen to pianists, but also to guitarists such as Herb Ellis, Joe Pass, and Wes Montgomery. Often, guitarists
+work in tandem with pianists, and their style when there is a pianist in the group may differ from how they play when they are
+the only chordal accompanists. For instance, some guitarists play only short chords on every beat if there is a pianist providing
+most of the rhythmic interest. Others will lay out (stop playing) entirely. For this reason, it is especially important to listen to
+guitarists in several different types of settings.
+You should also listen to recordings that do not have any chordal accompaniment, such as any of several Gerry Mulligan, Chet
+Baker, or even Ornette Coleman quartet albums. Try to play along with these. This will often be difficult, since the music was
+recorded with the knowledge that there was no chordal accompaniment, so the soloist and other accompanists generally left
+little room for a piano or guitar. Practicing accompanying in this type of situation can help you avoid over-playing. Most
+beginning accompanists, like many beginning soloists, tend to play too much. Just as space can be an effective tool while
+soloing, it can be even more so when accompanying. Let the soloist work with only the bassist and drummer for a few
+measures, or longer, every so often. Laying out and leaving the soloist with no chordal accompaniment is sometimes called
+strolling. McCoy Tyner, Herbie Hancock, and Thelonious Monk often laid out for entire solos.
+Sometimes it helps to imagine yourself as a background part in a big band arrangement. When you are comfortable with a
+particular chord progression, and no longer are having to concentrate fully just on playing the "right" notes, you can concentrate
+on the rhythmic and even melodic content of your comping. Listen to the horn backings in some big band recordings, such as
+those of Count Basie, to see how melodic accompaniment can be.
+Certain styles of music call for particular rhythmic patterns. For instance, many forms of music before the bebop era used the
+stride left hand pattern, which consists of alternating a bass note on one and three with a chord voicing on two and four. Many
+rock based styles also depend on rhythmic patterns, often specific to the individual song. While the Brazilian derived styles such
+as the bossa nova and samba, as played by most jazz musicians, do not have well-defined comping patterns, other Latin jazz
+styles, particularly the Afro-Cuban forms sometimes collectively referred to as salsa, use a two measure repeating motif called
+a montuno. A typical rhythmic pattern is "and-of-one, and-of-two, and-of-three, and-of-four; one, two, and-of-two,
+and-of-three, and-of-four". These two measures may be reversed if the underlying drum pattern (see below) is reversed as
+well. A full description of the role of the piano in Latin jazz and other styles is beyond the scope of this primer. A good
+discussion can be found in Mark Levine's The Jazz Piano Book.
+The most important aspect of accompanying in most styles is to communicate with the soloist. There are several forms this
+communication can take. For instance, there is call and response, in which you essentially try to echo back or answer what the
+soloist has played. This is particularly effective if the soloist seems to be playing short, simple phrases, with pauses between
+them. If the soloist is working on a repeated rhythmic motif, you can often anticipate the echo and actually play right along with
+the soloist. Sometimes you can also lead the soloist in directions he might not have tried otherwise. For instance, you might start
+a repeated rhythmic motif, which might encourage the soloist to echo you. Some soloists like this type of aggressive comping,
+and others do not. You will have to work out with each soloist how far you may take him.
+
+
+Bass
+
+The function of the bass in a traditional rhythm section is somewhat different than that 
+of a chordal instrument. Like a pianist, a bassist must normally outline the chord 
+changes, but the bass usually emphasizes the roots, thirds, and fifths rather than any
+extensions or alterations. In traditional jazz forms, the bass player also has a very 
+important role as a timekeeper; as much as a drummer, if not more so. That is why bass 
+players so often play walking bass lines that consist almost exclusively of quarter
+notes or rhythms that strongly emphasize the beat.
+In this respect, learning to play bass lines is often easier than learning to solo or play 
+voicings. You do not have to worry much about what rhythms to play, and your note 
+choices are more limited as well. When you listen to great bass players like Ray
+Brown or Paul Chambers, you will see that a large part of their playing is quarter 
+notes and scale based lines. When a pianist plays in a solo setting, he must often 
+provide his own bass line accompaniment, so pianists should learn how to construct 
+good bass lines as well.
+
+Walking Bass Lines
+
+There are some simple guidelines you can use to produce good sounding bass lines. First, 
+you generally should play the root of the chord on the first beat of that chord. The 
+previous beat should be a note a step away. For instance, if the chord F7 appears
+on beat "one" of a measure, then you would normally play F on that beat. You would 
+normally play E, Eb, G, or Gb on the last beat of the previous measure, depending on 
+the chord. If the chord was C7, then you might play either E or G, since they are in
+the associated mixolydian scale. Or, you might think HW diminished or altered scale 
+for the C7 and play the Eb or Gb. The Gb is also the root of the dominant chord a 
+tritone away, which has already been described as a good substitution, so Gb makes a
+particularly good choice. The note does not necessarily have to be justifiable in the 
+context of the chord; it can be thought of as a passing tone to reach the first beat 
+(the downbeat) of the next measure.
+These first two guidelines take care of two beats for each chord. In some tunes, such 
+as any song based on the rhythm changes, that is all you get for most chords, so your 
+bass line can be almost completely determined by the chord progression.
+Of course, you will probably want to vary your lines. You are not required to play the 
+root on the one, nor are you required to approach it by step. Remember, these are only 
+guidelines to get you started.
+If you have more than two beats to fill for a particular chord, one way to fill the 
+remaining beats is to simply choose notes from any associated scale in mostly stepwise 
+motion. For instance, if your chord progression is C7 to F7, and you have already
+decided to play "C, x, x, Gb" for the C7 chord, then you can fill in the x's with D 
+and E, implying the lydian dominant scale, or Bb and Ab, implying the altered scale. 
+Either of these choices might also imply the whole tone scale. Another popular pattern
+would be "C, D, Eb, E", where the Eb is used as passing tone between the D and the E. 
+You will probably discover other patterns that you will tend to use a lot. Playing 
+patterns is generally frowned upon when soloing, where you are expected to be
+as creative as possible. When accompanying, however, patterns, like those given for 
+voicings, can be an effective way to outline the harmony consistently. As a bass player, 
+you are expected to play virtually every beat of every measure for the entire
+piece. It is usually more important to be solid and dependable than to be as inventive 
+as possible.
+
+Pedal Point
+The term pedal point, often shortened to simply pedal, refers to a bass line that stays 
+on one note over a changing harmony. Certain songs, such as John Coltrane's "Naima", 
+from the album "Giant Steps", are written with explicit pedal point, either with
+the notation "Eb pedal" over the first four measures, or through the notation of the 
+chords as | Dbma7/Eb | Ebm7  | Amaj7#11/Eb Gmaj7#11/Eb | Abmaj7/Eb |.
+When you see a song explicitly call for pedal point, that is usually an indication to 
+stop walking and instead play only whole notes.
+You can also find your own opportunities to use pedal point. In a ii-V-I progression, 
+the fifth can often be used as a pedal note. For example, you can play G under the 
+progression | Dm7 | G7 | Cmaj7 |, or just under the first two bars. Under the
+Dm7 chord, the G in the bass makes the chord function as a G7sus chord. The resolution 
+to the G7 chord then mimics the traditional classical use of suspensions, which always 
+resolve in this manner. This is also commonly done in progressions that
+alternate between the ii and the V, as in | Dm7 | G7 | Dm7 | G7 | Dm7 | G7 | Dm7 | G7 |.
+
+Counterpoint
+Scott LaFaro started a small revolution in jazz bass playing in the early 1960's through 
+his use of counterpoint. His bass lines had almost as much rhythmic and melodic interest 
+as the melody or solo he was accompanying. This can be distracting to some
+soloists, and to some audiences, but many find the effect exciting.
+One opportunity to use counterpoint is in ballads or medium tempo swing tunes where 
+the melody has long notes or rests. One of the most famous examples of Scott LaFaro's 
+counterpoint is on the version of "Solar" recorded by Bill Evans, Scott LaFaro,
+and Paul Motian on the album Sunday At The Village Vanguard. The melody is mostly quarter 
+notes, with whole notes at the end of each phrase. Scott plays long notes while the 
+melody is moving, and moving parts where the melody is staying still.
+Bob Hurst has a different approach to counterpoint. Rather than playing lines that 
+sustain their own melodic or rhythmic interest, he plays lines that create rhythmic 
+tension in their interaction with the beat. One technique he uses often is playing six
+notes against four beats, or two quarter note triplets per measure. It sounds like he 
+is playing in three while the rest of the band is in four. This type of rhythmic 
+counterpoint is difficult to sustain for any length of time, and may confuse 
+inexperienced musicians.
+When experimenting with counterpoint, remember your role is usually still that of an 
+accompanist. Your goal is to support the musicians you are accompanying. If they are 
+being thrown off by the resultant complexity, or are producing enough rhythmic
+tension on their own, then this may not be a good technique to use. You will have to 
+use your own judgement to decide when the music will benefit from the use of counterpoint.
+
+Other Bass Patterns
+The techniques described above are applicable to most styles of jazz. Some particular 
+styles impose their own particular requirements on the bassist, however. A two-beat 
+or half-time feel means playing only on beats one and three in 4/4 time. A two-beat 
+feel is often used on the head for standards. When playing in 3/4 time, you may either 
+play walking lines or just play on the first beat of each measure. Many of the Latin 
+Jazz styles use a simple pattern usually based on alternating roots and fifths. The 
+bossa nova, a Brazilian derived style, uses the root on "one" and the fifth on "three", 
+with an eighth note pickup on the "and-of-two" and either another pickup on the 
+"and-of-four" or a quarter note on "four". The samba, another Brazilian derived style, 
+is similar, but is played with a double-time feel, meaning it sounds as if the basic 
+beat is twice as fast as it really is. The root is played on "one" and "three" while the 
+fifth is played on "two" and "four", with a sixteenth note pickup before each
+beat. The mambo and other Cuban derived styles use the rhythm "and-of-two, four". The 
+latter beat is tied over to the "one" of the following measure.
+A full description of all the different styles is beyond the scope of this primer. 
+There are a few books that can help you in constructing patterns for various styles; 
+one such book is Essential Styles For The Drummer And Bassist. For now, all I can do
+is repeat Clark Terry's advice, "imitate, assimilate, innovate". Listen to as many 
+different styles as you can and learn from what you hear.
+
+Drums
+
+As with the bassist, one of the roles of the drummer in traditional forms of jazz is to play a steady beat in the style of the song.
+By steady, I mean with regards to tempo, and do not mean to imply that you should not be creative and vary your patterns. I
+cannot shed much light on the specifics of drum techniques, but I can describe some basic patterns and styles, and give you
+some hints on other aspects of the role of the drummer.
+The basic 4/4 swing beat consists of two components: the ride pattern and the hi-hat pattern. The fundamental ride pattern is
+the "1, 2 and, 3, 4 and" or "ding ding-a ding ding-a" pattern played on the ride cymbal with swung eighth notes. The hi-hat is
+normally closed sharply on "two" and "four". This is what most simple drum machines will play when the "swing" setting is
+selected. This pattern is appropriate for many jazz songs, especially medium or up-tempo standards or bebop tunes. Slower
+songs like ballads often call for the use of brushes on the snare drum rather than sticks on the cymbals as the main pattern.
+There are a few books that can help you in constructing patterns for other styles; one such book is Essential Styles For The
+Drummer And Bassist. The most important of the styles you may be expected to play are described below.
+The basic shuffle beat consists of eighth notes on the ride cymbal and possibly snare. The second and fourth beats are usually
+more strongly emphasized as well. The basic jazz waltz or 3/4 swing pattern consists of "one, two, and-of-two, three" or "ding
+ding-a ding" on the ride cymbal, with the hi-hat on "two". Other variations include using the hi-hat on "two" and "three", or on
+all three beats; adding the snare on the "and-of-two" or on the "and-of-one" and on "three".
+Three forms of Latin jazz you should be able to play include the bossa nova, the samba, and the mambo. The essence of most
+forms of Latin jazz is the clave, which is a type of rhythmic pattern. The basic clave is two measures long, and consists of "one,
+and-of-two, four; two, three". There is also an African clave or Rumba clave in which the third note is played on the
+"and-of-four" rather than on the beat. The bossa nova uses a variation of the basic clave in which the last note falls on the
+"and-of-three" rather than on the beat. These clave patterns can also be inverted, meaning the two measures are swapped. The
+clave would usually be played as hits on the rim of the snare on a traditional drum set, although it is often not played explicitly
+by the drummer at all, in which case an auxiliary percussionist may play it.
+The clave is supplemented with other patterns on other drums. The bass drum may play on "one" and "three" with eighth note
+pickups. The hi-hat is closed on "two" and "four". Other patterns may be played on a cymbal or on a cowbell. Typical mambo
+patterns include "one, two, three, and-of-three, and-of-four; one, two, and-of-two, and-of-three, and-of-four" or "one, two,
+three, and-of-three; one, and-of-one, and-of-two, and-of-three, four". A simple pattern consisting of "two, four, and-of-four"
+is played on the snare rim and the mounted tom instead of a clave. Bossa novas may use a pattern consisting of straight eighth
+notes on the ride cymbal. Sambas have a double-time feel. The cymbal pattern is usually straight eighth notes, and is often
+played on a closed hi-hat. The snare drum may be simply hit on "four" instead of playing the clave.
+Certain compositions, such as Lee Morgan's "The Sidewinder" or Tony Williams' "Sister Cheryl", have unique drum patterns
+that are indelibly associated with the particular song. Listening to recordings of a song to be performed before trying to play it is
+probably more helpful for drummers than for any other musicians, since fakebooks generally do not provide many hints for the
+drummer.
+A good drummer will not simply play the same pattern over and over for an entire song. For one thing, you may vary the
+pattern, perhaps by playing only quarter notes on the ride cymbal, or occasionally varying the rhythm to "ding-a ding ding-a
+ding". Or, you could play the hi-hat on every beat. You may also want to use the other drums, such as the toms, as part of your
+basic beat for a song. Tony Williams is a master at varying his patterns in this way.
+Often, a drummer will play a simple two-beat during the head, and switch to straight four for the solos. One of the easiest ways
+to change the feel of a piece is to simply switch cymbals for the ride pattern, for instance when there is a change in soloist, or to
+mark the bridge of a song. Marking the form of a tune is another important role of the drummer. Most typical song forms have
+4 or 8 bar phrases. At the end of each phrase, the drummer often plays a more complex pattern or fill to lead into the next
+phrase. Another tactic is to change the basic beat from phrase to phrase. As a drummer, you should always be conscious of
+the form of the song, and know where any breaks, special introductions, or codas are. You should be able to sing to the
+melody to yourself during solos if necessary, so that you can outline the form for the soloist. This will help the soloist keep his
+place, by allowing him to recognize when you have reached the bridge, for example. Also, the soloist is usually structuring his
+own phrases along the lines of the original form. By adhering to that form yourself, you will usually be supporting the
+development of his ideas. Art Blakey is a master of playing the form and supporting soloists in this way.
+During a solo, an instrumentalist may leave deliberate breaks in his phrases. As with the pianist and bassist, the drummer may
+decide to fill those spaces with some sort of answering phrase or counterrhythm. Drummers may also create tension through
+the use of polyrhythm, which is two or more different rhythms superimposed on each other; for instance, three against four. A
+drummer can either try to play two different rhythms himself, or work with the bassist or another accompanist, or the soloist, to
+create a polyrhythm between them. As with the use of counterpoint in bass lines, however, you need to balance the desire for
+rhythmic variation with the realization that clutter or chaos can result if you go too far.
+Since everyone depends on the drummer to keep accurate time, rhythmic stability is essential. However, the rhythmic interest
+of the drum part is also important, and it is vital during drum solos. Percussion is not only about rhythm, either. As a drummer,
+you cannot play lines that are interesting in a traditional melodic or harmonic sense, but you can vary the timbre of your lines by
+playing across drums or cymbals of different pitches. You should still think melodically when playing the drums.
+
+Other Instruments
+
+The use of other instruments, such as brass or woodwind instruments, as accompanying instruments is usually limited to a few
+background riffs, or repeated phrases. This type of accompaniment is popular in blues bands. Usually one horn player will play
+a simple line based on the blues scale, and other horn players will pick it up and repeat it.
+Free jazz forms allow for less structured accompaniment. If you listen to Ornette Coleman's Free Jazz, or John Coltrane's
+Ascension, you will notice that the horn players who are not soloing are free to play whatever background figures they want.
+The result is often cacophonous, but if that is the desired effect, then that is not bad in itself.
+At the other end of the spectrum are big band arrangements, which often have intricate written out horn backgrounds for solos.
+Arranging for horn sections is similar to accompanying on piano in that the parts generally form voicings of chords and are used
+in a rhythmically interesting way. The parts are generally smoother and more melodic than a typical piano accompaniment,
+however, both because the piano part is usually improvised whereas the horn arrangement can be preplanned, and because it is
+easier for a horn section to play melodic lines voiced in chords that it is for a pianist. Horn section arrangements often
+emphasize articulation, or variations in attack and dynamics, more so than a piano is normally capable of. Commonly used
+devices in horn section arranging include the use of sforzando, or notes of sudden loudness; alternating staccato, or short note,
+and legato, or long note, passages; bent notes, or notes in which the player alters the pitch briefly while playing, and falloffs, or
+notes in which the player rapidly lowers the pitch, sometimes by an octave or more, usually to end a phrase.
+You do not have to play in a big band or be an accomplished arranger to use horn section accompaniment. Often two or three
+horns are enough to play interesting background figures. Most of the same principles used in piano voicing can be used in horn
+section voicing. Drop voicings are especially effective. When there are only two horns, lines moving in parallel thirds often work
+well. Listen to Miles Davis' The Birth Of The Cool, or any of Art Blakey's recordings with the Jazz Messengers, for ideas on
+how one can arrange for relatively small ensembles. David Baker's book Arranging And Composing can help get you started
+as well.

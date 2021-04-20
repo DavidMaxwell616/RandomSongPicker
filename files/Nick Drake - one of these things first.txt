@@ -1,0 +1,157 @@
+One Of These Things First Lyrics
+Artist: Nick Drake
+
+
+Newest Lyrics      Top Lyrics      Most Popular
+
+E Esus                  A/E   C7
+   I could have been a sailor, could have been a cook
+A real live lover, could have been a book.
+I could have been a signpost, could have been a clock
+As simple as a kettle, steady as a rock.
+I could be
+Here and now
+I would be, I should be
+But how?
+I could have been
+One of these things first
+I could have been
+One of these things first.
+
+I could have been your pillar, could have been your door
+I could have stayed beside you, could have stayed for more.
+Could have been your statue, could have been your friend,
+A whole long lifetime could have been the end.
+I could be yours so true
+I would be, I should be through and through
+I could have been
+One of these things first
+I could have been
+One of these things first.
+
+
+
+
+I could have been a whistle, could have been a flute
+A real live giver, could have been a boot.
+I could have been a signpost, could have been a clock
+As simple as a kettle, steady as a rock.
+I could be even here
+I would be, I should be so near
+I could have been
+One of these things first
+I could have been
+One of these things first. 
+
+#----------------------------------PLEASE NOTE----------------------------------#
+# This file is the author's own work and represents their interpretation of the #
+# song. You may only use this file for private study, scholarship, or research. #
+#-------------------------------------------------------------------------------#
+
+ONE OF THESE THINGS FIRST
+
+(revised version - previously posted in EBEGBE, but although still
+the same notes, this version sounds more convincing. Also instrumental
+section reworked slightly)
+
+
+TUNING DADF#AD capo 2nd fret (EBEG#BE is same notes of course, but
+the strings sound a bit slacker to me)
+     
+As usual the picking varies a little bit, but these are the main 
+shapes. The picking indications (t-thumb, i-index, m-middle, r-ring, 
+l-little) are just what I find easiest.
+
+
+Main riff:
+     
+|------|------|------|------|
+|------|------|------|------|
+|--0---|--1---|--3---|--2--1|
+|--0---|--0---|--0---|--0--0|
+|-0-000|-2-222|-4-444|-3--2-|
+|0-----|0-----|0-----|0--0--|
+   r
+ timiti
+     
+notes:
+
+1. the last note of 000 or 222 etc is very often omitted 
+throughout the song.
+
+2. during verses, you play bar 2 again instead of bar 4 (which
+only reappears for the lines between verses, and the outro).
+also, in verses nick seems just to play the bottom 3 strings,
+though this can sound odd unaccompanied.
+
+3. when leading into another section, the last bar becomes:
+
+     |--0---|       |--0---| 
+     |-0-000|   or  |-4-000| 
+     |0-----|       |0-----|
+
+
+"Could have been a signpost...."
+     
+|------|------|         |------|------| 
+|------|------|         |------|------| 
+|------|--5---| (twice) |------|--3---| (twice) 
+|--7---|--5---|         |--5---|--3---| 
+|-5-555|-5-555|         |-3-333|-3-333| 
+|5-----|5-----|         |3-----|3-----|
+     
+"Could be here and now"
+     
+|------|         |------|
+|------|         |------|
+|--1---| (twice) |--1---| (twice)
+|--0---|         |--0---|
+|-3-333|         |-2-222|
+|3-----|         |2-----|
+     
+     
+(contd...)
+     
+     
+"Could have been one of these things first"
+     
+|------|      |------|
+|------|      |------|
+|--5---| (x4) |--1---| (x4)
+|--0---|      |--0---|
+|-5-555|      |-2-222|
+|5-----|      |2-----|
+
+
+The intro, if you really want to be precise, goes:
+     
+|------|------|------|------|--00--|------|------|------|
+|------|------|------|------|------|--0---|----0-|------|
+|--0---|--1---|--3---|--2--1|--0---|--1---|--3--3|--2--1|
+|--0--0|--0---|--0---|--0--0|--0---|--0---|---0--|0--0--|
+|-0-00-|-2-222|-4-444|-3--2-|-0--00|-2-222|-4----|-3--2-|
+|0-----|0-----|0-----|0--0--|0-----|0-----|0-----|0--0--|
+
+     
+The more complicated instrumental bits;
+     
+|------|0-----|------|0-----|---0--|---0--|---0--|------| 
+|---0--|------|---0--|------|------|0-----|0-----|0-----| 
+|--1-1-|-1---1|--1-1-|-1---1|--0---|--1---|--3---|-3----| 
+|-0---0|--0-0-|-0---0|--0-0-|--0-0-|-0--0-|-0--0-|--0-0-| 
+|------|3-----|------|2-----|-0----|2-----|4-----|4--0--| 
+|3-----|---3--|2-----|---2--|0-----|------|------|------|
+        r                      mr   r mr
+ timrmi tmitim               tti t  tti t
+
+and
+     
+|------|------|---0--|0--0--|------|------|---0--|0--0--| 
+|------|------|-0--0-|-0--0-|------|------|-0--0-|-0--0-| 
+|--5--5|--5--5|--5--5|--5--5|--1--1|--1--1|--1--1|--1--1| 
+|--0--0|--0--0|----0-|----0-|--0--0|--0--0|----0-|----0-| 
+|-5-55-|-5-55-|-5----|-5----|-2-22-|-2-22-|-2----|-2----| 
+|5-----|5-----|5-----|5-----|2-----|2-----|2-----|2-----|
+   m  m         rmrrm
+ ttitti        ttitti
+     

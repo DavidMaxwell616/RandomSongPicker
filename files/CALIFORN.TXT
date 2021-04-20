@@ -1,0 +1,190 @@
+Date: Thu, 24 Aug 1995 12:47:45 -0400
+From: rogers@hi.com (Andrew Rogers)
+Subject: ./b/beach_boys/california_girls.crd
+
+
+			"California Girls"
+		    (Brian Wilson - Mike Love)
+
+
+Intro:
+
+	Electric 12-string [measures 1-4]:
+
+	[B]
+	 v   v   v   v   v
+	----------------------
+	-----9---7------------
+	-----9---8---9-8------
+	-9---9--99--9----9-11-
+	----------------------
+	----------------------
+
+	Bass [enters on measure 2]:
+
+	 v   v   v   v   v
+	-----1----------------
+	---------4---2-1------
+	-2------2---2----2-4--
+	----------------------
+
+	Electric 12-string [measure 5]:
+
+	[A]
+	 v   v   v   v   v
+	----------------------
+	-----7---5------------
+	-----7---6---7-6---6--
+	-7---7--77--7----7----
+	----------------------
+	----------------------
+
+	Bass [measure 5]:
+
+	 v   v   v   v   v
+	----------------------
+	-----4---2---0--------
+	-0------0---0--4-0-4--
+	----------------------
+
+	Horns [arr. for guitar]:
+
+	measures 1,2:	tacit
+	measure 3:	B (octaves)		x2x4xx
+	measure 4:	E/B			x2210x
+	measure 5:	Em/A	 		x0200x
+
+Verse 1:
+
+	      B                                  B9 
+	Well, East Coast girls are hip, I really dig those styles they wear
+	         E
+	And the Southern girls with the way they talk 
+	              F#
+	They knock me out when I'm down there
+	     B                                 B9
+	The midwest farmers' daughters really make you feel alright
+	         E         
+	And the Northern girls with the way they kiss
+	                F#
+	They keep their boyfriends warm at night
+
+Chorus:
+
+	  B                   C#m
+	I wish they all could be California,
+	  A                   Bm
+	I wish they all could be California,
+	  G                   Am7           B
+	I wish they all could be California Girls
+
+Verse 2:
+
+	The West coast has the sunshine, and the girls all get so tanned
+	I dig a French bikini on Hawaiian Island girls
+	By a palm tree in the sand
+	I been all around this great big world and I've seen
+	      all kinds of girls
+	But I couldn't wait to get back in the states,  
+	Back to the cutest girls in the world
+
+	[repeat chorus]
+
+Organ break [arr. for guitar]
+
+	 v   v   v   v     v   v   v   v
+	-7-------7------7|-9-------9---9----
+	----79--7---79---|----79--7--79-----
+	-----------------|------------------
+	-----------------|------------------
+	-----------------|------------------
+	-----------------|------------------
+
+	bass:
+
+	 v   v   v   v     v   v   v   v
+	-----------------|----6-------------
+	-----------------|--------86--42----
+	-----------------|----------------4-
+	-----------------|------------------
+
+
+Coda [repeat to fade]:
+
+	  B                                  C#m
+	I wish they all could be California girls
+	                                   (wish they all could be California)
+
+
+
+-- another ace 60's tab from Andrew Rogers
+
+From: dmart@netcom.com (Darryl Martin)
+Subject: CRD: Carlifornia Girls for 3Chords
+
+For 3Chords.
+ 
+California Girls   by Brian Wilson
+ 
+In 3Chords, if you chose to use open chords I would click the change 
+key bar and change the key to D.
+ 
+If you keep the original key, I suggest clicking on E-bar chords even 
+though many song books display A-bar chords.
+ 
+>      Bb                                 Bb7
+:Well, East cost girls are hip, ;I really dig those stiles they wear;
+>        Eb
+:And the Southern girls with the way they talk, 
+>              F7
+:They knock me out when I'm down there.
+>    Bb                               Bb7
+:The midwest farmers' daughters realy make you feel alright,
+>        Eb                 
+:And the northern girls with the way they kiss
+>                F7
+:They keep their boy-freinds warm at night.
+ 
+chorus:
+>  Bb                    Cm7
+:I wish they all could be California,
+>  Db  
+:I wish they all could be California,
+>  Gb                    Cb          Bb
+:I wish they all could be California Girls.
+ 
+>    Bb                                   Bb7
+:The West coast has the sunshine, and the girls all get so tanned;
+>        Eb
+:I dig a French bikini on Hawaiian Islands, 
+>           F7
+:Dolls by a palm tree in the sand.
+>  Bb               
+:I been all around this great big world, 
+>         Bb7
+:And I've seen all kinds of girls,
+>      Eb       
+:But I couldn't wait to get back in the states,  
+>            F7
+:Back to the cutest girls in the world.
+ 
+chorus:
+>  Bb                    Cm7
+:I wish they all could be California,
+>  Db  
+:I wish they all could be California,
+>  Gb                    Cb          Bb
+:I wish they all could be California Girls.
+ 
+Repeat till fade out
+>  Bb                   
+:I wish they all could be California,
+>  Eb   
+:I wish they all could be California;  I
+ 
+ 
+ 
+
+
+-- 
+

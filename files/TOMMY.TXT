@@ -1,0 +1,2256 @@
+Received: from animal-farm.nevada.edu by redrock.nevada.edu (5.65c/M1.4)
+	with SMTP id <AA02475>; Tue, 23 Nov 1993 10:51:46 -0800
+Received: from cray.com (timbuk.cray.com) by animal-farm.nevada.edu id <AA06364@animal-farm.nevada.edu>; Tue, 23 Nov 1993 10:51:33 -0800
+Received: from mahogany34.cray.com by cray.com (Bob mailer 1.2)
+	id AA13499; Tue, 23 Nov 93 12:51:20 CST
+Received: by mahogany34.cray.com
+	id AA20077; 4.1/CRI-5.6; Tue, 23 Nov 93 12:51:19 CST
+Date: Tue, 23 Nov 93 12:51:19 CST
+From: ppalmer@mahogany.cray.com (Peter Palmer)
+Message-Id: <9311231851.AA20077@mahogany34.cray.com>
+To: jamesb@animal-farm.nevada.edu
+Subject: w/Who/Tommy.tab
+
+Newsgroups: rec.music.makers.guitar.tablature
+Subject: TOMMY - The Who (complete)
+Message-ID: <1993Nov15.125130.1@icbr.ufl.edu>
+>From sef@icbr.ufl.edu ()
+Path:hemlock.cray.com!timbuk.cray.com!cdsmail!uchinews!vixen.cso.uiuc.edu!howland.reston.ans.net!agate!library.ucla.edu!europa.eng.gtefsd.com!gatech!usenet.ufl.edu!gnv.ifas.ufl.edu!icbr.ufl.edu!sef
+Date: 15 Nov 93 12:51:30 -0500
+Organization: ICBR
+Nntp-Posting-Host: icbr.ifas.ufl.edu
+Lines: 2233
+
+	Well, here it is. This took a long time so I hope it helps someone. I'm
+responsible for the content, except "Tommy's Holiday Camp" by Pete Palmer
+[ppalmer@mahogany.cray.com] and "Pinball Wizard" by someone named Marc Hirsh.
+So all mistakes in lyrics/chords/notes/keys/typos/etc can be attributed to
+myself.
+	Please send any proofs to sef@icbr.ufl.edu. I don't know how to archive
+(since no one wanted to tell me how) so I'll let someone else do that. 
+	I've written things for one guitar (most of the time) but like Jimmy
+Page, Townshend likes to layer things, horns, etc. It all sounds pretty close.
+But weaknesses abound, so correct as you like. I figured out everything here
+and something could be (probably is) wrong.
+
+
+						Mike
+						sef@icbr.ufl.edu
+
+------------------------------------------------------------------------------
+
+			_____   ___              
+			  I    /   \  I\   /I I\   /I  \   /
+			  I    I   I  I \ / I I \ / I   \ /
+			  I    \_ /   I     I I     I    I
+			  I           I     I I     I    I
+
+
+				The Who
+
+
+CONTENTS:
+
+Overture - CRD
+It's A Boy - TAB
+You didn't hear it (1921) - CRD/TAB
+Amazing Journey - CRD
+Sparks - TAB
+Eyesight to the Blind - TAB
+Christmas - CRD/TAB
+Cousin Kevin - TAB/CRD
+Acid Queen - TAB
+Do You Think It's Alright/Fiddle About - CRD/TAB
+Pinball Wizard - TAB
+There's a Doctor I've Found/Go To The Mirror Boy - CRD/TAB
+Tommy, Can You Hear Me - CRD
+Smash the Mirror - TAB
+Sensation - TAB/CRD
+Miracle Cure/Sally Simpson - CRD
+I'm Free - TAB
+Welcome - TAB/CRD
+Tommy's Holiday Camp - TAB
+We're Not Gonna Take It - CRD
+
+
+
+
+
+				OVERTURE
+			       by The Who
+
+INTRO:
+        C     C/Bb     C/A     C/Ab     C/G     C     Gsus     G
+	x       x       x       x        x      x       5      5
+	5       5       5       5        5      5       5      5
+	5       5       5       5        5      5       7      6
+	5       5       5       5        5      5       7      7
+	3       x       x       x        x      3       x      x
+	x       6       5       4        3      x       x      x
+
+	Ebmaj7	     Fsus --> F       Gm      Dsus4 --> D
+
+	Gm  /  /  /  Gm  /  /  /
+
+
+(We're Not Gonna Take It)
+	
+	G / / / /    C     F --> C    (Play 4 times)
+
+	G       Cadd9      G       Cadd9
+
+
+(Go To The Mirror Boy)
+
+	G        D  -->  C     (Play 4 times)
+
+	F        C  -->  Bb    (Play six times)
+
+	A      Dm --> C --> Bb     C
+
+
+(See me, Feel me)
+
+	Ebmaj7	   Fsus --> F  	   Fsus --> F       G
+	Ebmaj7     Fsus --> F	   Fsus --> F       Em   --> B
+
+	E      B --> A  (Play 4 times)
+	Ab     C#m --> B --> A	   B7sus4 --> B
+
+
+(Listening to You)
+
+	A  B   C        A  B  E       A  B  C        G  D  B  (Play twice)
+
+
+	E      B --> A        E     B --> A
+	F      C --> Bb       F     C --> Bb
+
+
+	G / / / /      C               F --> C      (Play 4 times)
+
+                    I------------------------I
+                    I------------------1-----I
+                    I--------0x----0---2---0-I
+                    I--2--2--2x----0---3---2-I
+                    I--3--3------------------I
+                    I------------------------I
+
+
+(Pinball Wizard)
+
+	Gsus --> G     Gsus --> G     Fsus --> F     Fsus --> F
+
+	D 	(into "It's a Boy")
+
+
+-------------------------------------------------------------------------------
+ 
+        			IT'S A BOY
+                                by The Who
+ 
+        This ain't exact, but it's close.					
+        
+        Tune low E string down to a D
+ 
+      Dsus2                                 D/C   D/B
+II-------0-----------0-----I-------0------------------II
+II-------3-----------3-----I-------3---------3------3-II  Play 3 times
+II-------2-----------2-----I-------2---------2------2-II
+II--0--0---0-0---0-0---0-0-I---0-0---0-0-----0------0-II
+II-------------3-----------I-3-----------3-3----2-2---II
+II-------------------------I--------------------------II
+ 
+   F9
+I---------------------------------I
+I-----0-0-----0-0-----0-0-----0-0-I  Play twice
+I--0--0-0--0--0-0--0--0-0--0--0-0-I
+I--3-------3-------3-------3------I
+I---------------------------------I
+I---------------------------------I
+ 
+ 
+MAIN RIFF:  (play throughout opening verse)
+ 
+    D       Dsus2                 Cadd9  G/B
+I---2---2-----0---0-I----0----0-----0----0--I
+I---3---3-----3---3-I----3----3-----3----3--I
+I---2---2-----2---2-I----2----2-----0----0--I
+I---0---0-----0---0-I----0----0-----0----0--I
+I-----------3-------I-3-----------3----2----I
+I-------------------I-----------------------I
+ 
+Verse:
+ 
+D                                                 Cadd9      G/B
+Captain Walker didn't come home, his unborn child will never know him.
+D             	 				            Cadd9   G/B
+Believe him missing with a number of men. Don't expect to see him again.
+ 
+ 
+SOLO:
+               
+I-----------------------------------I--------------------------I
+I-----------------------------------I--------------------------I
+I-----------------------------------I--------------------------I Play
+I--0-0-3-0-0-0------0-3-0-0-0-----0-I-3-0-0-0----0-------------I twice
+I-----------------------------------I--------------------------I
+I--------------3-0------------3-0---I---------3----0-3-0-2-0---I
+              ^1/2            ^1/2           ^1/2    ^1/2^1/2
+ 
+I--0--------0-------0-------0------0-I
+I--5------7-------7-------7--------5-I    Play twice
+I--0--0-------0-------0-------0----0-I
+I--5----7-------7-------7-------7--5-I
+I--0-------------------------------0-I
+I------------------------------------I
+ 
+ 
+I------0------0------0------0--I-------0--------0--------0--------0---I
+I------7------7------8------8--I-------12-------12-------10-------10--I
+I--0------0------0------0------I--0--------0--------0--------0--------I
+I----7------7------9------9----I----12-------12-------10-------10-----I
+I------------------------------I--------------------------------------I
+I------------------------------I--------------------------------------I
+ 
+ 
+I------0----0--0----0---0---0---I-----0----0--0----0--0----0--0----I Play
+I------0----0--0----0---0---0---I-----0----0--0----0--0----0--0----I twice
+I------10---10-10x--10x-10x-10x-I-----11---11-11---11-11---11-11---I
+I------12---12-12x--12x-12x-12x-I-----10---10-10---10-10---10-10---I
+I---0-------0--0----0---0---0---I--0--0----0--0----0--0----0--0----I
+I-------------------------------I----------------------------------I
+        The strumming is different the second time, but the chords 
+        are the same
+ 
+ 
+    This part is an approximation ONLY
+ 
+e  I---------0--------0--------0---10------0---I
+b  I--7----7---7----7---7----7---7----7--------I
+g  I----10-------10-------10------------10-----I
+ 
+e  I-------10--------10-10--------------10---I
+b  I-----7----7----7----------------0--------I
+g  I--10--------10---------10-9-9-9---7------I
+ 
+e  I-------10--------10--------10-----I
+b  I-----7----7----7----7----7----7-7-I
+g  I--10--------10--------10----------I
+ 
+e  I-----------------------------2---2-2-I
+b  I--/7--7----0--0--0-----------3---3-3-I
+g  I--/7--7----5--4--2--0--------2---2-2-I                 
+d  I----------------------3^1/2--0-----0-I
+a  I-------------------------------3-----I
+ 
+ 
+There is A LOT more going on here but I don't have the guitar in front of me or
+the record and anyway it's pointless trying to get the exact strumming down,
+but you finger it like that.
+ 
+strum:  Dsus --> Cadd9 --> Dsus  etc.
+ 
+low             heavy bending here
+E    I-3-2-0-0--I  II--2-2-3-4-5--5--3-2-0-II Play 3 times
+ 
+manic strumming here
+ 
+   E/D                       D
+I--4-4-4-4-4-4-4-4-4-4-4-4-I-2-2-2-2-2-2-2-2-2-2-2-2-I One more time,
+I--5-5-5-5-5-5-5-5-5-5-5-5-I-3-3-3-3-3-3-3-3-3-3-3-3-I a little different
+I--4-4-4-4-4-4-4-4-4-4-4-4-I-2-2-2-2-2-2-2-2-2-2-2-2-I
+I--0-0-0-0-0-0-0-0-0-0-0-0-I-0-0-0-0-0-0-0-0-0-0-0-0-I
+I--------------------------I-------------------------I
+I--------------------------I-------------------------I
+ 
+ 
+CHORUS:
+ 
+  D                       Cadd9     G/B           D
+I----2--------0--------0-I----0--------0--------I--------0-0-0-----I
+I-------3--------3-------I-------3--------3-----I--3-----3-3-3-----I
+I----------2--------2----I----------------------I--2-----2-2-2-----I
+I-0----------------------I----------------------I--0-----0-0-0-----I
+I------------------------I-3--------2-----------I--0---------------I
+I------------------------I-------------------3--I--0---------------I
+                                             ^w
+ 
+       D         Cadd9 -> G/B    D
+It's a boy, Mrs. Walker, it's a boy.
+       D         Cadd9 -> G/B    D
+It's a boy, Mrs. Walker, it's a boy.
+  G       Em7   A
+A son.  A son.  A son.
+ 
+ 
+         This transcription is not great, but it's as close as I'm going to get
+to putting on paper Townshend's maniacal style. I apologize for inaccuracy. I
+figured out everything here and something may be (probably is) in error.
+ 
+ 
+        			
+-------------------------------------------------------------------------------
+    
+  			
+			YOU DIDN'T HEAR IT (1921)
+				by The Who
+
+
+INTRO:
+
+	C    G/B   C/Bb  C/A  C/Ab  C/G  --> D
+        3     x     x     x     x    x
+        5     x     5     5     5    5
+	5     4	    5	  5     5    5
+        5     5     5     5     5    5
+        3     2     x     x     x    x
+        x     0     6     5     4    3
+
+
+VERSE:
+
+    Gsus --> G
+
+    Riff goes like this (all throughout first 1/2 of verse)
+
+     Gsus           G
+I--------3-------3-------3-------3---I
+I------3---3---3---3---3---3---3---3-I
+I----5-------5-------4-------4-------I
+I------------------------------------I
+I------------------------------------I
+I------------------------------------I
+
+Gsus                 G                 Gsus --> G
+Got a feeling twenty-one is gonna be a good year
+Gsus                  G              Gsus --> G
+Especially if you and me see it in together. 
+Eb                   Bb                Eb --> Bb
+So you think twenty-one is gonna be a good year
+Eb                               Bb              Eb     Eb --> Eb/D
+Could be good for me and her but you and her, no never.
+
+
+   I had no reason to be over-optomistic
+
+  Cm       Cmaj/min7          Cmin7       Cmin/maj6
+I-8------------8----------------8------------8------I
+I-8------------8----------------8------------8------I
+I-8------------8----------------8------------8------I
+I-10-----------9----------------8------------7------I
+I---------------------------------------------------I
+I---------------------------------------------------I  
+
+
+Ab                                     Bbsus --> Bb
+But somehow when you smile I can brave bad weather.
+
+Gsus --> G
+
+PRECHORUS:
+
+G              C/G   Dm/G           C/G   G              Gsus          G
+What about the boy?  What about the boy?  What about the boy he saw it all.
+
+
+C/G    Dm/G     (chords arranged for guitar)
+ 3      5
+ 5      6
+ 5      7
+ 0      0
+ x      x
+ x      x
+
+
+CHORUS:
+
+           F                   D/F#                  G
+You didn't hear it. You didn't see it. You won't say nothing to no one
+E                             Am            Bbsus
+Never in your life. You never heard it. How absurd it all seems
+Bb          F
+Without any proof.
+           F                  D/F#               G
+You didn't hear it. You didn't see it. You never heard it, not a
+E                         Am                 Bb
+Word of it. You won't say nothing to no one. No one's gonna know
+                     F         C --> G
+What you know is the truth.
+
+
+
+Replay all verse chords.
+
+After the line "Somehow when you smile I can brave bad weather", play
+
+
+CLOSING RIFF:
+
+    Eb                 Absus     Abm
+I----3-------------I----4---------4---I
+I----4-------------I----4---------4---I
+I----3-------------I----6---------4---I
+I----x-------------I----x---------x---I
+I----x-------------I----x---------x---I
+I----x-------------I----x---------x---I
+
+Play 4 times and end with "What about the boy?"
+
+
+------------------------------------------------------------------------------
+				
+
+			   AMAZING JOURNEY
+                       	     by The Who
+
+
+OPENING RIFF:
+
+	C     G     A     E    D/A    A   D/A    A
+	8     7     5     4     x     x
+	8     8	    5  	  5     3     2
+        9     7     6     4     4     2
+        10    x     7     x     2     2
+        x     x     x     x     0     0
+        x     x     x     x     x     x
+
+
+VERSE:
+    C   G                    A    E              D     A        D   A
+	Deaf, dumb and blind boy, he's in a quiet vibration land.
+    C   G                    A   E          D         A         D   A
+	Strange as it seems, his musical dreams ain't quite so bad.
+
+	G          E         A --> D/A    A --> D/A   (Play chords twice)
+
+	Ten years old with thoughts as bold as thoughts can be.
+	Loving life and becoming wise in simplicity.
+
+CHORUS:
+
+  G-7/F                                   C/E
+  Sickness will surely take the mind where minds can't usually go
+  Cm/Eb                           D                    Dsus4 --> D
+  Come on the amazing journey and learn all you should know.
+
+  I've heard Pete do this in concert and he plucks these strings while the bass
+notes descend.
+
+       G-7/F    C/E    Cm/Eb
+         7       8       8
+         6       8       8
+         7       9       8
+         x       x       x
+        (8)     (7)     (6)
+         x       x       x
+
+
+BRIDGE:
+
+        G                D
+A vague haze of delirium creeps up on me
+        G                     D
+All at once a tall stranger I suddenly see
+        G                        D
+He's dressed in a silver-sparkle glittering gown.
+         G                        D
+And his golden beard flows nearly down to the ground.
+
+
+	Bb --> F      C --> G       D --> A
+
+	C --> G       A --> E       D --> A
+
+
+   C    G             A    E          D  A
+	Nothing to say, nothing to hear, nothing to see.
+   C	G          A   E            D     A
+	Each sensation makes a note in my symphony.
+
+	G      E      A --> D/A    A --> D/A
+	
+	G      E      A
+
+
+			Repeat CHORUS
+
+
+            G                      D
+	His eyes are the eyes that transmit all they know
+	    G                      D
+	Sparkle warm crystalline glances to show
+        G                 D
+	He's your leader, he's your guide
+                G                D
+	On the amazing journey together you'll ride.
+
+
+	Bb --> F      C --> G      D --> A
+
+	C --> G       A --> E      D --> A
+					
+
+------------------------------------------------------------------------------
+
+
+
+			          SPARKS
+                        	by The Who
+
+Unfortunately, the guitars on the record are tuned down to C, or something like
+that. This is the way I've heard Pete play it live (in key of E), but the same
+solo as on the record.
+
+(from end of Amazing Journey):
+
+I---------------------------I----------------------------I
+I--------9---9--------9---9-I--------9---9---7-7-7--7--7-I			
+I--------9---9--------9---9-I--------9---9---7-7-7--7--7-I  over and over
+I--------9---9--------9---9-I--------9---9---7-7-7--7--7-I    again
+I--------7---7--------7---7-I--------7---7---5-5-5--4--5-I
+I--0--0---------0--0--------I--0--0----------------------I
+
+	A lot of unreproducible bird sounds go over this. 
+
+	Then,
+
+I-------------------------I---------------------------I
+I-------------------------I---------------------------I  Play 6 times
+I----9----9----7--9----9--I--7--9----9----7--7--6--6--I
+I----9----9----7--9----9--I--7--9----9----7--7--7--7--I
+I----7----7----5--7----7--I--5--7----7----5--5--4--4--I
+I-------------------------I---------------------------I
+
+
+I--------------7---------I---------------7----I
+I--9-9-9-9-9-9-7---9--7--I--9-9-9-10-9---7----I
+I--9-9-9-9-9-9-7---------I--9-9-9-9--9---7----I
+I--9-9-9-9-9-9-7---------I--9-9-9-9--9---7----I
+I--7-7-7-7-7-7-7---------I--7-7-7-7--7---7----I
+I--0-0-0-0-0-0-0---------I--0-0-0-0--0---0----I
+
+
+INTRO:
+
+I---4--------5----0----I---4--------5----0----I---4-------0----5----I
+I---5--------5----5----I---5--------5----5----I---5-------5----5----I
+I---4--------4----4----I---4--------4----4----I---4-------4----4----I
+I----------------------I----------------------I---------------------I
+I----------------------I----------------------I---------------------I
+I----------------------I----------------------I---------------------I
+
+I---4--------0----5----I---2--------5----0----I---4-------0----5----I
+I---5--------5----5----I---3--------3----3----I---5-------5----5----I  
+I---4--------4----4----I---2--------2----2----I---4-------4----4----I
+I----------------------I---0--------0----0----I---------------------I
+I----------------------I----------------------I---------------------I
+I----------------------I----------------------I---------------------I
+
+
+I---4--------0----5----I---4--------0----5----I---4-----------------I
+I---5--------5----5----I---5--------5----5----I---5-----------------I
+I---4--------4----4----I---4--------4----4----I---4-----------------I
+I----------------------I----------------------I---------------------I
+I----------------------I----------------------I---------------------I
+I----------------------I----------------------I---------------------I
+
+
+MAIN RIFF:
+
+I---------------------------I----------------------------I
+I---------------------------I----------------------------I
+I---------------------------I----------------------------I
+I--2--0x----2--0------------I--2--0x----2--0-------------I
+I----------------3--2--0----I-----------------3--2--0----I
+I-------------------------2-I--------------------------2-I
+
+I----------------------------I------------------------------I
+I----------------------------I------------------------------I
+I----------------------------I------------------------------I  Repeat one more
+I----------------------------I------------4-4-4-4-4-4-4-4-4-I  measure of B
+I--5--3x----5--3--2----------I-2--2-2-2-2-2-2-2-2-2-2-2-2-2-I  chord (getting
+I--------------------5--3--5-I------------------------------I  louder)
+
+
+CHORUS:
+
+I---4---2------4---2---5--I---4---2------4---2---4--I---6---6------6---6---6--I
+I---5---3------5---3---5--I---5---3------5---3---5--I---7---6------7---6---7--I
+I---4---2------4---2---4--I---4---2------4---2---4--I---6---7------6---7---6--I
+I---0---0------0---0---0--I---0---0------0---0---0--I---0---0------0---0---0--I
+I-------------------------I-------------------------I-------------------------I
+I-------------------------I-------------------------I-------------------------I
+
+ 		   Play this phrase twice
+I---7------------II--7-----8-----7-----5-----5-----I-7-----8-----10------II
+I---8------------II----8-----8-----8-----8-----8---I---8-----8-----------II
+I---7------------II------7-----7-----7-----7-----7-I-----7-----7---------II
+I---0------------II--------------------------------I---------------------II
+I----------------II--------------------------------I---------------------II
+I----------------II--------------------------------I---------------------II
+
+I---7---5------7---5---8--I---7-----8-----5---I---7---5------7---5---8---I
+I---8---6------8---6---8--I---8-----8-----6---I---8---6------8---6---8---I
+I---7---5------7---5---7--I---7-----7-----5---I---7---5------7---5---7---I
+I---0---0------0---0---0--I---0-----0-----0---I---0---0------0---0---0---I
+I-------------------------I-------------------I--------------------------I
+I-------------------------I-------------------I--------------------------I
+
+I---7-----8-----10-----I---7---5------7---5---8--I-----7-----5-----7----I
+I---8-----8-----10-----I---8---6------8---6---8--I-----8-----6-----8----I
+I---7-----9-----11-----I---7---5------7---5---7--I-----7-----5-----7----I
+I---0-----0------0-----I---0---0------0---0---0--I-----0-----0-----0----I
+I----------------------I-------------------------I----------------------I
+I----------------------I-------------------------I----------------------I
+
+
+FINALE:
+
+I---8---7-----5---4-----2-I---0-----3---2-----I
+I---8---8-----5---5-----3-I---2-----2---3-----I
+I---9---7-----6---4-----2-I---0-----0---2-----I
+I---10--x-----7---x-----0-I---0-----0---0-----I
+I-------------------------I-------------------I
+I-------------------------I-------------------I
+
+I---8---7-----5---4-----2-I-0----2--0----2--0----2--0----2--0---I
+I---8---8-----5---5-----3-I-2----3--2----3--2----3--2----3--2---I
+I---9---7-----6---4-----2-I-2----2--2----2--2----2--2----2--2---I
+I---10--x-----7---x-----0-I-2----0--2----0--2----0--2----0--2---I
+I-------------------------I-0-------0-------0-------0-------0---I
+I-------------------------I-------------------------------------I
+
+
+	As usual, no guitar in front of me, so excuse any mistakes. 
+
+
+-------------------------------------------------------------------------------
+
+	       		EYESIGHT TO THE BLIND
+                	     by The Who
+
+INTRO: There are two guitars. One strums Eb --> Ebsus chord. I'm tabbing the
+other one, though they switch off. Listen to the record.
+
+    Eb              Ebsus            Eb            Ebsus
+I---6-----6-----I---6-------6----I---6-----6-----I-------6----I
+I-----8-----8---I-----9---6---6--I-----8-----8---I-----6------I
+I-------8-----8-I-------8--------I-------8-----8-I---8--------I
+I---------------I----------------I---------------I------------I
+I---------------I----------------I---------------I------------I
+I---------------I----------------I---------------I------------I
+
+     Eb
+e I--6--6--6--6--I--6--6--6--6--I
+b I--8--8--8--8--I--8--8--8--8--I
+g I--------------I--------------I
+
+
+MAIN RIFF:
+
+   Gm
+I--3--3---------------I
+I--3--3---------------I   This is the way I play it on one guitar. I've tabbed
+I--3--3---------------I   the bass riff which makes it sound better. But on the
+I--5--5---3h5--3------I   record, Pete just hits that Gm chord over and over.
+I----------------5----I   
+I------------------3--I   Your choice.
+
+
+VERSE:
+
+Gm
+You talk about your woman.  I wish you could see mine.
+          F                                           Gm
+Yeah, you talk about your woman. I wish you could see mine.
+      F                                     C               D
+Every time she starts her lovin' she brings eyesight to the blind.
+
+
+You know her daddy gave her magic, I can tell by the way she walks.
+Her daddy gave her magic, I can tell by the way she walks.
+Every time she starts to shakin', the dumb begin to talk.
+
+
+SOLO:
+  
+    Unfortunately, Pete plays the solo on either a guitar tuned to Eb, or the
+E string tuned down to Eb (or maybe ALL the guitars tuned down), so if you
+don't have two guitars you can either 1) play all chords up a 1/2 step or 
+2) don't pluck the low E string on the solo and play it in Eb. This is the way
+it's played on record. (In the key of E)
+
+	play over INTRO
+
+I---------------------------I-----------------------------I
+I---------------------------I-----------------------------I
+I---------------------------I---------------------------------I
+I---------------------------I-----------------------------I  Play this part
+I-------7-7-7-7-7---7-7-7-7-I-7---7-7-7-7-7---5-----------I  twice.
+I---0-----------------------I--------------------7--5--3--I
+
+I------------------------------I--------------------------I
+I------------------------------I--------------------------I
+I------------------------------I--------------------------I
+I--------------------------I---------7-7-7-7---7------I
+I-------7-9-9-9-9---9-10-10-10-I-10---10------------------I
+I---0--------------------------I--------------------------I
+
+I---------------------------I-------------------I------6-6-6-6-I-6-6-6-6-I
+I---------------------------I-------------------I------8-8-8-8-I-8-8-8-8-I   
+I---------------------7-7-7-I-7---7-9-9-9-9---9-I--------------I---------I
+I-------9-9-9-9-9---9-------I-------------------I--------------I---------I
+I---------------------------I-------------------I--------------I---------I
+I---0-----------------------I-------------------I---0----------I---------I
+
+
+Repeat MAIN RIFF
+
+Gm
+She's got the power to heal you. Never fear.
+      F                                      Gm
+Yeah, she's got the power to heal you. Never fear.
+       F                          C             D
+Just a word from her lips and the deaf begin to hear.
+
+
+
+-------------------------------------------------------------------------------
+
+
+				CHRISTMAS
+                                by The Who
+
+
+
+RIFF:   During the verse, on the D chord, electric guitar goes:
+
+       I----------------I------------I
+       I----3-----------I-------3----I
+       I----2-----------I-------2----I
+       I----0-----------I--0----0----I
+       I----------0--3--I------------I
+       I--------3-------I------------I
+
+
+VERSE:
+
+G                                                         D
+Did you ever see the faces of the children, they get so excited.
+G                                                               D
+Waking up on Christmas morning, hours before the winter sun's ignited.
+G                                                                 D
+They believe in dreams and all they mean, including Heaven's generosity.
+G                                                                D
+Peeping round the doors to see what parcels are for free and curiosity.
+
+
+CHORUS:
+
+    G             A         D         D/C
+And Tommy doesn't know what day it is.
+    G                A                 D         D/C
+He doesn't know who Jesus was, or what praying is.
+C       G     D       C        G       A
+How can he be saved.  From the eternal grave?
+
+
+VERSE 2:
+
+Surrounded by his friends, he sits so silently and unaware of everything.
+Playing poxy pinball,picks his nose and smiles, pokes his tounge at everything
+I believe in love, but how can men who've never seen life be enlightened?
+Only if he's cured will his spirit's future level ever heighten.
+
+
+				Repeat CHORUS
+
+
+
+BRIDGE:   (Chord voicings are listed below)
+
+Gm                       Fmaj7add9               C#m7b5 (?)
+Tommy can you hear me?   Tommy can you hear me?  Tommy can you hear me?
+Eb/G                     C/F                      Eb/G
+Tommy can you hear me?   Tommy can you hear me?   Can you hear me?
+
+
+	Gm	Fmaj7add9	C#m7b5		Eb/G		C/F
+	3	   3              3              3               3
+	3          1              2              4               5
+        3          2              3              3               5
+        5          3              2              5                   3
+        x          x              x              x               x
+        x          x              x              x               x
+
+                        D
+			How can he be saved?
+
+INTERLUDE: 
+
+(Chord voicings are below. Strum them on quarter notes)
+
+        Ebmaj7      Fsus --> F      Fsus --> F       G
+	See me.     Feel me.        Touch me.        Heal me.
+        Ebmaj7      Fsus --> F      Fsus --> F   Gm
+	See me.     Feel me.        Touch me.        Heal me.
+
+	Ebmaj7		Fsus		F		G    
+	  6		 6		5		3
+	  8		 6		6		3
+	  7		 5		5		5
+	  x		 x		x		x
+	  x		 x		x		x
+	  x		 x		x		x
+
+
+		Repeat BRIDGE, hitting chords on eighth notes 
+
+		Repeat first VERSE and CHORUS
+
+
+
+-------------------------------------------------------------------------------
+
+
+
+				COUSIN KEVIN
+                                 by The Who
+
+
+	There are two guitars, one playing the descending riff (tabbed here) 
+and the other playing around with the chords, which I've listed.  Also, I 
+couldn't fit all the lyrics along with the tab, but just listen to the record, 
+they're very clearly sung.
+        							
+
+INTRO: 
+
+d  I-6-I---6---6---6---6-I---6---6---6---6-I---6---6---6---6-I
+a  I---I-9---9---9---9---I-8---8---8---8---I-9---9---9---9---I
+
+
+
+CHORUS:
+	     We're on our ooooooooown  Cousin.    All al-ooooooone, 
+    C#                C#sus             C#                C#sus
+d I---6---6---6---6-I---6---6---6---6-I---6---6---6---6-I---6---6---6---6-I
+a I-8---8---8---8---I-9---9---9---9---I-8---8---8---8---I-9---9---9---9---I
+    
+    Cousin         Let's think of a game to play now the grown ups have all
+    C#                Csus              C                 Csus
+d I---6---6---6---6-I---5---5---5---5-I---5---5---5---5-I---5---5---5---5-I
+a I-8---8---8---8---I-8---8---8---8---I-7---7---7---7---I-8---8---8---8---I
+
+  gone away.     You won't be much fun being blind deaf and dumb but I've...
+    C                 Bsus              B                 Bsus
+d I---5---5---5---5-I---4---4---4---4-I---4---4---4---4-I---4---4---4---4-I
+a I-7---7---7---7---I-7---7---7---7---I-6---6---6---6---I-7---7---7---7---I
+
+    today.      Do you know how to play 'hide and seek'?  To find me it ...
+    B                 Bbsus             Bb                Bbsus 
+d I---4---4---4---4-I---3---3---3---3-I---3---3---3---3-I---3---3---3---3-I
+a I-6---6---6---6---I-6---6---6---6---I-5---5---5---5---I-6---6---6---6---I
+
+    week.        But tied to that chair you won't go anywhere.  There's ...
+    Bb                Asus              A                 Asus
+d I---3---3---3---3-I---2---2---2---2-I---2---2---2---2-I---2---2---2---2-I
+a I-5---5---5---5---I-5---5---5---5---I-4---4---4---4---I-5---5---5---5---I
+
+    freak.
+    A
+d I-2----------I
+a I-4----------I
+
+
+
+
+VERSE:
+
+F             Dm        F             C#
+How would you feel if I turned on the bath
+Bb               C         C#
+Ducked your head under and started to laugh?
+F              Dm      F              C#
+What would you do if I chucked you outside
+   Bb           C              C#          Dm       C         C#
+To stand in the rain and catch cold so you die------ie--------ie?
+
+        F      Eb      C#          F        Eb      C#
+I'm the schoo--oo--ool bully.  The cla--ass roo-oom cheat.
+    F       Eb    C#             F      Eb    C#
+The na-aa-astiest playfriend you ev--er could meet.
+           F       Eb      C#          F        Eb      C#  
+I'll stick pi--ins in your fingers and tre--ead on your feet.
+
+
+			
+			Repeat CHORUS
+
+
+2ND VERSE:
+
+F       Dm        F            C#
+Maybe a cigarette butt on your arm
+      Bb            C           C#
+Would change your expression to one of alarm.
+F         Dm         F            C#
+Drag you around by a loch of your hair.
+   Bb         C           C#         Dm    C      C#
+Or give you a push at the top of the sta---aa-----air.
+        F     Eb      C#          F      Eb      C#
+I'm the scho--oo--ool bully.  The cla--asro--oom cheat.
+    F     Eb       C#             F    Eb    C#     
+The na--asti--iest playfriend you ever could meet.
+         F        Eb      C#          F         Eb      C#
+I'll put gla--ass in your dinner  and spi--ikes in your seat.
+
+
+	Repeat INTRO riff twice and end on C# chord
+
+
+
+-------------------------------------------------------------------------------
+
+                                
+
+				ACID QUEEN
+                                by The Who
+
+Names of chords may be wrong. Please feel free to correct.
+
+Chords used in song:   AII   Gadd13/B    F9    A7sus4    B7   EII
+                        5       3         3       3       5    x
+                        5       3         3       3       4    5
+                        2       0         2       0       4    4
+                        2       0         3       2       4    2
+                        0       2         x       0       x    2
+                        x       x         x       x       x    x
+
+
+INTRO:
+
+    Dsus2
+I-------0--------0--------0--I
+I----------3--------3--------I     Play twice
+I-------------2--------2-----I
+I---0------------------------I
+I----------------------------I
+I----------------------------I
+
+
+VERSE:
+
+If your child ain't all he should be now, this girl can put him right.
+	Dsus2                Dsus2/C             F       F/G     D
+   I----0-----0-----0-----I----0-----0--------I--1-------1-------2---I
+   I------3-----3---------I------3-----3------I--1-------1-------3---I
+   I--------2-----2-------I--------2-----2----I--2-------2-------2---I
+   I--0-------------------I-------------------I--3-------x-------0---I
+   I----------------------I--3----------------I--x-------2-----------I
+   I----------------------I-------------------I--x-------3-----------I
+
+I'll show him what he   could be now. 	     Just give me one night.
+      Dsus2	          Dsus2/C             F      Em7        A
+   I----0-----0-----0--I----0-----0--------I--1------0----------0---I
+   I------3-----3------I------3-----3------I--1------3----------2---I
+   I--------2-----2----I--------2-----2----I--2------0----------2---I
+   I--0----------------I-------------------I--3------2----------2---I
+   I-------------------I--3----------------I---------2----------0---I
+   I-------------------I-------------------I---------0--------------I
+	(Actually, Townshend plays two F chords at the end and the bass
+	changes the root, but if you only have one guitar, best results
+	playing it this way.)
+
+
+CHORUS:
+             A    D     AII            A      D      AII
+     I'm the gypsy,    the Acid Queen. Pay before we start.            
+	     A    D     AII              E         D     A
+     I'm the gypsy.    I'm guaranteed to tear your soul apart.
+
+
+VERSE:
+
+Dsus2            Dsus2/C          F        F/G  D
+Give us a room.  Close the door.  Leave us for awhile.
+     Dsus2          Dsus2/C       F          Em7   A   --> A7        A7
+Your boy won't be a boy no more.  Young, but not a child.            3
+                                                                     2
+		                                                     2
+			Repeat CHORUS                                2
+                                                                     0
+                                                                     x
+BRIDGE:
+
+Gadd13/B             A7sus4               F9             Cadd9    Gadd13/B
+Gather your wits and hold on fast.        Your mind must learn to roam.
+F9                Gadd13/B              E     D       A
+Just as the Gypsy Queen must do, you're gonna hit the road.
+
+       			A  ---> B
+
+VERSE:                                                                    G6
+        E                G6                    G          A     E         0   
+	My work is done. Now look at him. He's never been more alive.     0   
+            E                   G6              G         F#m  B          0   
+	His head it shakes, his fingers clutch. Watch his body writhe.    0   
+                                                                          2   
+                                                                          3
+
+2nd CHORUS:        
+
+	        B --> EII    B7          B7    EII     B               B7
+	I'm the gypsy,   the Acid Queen. Pay before we start.           5
+                B --> EII    B7            E          D      A          4
+	I'm the gypsy.   I'm guaranteed to break your little heart.     4
+                                                                        4
+                                                                        x
+                                                                        x
+ SOLO:
+
+e  I-------------------I-5-5-5-5-5-----I-5-5-5-5-5--------I----------------I
+b  I----------------5--I---------------I---------------3--I----------------I
+g  I---2-2-2-2-2-------I---------------I------------------I--2-2-2-2-2-----I
+
+e  I-------------------I-5-5-5-5-5-----I-5-5-5-5-5--------I----------------I
+b  I----------------3--I---------------I----------------1-I----------------I
+g  I---2-2-2-2-2-------I---------------I-------------2----I--2-2-2-2-2-----I
+
+                                       First time end with this
+I-------------------I-----------------I------------------I---------------I
+I--2-2-2-2-2-----3--I-5-5-5-5-5-------I-5-5-5-5-5------5-I--2-2-2-2-2----I
+I--0-0-0-0-0-----0--I-0-0-0-0-0-------I-0-0-0-0-0------0-I--0-0-0-0-0----I
+I--2-2-2-2-2-----4--I-5-5-5-5-5-------I-5-5-5-5-5------5-I--2-2-2-2-2----I
+I--0-0-0-0-0-----0--I-0-0-0-0-0-------I-0-0-0-0-0------0-I--0-0-0-0-0----I
+I-------------------I-----------------I------------------I---------------I
+
+                                       Second time play this
+                                      I------------------I----------------I
+                                      I-3-3-3-3-3-----/5-I--2-2-2-2-2-----I
+                                      I-0-0-0-0-0------0-I--0-0-0-0-0-----I
+                                      I-4-4-4-4-4-----/5-I--2-2-2-2-2-----I
+                                      I-0-0-0-0-0------0-I--0-0-0-0-0-----I
+                                      I------------------I----------------I
+
+Then play 	A    D --> AII
+		AII  D --> A
+                A    D --> AII
+                E    D     A
+
+
+		Then, repeat first VERSE and CHORUS.
+
+
+						
+						
+                                                  
+-------------------------------------------------------------------------------
+
+	UNDERTURE - A longer version of "Sparks"  (see above)
+
+-------------------------------------------------------------------------------
+
+							
+
+       		DO YOU THINK ITS ALRIGHT?/FIDDLE ABOUT
+        		      by The Who
+
+
+1) DO YOU THINK ITS ALRIGHT?	
+      
+VERSE:
+
+F                        Em
+Do you think its alright to leave the boy with Uncle Ernie?
+G                         Dm                      F
+Do you think its alright? He's had a few too many tonight.
+            Bb                        Ab
+I think its alright. Do you think its alright? 
+            Gmaj7
+I think its alright.
+
+
+2) FIDDLE ABOUT
+
+MAIN RIFF:
+
+   G5    F5    Eb5                     F5 G5
+I------------------------------------I-------------------------I
+I------------------------------------I-------------------------I
+I--12----10----8--10--12----10----8--I-------------------------I
+I--12----10----8--10--12----10----8--I--3---5----3---5----3--5-I
+I--10----8-----6--8---10----8-----6--I--3---5----3---5----3--5-I
+I------------------------------------I--1---3----1---3----1--3-I
+
+
+VERSE:
+         G5     D5    G5               G5        C5     Eb5
+I'm your wicked Uncle Ernie,  I'm glad you won't see or hear me
+     F5 -->  G5     F5 --> G5      F5 --> G5
+As I fiddle about,  fiddle about,  fiddle about.
+
+Your mother left me here to mind you. Now I'm doing what I want to.
+Fiddling about, fiddle about, fiddle about.
+
+
+BRIDGE:
+G5   F#5      F5           C5  C#5      D5
+Down with the bedclothes.  Up with your nightshirt.
+F5 --> G5     F5 --> G5     F5 --> G5
+Fidlle about, fiddle about, fiddle about.
+
+Repeat MAIN RIFF
+
+G5  F5    Eb5        G5     F5 Eb5
+You won't shout as I fiddle about.
+F5 --> G5     F5 --> G5     F5 --> G5
+Fiddle about, fiddle about, fiddle about.
+
+ 		Repeat last line a couple times. Then end with:
+
+F5      G5 --> F5   G5 --> F5
+Fiddle,    fiddle,    fiddle,     (etc...)
+
+
+-------------------------------------------------------------------------------
+
+					
+			PINBALL WIZARD
+			  by The Who
+
+
+	Here is as much as I've got for "Pinball Wizard" by the Who. This is 
+played on an acoustic (DUH). `e' stands for eighth notes, `s' for sixteenth, 
+`q' for quarter, `h' for half, and, yes, even `w' for whole notes. The rapid 
+strumming parts can be fairly improvised. The chords in the first 6 bars are 
+strummed at a speed so that you can almost hear each individual note. A slide 
+is indicated by a `/' for up and `\' for down. A period after a note value 
+means dotted. The chord parts are best played with your index finger on the B 
+string, middle on the G string (using pinky for pull-offs), and ring fringer 
+on the D string, with the thumb wrapping around and playing the low E string. 
+Sounds hard, but gets easier with practice.  
+
+
+  e e e e e e e e   e e e e e e e e   e e e e e e e e   e e e e e e e e
+E-2---------------|-0---------------|-0---------------|-0-------------------
+B-3---------------|-3---------------|-2---------------|-2-------------------
+G-4---------------|-4---------------|-4---------------|-3-------------------
+D-4-4-4-4-4-4-4-4-|-4-4-4-4-4-4-4-4-|-4-4-4-4-4-4-4-4-|-4-4-4-4-4-4-4-4-----
+A-----------------|-----------------|-----------------|---------------------
+E-----------------|-----------------|-----------------|--------------------- 
+
+
+  e e e e e e e e   e e e e e e e e   e e e e e e e e   e s s e s e s e e e
+E-0---------------|-0---------------|-----------------|---------------------
+B-2---------------|-0---------------|-0-0-0-0-0-0-0-0-|-2-2-2-2-2-2-2-2-2-2-
+G-2---------------|-0---------------|-4-4-4-4-4-4-4-4-|-3-3-3-3-3-3-3-3-3-3-
+D-4-4-4-4-4-4-4-4-|-4-4-4-4-4-4-4-4-|-5-5-5-5-5-5-5-5-|-4-4-4-4-4-4-4-4-4-4-
+A-----------------|-----------------|-----------------|---------------------
+E-----------------|-----------------|-----------------|---------------------
+
+
+  e s s e s e s e q   e s s e s e s e e s s   e s s e s e s e e s s
+E-------------------|-----------------------|------------------------------
+B-2-2-2-2-2-2-2-2---|-7-7-7-7-7-7-7-7-7-7-7-|-7-7-7-7-7-7-7-7-7-7-7--------
+G-3-3-3-3-3-3-3-3---|-9-9-9-9-9-9-9-9-9-9-9-|-8-8-8-8-8-8-8-8-8-8-8--------
+D-4-4-4-4-4-4-4-4-0-|-9-9-9-9-9-9-9-9-9-9-9-|-9-9-9-9-9-9-9-9-9-9-9--------
+A-------------------|-----------------------|------------------------------
+E-------------------|-7-7-7-7-7-7-7-7-7-7-7-|-7-7-7-7-7-7-7-7-7-7-7--------
+
+
+  e s s e s e s e e s s   e s s e s e s e e s s
+E-----------------------|-----------------------
+B-7-7-7-7-7-7-7-7-7-7-7-|-7-7-7-7-7-7-7-7-7-7-7-
+G-9-9-9-9-9-9-9-9-9-9-9-|-8-8-8-8-8-8-8-8-8-8-8-
+D-9-9-9-9-9-9-9-9-9-9-9-|-9-9-9-9-9-9-9-9-9-9-9-
+A-----------------------|-----------------------
+E-7-7-7-7-7-7-7-7-7-7-7-|-7-7-7-7-7-7-7-7-7-7-7-  
+							
+
+  e s s e s e s e e s s   e s s e s e s e e s s
+E-----------------------|-----------------------
+B-7-7-7-7-7-7-7-7-7-7-7-|-7-7-7-7-7-7-7-7-7-7-7-
+G-9-9-9-9-9-9-9-9-9-9-9-|-8-8-8-8-8-8-8-8-8-8-8-
+D-9-9-9-9-9-9-9-9-9-9-9-|-9-9-9-9-9-9-9-9-9-9-9-
+A-----------------------|-----------------------
+E-7-7-7-7-7-7-7-7-7-7-7-|-7-7-7-7-7-7-7-7-7-7-7-
+
+||Electric guitar (play so that second notes sound on first beat of bar)
+E-----------------------|-------------------------------------------------
+B-----------------------|-------------------------------------------------
+G-----------------------|-------------------------------------------------
+D-7/9-------------------|-------------------------------------------------
+A-----------------------|-------------------------------------------------
+E-5/7-------------------|-------------------------------------------------  
+
+
+  e s s e s e s e e s s   e s s e s e s e e s s
+E-----------------------|-----------------------
+B-7-7-7-7-7-7-7-7-7-7-7-|-7-7-7-7-7-7-7-7-7-7-7-
+G-9-9-9-9-9-9-9-9-9-9-9-|-8-8-8-8-8-8-8-8-8-8-8-
+D-9-9-9-9-9-9-9-9-9-9-9-|-9-9-9-9-9-9-9-9-9-9-9-
+A-----------------------|-----------------------
+E-7-7-7-7-7-7-7-7-7-7-7-|-7-7-7-7-7-7-7-7-7-7-7-
+
+
+||Electric
+E-----------------------:-----------------------
+B-----------------------|-----------------------
+G-----------------------|-----------------------
+D-7/9-------------------|-----------------------
+A-----------------------|-----------------------
+E-5/7-------------------|-----------------------
+
+
+"Ever since I was a young boy      I played the silver ball.
+  e s s e s e s e e s s           e s s e s e s e e s s
+E-------------------------------|-----------------------------------------
+B---7-7-7-7-7-7-7-7-7-7---------|-7-7-7-7-7-7-7-7-7-7-7-------------------
+G-9-9-9-9-9-9-9-9-9-9-9---------|-8-8-8-8-8-8-8-8-8-8-8-------------------
+D-9-9-9-9-9-9-9-9-9-9-9---------|-9-9-9-9-9-9-9-9-9-9-9-------------------
+A-------------------------------|-----------------------------------------
+E-7-7-7-7-7-7-7-7-7-7-7---------|-7-7-7-7-7-7-7-7-7-7-7-------------------
+
+||Electric
+E-------------------------------|-----------------------------------------
+B-------------------------------|-----------------------------------------
+G-------------------------------|-----------------------------------------
+D-7/9---------------------------|-----------------------------------------
+A-------------------------------|-----------------------------------------
+E-5/7---------------------------|-----------------------------------------
+
+
+
+"From Soho down to Brighton    I must have played them all.
+  e s s e s e s e e s s        e s s e s e s e e s s
+E----------------------------|--------------------------------------------
+B-5-5-5-5-5-5-5-5-5-5-5------|-5-5-5-5-5-5-5-5-5-5-5----------------------
+G-7-7-7-7-7-7-7-7-7-7-7------|-6-6-6-6-6-6-6-6-6-6-6----------------------
+D-7-7-7-7-7-7-7-7-7-7-7------|-7-7-7-7-7-7-7-7-7-7-7----------------------
+A----------------------------|--------------------------------------------
+E-5-5-5-5-5-5-5-5-5-5-5------|-5-5-5-5-5-5-5-5-5-5-5----------------------
+
+||Electric
+E----------------------------|--------------------------------------------
+B----------------------------|--------------------------------------------
+G----------------------------|--------------------------------------------
+D-5/7------------------------|--------------------------------------------
+A----------------------------|--------------------------------------------
+E-3/5------------------------|--------------------------------------------
+
+
+"But I ain't seen nothin' like him      in any amusement hall.
+  e s s e s e s e e s s                e s s e s e s e e s s
+E------------------------------------|------------------------------------
+B-3-3-3-3-3-3-3-3-3-3-3--------------|-3-3-3-3-3-3-3-3-3-3-3--------------
+G-5-5-5-5-5-5-5-5-5-5-5--------------|-4-4-4-4-4-4-4-4-4-4-4--------------
+D-5-5-5-5-5-5-5-5-5-5-5--------------|-5-5-5-5-5-5-5-5-5-5-5--------------
+A------------------------------------|------------------------------------
+E-3-3-3-3-3-3-3-3-3-3-3--------------|-3-3-3-3-3-3-3-3-3-3-3--------------
+
+||Electric
+E------------------------------------|------------------------------------
+B------------------------------------|------------------------------------
+G------------------------------------|------------------------------------
+D-3/5--------------------------------|------------------------------------
+A------------------------------------|------------------------------------
+E-1/3--------------------------------|------------------------------------
+
+
+
+"That deaf, dumb, and blind boy    sure plays a mean pin-
+  e s s e s e s e e s s            w
+E--------------------------------|----------------------------------------
+B-2-2-2-2-2-2-2-2-2-2-2----------|-2--------------------------------------
+G-4-4-4-4-4-4-4-4-4-4-4----------|-3--------------------------------------
+D-4-4-4-4-4-4-4-4-4-4-4----------|-4--------------------------------------
+A--------------------------------|----------------------------------------
+E-2-2-2-2-2-2-2-2-2-2-2----------|-2--------------------------------------
+
+||Electric                         w
+E--------------------------------|----------------------------------------
+B--------------------------------|----------------------------------------
+G--------------------------------|----------------------------------------
+D-2/4----------------------------|-4--------------------------------------
+A--------------------------------|-4--------------------------------------
+E-0/2----------------------------|-2---------------------------------------
+
+"Ball.  
+  e q q q e   q e. s e e q   e q q q e   q e. s e e q
+E-------2---|-0-0--0-0-0-0-|-------2---|-0-0--0-0-0-0------------------------
+B-4-4-2-3---|-0-0--0-0-0-0-|-4-4-2-3---|-0-0--0-0-0-0------------------------
+G-4-4-2-2---|-1-1--1-1-1-1-|-4-4-2-2---|-1-1--1-1-1-1------------------------
+D-4-4-2-0---|-2-2--2-2-2-2-|-4-4-2-0---|-2-2--2-2-2-2------------------------
+A-2-2-0---0-|-2-2--2-2-2-2-|-2-2-0---0-|-2-2--2-2-2-2------------------------
+E-----------|-0-0--0-0-0-0-|-----------|-0-0--0-0-0-0------------------------
+
+||Electric
+| e q q q e   w              e q q q e   w
+E-----------|--------------|-----------|------------------------------------
+B-------3---|--------------|-------3---|------------------------------------
+G-4-4-2-2---|--------------|-4-4-2-2---|------------------------------------
+D-4-4-2-0-2-|-2------------|-4-4-2-0-2-|-2----------------------------------
+A-2-2-0---0-|-2------------|-2-2-0---0-|-2----------------------------------
+E-----------|-0------------|-----------|-0----------------------------------
+
+
+Repeat verse
+
+"Pinball wizard, there     has to be a twist.   Pinball wizard's got  
+  q q e q.                q q e q.              q q e q.
+E-0-2-------------------|-0-2-----------------|-0-2------------------------
+B-0-2-4-4---------------|-0-2-4-4-------------|-0-2-4-4--------------------
+G-1-3-4-4---------------|-1-3-4-4-------------|-1-3-4-4--------------------
+D-2-4-4-4---------------|-2-4-4-4-------------|-2-4-4-4--------------------
+A-2-4-2-2---------------|-2-4-2-2-------------|-2-4-2-2--------------------
+E-0-2-------------------|-0-2-----------------|-0-2------------------------
+
+||Electric
+| q q e q.                q q e q.              q q e q.
+E-----------------------|---------------------|----------------------------
+B-----------------------|---------------------|----------------------------
+G-----4-4---------------|-----4-4-------------|-----4-4--------------------
+D-2-4-4-4---------------|-----4-4-------------|-----4-4--------------------
+A-2-4-2-2---------------|-2-4-2-2-------------|-2-4-2-2--------------------
+E-0-2-------------------|-0-2-----------------|-0-2------------------------
+
+
+
+"Such a supple     wrist.
+  q q q q         e e e q q e   q e. s e e q
+E-2-2-2-2-------|-0-0-0-0-0-0-|-0-0--0-0-0-0--------------------------------
+B-3-3-3-3-------|-2-2-2-3-0-0-|-2-2--2-2-2-2--------------------------------
+G-2-2-2-2-------|-2-2-2-2-2-2-|-2-2--2-2-2-2--------------------------------
+D-0-0-0-0-------|-2-2-2-2-2-2-|-2-2--2-2-2-2--------------------------------
+A---------------|-0-0-0-0-0-0-|-0-0--0-0-0-0--------------------------------
+E---------------|-------------|---------------------------------------------
+
+||Electric
+| w               w
+E---------------|-------------|--------------------------------------------
+B-3-------------|-------------|--------------------------------------------
+G-2-------------|-2-----------|--------------------------------------------
+D-0-------------|-2-----------|--------------------------------------------
+A---------------|-0-----------|--------------------------------------------
+E---------------|-------------|--------------------------------------------
+
+
+
+"How do you think he     does it? (I don't know)
+  e e e q e e e          e e e q e e e
+E-0-0-0-3-3-3-3--------|-0-0-0-3-3-3-3------------------------------------
+B-2-2-2-3-3-3-3--------|-2-2-2-3-3-3-3------------------------------------
+G-2-2-2-0-0-0-0--------|-2-2-2-0-0-0-0------------------------------------
+D-2-2-2-0-0-0-0--------|-2-2-2-0-0-0-0------------------------------------
+A-0-0-0-2-2-2-2--------|-0-0-0-2-2-2-2------------------------------------
+E-------3-3-3-3--------|-------3-3-3-3------------------------------------
+
+||Electric
+| q. h e                 q. h e
+E----------------------|--------------------------------------------------
+B----------------------|--------------------------------------------------
+G-2--------------------|-2------------------------------------------------
+D-2--5-5---------------|-2--5-5-------------------------------------------
+A-0--5-5---------------|-0--5-5-------------------------------------------
+E----3-3---------------|----3-3-------------------------------------------
+
+
+Repeat with "What makes him so good?" Repeat verse. Repeat chorus.  Then, 
+because I'm way too sick of doing this to elaborate any more, do the verse 
+section again, but move everything up 3 frets (i.e. add 3 to all of the
+numbers). I can't yet play the bit at the end, but I'm trying. Anyway, that's
+the song. I hope that somebody gets some kind of use out of it, or I'm really
+stupid for wasting this much time and energy. But classes are over, so what do
+I care? HA!
+
+
+							Marc Hirsh
+ 
+
+	Mike's note: the end is just Pete playing around with a Bb7 chord (and
+some suspensions)   
+ 
+                        Bb7
+                         1
+                         3
+                         1
+                         3
+                         1
+                         x
+
+
+
+
+-------------------------------------------------------------------------------
+
+
+		THERE'S A DOCTOR I'VE FOUND/ GO TO THE MIRROR BOY
+			 	by The Who
+
+
+1) THERE'S A DOCTOR I'VE FOUND
+
+
+MAIN RIFF:
+
+I---------------------------I
+I---------------------------I
+I--7--7x--5--5x--3--3x--2---I
+I--8--8x--7--7x--5--5x--3---I
+I---------------------------I
+I---------------------------I
+
+
+VERSE:
+
+          Bb       F            Eb           Bb
+There's a man I've found, could bring us all joy.
+          (MAIN RIFF) 
+There's a doctor I've found could cure the boy
+   (MAIN RIFF)
+(A doctor I've found could cure the boy).
+
+
+         Bb        F           Eb         Bb
+There's a man I've found could remove his sorrow.
+   (MAIN RIFF)
+He lives in this town. Let's see him tomorrow.
+(MAIN RIFF)
+(Let's see him tomorrow.)
+
+
+
+
+2) GO TO THE MIRROR BOY
+                  	
+
+MAIN RIFF:
+
+ E5             B5   A5
+I-------------------------I
+I-------------------------I
+I-------------------------I
+I---------------4-4-4-2-2-I
+I-2-2-2-2-2-----2-2-2-0-0-I
+I-0-0-0-0-0---------------I
+
+
+VERSE:
+E5             B5         A5  E5   B5 --> A5
+He seems to be completely unreceptive. 
+E5                   B5      A5        E5   B5 --> A5
+The tests I gave him show no sense at all.
+    Ab                            C#m       C#m-->B
+His eyes react to light the dials detected.
+   A                               B
+He hears but cannot answer to your call.
+
+
+BRIDGE 1:
+
+   See me       Feel me        Touch me         Heal me
+   Ebmaj7        Fsus --> F    Fsus --> F       G
+I--------------I-------------I----------------I--------------I
+I--------------I-------------I----------------I--------------I
+I--------------I-------------I----------------I--------------I
+I-----------8--I--7-------5--I--3-------------I--------------I
+I----6---------I-------------I-------------3--I--------------I
+I--------------I-------------I----------------I--3-----------I
+
+    See me        Feel me      Touch me          Heal me
+    Ebmaj7        Fsus --> F    Fsus --> F      Em
+I--------------I-------------I----------------I------2-------I This last
+I--------------I-------------I----------------I------3-------I chord Pete hits
+I--------------I-------------I----------------I------4-------I is hard to make
+I-----------8--I--7-------5--I--3-------------I--------------I out. I think
+I----6---------I-------------I-------------3--I--------------I he's playing a
+I--------------I-------------I----------------I--0-----------I Bm under the
+                                                               Em chord.
+         B7sus4 --> B
+
+E5                     B5  A5  E5         B5 A5
+There is no chance for untried operations.
+E5                 B5      A5        E5   B5  A5
+All hope lies with him and none with me.
+Ab                              C#m      C#m --> B -->
+Imagine, though, the shock from isolation
+A                                       B
+When he suddenly can hear and speak and see. 
+
+	Repeat BRIDGE 1
+
+His eyes can see, his ears can hear, his lips speak.
+All the time the needles click and rock.
+No machine can give the kind of stimulation
+Needed to remove his inner block.
+
+
+CHORUS:
+
+   Go to the mirror boy.
+   B5
+I------------------------I------------------------------I
+I------------------------I------------------------------I  Play this riff 
+I---4---4--4--4----4--4--I---4--4--4--4--4--4--4--4--4--I  twice.
+I---4---4--4--4----4--4--I---4--4--4--4--4--4--4--4--4--I
+I---2---0--0--0----2--2--I---2--x--0--1--2--x--0--1--2--I
+I------------------------I------2-----------2-----------I
+
+
+I often wonder what he is feeling.
+Has he ever heard a word I've said.
+Look at him in the mirror dreamin'.
+What is happening in his head.
+
+
+BRIDGE 2:
+             A    B         C                 A    B         E
+Listening to you, I get the music.  Gazing at you, I get the heat.
+          A    B           C                 G         D       B
+Following you, I climb the mountain.  I get excitement at your feet.
+             A    B         C             A    B         E
+Right behind you, I see the millions.  On you, I see the glory.
+     A    B     C               G    D         B
+>From you, I get opinions.  From you, I get the story.
+
+
+Ab                       C#m --> B
+What is happening in his head?
+A             B      B7sus4
+Ooh, I wish I knew.  I wish I knew.
+
+	Repeat main riff and end on E.
+
+
+-------------------------------------------------------------------------------
+
+
+		   TOMMY CAN YOU HEAR ME
+
+			by The Who
+
+G             C --> G
+Tommy can you hear me?
+G               C --> G
+Can you feel me near you?
+F             Bb --> F
+Tommy can you see me?
+Em            Am--> Em
+Can I help to cheer you?
+     D
+Ooh, Tommy. 
+
+
+                   		
+-------------------------------------------------------------------------------
+
+
+				SMASH THE MIRROR
+				   by The Who
+
+INTRO:
+ drum intro    ^1/2
+I---------------8-I------------------------I-------------------------I	
+I---------------8-I------------------------I-----8----6----4----3--1-I
+I-----------------I------------------------I-------------------------I
+I-----------------I---------------1--1--3--I--/8---/6---/5----3------I
+I-----------------I----------1h3-----------I-------------------------I
+I-----------------I---1--------------------I-------------------------I
+
+  				^w   ^w/\
+I---------------------------I------------------------I
+I---------------------------I------------------------I
+I---------------------------I---3-3-3-3--3-3-3-3-1---I
+I---------------1-----1--3--I----------------------3-I
+I----------1h3-----3--------I------------------------I
+I---1-----------------------I------------------------I
+
+
+VERSE:
+                                         
+  You don't answer my call with even a nod or a wink, but you
+
+	     F				Gm7
+	I----1-----------------------I--1------------------I
+	I----1-----------------------I--3------------------I
+	I----2-----------------------I--3------------------I
+	I----3-------------1x--1--3--I--3------------------I Parenthesis is
+	I-------------1h3------------I---------------------I implied bass note,
+	I----------------------------I-(3)-----------------I even though Pete
+                                                             is playing Bb.
+   	  Gaze at your own reflection all night
+
+            C                     Eb
+	I---------------------I---------------------------I
+        I---5-----------------I-----8--8----------9-----8-I
+        I---5-----------------I---------------------------I
+        I---5-----------------I---8-------8-8-8h10--10--8-I
+        I---3-----------------I---------------------------I
+	I---------------------I---------------------------I
+
+		  F				     Gm7
+	You don't seem to see me but I think you can see yourself.
+        C                    Eb
+	How can the mirror affect you?
+
+                               I-------------I-------------I
+                               I-------------I-------------I
+                               I-------------I-------------I
+	                       I------5-6-5--I------5-6-5--I
+                               I---6---------I---6---------I
+                               I-------------I-------------I
+
+	Bb	F	 Bb	    F	
+	Can you hear me, or do I surmise. 
+	Bb	 F		          Bb
+	That you fear me, can you feel my temper...
+
+B     C     C#    D     Eb    E     F     F#    G     Ab    A     Bb    B
+Rise, rise, rise, rise, rise, rise, rise, rise, rise, rise, rise, rise, rise.
+
+      Do you hear or fear, or do I smash the mirror?
+
+      B              				C#
+   I-------------------------------------I   I--------------------------------I
+6  I-------------------------------------I 4 I----------6-6----------7---6----I
+-  I-------------------------------------I - I------------------------------6-I
+4  I---------------2--3----2---------2---I 4 I-------6-------6-6-6h8--8-----6-I
+   I---2----------------------2----------I   I--4-----------------------------I
+   I-------------------------------------I   I--------------------------------I
+
+	Repeat for last line and end on C#
+
+
+-------------------------------------------------------------------------------
+						
+
+				SENSATION
+                                by The Who
+
+MAIN RIFF: (Behind vocals)
+
+   D            Dsus4
+I-----2---------3------I
+I--------3------3------I
+I-----------2---2------I
+I--0------------0------I
+I----------------------I
+I----------------------I
+
+
+VERSE:
+
+  D    Dsus4   D   Dsus4
+I overwhelm as I approach you
+ D        Dsus4      D
+Make your lungs hold breath inside
+                             	  C     C/B    C/A    C/B   C
+			      I----------------------------------I
+                              I----------------------------------I
+                              I-------0-----0-----0-----0-----0--I
+                              I-----2-----2-----2-----2-----2----I
+                              I---3-----2-----0-----2-----3------I
+                              I----------------------------------I
+                                On the record horns play this and
+                                an octave higher, but this is the 
+			        way I play it.
+
+
+D       Dsus4   D      Dsus4   D      Dsus4       D         
+Lover's break caresses for me. Love enhanced when I've gone by.
+
+    C     C/B    C/A    C/G   ---> A
+I---------------------------I
+I---------------------------I
+I-------0-----0-----0-----0-I
+I-----2-----2-----2-----2---I
+I---3-----2-----0-----------I
+I---------------------3-----I
+
+
+CHORUS:
+
+       A              A --> D  A            A --> D
+You'll feel me coming.      A new vibration.
+     A                A --> D   E                 A
+>From afar you'll see me.        I'm a sensation.  I'm a sensation.
+
+
+VERSE 2:
+D            Dsus4  D     Dsus4 
+They worship me and all I touch.
+D    Dsus4      D        C - C/B - C/A - C/B - C
+Hazy-eyed, they catch my glance.
+D        Dsus4    D           Dsus4
+Pleasant shudders shake their senses.
+   D    Dsus4    D            C - C/B - C/A - C/G - A
+My warm momentum throws their stance.
+
+			Repeat CHORUS
+
+BRIDGE:
+
+	F#                    C#                   D
+	Soon you'll see me.   Can't you feel me?   I'm coming.
+	F#                             C#                D
+	Send your troubles dancing,  I know the answer.  I'm coming.
+	    E         A
+	I'm coming.   I'm a sensation.
+
+
+LAST VERSE:
+
+  E       Asus2    E      Asus2
+I leave a trail of rooted people
+E     Asus2   E
+Mesmerized by just the sight.
+		           D     D/C#   D/B   D/C#   D
+                       I---------------------------------I
+                       I---------------------------------I  Same riff as before
+                       I-------2-----2-----2-----2-----2-I  except now in D.
+                       I-----4-----4-----4-----4-----4---I  Barre 2nd fret and
+                       I---5-----4-----2-----4-----5-----I  manipulate pinkie
+                       I---------------------------------I  and ring finger.
+
+E            Asus2       E      Asus2
+The few I've touched now are disciples.
+E      Asus2  E      D - D/C# - D/B - D/C - D - D/C# - D/B - D/C#  etc...
+All is one. I am the light.
+
+
+								
+-------------------------------------------------------------------------------
+
+
+	     		MIRACLE CURE/ SALLY SIMPSON
+				by The Who
+
+1) MIRACLE CURE
+        F          G          Ab
+	Ex - tra,  ex - tra,  read all about it!
+            Eb                     Bb
+	The pinball wizard and the miracle cure.
+        F          G          Ab                  Bb -> F
+	Ex - tra,  ex - tra,  read all about it.  Ex - tra!
+
+
+
+2) SALLY SIMPSON
+
+INTRO: 		
+	C  --> G     C --> G
+
+VERSE:
+
+C		      G-7                    C                        G-7
+Outside the house Mr. Simpson announced that Sally couldn't go to the meeting.
+   C                    G-7                   C                G-7
+He went on cleaning his blue Rolls Royce, and she ran inside a-weeping.
+    C                   G-7                        C            G-7
+She got to her room and tears splashed the picture of her new messiah.
+    C                       G-7               C               G-7
+She picked up a book of her father's life and threw it on the fire.
+
+
+CHORUS:
+    F        
+She knew from the start, deep down in her heart.
+                   G
+She and Tommy were worlds apart.
+        F                  C                     D              G
+But her mother said "Never mind. Your part is to be what you'll be."
+
+
+The theme of the sermon was "Come unto me and love will find a way."
+So Sally decided to ignore her dad and sneak off anyway.
+She spent all afternoon getting ready and decided she'd try to touch him.
+Maybe he'd see that she was free and talk to her this Sunday.
+
+			Repeat CHORUS
+
+She arrived at six and the place was swingin' to Gospel music by nine.
+Group after group appeared on the stage and Sally just sat there cryin'.
+She sttod there looking pretty as a picture right in the very front row.
+Then a D.J wearin' a blazer with a badge ran on and said "Here we go!"
+
+
+BRIDGE:
+
+    D-7        G         D-7          G
+The crowd went crazy as Tommy hit the stage.
+       D-7                   Em                A               D
+Little Sally got lost as the police forced the crowd back in a rage.
+
+
+Soon the atmosphere was cooler and Tommy gave a lesson.
+Sally just had to let him know she loved him and leapt up on the rostrum.
+She ran across the stage to the spotlit figure and brushed him on the face.
+Tommy whirled round as a uniformed man threw her off the stage.
+
+			Repeat CHORUS
+
+Her cheek hit a chair and blood trickled down, mingling with her tears.
+Tommy carried on preaching and his voice filled Sally's ears.
+She caught his eye. She had to try, but he couldn't see through the lights.
+Her face was gashed and the ambulance man had to carry her out that night.
+
+
+BRIDGE 2:
+    D-7        G        D-7            G
+The crowd went crazy as Tommy left the stage.
+       D-7                    Em                     A               D
+Little Sally was lost for the price of a touch and a gash across her face.
+
+Ooooh.
+
+
+Sixteen stiches put her right and her dad said "Don't say I didn't warn you!"
+Sally got married to a rock musician she met in California.
+Tommy always talks about the day the disciples all went wild.
+Sally still carries a scar on her cheek to remind her of his smile.
+
+			Repeat CHORUS
+
+
+-------------------------------------------------------------------------------
+
+
+                                                                   
+				I'M FREE
+			        by The Who
+
+INTRO:
+	E5      G5      A5            F#5    A     B    (Play twice)
+
+
+CHORUS:
+            E5-> G5-> A5   F#5 -> A5 -> B5   E5 -> G5 -> A5   F#5 -> A5 -> B5
+	I'm free.         		     I'm free.
+            G       A         D
+	And freedom tastes of reality.
+            E G A, F# A B          E G A, F# A B
+	I'm free.              I'm free.
+                G           A             B
+	And I'm waiting for you to follow me.
+
+
+VERSE:
+     Bm                 
+If I told you what it takes to reach the highest high
+      G              A              D
+You'd laugh and say "Nothing's that simple."
+    Bm 
+But you've been told many times before, Messiahs pointed to the door
+G              A                 B
+No one had the guts to leave the temple.
+
+
+CHORUS:
+	I'm free. I'm free. And freedom tastes of reality.
+
+
+SOLO:
+
+I----------------------------------------------------------------I
+I----10------10-------12------12------12-10------10--------8--7--I
+I-------12------12-------12------12---------11------11-----9--7--I
+I--0-------0-------0--------0-------0----------0-------0---0--0--I
+I----------------------------------------------------------------I           
+I----------------------------------------------------------------I
+
+I-------0----0-----2-----0--0------------------I
+I-------1----1--1--1-1---1--1------------------I
+I---0h2---------2--2---2-------2-0-0x--0-------I
+I---0--------------0----------------------2--0-I
+I----------------------------------------------I
+I----------------------------------------------I
+
+I------------------------------------------------I
+I------------------------------------------------I
+I------------------------------------------------I
+I--0--3-0x-0-0-0-------0-----0--0-0--------------I
+I----------------3-3-3---2----------2--0x--0-0-0-I
+I------------------------------------------------I
+
+I----------------------------I-----2---3---3---5---5---3---3---I
+I----------------------------I-----3---3---3---5---5---3---3---I
+I----------------------------I-----2---4---4---5---5---4---4---I
+I-------------------0-0-0-0--I-----0---0---0---0---0---0---0---I
+I------------------/5-5-5-5--I---------------------------------I
+I-3x----3x----3x-------------I---------------------------------I
+  ^1/2  ^1/2  ^1/2
+
+I----3-------3-------3-------I----------2--------0---------------I
+I------0---0---0---0---0---0-I----------0--0-----0------3--------I
+I--------5-------5-------5---I--0---0h2-------0-----0---2--------I
+I--0-------------------------I-----------------------------------I
+I----------------------------I-----------------------------------I
+I----------------------------I-----------------------------------I
+
+I------------------------------------2x---I
+I------------------------------------3x---I
+I------2-2-----2-2-----2-2-----2-2---2x---I
+I------0-0-----0-0-----0-0-----0-0---0x---I
+I---3-------3-------3-------3-------------I
+I-----------------------------------------I
+
+
+CHORUS:
+E G A,  F#m A B          E G A,  F#m A B
+I'm free.  	  	 I'm free.  
+        G           A             B
+And I'm waiting for you to follow me.
+
+
+Bsus --> B    Bsus --> B    Bsus --> B
+                            How can we follow.  
+                            Bsus --> B   --> Bb   A    Ab    G    F#
+			    How can we follow.
+
+
+
+-------------------------------------------------------------------------------
+
+
+
+				WELCOME
+			       by The Who
+
+INTRO:
+
+I-------7-----7--I
+I-----8-----8----I   Play four times.
+I---7-----7------I
+I----------------I
+I----------------I
+I----------------I
+
+
+MAIN RIFF:
+
+	Townshend has a couple of guitars going. I'm assuming you have one.
+
+
+    G         D7           G        D7
+I---3----3----2--3--5---I---3--2--0--2---I
+I---0----0----1---------I---0--------1---I   The riff is a bit tricky.
+I---0----0----2---------I---0--------2---I
+I---0----0----0---------I---0--------0---I   It gets easier with practice.
+I---2-------------------I---2------------I
+I---3-------------------I---3------------I
+
+
+
+VERSE:
+
+G            D7    G             D7         (MAIN RIFF)
+Come to this house. Be one of the comfortable people.
+G             D7         G                   D7       (MAIN RIFF)
+Lovely bright home. We're drinking all night, never sleeping.
+Em      Bm        Em      Bm
+Milkman come in,  and you baker.
+Em              Bm          Em
+Little old lady welcome and you, shoemaker.
+
+
+CHORUS 1:
+
+    Come to this house.             Into this hou------------se.
+    G                   F  Bb      F                         C
+I---3---------------------------I-------------------------------I
+I---0---------------------------I----------------------------5--I
+I---0---------------------------I----------------------------5--I
+I---0----------------------3-3--I--3-------------------------5--I
+I---2-------------------3--1-0--I--3-------------------------3--I
+I---3-------------------1-------I--1----------------------------I
+
+
+G            D7    G    D7       (MAIN RIFF)
+Come to this house.      Be one of us.
+     G         D7   G   D7       (MAIN RIFF)
+Come into this house,    Be one of us.
+Em      Bm      Em        Bm 
+You can help collect some more in.
+Em            Bm            Em
+Young and old people, let's get them all in.
+
+
+CHORUS 2:
+
+   Come to this house.            Into this hous----se.
+   A                   A/G        D              D/C       G/B         E
+I------------------------------I------------------------I--------------0---I
+I------------------------------I--3----------------3----I---3----------0---I
+I--2---------------------------I--2----------------2----I---0----------1---I
+I--2---------------------------I--0----------------0----I---0----------2---I
+I--0---------------------3--2--I-------------------3----I---2----------2---I
+I----------------------3-------I------------------------I--------------0---I
+
+BRIDGE:
+	
+	Play this riff eight times. Actually, after the first time, Pete plays
+Em, not E. Listen to the record.
+
+          E         D/E            E          F
+I------------------------I------------------------I
+I---------9x--9--9---7---I---------9x--9--9---10--I
+I---------9x--9--9---7---I---------9x--9--9---10--I
+I---------9x--9--9---7---I---------9x--9--9---10--I
+I---------7x--7--7---7---I---------7x--7--7---8---I
+I---0--0-----------------I---0--0-----------------I
+
+
+	After eight times, play E chord
+
+
+	E                                             D --> E
+	Ask along that man who's wearing a carnation.
+        E                                              D --> E
+	Bring every single person from Victoria station.
+	E                                                      D --> E
+	Go into that hospital and bring the nurses and patients.
+        E                                          
+	Everyone go home and fetch their relations.
+
+A            E      A             E                  (MAIN RIFF 2 frets higher)
+Come to this house, be one of the comfortable people.
+A             E           A                   E          
+Lovely bright home, we're drinking all night, never sleeping.
+
+
+INTERLUDE:
+                 D         D/C          D           D/C
+	(Spoken) Excuse me sir, there's more at the door.
+                D           C      
+	There's more at the door.  (Play seven times)
+               D            C     D       E
+	There's more at the door, there's more.
+
+Em      B7              Em       B7
+We need more room. 	Build an extension.
+  Em       B7       Em         B7
+A colorful palace.  Spare no expense now.
+
+G            D7      G    D7         (MAIN RIFF)
+Come to this house,        be one of us.
+G              D7     G   D7          (MAIN RIFF)     
+Come into this house,      be one of us.
+
+Em --> Bm       Em --> Bm         Em --> Bm        Em --> Bm
+
+		
+			Repeat  CHORUS 2
+         			
+			End with     E!
+
+Piano plays a Ab mixolydian scale up a couple octaves. Here's part of it on
+guitar.
+
+I-----------------------------------------8--9--11--I
+I-------------------------------8--9--11------------I  Or something
+I------------------------8--11----------------------I  like this
+I-----------------8--10-----------------------------I
+I----------9--11------------------------------------I  (My scales aren't
+I---8--11-------------------------------------------I   good)
+
+
+(Welcome.)
+
+
+-----------------------------------------------------------------------------------
+
+
+			TOMMY'S HOLIDAY CAMP
+			     by The Who
+
+
+
+Here's how I play this song.  Even though the original is banjo and
+caliopy (spelling?), it works pretty well.
+
+-----------------------
+------------4----------
+4---5-6---7-----7-6---5
+-------------------
+-----------------------
+-----------------------
+
+intro:  pluck to get banjo sound.  repeat 3 times
+
+
+(No chord)
+Good morning campers
+
+
+E (4th fret)               F (5th fret)                   B7 (7th fret)
+
+I'm your Uncle Ernie and I welcome you to Tommy's Holiday camp 
+
+--7----7----7----7---------
+--7----7----7----7---------
+--8----8----8----8---------
+7---------7----------------
+-----9---------9-----------
+---------------------------
+
+This is for the B7 (7th fret)
+
+
+
+
+B7 (7th fret)
+
+The camp with the difference, never mind the weather 
+When you come to Tommy's, the holiday's forever
+
+
+repeat intro except last note is B on E string (7th fret)
+
+
+repeat "camp with a difference" part
+
+
+Ending:
+
+5---4---2---0---5---4---2---0-
+---------------------------------3-
+------------------------------
+------------------------------  Welcome.....
+------------------------------
+------------------------------
+
+
+------------------------------------------------------------------------------
+
+
+
+			WE'RE NOT GONNA TAKE IT
+                             by The Who
+
+
+INTRO:
+            G   --->  Cadd9            G  --->  Cadd9
+
+
+VERSE:
+
+G              Cadd9                                G  
+Welcome to the camp, I guess you all know why we're here.
+F                       Em
+My name is Tommy, and I became aware this year
+Eb                               G
+If you want to follow me, you've got to play pinball.
+    C           G         C           G
+And put in your earplugs, put on your eyeshades.
+    C                     G       G / / F G
+You know where to put the cork.
+ 
+
+Hey you gettin' drunk, so sorry, I've got you sussed.
+Hey you smokin' mother nature, this is a bust.
+Hey hung up ol' Mr. Normal, don't try to gain my trust
+Cause you ain't gonna follow me any of those ways
+Although you think you must.
+
+
+
+CHORUS:
+G     /   /     /    /      At end of phrase, Pete plays:
+We're not gonna take it.           C
+                               I----------------------I
+                               I----------------------I
+                               I----------------------I
+                               I-------2-2-0-2h3---2--I
+                               I---3-3----------------I
+                               I----------------------I
+
+C               G              F       C     G
+We're not gonna take it. Never did and never will.
+C               G              F               C
+We're not gonna take it. Gonna break it, gonna shake it.
+      Bb        Am     G
+Let's forget it better still.
+
+
+VERSE 3:
+
+Now you can't hear me, your ears are truly sealed.
+You can't speak either, cause your mouth is filled.
+You can't hear nothing, and pinball completes the scene.
+Here comes Uncle Ernie to guide you to your very own machine.
+
+			
+CHORUS:
+
+C                    G         F       C     G
+We're not gonna take it, never did and never will.
+C               G              F      C      G
+Don't want no religion, and as far as we can tell
+C              G               F       C     G
+We ain't gonna take you. Never did and never will.
+C               G            F                  C
+We're not gonna take you. We forsake you. Gonna rape you.
+      Bb         Am     G
+Let's forget you better still.
+
+
+   F                  C
+We forsake you. Gonna rape you. 
+         Bb      Am     A
+Let's forget you better still.
+
+			
+			E/D  --->  D      E/D  --->  D
+
+
+(See me, feel me)
+
+Ebmaj7     Fsus --> F    Fsus --> F    G
+See me.    Feel me.      Touch me.     Heal me.   (play 3 times)
+Ebmaj7     Fsus --> F    Fsus --> F    Em
+See me.    Feel me.      Touch me.     Heal me.
+
+
+			Em --> Bsus 
+
+
+(Listening to you)
+
+             A    B         C
+Listening to you, I get the music.
+          A    B         E
+Gazing at you, I get the heat.
+          A    B           C
+Following you, I climb the mountain.
+         G       D       B
+I get excitement at your feet.
+
+Right behind you, I see the millions.
+On you, I see the glory.
+>From you, I get opinions.
+>From you, I get the story.
+
+                        (fade out)
+
+
+						FINIS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

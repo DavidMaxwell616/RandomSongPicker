@@ -1,0 +1,35 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+From: indigo@ucscb.UCSC.EDU (Adam Schneider)
+
+THE 59TH STREET BRIDGE SONG (FEELIN' GROOVY) [by Paul Simon]
+------------------------------------------------------------
+
+I'm too lazy to type in all the words; the whole song follows this pattern:
+
+C       G/B     Am7(4)  G
+x32010  x2003x  x0001x  3x000x
+
+And the tab is like this... (The tab isn't the same through the _entire_ 
+song, but it's close to this.)
+
+
+  C           G/B          Am7(4)    G
+E ------0-----------------|------------------------|
+B ------------3-----------|1---------0-------------|
+G ----0-----0-----0-----0-|----0-----------0-----0-|
+D ------------------0-----|------0-----------0-----|
+A 3-----3-----2-----------|0-----------------------|
+E ------------------------|------------3-----------|
+  ^   . ^   . ^   . ^   .  ^   . ^   . ^   . ^   .   ( <--timing )
+
+
+==-=--=---=----=-----=-------=---------=---------=-------=-----=----=---=--=-==
+Adam Schneider               indigo@ucscb.ucsc.edu              U.C. Santa Cruz
+ Join the Indigo Girls Mailing List:  indigo-girls-request@cgrg.ohio-state.edu
+       Check out the guitar music archive:  ftp.uwp.edu /pub/music/guitar
+==-=--=---=----=-----=-------=---------=---------=-------=-----=----=---=--=-==
+
+

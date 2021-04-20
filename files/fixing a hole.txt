@@ -1,0 +1,150 @@
+Date: Sat, 17 Feb 2001 16:13:21 -0500
+From: Maxacaster@aol.com
+Subject: b/beatles/fixing_a_hole.tab
+
+Artist: the Beatles
+Song: Fixing a Hole
+Album: Sgt Pepper's Lonely Hearts Club Band
+Written by: Sir Paul McCartney & John Lennon
+Tabbed by: Max Perenchio (Maxacaster@aol.com)
+
+Tuning: DROPPED D!!! i swear! (D-A-D-G-B-E) odd for a beatles song eh?
+
+Notes: There is something magical about that album. The best album of all 
+time in my opinion. Vh1 put it at #10! HA! #1 on my list. On of my favorite 
+songs on the album.
+
+Just to let you know Im only tabbing the Guitar part...not the Harpsicord 
+parts! Look at the old olga files if you want the harpsicord transcribed to 
+guitar. But its in the key of Fm. So if you pluck out an Fm chord during the 
+verse, it sounds pretty good. 
+
+Key:
+slide up= /
+slide down= \
+hammeron= h
+pulloff= p
+full step bend= ^fb
+full bend the release= ^fbr
+half step bend= ^hb
+
+///INTRO\\\
+no guitar-just harpsicord 
+
+///VERSE\\\
+no guitar until the fill, but you you want to play along it is basically just 
+an Fm chord (1-3-3-1-1-1) or (x-x-10-10-9-8)<that one sounds cooler, 
+especially if you are plucking them individualy and letting them ring.
+
+///FILL\\\ heres the guitar part for the verse.
+E--8---------------
+B--9--9------------
+G-----10--10--8\7--
+D---------10-------
+A------------------
+D------------------
+thats easy
+
+///CHORUS\\\ the guitar comes in when he says "where i belong" for the second 
+time. Remember: ITS IN DROPPED D TUNING. All the slides (/) are done very 
+fast.
+E----------------------------------------------------
+B----------------------------------------------------
+G----------------------------------------------------
+D----------------5--------------------5--------------
+A----------3-5/7-------0h2-/5---3-5/7------0h2-/5----
+D--3-2-0------------/5------------------/5-----------
+
+E------------------------------------------------------------
+B------------------------------------------------------------
+G------------------------------------------------------------
+D-------------5-------------------5------------0-2-3-5-5^fbr-
+A------3-5/7-------0h2-/5---3-5/7------0h2-/5----------------
+D--------------/5-------------------/5-----------------------
+              
+///GUITAR SOLO\\\-its pretty close to perfect. (light distortion)
+E---5-----4--------4---------------------4-
+B---6--/4-------/6-----6---------------6---
+G--------------------5-------5------5------
+D-------------------------6----3--6--------
+A------------------------------------------
+D------------------------------------------
+this is the cool part of the solo:
+E----------------------------------------
+B----------------------------------------
+G-----1-/5-1-----------------------------
+D--1/3--------3--1--0--------------------
+A----------------------3--1--------------
+D---------------------------6--3--1-1/3--
+
+Those are all the guitar parts for the song.
+Send me feed back at Maxacaster@aol.com
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+From: Paul Zimmerman <AUDSM@ASUVM.INRE.ASU.EDU>
+Subject: CRD: Fixing a Hole - Beatles
+
+Fixing a Hole
+The Beatles
+INTRO:
+
+  F            C+           Fm7    Fm7(II)  Bb7
+
+-(5)----------------------------------------6--------------------------
+--6--6--6--6---5--5--5--5---6--6---9--9-----9--------------------------
+--5--5--5--5---5--5--5--5---8--8---8--8-----7--------------------------
+--7--7--7--7---6--6--6--6---6--6---6--6-----6--------------------------
+--8--8--8--8---7--7--7--7---8--8---8--8-----8--------------------------
+---------------8--8--8--8-------------------6--------------------------
+
+
+F    C+    Fm7   (2 beats per chord)
+
+Bb9           F            C+                Fm7        Fm6
+          I'm fixing a hole    where the rain   gets in     and
+Fm7                   Fm6                       Fm7       Fm6   Fm7   Fm6
+stops my mind from wan - dering   where it will    go______
+
+
+   I'm filling the cracks   that ran   through the door   and
+kept my mind from wan - dering where it will go     And it
+
+F                 Gm/C            F          Gm/C
+really doesn't matter if I'm wrong I'm right  where I belong
+F          Gm/C            F
+I'm right   where I belong
+
+C                   G             C            G
+See the people standing there who disagree and never win and
+C               G               C
+wonder why they don't get in my door      I'm
+
+F                 C+          Fm7        Fm6   Fm7
+painting the room   in a col - orful way   and when my mind is wan -
+Fm6                  Fm7       Fm6    Fm7
+dering   there I will go              Oo oo oo ah
+
+
+Silly people run around who worry me and never ask me
+why they don't get past my door      I'm
+taking the time to do a number of things that weren't important yes-
+terday  and I still go
+
+Bb9 = x10111
+C+ = xx2110
+Gm/C = x3033x
+Fm6 = xx0111
+Fm7 = xx1111
+
+
+ "Fixing a Hole"
+Written by Paul McCartney
+Performed by the Beatles
+from "Sgt. Pepper's Lonely Hearts Club Band"
+Transcribed by RKAMATH@DELPHI.COM
+
+
+                                                                  

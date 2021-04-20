@@ -1,0 +1,656 @@
+This isn't a complete trancription, as some songs and all solos have been left
+out, but this is a fairly accurate transcription of the new STP album...any
+comments (constructive, preferably), e-mail to cianyde@zero.cypher.com.  
+Thanx.
+
+                          PURPLE
+                          ------
+               1.Meatplow
+               2.Vasoline
+               3.Lounge Fly
+               4.Interstate Love Song
+               5.Still Remains (not transcribed)
+               6.Pretty Penny (not transcribed)
+               7.Superman Silvergun (not transcribed)
+               8.Big Empty
+               9.Unglued
+               10.Army Ants
+               11.Kitchenware & Candy Bars/Hidden Song 
+
+Meatplow
+--------
+Intro/Verse
+
+  N.C        F#5
+E|---------------------------|
+B|---------------------------|
+G|---------------------------|
+D|---------------------------|
+A|------0--3-4-4---4-X-4---4-|
+E|-0--3------2-2-0-2-X-2-0-2-|
+
+
+Prechorus ("They got these pictures of everything...")
+
+   B5            C5  B5 A5 F?
+E|------------------------------------------|
+B|------------------------------------------|
+G|------------------------------------------|
+D|-9-9-9-9-9-9-9-10--9--7--3-X--3-3-3-X-3-3-|  <--this may be a little off
+A|-9-9-9-9-9-9-9-10--9--7--2-X--2-2-2-X-2-2-|
+E|-7-7-7-7-7-7-7-8---7--5--1-X--1-1-1-X-1-1-|
+
+
+Chorus ("I got a lover and, well she shows me how...)
+
+w/slide and Dean's nutty vibrato
+
+    A5  C5   D5   A5  C5   D5  A5   F5  Bb5 G5    Bb5 C5 G5
+E|-----------------------------------------------------------|
+B|-----------------------------------------------------------|
+G|-------------------------------------------------3--5------|
+D|--/7--/10--/12--/7--/10--/12--/7--/3--/8--/5--5--3--5--5---|
+A|--/7--/10--/12--/7--/10--/12--/7--/3--/8--/5--5--1--3--5---|                                                                         |
+E|----------------------------------------------3--------3---|                                                                          |
+
+
+        On the second verse, that "whining part" is just tremolo picking a E
+on the g string (9th fret)
+
+Lyrics
+
+Fine place for a day full of breakdowns-
+Takes more than a meltdown to show us how-
+Throw a ta(c)k on the road, stop the meatplow-
+Got a bullet but it ain't mine.
+
+They got these pictures of everything-
+To break us down, yeah to break me down-
+They make us hate and we make it bleed.
+
+But I got a lover and yeah
+She shows me how,
+To understand it, yeah to understand
+I got a brother and well 
+He shows me how,
+To make amends, yeah to make amends with it.
+
+Take a break from the mousetrap we call home-
+Takes more than a message to make me smile-
+I can feel when she kisses me sleeping-
+But not when the news is on.
+
+(prechorus)
+
+(chorus)
+
+(solo) -rhythm background is the verse
+
+(prechorus)
+
+(chorus)
+
+
+Vasoline
+--------
+
+Intro/Bridge ("you'll see the look and you'll see the lies...")
+   Bb6(b5)
+
+E|-0------0------0------0------------|
+B|-8------8------8------8------------|
+G|-7------7------7------7------------|
+D|-8------8------8------8------------|
+A|-0------0------0------0------------|
+E|-----------------------------------|
+
+
+Verse
+
+  N.C.
+
+E|-------------------------|      Halfway through the second veres, hit 
+B|-------------------------|   dead strings for that "chucka-chucka" sound
+G|-------------------------|
+D|-------------------------|
+A|-------------------------|
+E|-1--3--1--3--1--3--1--3--|
+
+Chorus
+
+   Eb5                                D5Db5C5
+
+E|---------------------------------------------------------------------------|
+B|---------------------------------------------------------------------------|
+G|-8888-8888-8888-8888-8888-8888-8888-8765-5555-5555-5555-5555-5555-5555-5555|
+D|-8888-8888-8888-8888-8888-8888-8888-8765-5555-5555-5555-5555-5555-5555-5555|
+A|-6666-6666-6666-6666-6666-6666-6666-6543-3333-3333-3333-3333-3333-3333-3333|
+E|---------------------------------------------------------------------------|
+
+      F
+
+E|----1-|
+B|----1-|
+G|-5--2-|
+D|-5--3-|
+A|-3--3-|
+E|----1-|
+
+
+
+
+Lyrics
+
+One time a thing occured to me
+What's real and what's for sale?
+Blew a kiss and tried to take it home
+
+Isn't you, isn't me
+Search for things that you can't see
+Going blind, out of reach
+Somewhere in the vasoline
+
+Two times and it has rendered me
+Punch drunk and without bail
+Think I'd be safer all alone
+
+Flies in the vasoline we are  
+Sometimes it blows my mind
+Keep getting stuck here all the time
+
+(chorus)
+
+You'll see the look and you'll see the lies
+You'll eat the lies, and you will.
+
+(solo) -rhythm background is the verse
+
+(repeat 3rd verse ["Flies in the vasoline..."])
+
+(outro) -verse figure; end on Bb6(b5)-intro/bridge chord
+
+
+Lounge Fly
+------ ---
+Verse
+   D5     F5    B?
+E|-------------------|
+B|-------------------|
+G|--------1010-------|       This is probably way off...
+D|-12-12--1010--9----|
+A|-12-12--8-8---8----|
+E|-10-10--------7----|
+
+Chorus
+  F5 G5       F5 G5       F5 G5   F5 G5       F5 G5       F5 G5
+E|-----------------------------------------------------------------|
+B|-----------------------------------------------------------------|
+G|-----------------------------------------------------------------|
+D|-3/5--5-5-5--3/5--5-5-5--3/5--5--3/5--5-5-5--3/5--5-5-5--3/5--5--|
+A|-3/5--5-5-5--3/5--5-5-5--3/5--5--3/5--5-5-5--3/5--5-5-5--3/5--5--|
+E|-1/3--3-3-3--1/3--3-3-3--1/3--3--1/3--3-3-3--1/3--3-3-3--1/3--3--|
+
+  A5 Bb5      A5 Bb5      A5 Bb5  A5 Bb5      A5 Bb5        A5  G#5
+E|-----------------------------------------------------------------|
+B|-----------------------------------------------------------------|
+G|-----------------------------------------------------------------|
+D|-7/8--8-8-8--7/8--8-8-8--7/8--8--7/8--8-8-8--7/8--8-8-8-8--7--6--|
+A|-7/8--8-8-8--7/8--8-8-8--7/8--8--7/8--8-8-8--7/8--8-8-8-8--7--6--|
+E|-5/6--6-6-6--5/6--6-6-6--5/6--6--5/6--6-6-6--5/6--6-6-6-6--5--4--|
+  
+  F5 G5       F5 G5       F5 G5   F5 G5       F5 G5       F5 G5
+E|-----------------------------------------------------------------|
+B|-----------------------------------------------------------------|
+G|-----------------------------------------------------------------|
+D|-3/5--5-5-5--3/5--5-5-5--3/5--5--3/5--5-5-5--3/5--5-5-5--3/5--5--|
+A|-3/5--5-5-5--3/5--5-5-5--3/5--5--3/5--5-5-5--3/5--5-5-5--3/5--5--|
+E|-1/3--3-3-3--1/3--3-3-3--1/3--3--1/3--3-3-3--1/3--3-3-3--1/3--3--|
+
+  Bb5                                  C5
+E|--------------------------------------------------------------------------|
+B|--------------------------------------------------------------------------|
+G|--------------------------------------------------------------------------|
+D|-8-8-8-8--8-8-8-8--8-8-8-8--8-8-8-8--10101010-10101010-10101010-10101010--|
+A|-8-8-8-8--8-8-8-8--8-8-8-8--8-8-8-8--10101010-10101010-10101010-10101010--|
+E|-6-6-6-6--6-6-6-6--6-6-6-6--6-6-6-6--8-8-8-8--8-8-8-8--8-8-8-8--8-8-8-8---|
+
+Bridge
+   D?
+E|---------------------|
+B|--3--3--3--3-3-3-----|
+G|--1--2--4--2-1-2-----|
+D|--0--0--0--0-0-0-----|
+A|---------------------|
+E|---------------------|
+
+Lyrics
+
+It's ok, it's ok, ok relieve me
+Pins in me, pins in me, in me you kill me
+The lounge fly, the lounge fly, the fly you bring me
+I think I'm free but the dogs they won't release me
+Don't have a nickel or a dollar but you feed me
+My bottle's empty but you always refuel me
+I feel I'm sinking but you won't let me drown me
+I wanna f@(*, wanna f@(* but do you need me?
+
+I can't give what I take away, and the other understands
+She said she'd be my woman, she said she be my man
+I can't live this way
+Please refill my soul
+
+(verse)
+
+(chorus)
+
+Said she'd be my woman...she said she'd be my woman, said she'd be my man
+
+(solo 1) -Dean takes one of his quirky (awesome) trademark solos...
+
+(chorus)
+
+(solo 2) -Butthole Surfer Paul Leary pops in for a little solo in D pentatonic 
+                                                                    minor
+
+
+Interstate Love Song
+---------- ---- ----
+
+Intro
+
+    N.C
+E|-----------------------------------------------------------------------|
+B|-----------------------------------------------------------------------|
+G|----------------------------------------8--9--8------------------------|
+D|/11--9--11--9-----------------------10-----------11---9----------------|
+A|---------------11-(9)-7-9-7-9--9/11------------------------------------|
+E|-----------------------------------------------------------------------|
+
+Riff A
+
+    N.C.                   E   ?      E        ?      E
+E|-----------------------------------------------------------------------|
+B|--0--0--0--0-----------------------------------------------------------|
+G|--7--6--4--2-------7h9-------------------------------------------------|
+D|---------------7h9-------6---7--7---6----6---7--7---6------------------|
+A|-------------------------7---7--7---7----7---7--7---7------------------|
+E|-------------------------0---0--0---0----0---0--0---0------------------|
+
+Verse
+
+   C#5           C#/C          C#/B          Bb?       A5   E  ?    E     ?    E
+E|-----------------------------------------------------------------------------|
+B|-----------------------------------------------------------------------------|
+G|-6-6--6--6-6---6-6--6--6-6---6-6--6--6-6---3---3-3-3-2-----------------------|
+D|-6-6--6--6-6---6-6--6--6-6---6-6--6--6-6---2---2-2-2-2--6--7-7--6--6--7-7--6-|
+A|-4-4--4--4-4---3-3--3--3-3---2-2--2--2-2---1---1-1-1-0--7--7-7--7--7--7-7--7-|
+E|--------------------------------------------------------0--0-0--0--0--0-0--0-|
+
+
+Chorus
+
+    C#5                E5                A5                Ab5
+E|---------------------------------------------------------------------------|
+B|---------------------------------------------------------------------------|
+G|--6-6-6-6--6-6-6-6---9-9-9-9--9-9-9-9--------------------------------------|
+D|--6-6-6-6--6-6-6-6---9-9-9-9--9-9-9-9--7-7-7-7--7-7-7-7--6-6-6-6--6-6-6-6--|
+A|--4-4-4-4--4-4-4-4---7-7-7-7--7-7-7-7--7-7-7-7--7-7-7-7--6-6-6-6--6-6-6-6--|
+E|---------------------------------------5-5-5-5--5-5-5-5--4-4-4-4--4-4-4-4--|
+
+Lyrics  (some of my favorite!)
+
+(intro, followed by riff a)
+
+Waiting, on a Sunday afternoon,         
+For what I read between the lines-your lies.
+Feeling, like a hand in rusted shame,
+So do you laugh or does it cry?
+Reply.
+
+(riff a)
+
+Leaving on a Southern train
+Only yesterday you lied, 
+Promises of what I seemed to be
+Only watched the time go by, 
+All of these things you said to me.
+
+(riff a)
+
+Breathing, is the hardest thing to do, 
+With all I've said and all that's dead for you, 
+You lied-Goodbye.
+
+(chorus)
+
+Still Remains
+----- -------
+
+
+Pretty Penny
+------ -----
+Dean and Robert both played acoustic on this on, in standard tuning...(I thought
+it was some open tuning...)...Dean says he used a movable Dm9 and Dm chord shapes, 
+but I don't hear 'em...E-mail me with any ideas...
+
+
+SilverGun Superman
+--------- --------
+Sorry-it's just too much, & I lack time & patience...it's in Dropped D...Scott
+supposedly plays some guitar on it...
+
+
+Big Empty
+--- -----
+
+Intro/Verse Chords (strum freely-listen to the cd for timing)
+
+   Em9    C9
+E|--3--------------|
+B|--3------3-------|
+G|--0------3-------|
+D|--2------2-------|
+A|--2------3-------|
+E|--0--------------|
+
+Slide intro (PLEASE use a slide!)
+
+E|----------------------------10------10-----------------------------------10|
+B|-----------------------/12------12------11--8--10--11--10--8--10--8--/12---|
+G|/12\11/12\11--\7-7--4------------------------------------------------------|
+D|---------------------------------------------------------------------------|
+A|---------------------------------------------------------------------------|
+E|---------------------------------------------------------------------------|
+
+Chorus
+    G        A          C                         G     F    E?  E
+E|--3--3-3---5-5--5-5---8--8-8--8--8-8--8-8-8--|--3--3--1--1--0--0-|
+B|--3--3-3---5-5--5-5---8--8-8--8--8-8--8-8-8--|--3--3--1--1--0--0-|
+G|--0--0-0---0-0--0-0---0--0-0--0--0-0--0-0-0--|--0--0--2--2--2--1-|
+D|--0--0-0---0-0--0-0---0--0-0--0--0-0--0-0-0--|--0--0--3--3--2--2-|
+A|--2--2-2---4-4--4-4---7--7-7--7--7-7--7-7-7--|--2--2--3--3--2--2-|
+E|--3--3-3---5-5--5-5---8--8-8--8--8-8--8-8-8--|--3--3--1--1--0--0-|
+
+Slide Part II (dos, 2, duo, deux, two)
+
+E|-11\5-----------------------------10---12--10------------------------------|
+B|--------5/-8/-10/11--8-10-8--/12---------------12--/11--/10---/5-----------|
+G|---------------------------------------------------------------------------|
+D|---------------------------------------------------------------------------|
+A|---------------------------------------------------------------------------|
+E|---------------------------------------------------------------------------|
+
+Bridge ("...Conversations kill...")   The instrumental section -arpeggiate
+                                                             | the Bm9 & Bm
+    G    F    E? E              Bm9?     Bm?                 | -listen to cd
+E|--3-3--1-1--0--0----------|----0---------0-------------| <-| for timing
+B|--3-3--1-1--0--0----------|----2---------3-------------|
+G|--0-0--2-2--2--1----------|----0---------0-------------|
+D|--0-0--3-3--2--2----------|----2---------2-------------|
+A|--2-2--3-3--2--2----------|----2---------2-------------|
+E|--3-3--1-1--0--0----------|----------------------------|
+
+
+Lyrics
+
+Driving faster in my car
+Falling farther from just what we are
+Smoke a cigarette and lie some more
+These conversations kill
+Falling faster in my car
+
+Time to take her home, her dizzy head is conscience-laden
+Time to take a ride, it leaves today, no conversation
+Time to take her home, her dizzy head is conscience-laden
+Time to wait too long, to wait too long, to wait too long
+
+Too much walking, shoes worn thin
+Too much trippin', and my soul's worn thin
+Time to catch a ride, it leaves today, her name is what it means
+Too much walking, shoes worn thin
+
+(chorus)
+
+Conversations kill, Conversations kill...
+
+(instrumental section [not REALLY a solo])
+
+(chorus)
+
+
+Unglued
+-------
+
+Intro
+
+  N.C.  Play twice
+E|-------------------------------------------------------------------------------|
+B|-------------------------------------------------------------------------------|
+G|--------------1/4-----------------1/4--------------------1/4---------------1/4---|
+D|--------------^-------------------^----------------------^-----------------^-----|
+A|--------------7-p-5---------------7-p-5----------------7-p-5-------------7-p-5-|
+E|-0-0-0-0-0-0-0-------0-0-0-0-0-0-0-------0-0-0-0-0-0-0------0-0-0-0-0-0-0------|
+
+Verse
+
+  (E5)                                                
+E|--------------------------------------------------------------------|
+B|--------------------------------------------------------------------|
+G|--------------------------------------------------------------------|
+D|-2-2--2-2-2---2-2--2-2-2---2-2--2-2-2---2-2--2-2-2------------------|
+A|-2-2--2-2-2---2-2--2-2-2---2-2--2-2-2---2-2--2-2-2------------------|
+E|-0-0--0-0-0---0-0--0-0-0---0-0--0-0-0---0-0--0-0-0------------------|
+
+
+Chorus
+
+   E5    C5       A5    C5       E5    C5      A5               D5  D/C# C5
+E|-------------------------------------------------------------|-------------|
+B|-------------------------------------------------------------|-------------|
+G|-------------------------------------------------------------|-7---7---5---|
+D|-2--2--101010---7--7--101010---2--2--101010--7-7-7-7-7-7-7-7-|-7---7---5---|
+A|-2--2--101010---7--7--101010---2--2--101010--7-7-7-7-7-7-7-7-|-5---4---3---|
+E|-0--0---8-8-8---5--5---8-8-8---0--0---8-8-8--5-5-5-5-5-5-5-5-|-------------|
+
+
+Lyrics
+
+(intro)
+
+Moderation is masturbation
+What is what and what makes you feel good 
+All these things I think about
+I think about-
+Always come unglued
+
+Yeah-I got this thing it's coming over me
+I got this thing that's coming over me
+I got this feeling comin over me, over me-yeah
+
+(intro)
+
+This confusion is my illusion
+Nowhere to look, but know where to find you
+All these things I'm sick about, I'm sick about-
+Always come unglued
+
+(chorus)
+
+(solo)
+
+(repeat verse 1)
+
+(chorus x2)
+
+
+Army Ants
+---- ----
+
+Intro (side note: IMHO, this is one of the coolest guitar tones on the album.
+                  Dean used a Vox Mando guitar [made in the 60's, this 12 
+                  string's neck starts at the 12th fret of a normal guitar]
+                  and a liberal dose of phaser...so everyone, pull out yer 
+                  phasers and apply them heavily!)
+   Strum freely
+   (D)
+E|---------------------------------------------------------------------------|
+B|--3-------3-------3----3-----3----3----3-----3---3----3----3---------------|
+G|--2-------1-------5----4-----3----2----1-----5---4----3----2---------------|
+D|--0-------0-------0----0-----0----0----0-----0---0----0----0---------------|
+A|---------------------------------------------------------------------------|
+E|---------------------------------------------------------------------------|
+
+
+Chorus
+
+   D5        A5 B5 F5
+E|------------------------------------------|
+B|------------------------------------------|
+G|-7-7-7-7-7-------1010101010---------------|
+D|-7-7-7-7-7--7--9-1010101010-1010101010----|
+A|-5-5-5-5-5--7--9--8-8-8-8-8-1010101010----|
+E|------------5--7-------------8-8-8-8-8----|
+
+
+Verse
+
+  N.C. Play 4 times  let ring
+E|---------------------------------------------------------------------------|
+B|---------------------------------------------------------------------------|
+G|------------0-----0--------------------------------------------------------|
+D|-------0h2-----2-----------------------------------------------------------|
+A|-0--0----------------------------------------------------------------------|
+E|---------------------------------------------------------------------------|
+
+Prechorus                              Break before solo (after 2nd chorus)
+
+  A5 play with verse   play twice        D#5
+E|------------------------------------|---11-11--11-11---10---11-11--11-11-10|
+B|------------------------------------|---11-11--11-11---10---11-11--11-11-10|
+G|-2-2-2-2-2-2--2-2-2-2-2-2-----------|----7--7---7--7----6----7--7---7--7--6|
+D|-2-2-2-2-2-2--2-2-2-2-2-2-----------|--------------------------------------|
+A|-0-0-0-0-0-0--0-0-0-0-0-0-----------|--------------------------------------|
+E|------------------------------------|--------------------------------------|
+
+
+
+Lyrics
+
+You don't look but you kick me
+You can't feel but you hit me
+You can't live with the way I pray
+
+Why do we all have to look this way
+I gotta heart, I got blood, feel pain
+
+Time, time is not on my side
+Cause the way I am
+Gotta gotta find the reason why
+A woman ain't a man
+
+You don't look but you kick me
+You can't feel but you hit me
+You can't deal with the way I pray
+
+Why do you all have to think this way
+I gotta heart, I got blood, feel pain
+
+Fall in those single file lines
+Like army ants
+Yeah, fall on into those single file lines
+And complete the plan
+
+(break)
+
+(intro)
+
+(solo)-a great ride! (rhythm-play chorus, w/break)
+
+(verse)
+
+(prechorus 1)
+
+(verse 1)
+
+
+Kitchenware & Candybars
+----------- - ---------
+
+Verse                                Chorus
+play w/fingers
+   N.C. (E)                     (D)    C5    G5 F#5 D5  C5
+E|----------------------------------|----------------------------------------|
+B|----------------------------------|----------------------------------------|
+G|----------------------------------|--5--5----------7---5-------------------|
+D|--------5--5-------5--5--------4--|--5--5---5--4---7---5-------------------|
+A|--------7--7-------7--7--------5--|--3--3---5--4---5---3-------------------|
+E|--0--0--------0--0-------0--0-----|---------3--2---------------------------|
+
+The bridge is all strings.  I have no clue what to play-E-mail w/suggestions...
+
+
+Lyrics
+
+Somebody told me.  I know where to go.
+Somebody showed me.  I was last to know.
+
+Sell me down the river.
+Sell me down the river.
+Sell me down the river.
+
+What I wanted, is what I wanted
+What I wanted is what she wanted
+
+Unfriendly feelings, down on wounded knee
+Unfriendly reasons, some blind mother's need.
+
+("Sell me down the river...")
+
+(chorus)
+
+You read the words and it sells you life
+They sell their words but it's all a lie
+
+(repeat verse 1)
+
+("Sell...")
+
+(chorus)
+
+(solo)
+
+(chorus)
+
+The Second Album
+--- ------ -----
+
+...yeah, right...
+
+
+
+
+Note:  As of right now, I'm tabbing out most of Candlebox (an exceptional cd)
+and all of Soundgarden's Superunknown...
+
+...Now it's my turn to request...if anyone has any or all tabs for these
+albums, and would like to post them, I'd really appreciate it...
+
+        -Queensryche:Rage For Order
+                     ---- --- -----
+        -Dream Theater:Images and Words
+                       ------ --- -----
+                             or
+                       Live At the Marquee
+                       ---- -- --- -------
+        -Rush:Rush
+              ----
+              Counterparts
+              ------------
+
+...I also plan to post tabs for Chaos A.D. by Sepultura, Point Blank by Nail 
+Bomb, and MAYBE Jar of Flies by Alice In Chains...E-Mail me...| |     | |
+                                                              |\|     |/|
+                                                              |  \   /  |
+                                                               \  > <  /
+                                                                |     |
+                                                                |     |

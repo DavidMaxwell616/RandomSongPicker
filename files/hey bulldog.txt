@@ -1,0 +1,133 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+Received: from kanga.INS.CWRU.Edu (kanga.INS.CWRU.Edu [129.22.8.32]) by post-office.nevada.edu (8.6.4/8.6.4) with ESMTP id GAA04400 for <jamesb@nevada.edu>; Mon, 21 Mar 1994 06:26:33 -0800
+Received: from localhost(dy055@localhost) by kanga.INS.CWRU.Edu (8.6.5+cwru/CWRU-2.0-bsdi)
+	id JAA18627; Mon, 21 Mar 1994 09:26:15 -0500 (from dy055 )
+Message-Id: <199403211426.JAA18627@kanga.INS.CWRU.Edu>
+Date: Mon, 21 Mar 1994 09:26:15 -0500
+From: dy055@cleveland.Freenet.Edu (Jim Vegeais)
+To: jamesb@nevada.edu
+Subject: TAB: Hey Bulldog - Beatles
+Reply-To: dy055@cleveland.Freenet.Edu (Jim Vegeais)
+
+
+
+
+Hey Bulldog by the Beatles
+transcribed by Jim Vegeais
+vegeais@aspentec.com
+
+
+intro part
+---------------------------------------------------------
+---------------------------------------------------------
+---------------------------------------------------------
+--------------2-----3--4--------------4-----3--2---------
+--2--2--5--2-----2--------2--2--5--2-----2---------------
+---------------------------------------------------------
+repeat
+
+there is no guitar during the verse, but this is a guitar version 
+of the piano chords:
+ B7  F#m  B7  F#m  A   F#m  E   E7  A   F#m  B7
+--2---2----2---2---0----2----0---0---0---2----2--
+--4---2----4---2---2----2----0---3---2---2----4--
+--2---2----2---2---2----2----1---1---2---2----2--
+--4---4----4---4---2----4----2---2---2---4----4--
+--2---4----2---4---0----4----2---2---0---4----2--
+------2--------2--------2----0---0-------2-------
+
+
+"you can talk to..." (the patented James Bond chords)
+  Bm   Bm(#5)  Bm6  Bm7  Em  Em(#5)  Em6  Em7  Bm   Em
+--------------------------0---0-------0----0----2----0--
+--------------------------0---1-------2----3----3----0--
+---7-----7------7-----7---0---0-------0----0----4----0--
+---9-----9------9-----7---2---2-------2----2----4----2--
+---9-----10-----11----9---2---2-------2----2----2----2--
+---7-----7------7-----7---0---0-------0----0---------0--
+
+solo
+----------------------------------------------------
+-12--12--12--12--12--12--12--12------------------4--
+-------------------------------------------------4--
+--9---9---9---9---9---9---9---9---------------4-----
+----------------------------------9\---2--/6--------
+----------------------------------------------------
+
+
+
+---------------------
+--2--2--2--2--4--5---
+--2--2--2--2--4--6---
+---------------------
+---------------------
+---------------------
+repeat
+
+
+---------------------------------4------12--12--12--12--12-
+--5--5--3--2--2--2--3--2------3-----3----------------------
+--6--6--4--2--2--2--4--2--/4-------------------------------
+-----------------------------------------------------------
+-----------------------------------------------------------
+-----------------------------------------------------------
+
+
+
+---------------------------------------------------------
+---5--5--3--2--2--2--3--2--4--4--4--4--4--7--7--7--7--7--
+---6--6--4--2--2--2--4--2--4--4--4--4--4--8--8--8--8--8--
+---------------------------------------------------------
+---------------------------------------------------------
+---------------------------------------------------------
+
+
+fade out part
+----------------------------------------------------
+----------------------------------------------------
+----------------------------------------------------
+--------------2----3--4-----------------------------
+--2--2--5--2----2--------------------4-----3--2-----
+-------------------------2--2--5--2-----2--------5--
+repeat
+
+
+Sheepdog
+Standing in the rain,
+Bullfrog
+Doing it again
+Some kind of happiness is measured out in miles
+What makes you think you're something special when you smile?
+
+Child-like
+No one understands,
+Jack knife
+In your sweaty hands,
+Some kind of innocence is measured out in years
+You don't know what it's like to listen to your fears.
+
+You can talk to me
+You can talk to me
+You can talk to me
+If you're lonely you can talk to me
+
+Big man
+Walking in the park
+Whigwam
+Frightened of the dark
+Some kind of solitude is measured out in you
+You think you know me but you haven't got a clue
+
+You can talk to me 
+You can talk to me 
+If you're lonely you can talk to me
+
+[Hey] 
+Hey Bulldog
+Hey Bulldog 
+Hey Bulldog 
+Hey Bulldog 
+Hey Bulldog

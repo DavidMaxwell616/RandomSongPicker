@@ -1,0 +1,100 @@
+From uunet!wupost!cs.utexas.edu!torn!newshub.ccs.yorku.ca!newshub.ariel.yorku.ca!cs902154 Mon Oct 19 18:48:57 PDT 1992
+Article: 3018 of alt.guitar.tab
+Newsgroups: alt.guitar.tab
+Path: nevada.edu!uunet!wupost!cs.utexas.edu!torn!newshub.ccs.yorku.ca!newshub.ariel.yorku.ca!cs902154
+From: cs902154@ariel.yorku.ca (RONALD W ENGLISH)
+Subject: Re: REQ: your song
+Message-ID: <1992Oct18.042648.26249@newshub.ariel.yorku.ca>
+Sender: news@newshub.ariel.yorku.ca (USENET News System)
+Organization: York University, Toronto, Canada
+References: <1992Oct14.114252.26971@coli.uni-sb.de>
+Date: Sun, 18 Oct 1992 04:26:48 GMT
+Lines: 85
+
+In article <1992Oct14.114252.26971@coli.uni-sb.de> frgl@sbustd.rz.uni-sb.de (Franz Glock) writes:
+>Hallo !
+>
+>I'm looking desperately for tabs and lyrics of "Your Song" by Elton John.
+>Maybe anybody got it and can post or e-mail this song???
+>
+>
+>Thanks in advance
+>
+>   Franz
+>
+
+I pick this on a 12 string.  Sounds great. Try the following pattern:
+
+    T 1  2  3  2  1  T
+
+Your Song
+Elton John
+
+Chords
+
+Cmaj7        D/F#        Em/D         Em/C#         G/D
+x  000       x0  0      x00000        x 0000       xx000 
+------      ------      ------        ------       ------
+||||||      ||||||      ||||||        ||||||       ||||||
+||x|||      x||x||      ||||||        ||||||       ||||||
+|x||||      ||||x|      ||||||        ||||||       |||||x
+||||||      ||||||      ||||||        |x||||       ||||||
+
+
+B7/D#        G/B
+xx  0      x 00
+------     ------
+||x|||     ||||||
+|||x|x     |x||||
+||||||     ||||xx
+||||||     ||||||
+
+
+
+
+
+
+G                 Cmaj7   D/F#        Bm
+It's a little bit funny, this feeling inside
+Em             Em/D             Em/C    C
+I'm not one of those who can, easily hide
+G/D              D        B7/D#         Em
+I don't have much money, but , boy if I did
+G               Am7            C          D
+I'd buy a big house where,  we both could live
+
+If I was a sculpter,  but then again no
+or a man who make potions for a travelling show
+well I know it's not much, but it's the best I can do
+My gift is my song and  this one's for you
+{ play G instead of D at end of verses 2 and 4 }
+
+CH:
+
+D/F#              Em         Am             C
+And you can tell everybody   this is your song
+D/F#      Em                  Am            C
+It may be quite simple but ,  now that it's done
+Em                     Em/D
+I hope you don't mind, I hope you don't mind
+Em/C                  C
+that I put down in words
+G/B           C         C                 D
+How wonderful life is, when you're in the world
+
+I sat on the roof    and kicked off the moss
+well a few of the verses, well they've got me quite cross
+But the sun's been quite kind,  well I wrote down this song
+It's for people like you that,  keep it turned on
+
+So excuse me forgetting,  but these things I do
+you see I've forgotten if they're green or they're blue
+Anyway,  the thing is ,  what I really mean
+Yours are the sweetest eyes I've ever seen
+
+
+
+repeat chorus, repeating last two lines ( from I hope) twice.
+And changing last D to G
+
+

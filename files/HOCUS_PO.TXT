@@ -1,0 +1,65 @@
+HOCUS POCUS by Focus (from Moving Waves, their fourth album)
+Written by: Probably Van Leer and Akkerman
+Transcribed by: Jeffrey Weiss (jw@mckinsey.com)
+
+
+   A                                   Em7 Fmaj7   Cmaj7  Bbmaj7 E7#9   
+E -----------------|-----------------|-7---8-----------|-----------------|
+B -----------------|-----------------|-8--10-------8---|-----6---8~~~~~~~|
+G -----------------|-----------------|-7---9-------9---|-----7---7-------|
+D -5^7-7-7-7---7-7-|-5^7-7-7-7---7-7-|-9--10-------9---|-----7---6-------|
+A -0---0-0-0---0-0-|-0---0-0-0---0-0-|-7---8-----------|---------7-------|
+E -----------------|-----------------|-------------8---|-----6-----------|
+   |_|_|_| |   |_|   |_|_|_| |   |_|   |   |   }   |     |   |   !      
+                                                    \___/
+
+   A                                   E   F       D         B   E      
+E -----------------|-----------------|-7---8-------5---|-----7---7-------|
+B ~7---------------|-----------------|-9--10-------7---|-----7---9-------|
+G -----------------|-----------------|-9--10-------7---|-----8---9-------|
+D -5^7-7-7-7---7-7-|-5^7-7-7-7---7-7-|-9--10-------7---|-----9---9-------|
+A -0---0-0-0---0-0-|-0---0-0-0---0-0-|-7---8-------5---|-----9---7-------|
+E -----------------|-----------------|-----------------|-----7-----------|
+   |_|_|_| |   |_|   |_|_|_| |   |_|   |   |   }   |     |   |   |   }  
+                                                    \___/
+
+   A      C    D                       D      F    G                    
+E -0------3----5---|-----------------|~5------8----10--|-----------------|
+B -2------5----7---|-----------------|~7-----10----12--|-----------------|
+G -2------5----7---|-----------------|~7-----10----12--|-----------------|
+D -2------5----7---|-----------------|~7-----10----12--|-----------------|
+A -0------3----5---|-----------------|~5------8----10--|-----------------|
+E -----------------|-----------------|-----------------|-----------------|
+   |  _|. |   ]|     @                 |  _|. |   ]|     @              
+    \_/    \_/  \___/                   \_/    \_/  \___/
+
+   E7#9  
+E -----------------|- - -
+B -8---------------|- - -
+G -7---------------|- - -  [As a true Focus purist, I think it would be
+D -6---------------|- - -   blasphemous to transcribe yodelling for the    
+A -7---------------|- - -   guitar...so I won't]
+E -----------------|- - -
+   |
+
+Note: Yes, the E7#9 at the end of measure 4 (and elsewhere) is the dreaded
+      "Hendrix" chord (as far as I can tell....either that, or I just use it
+      as a surrogate for distorted-guitar-chaos).  The pinky slide from the
+      G in this chord to the F# (added sixth) at the start of the A is, at
+      best, a subtle effect.  I think I hear it in places, others disagree.
+      Anyway, I like it, and it occurs naturally with my lousy (lazy) fingers.
+      On the A strumming in measures 1, 2, and others, pick real hard, and
+      shake the fretted A (D string).  The out-of-tuneness this causes is very
+      noticable on the song.  BTW, if your amp is not capable of at least 50%
+      total harmonic distortion, don't even bother with this song!
+
+Key:
+    @   = whole note           }    = quarter rest
+    !   = half note            \__/ = tied notes (don't re-sound)
+    |   = quarter note         ^    = hammer or pull (you figure which one)
+    _|  = single eighth note   ~    = slide (you figure which way)
+    _|. = dotted eighth note
+    |_| = eighth notes
+    ]   = sixteenth note
+
+

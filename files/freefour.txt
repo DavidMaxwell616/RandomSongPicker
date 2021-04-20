@@ -1,0 +1,82 @@
+
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+From uunet!zaphod.mps.ohio-state.edu!usc!wupost!m.cs.uiuc.edu!ux1.cso.uiuc.edu!uchinews!ellis!rons Wed May 27 15:36:25 PDT 1992
+Article: 4222 of alt.guitar
+Newsgroups: alt.guitar
+Path: nevada.edu!uunet!zaphod.mps.ohio-state.edu!usc!wupost!m.cs.uiuc.edu!ux1.cso.uiuc.edu!uchinews!ellis!rons
+From: rons@ellis.uchicago.edu (josh  ronsen)
+Subject: Re: TAB/CHORDS: Pink Floyd's "Free Four"
+Message-ID: <1992May27.181124.16378@midway.uchicago.edu>
+Sender: news@uchinews.uchicago.edu (News System)
+Reply-To: rons@midway.uchicago.edu
+Organization: University of Chicago Computing Organizations
+References: <1992May27.155017.23196@wpi.WPI.EDU>
+Date: Wed, 27 May 1992 18:11:24 GMT
+Lines: 60
+
+
+	Free Four by the Pink Floyd (from the album Obscured by Clouds)
+	written by Waters
+
+	Really simple song (but a fun one):
+
+intro: 
+|G ' ' '|G ' C D| repeat
+
+G			     C
+The memories of a man in his old age
+	D                     G*   (then intro bit)
+Are the deeds of a man in his prime.
+G                           C
+You shuffle in gloom of the sickroom
+    D                         G*  (then intro bit twice)
+And talk to yourself till you die.
+
+
+* don't forget about distored guitar hitting a G5 here...*
+
+That's it musically for all the verses.  The interlude section is just:
+
+|B " " "| " " G A | (repeat many times: add solo with much art. harmonics...)
+|G ' ' '| G ' C D |
+
+And that is it, at least as far as I am concerned.  Perhaps someone else
+could give some pointers as how to attack the solos.  The rest of the
+verses are:
+
+Life is a short, warm moment
+And death is a long cold rest.
+You get your chance to try in the twinkling of an eye
+Eighty years, with luck, or even less.
+
+So all aboard for the American tour,
+And maybe you'll make it to the top.
+And mind how you go, and I can tell you, 'cause I know
+You may find it hard to get off.
+
+You are the angel of death
+And I am the dead man's son
+And he was buried like a mole in a fox hole.
+And everyone is still in the run.
+
+And who is the master of fox hounds?
+And who says the hunt has begun?
+And who calls the tune in the courtroom?
+And who beats the funeral drum?
+
+The memories of a man in his old age
+Are the deeds of a man in his prime.
+You shuffle in gloom in the sickroom
+And talk to yourself till you die.
+
+
+
+	-Josh Ronsen
+	ronsen@gargoyle.uchicago.edu
+
+
+

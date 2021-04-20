@@ -1,0 +1,106 @@
+        Slapping on Bass Guitar Lesson #2
+        =================================
+                        Doug Wellington
+                        doug@arizona.edu
+
+Today's topic:  Popping and muting
+
+Last time I left you all with this slap, hammer on, slap and mute
+pattern:
+
+        q   q   q   q
+G  |---------------------|        q = quarter note
+D  |o-------------------o|        S = Slap
+A  |o---5---7-----------o|        H = Hammer on
+E  |------------0--------|        M = Mute quietly
+        S   H   S   M
+
+I hope that you all started slowly, like I suggested, and have gotten
+to the point of having a nice clean clear sound.  Work on the sound
+now and we'll worry about the speed later.  You'll be surprised at
+how soon it will happen.
+
+Now that you've started to get comfortable with slapping, let's add
+popping to our bag of tricks.  To "pop" a string, place your first
+(index) finger of your slapping hand part way under the string
+(just enough to grab it), pull the string out lightly and then let it
+pop back against the fretboard.  Keep your hand in the same relaxed
+position we talked about last time.  Keep your first finger just stiff
+enough to pull the string out.  Try popping the G string now.
+
+As with slapping, do it as lightly as you can.  You want to play with
+as little energy as possible.  Remember, speed will come from relaxation.
+Pull just enough to get a good solid "crack" sound.  This sound will be
+quite percussive and if you're like me, the first time you get a good
+pop with the amp turned up, it will make you jump!  Go for it.
+
+Now turn on your metronome and set it to between 40 and 50.  Practice
+popping the G string on each beat, and mute with your fretting hand
+half way in between beats.  Hold your fretting hand as before, with
+your thumb about half way down behind the neck, and keep your fingers
+straight.  When you pop, leave the tips of your fingers touching the
+E, A and D strings and lift just the base of your fingers off of the
+G string by moving your hand forward, pivoting your wrist slightly.
+After the pop, you can mute by moving your hand back.  You should be
+able to keep the E, A and D strings muted the whole time.
+
+Once you feel comfortable with this pop - mute process, let's pop with
+a slap.  A very common technique is to slap and pop notes one octave
+apart.  Place the first finger of your fretting hand on the fifth fret
+of the A string, and the fourth finger of your fretting hand on the
+seventh fret of the G string.  Start up your metronome again (it's
+still on 50 isn't it?) and practice a slap on the A string and a
+pop on the G string.  Slap on the beat and pop in between.  Don't
+move your fretting hand or worry about muting, just let the notes ring.
+
+       e e e e e e e e
+G  |-----7---7---7---7---|        e = eighth note
+D  |o-------------------o|        S = Slap
+A  |o--5---5---5---5----o|        P = Pop
+E  |---------------------|
+       S P S P S P S P
+
+Now, you may accidentally touch the E or D strings, so let's talk more
+about muting.  We're already using the first and fourth fingers for 
+fretting notes.  Rest your second (middle) finger lightly on the E
+string to mute it.  You'll have to keep the second finger almost
+straight, and bend your first and fourth fingers to do it.
+
+Here comes the tough part.  So far we have used the first, second and
+fourth fingers to fret the A string, mute the E string and fret the G
+string respectively.  We could try muting the D string with the third
+finger, but since the third and fourth fingers are so dependent upon
+each other, it is hard to keep them working separately.  So, to mute
+the D string, flatten your first finger at the first joint just enough
+to rest it against the D string.  Just let your third finger "hang out"
+next to the second finger.
+
+Practice the slap and pop for a while, keeping the metronome set to
+between 40 and 50.  Listen carefully to make sure that you aren't
+hearing the E or D strings ringing.  You may also want to hit them
+on purpose to make sure that you are muting them properly.  Muting
+is the hardest and most important part of slapping cleanly!!!
+
+Work on this slow slap and pop until you get a clean sound with only
+the two notes ringing.  Alternate popping with your first and second
+fingers.  Try to get the volume levels equal with each.
+
+A WORD OF WARNING:  Take it easy here.  Popping can be real hard on
+your fingers!  Before you know it, you can get blisters and that will
+definitely cut into your progress.  Stop early, take a break and then
+go back to it.
+
+OK folks, practice the pop and mute and the octave slap and pop and
+we'll go further next time.
+
+Take it slow!
+
+Email any comments to me: doug@arizona.edu.
+This article (c) Copyright 1993 by Doug Wellington.
+You may distribute it freely so long as it is not modified.
+------------------------------------------------------------------
+Previous tapping and slapping lessons are available via FTP from
+KAPPA.RICE.EDU in the directory /pub/bass/lessons.  If you do not
+have FTP, and wish to retrieve the lessons via email, send mail to
+ftpmail@decwrl.dec.com with the message "help".
+------------------------------------------------------------------
