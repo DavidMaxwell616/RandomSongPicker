@@ -1,27 +1,50 @@
-var filePaths = [];
+const Fields=[
+  'File Name',
+  'File Path',
+  'File Parent',
+  'File Category'
+];
 
-function loadData() {
-    $.ajax({
-        url: "../files",
-        success: function(data){
-            var myTable = '<table>\n';
-            myTable += '<tr><th>FILE NAME</th><th>FILE PATH</th></tr>\n';
-            $(data).find('a:contains(.txt)').each(function(){
-            var filePath = $(this).attr("href");
-            var fileName = filePath.replace('/files/', '').replace('.txt', '').replace(/%20/g, " ");
-            myTable += '<tr>\n';
-            myTable += '<td>' + fileName + '</td>\n';
-            myTable += '<td>' + filePath + '</td>\n';
-            filePaths.push(filePath);
-            myTable += '</tr>\n';
-        });
-           myTable += '</table>';
-          document.getElementById("Table").innerHTML = myTable;
-        }
-      });
+function loadXMLDoc(file) {
+  var xmlhttp = new XMLHttpRequest();
+  var doc= this.document;
+  xmlhttp.onreadystatechange = function() {
+    if (doc.readyState == 'complete' && xmlhttp.status ==200) {
+      var parser = new DOMParser();
+      var xmlDoc = parser.parseFromString(xmlhttp.responseText, "application/xml");
+      LoadData(xmlDoc,"files");
+    }
+  };
+  xmlhttp.open("GET", file, true);
+  xmlhttp.send();
+}
+
+function LoadData(xml, type) {
+var x = xml.getElementsByTagName(type)[0];
+if(x!==undefined){
+  var children = x.childNodes;
+  console.log(children);
+  var table = '<table>\n<tr>\n';
+  for(var item=0;item<Fields.length;item++)
+  {
+    table+='<th>'+ Fields[item]+ '</th>\n';
   }
-  
-function GetRandomSong(){   
-var random = filePaths[Math.floor(Math.random() * filePaths.length)];
-window.open(random, "_self");
+  table+='</tr>';
+  // for(var item=1;item<children.length;item+=2)
+  // {
+  // var issue_num = parseInt(children[item].getElementsByTagName('issue_num')[0].textContent);
+  // if(issue_num===issue){
+  //   table += "<tr>\n";
+  //   for(var item2=0;item2<Fields.length;item2++)
+  // {
+  // var cellContents = children[item].getElementsByTagName(Fields[item2].toLowerCase())[0].textContent;
+  // table+='<td>'+ cellContents +  '</td>';
+  // }
+  // table+='</tr>\n';
+  // }
+  //   }
+    table+='</table>';
+}
+
+document.getElementById("Table").innerHTML = table;
 }
