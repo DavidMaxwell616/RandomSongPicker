@@ -2,7 +2,8 @@ const Fields=[
   'File Name',
   'File Path',
   'File Parent',
-  'File Category'
+  'File Category',
+  'File Select'
 ];
 var files = [];
 function loadXMLDoc(file) {
@@ -30,13 +31,26 @@ if(x!==undefined){
   }
    children.forEach(child => {
    table+='</tr>\n';
+   var path;
+   var parent;
    for(var item2=0;item2<Fields.length;item2++)
     {
       var fieldName = Fields[item2].toLowerCase().replace(/\s/g, '');
-     if(child.nodeName==='file'){
+      if(child.nodeName==='file'){
       files.push(child);
-      var cellContents = child.getElementsByTagName(fieldName)[0].textContent;
-   table+='<td>'+ cellContents +  '</td>';
+     var cellContents = '';
+      if(child.getElementsByTagName(fieldName)[0]!=undefined)
+     {
+      cellContents = child.getElementsByTagName(fieldName)[0].textContent;
+      if(fieldName=='filepath') path = cellContents;
+     // if(fieldName=='fileparent') parent = cellContents.replace("%20", " ");
+     }
+      if(fieldName=='fileselect')
+      cellContents= "<button id='btnSelect' onclick='GetSong(`"+ path +"`)' >Select</button>";
+      
+    //console.log(cellContents);  
+    
+      table+='<td>'+ cellContents +  '</td>';
      }
   }
   table+='</tr>\n';
@@ -44,12 +58,20 @@ if(x!==undefined){
   });
     table+='</table>';
 }
-
 document.getElementById("Table").innerHTML = table;
 }
 
 function GetRandomSong(){   
   var random = Math.floor(Math.random() * files.length);
-  var filePath = files[random].getElementsByTagName('filepath')[0].textContent;
+  var href = location.href.replace('/index.html','');
+  var filePath = href+files[random].getElementsByTagName('filepath')[0].textContent;
   window.open(filePath, "_self");
   }
+
+  function GetSong(path){
+    console.log(path);
+    var href = location.href.replace('/index.html','');
+    var filePath = href+path;
+    window.open(filePath, "_self");
+    }
+
