@@ -1,84 +1,127 @@
-#----------------------------------PLEASE NOTE---------------------------------#
-#This file is the author's own work and represents their interpretation of the #
-#song. You may only use this file for private study, scholarship, or research. #
-#------------------------------------------------------------------------------##
-From: indigo@ucscb.UCSC.EDU (Adam Schneider)
-Subject: Lola.crd (by The Kinks)
-
-
-LOLA
-----
-by Ray Davies
-
-C  D  E 
-
- E
+Lola chords
+The Kinks 1970 "Lola Versus Powerman and the Moneygoround, Part One" (Ray Davies)
+ 
+[Intro]
+ 
+C  D E
+ 
+[Verse 1]
+ 
+  E
 I met her in a club down in old Soho
-            A                      D                A     E
-Where you drink champagne and it tastes just like cherry Cola
-          A  Asus
-C-O-L-A Cola
-      E
+          A                      D                     E
+where you drink champagne and it tastes just like coca cola
+         A   Asus4 A
+C-O-L-A, cola
+    E
 She walked up to me and she asked me to dance
-    A                          D                    A    E
+  A                           D                         E
 I asked her her name and in a dark brown voice she said Lola
-          A   D            C  D  E
-L-O-L-A Lola la-la-la-la Lola
-
-      E
-Well I'm not the world's most physical guy
-But when she sqeezed me tight she nearly broke my spine
-Oh my Lola la-la-la-la Lola
+         A    D             C   C  D  E
+L-O-L-A, Lola,  Lo lo lo lo lola
+ 
+[Verse 2]
+ 
+     E
+Well I'm not the worlds most physical guy
+             A
+but when she squeezed me tight
+           D                     E
+she nearly broke my spine, oh my Lola
+            A   Asus4 A
+Lo lo lo lo Lola
+ 
+[Verse 3]
+ 
+     E
 Well I'm not dumb but I can't understand
-Why she walked like a woman but talked like a man
-Oh my Lola la-la-la-la Lola la-la-la-la Lola
-
-CHORUS #1:
-          B
-Well we drank champagne and danced all night
-F#m
-Under electric candlelight
-      A
-She picked me up and sat me on her knee
-                                B7
-And said "Dear boy, won't you come home with me?"
-
+        A                       D
+why she walked like a woman and talked like a man
       E
+oh my Lola
+            A    D             C    C D  E
+Lo lo lo lo Lola   Lo lo lo lo Lola
+ 
+[Chorus 1]
+ 
+        B7
+Well we drank champagne and danced all night
+F#
+under electric candlelight
+    A
+She picked me up and sat me on her knee
+ 
+and said 'Dear boy, won't you come home with me'
+ 
+[Verse 4]
+ 
+     E
 Well I'm not the world's most passionate guy
-But when I looked in her eyes well I almost fell for my Lola
-La-la-la-la Lola la-la-la-la Lola
-E                  A    D          C   D  E  
-Lola la-la-la-la Lola la-la-la-la Lola
-
-BRIDGE:
-    A     C#m  B       A     C#m    B
-I pushed her away, I walked to the door
-   A    C#m    B            E   G#m    C#m
-I fell to the floor, I got down on my knees
-      B
+           A                         D                  E
+but when I looked in her eye, well I almost fell for my Lola
+            A   D            C   C  D
+Lo lo lo lo Lola Lo lo lo lo Lola
+E                  A    D             C    C D    E
+Lola,  Lo lo lo lo Lola,  lo lo lo lo Lola
+ 
+[Bridge]
+ 
+  A      E    B *
+I pushed her away
+  A      E      B
+I walked to the door
+  A    E      B
+I fell to the floor
+      E    G#m   C#m
+I got down on my knees
+     B7
 Then I looked at her and she at me
-
+ 
+[Verse 5]
+ 
+     E
 Well that's the way that I want it to stay
-And I always want it to be that way for my Lola
-La-la-la-la Lola
-Girl will be boys and boys will be girls
-It's a mixed up muddled up shook up world except for Lola
-La-la-la-la Lola
-
-CHORUS #2:
+      A                 D                  E
+and I always want it to be that way for my Lola
+            A    Asus4 A
+Lo lo lo lo Lola
+E
+Girls will be boys and boys will be girls
+       A                     D                         E
+It's a mixed up, muddled up, shook up world except for Lola
+            A
+Lo lo lo lo Lola
+ 
+[Chorus 2]
+ 
+       B7
 Well I left home just a week before
+    F#
 And I'd never ever kissed a woman before
-But Lola smiled and took me by the hand
-And said "Dear boy, I'm gonna make you a man"
-
-Well I'm not the world's most masculine man
-But I know what I am and I'm glad that I'm a man
-And so is Lola
-La-la-la-la Lola la-la-la-la Lola
-Lola la-la-la-la Lola la-la-la-la Lola
-
-
-(from Lola vs. Powerman and the Moneygoround, 1970)
-(sent by Harlan at harlant@hawaii.edu)
-
-
+A
+Lola smiled and took me by the hand
+ 
+and said 'dear boy, I'm gonna make you a man'
+ 
+[Verse 6]
+ 
+     E
+Well I'm not the worlds most masculine man
+      A                      D
+but I know what I am and I'm glad I'm a man
+          E                 A    D             C    C D
+and so is Lola, lo lo lo lo lola   Lo lo lo lo Lola
+ 
+[Outro]
+ 
+E                 A    D             C    C D
+Lola, lo lo lo lo Lola,  lo lo lo lo Lola
+E                 A    D             C    C D
+Lola, lo lo lo lo Lola,  lo lo lo lo Lola
+E                 A    D             C    C D E
+Lola, lo lo lo lo Lola,   o lo lo lo Lola
+ 
+* It has been suggested that B7 is a better fit
+ 
+* strumming pattern by: (brettsanace) http://profile.ultimate-guitar.com/brettsanace/
+ 

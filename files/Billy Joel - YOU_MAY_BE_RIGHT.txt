@@ -1,95 +1,181 @@
-#----------------------------------PLEASE NOTE---------------------------------#
-#This file is the author's own work and represents their interpretation of the #
-#song. You may only use this file for private study, scholarship, or research. #
-#------------------------------------------------------------------------------##
-Date: Mon, 27 Nov 1995 17:09:13 -0500
-From: "Circle Import Ltd." <circle@infobahnos.com>
-Subject: chords: you_may_be_right  by   billy_joel
 
-from: Stuart Nagus
-         Montreal
-                                                   you may be right
-billy joel
-
-intro:     a   (4x)
-
-a
-friday night i crashed your party,    
-
-saturday i said i'm sorry
-                                                         e 
-sunday came and trashed me out again.
-           bm 
-i was only having fun,   
-                g
-wasn't hurting anyone
-             e   
-and we all enjoyed the 
-                           a        intro (2x)
-weekend for a change.
-
-                        
-i've been stranded 
-in the combat zone, 
-i walked through bedford sty alone
-even rode my motorcycle in the rain.
-and you told me not to drive,   
-but i made it home alive
-so you said that only proves that i'm insane.
-
-chorus:
-                      e 
-you may be right,   
-                  a
-i may be crazy
-            e                     d
-but it just may be a lunatic 
-               f#m         a 
-you're looking for
-                     e
-turn out the light,
-                     a
-don't try to save me
-                         d                  e                               
-you may be wrong for all i know, 
-                            a      intro (4x)
-but you may be right. 
-
-                                
-remember how i found you there, 
-alone in your electric chair
-i told you dirty jokes until you smiled.
-you were lonely for a man,   
-i said take me as i am
-cause you might enjoy 
-some madness for a while.
-
-
-now think of all the years you tried 
-to find some one to satisfy you
-i might be as crazy as you say.
-if i'm crazy then it's true,   
-that it's all because of you
-and you wouldn't want me any other way.
-
-
-chorus
+You May Be Right tab by Billy Joel
+139,851 views, added to favorites 2,036 times
+Tuning: E A D G B E
+Author DanAmrich [a] 274. , last edit on Jun 22, 2021.
+We have an official You May Be Right tab made by UG professional guitarists.
+You May Be Right
+Music and Lyrics by Billy Joel
+From the album GLASS HOUSES (1980)
+Also available on BILLY JOEL GREATEST HITS VOLUME II (1985)
  
-
-lead break  (same chords as verse)    
-a              e        bm      g      e       a
-
-
-chorus
-
-outro
-      a                        
-you may be wrong, but you may be right
-
-
-it's a good rocky song so have fun with it.
-
-enjoy
-Stuart
-
-
+This is definitely a two guitar song, but
+ 
+[Main Riff] (let ring)
+ 
+   A
+e|-----------------|
+B|-----8---7-------|
+G|-------------7-9-| x6
+D|---7-------------|
+A|-0---------------|
+E|-----------------|
+ 
+ 
+CHORDS USED IN THIS SONG:
+ 
+   A   E7  Bm  G   E   D   F#m7
+ 
+e|-----0---2---3---0---2---2---------|
+B|-2---3---3---0---0---3---2---------|
+G|-2---1---4---0---1---2---2---------|
+D|-2---2---4---0---2---0---2---------|
+A|-0---2---2---2---2-----------------|
+E|-----0-------3---0-----------------|
+ 
+ 
+THE LYRICS AND CHORDS:
+ 
+[Verse 1]
+ 
+A
+Friday night I trashed your party  Saturday I said I'm sorry
+                               E7
+Sunday came and trashed me out again
+      Bm                     G
+I was only having fun wasn't hurting anyone
+       E                             A
+And we all enjoyed the weekend for a change
+ 
+ 
+[Verse 2]
+(same chords as verse 1)
+ 
+I was stranded in the combat zone, I walked through Bedford Stuy
+     alone
+Even rode my motorcycle in the rain
+And you told me not to drive, but I made it home alive
+So you said that only proves that I'm insane
+ 
+ 
+[Refrain]
+ 
+           E
+You may be right
+ 
+e|--------------------------------------------------------------|
+B|--------------------------------------------------------------|
+G|--------------------------------------------------------------|
+D|--------------------------------------------------------------|
+A|---------------2--2--4--2-------------------------------------|
+E|---0--0--3--4--------------0----------------------------------|
+ 
+         A
+I may be crazy
+ 
+e|--------------------------------------------------------------|
+B|--------------------------------------------------------------|
+G|--------------------------------------------------------------|
+D|---------------2--2--4--2-------------------------------------|
+A|---0--0--3--4--------------0----------------------------------|
+E|--------------------------------------------------------------|
+ 
+       E             D              F#m7          A
+But it just may be a lunatic you're looking for
+             E                        A
+Turn off the light       Don't try to save me
+           D               E                   A
+You may be wrong for all I know but you may be right
+ 
+ 
+[Verse 3]
+(same chords as verse 1)
+ 
+Oh, remember how I found you there
+Alone in your electric chair
+I told you dirty jokes until you smiled
+You were lonely for a man, I said "Take me as I am"
+'Cause you might enjoy some madness for a while
+ 
+ 
+[Verse 4]
+(same chords as verse 1)
+ 
+Now think of all the years you tried to find someone to satisfy
+     you
+I might be as crazy as you say
+If I'm crazy then it's true that it's all because of you
+And you wouldn't want it any other way
+ 
+ 
+[Refrain]
+ 
+ 
+[Solo]
+ 
+e|-----5-----5-----5-----5-----5------5-----5-----5-----5-----5-|
+B|--/4-5--/4-5--/4-5--/4-5--/4-5---/4-5--/4-5--/4-5--/4-5--/4-5-|
+G|--------------------------------------------------------------|
+D|--------------------------------------------------------------|
+A|--------------------------------------------------------------|
+E|--------------------------------------------------------------|
+ 
+e|-------------------12--------12--------12--------12--------12-|
+B|--5/7-P10--12b(14)---12b(14)---12b(14)---12b(14)---12b(14)----|
+G|--------------------------------------------------------------|
+D|--------------------------------------------------------------|
+A|--------------------------------------------------------------|
+E|--------------------------------------------------------------|
+ 
+e|---------------------------------------------------------12---|
+B|---------14-12------------------12-15-15~-15-15~-15-15-15--15-|
+G|-12b(13)-------b(13)12-------14-------------------------------|
+D|-----------------------14-------------------------------------|
+A|--------------------------------------------------------------|
+E|-----------------------------(sax arranged for guitar)--------|
+ 
+e|------------------------------12------------12-12--12-12------|
+B|----12-15-15~-15-15~-15-15-15----15---12-15-------------------|
+G|-14-----------------------------------------------------------|
+D|--------------------------------------------------------------|
+A|--------------------------------------------------------------|
+E|--------------------------------------------------------------|
+ 
+e|-12-12-12-14-17---14-12---------------------------------------|
+B|-------------------------14p12--------------------------------|
+G|--------------------------------14p11--14---------------------|
+D|--------------------------------------------------------------|
+A|--------------------------------------------------------------|
+E|--------------------------------------------------------------|
+ 
+                        ** SOLO NOTES **
+ 
+The first line is Chuck Berry flavored, like the opening to many
+of his songs.  In the second line, the whole step bend on the
+12th fret on the B string [12b(14)] is tricky; I often cheat it
+and actually do a half step bend from the 13th fret [making it
+13b(14)] because there's more room for your fingers, and if you
+play it correctly, nobody but you will know the difference.
+Also, in the third line, the G-string bend is a bitch, but it
+apparently really is what he's playing, and it's a nice slow
+bend; a little practice and you should be able to do it
+perfectly.
+ 
+ 
+[Refrain]
+ 
+ 
+[Outro]
+ 
+A
+You may be wrong but you may be right... (REPEAT AND FADE)
+ 
+ 
+************************************
+ 
+| p  Pull-off
+| /  Slide up
+| ~  Vibrato
+| P  Pop
+| b  Bend
+ 
