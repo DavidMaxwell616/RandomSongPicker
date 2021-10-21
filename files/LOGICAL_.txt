@@ -1,60 +1,165 @@
-From etlnbb@etlxdmx.ericsson.se Sat Jun 18 05:27 CDT 1994
-From: etlnbb@etlxdmx.ericsson.se ( neil bergin xd/gk)
-Date: Sat, 18 Jun 94 11:27:33 BST
-To: jcarson@tivoli.com
-
-Subject: CHORDPRO: Logical Song - Supertramp
-Posted by: ludwig@mfrkhc.mfr.dec.com (Ludwig Alberter)
-
-
-{title:The Logical Song}
-{subtitle:Rick Davies / Roger Hodgson}
-{define: F#dim base-fret 0 frets x 0 1 2 1 2}
-{define: C6 base-fret 0 frets 0 3 2 2 1 0}
-
-[Am]                              F             E
+Song: The logical song
+Artist: Supertramp
+Composers: Rick Davies and Roger Hodgson
+Album: Breakfast in America
+Tabbed by DJ ('DiddyD')for ultimateGuitar.com  27th Feb 2015
+ 
+For Supertramp video performance of the song copy and paste this link:
+https://www.youtube.com/watch?v=LRv4xt0Fwoc
+ 
+NOTE: For keyboard players and bassists use the transpose function
+and set it to +1 to display the chords in the key of Eb.
+ 
+[Intro riff]
+      Bm          Bm/F# Bm/A    Bm          Bm/F# Bm/A
+e |---2--2--2--2------------|---2--2--2--2------------|
+B |---3--3--3--3------------|---3--3--3--3------------| [x2]
+G |---4--4--4--4------------|---4--4--4--4------------|
+D |---4--4--4--4------------|---4--4--4--4------------|
+A |---2--2--2--2--------0---|---2--2--2--2--------0---|
+E |---------------0-h2------|---------------0-h2------|
+ 
+[Chorus Riff arpeggios]
+     C        Em/B          Am7       G   (G/A)(G/B)
+e |----------------------|-------------------------|
+B |----------------------|-------------------------|
+G |---------0--------0---|---------0---------------|
+D |------2--------2------|------2------------------|
+A |---3--------2---------|---0--------------0--h2--|
+E |----------------------|------------3------------|
+ 
+h = hammer-on note
+ 
+CAPO: 1st fret (Will then sound in the original recorded key of Eb)
+ 
+Chord names and fret positions are relative to the capo:
+Bm    = x24432    G        = 320033     Em/B = x22000
+Bm/F# = 224432    E7/G#    = 420100     Am7  = x02010
+Bm/A  = x04432    D        = xx0232     Em   = 022000
+Gmaj7 = 320002    G#m7b5/D = xx0102     Em7  = 020000
+F#m7  = 242222    Gmaj7/D  = xx0002     B7   = x21202
+A     = x02220    C        = x32010     Bm/D = xx0432
+                                        (G)  = 3xxxxx
+ 
+Please select a star rating for this tab, many thanks
+ 
+======================================================================
+ 
+[Intro]
+     Bm        Bm/F# Bm/A  Bm         Bm/F# Bm/A
+||:  /   /   /___/   /   |  /   /   /___/    /  :||[x2]
+ 
+[Verse 1]
+Bm                               Gmaj7       F#m7
 When I was young, it seemed that life was so wonderful,
-   G                 F           F#dim 
-a miracle, oh it was beautiful, magical.
-            Am                                  F          E  
-And all the birds in the trees, well they'd be singing so happily,
-     G              F         F#dim
-oh, joyfully, oh, playfully, watching me.
-
-
+(G) A                   G          E7/G#
+ A  miracle, oh, it was beautiful, magical,
+            Bm
+And all the birds in the trees,
+                Gmaj7      F#m7
+Well, they'd be singing so happily,
+(G)  A             G         E7/G#
+ Oh, joyfully, oh, playfully watching me
+ 
+[Verse 2]
+              Bm                        Gmaj7     F#m7
 But then they sent me away, to teach me how to be sensible,
-logicalm oh, responsible practical.
-And they showed me a world where I could be so dependable,
-oh, clinical, oh, intellectual, cynical.
-
-
-           C                             C6  
-There are times when all the world's asleep,
-                      F                      Bb     Dm    Gm  Dm
-the questions run too deep for such a simple man 
-           C                                C6  
-Won't you please, please tell me what we've learned?
-                   F                           Bb     Dm    Gm  Dm
-I know it sounds absurd. Please tell me who I am.     
-
-    
-
-I said, now watch what you say or they'll be calling you a radical,
-a liberal, oh fanatical, criminal.
-Oh, won't you sign up your name, we'd like to feel you're acceptable,
-respectable, oh, presentable, a vegetable!
-
-At night, when all the world's asleep...
-
-{c:Outro:}
-F                           Bb     Dm    Gm  Dm
-Please tell me who I am,                       
-         Bb     Dm    Gm  Dm
-who I am,
-          Bb     Dm    Gm  Dm
-who I am,
-
-etc.
-
-{ci:A7 - - Dm - C6 - A7 - -  Dm - C6 - F}
-
+(G) A                 G          E7/G#
+    Logical, oh, re - sponsible, practical,
+              Bm                        Gmaj7            F#m7
+And then they showed me a world where I could be so de - pendable,
+(G)  A                     G        E7/G#
+ Oh, clinical, oh, intel - lectual, cynical
+ 
+[Chorus]
+          D                              G#m7b5/D
+There are times when all the world's a - sleep
+                      Gmaj7/D                C   Em/B  Am7  G
+The questions run too deep for such a simple man---------------, 
+          D                                     G#m7b5/D
+Won't you please, ...please, tell me what we've learnt,
+                      Gmaj7/D
+I know it sounds ab - surd,
+                      C  Em/B  Am7  G
+Please, tell me who I am---------------!
+ 
+  C    Em/B      Am7   G
+| /  /  /  /  |  /  /  /  /  |
+ 
+[Verse 3]
+            Bm                             Gmaj7         F#m7
+I said now, watch what you say, they'll be calling you a radical,
+(G) A                  G       E7/G#
+ A  liberal, oh, fan - atical, criminal,
+              Bm
+Oh, won't you sign up your name?
+             Gmaj7            F#m7
+We'd like to feel you're ac - ceptable
+(G)   A                    G          E7/G#
+Re - spectable, oh, pre - sentable, a vegetable,
+E7/G#
+       Oh, take it, take it,...
+ 
+[Verse 4 - Sax solo]
+...Yeah!
+   Bm          Gmaj7 F#m7      (G) A            G      E7/G#
+|  /  /  /  / | /  /  /  / | /  /  /  / | /  /  /  / | /  /  /  / |
+ 
+   Bm          Gmaj7 F#m7      (G) A            G      E7/G#
+|  /  /  /  / | /  /  /  / | /  /  /  / | /  /  /  / | /  /  /  / |
+ 
+[Chorus]
+E7/G#         D                               G#m7b5/D
+       But at night, when all the world's a - sleep,
+                     Gmaj7/D                C  Em/B  Am7  G
+The questions run so deep for such a simple man---------,
+          D                                                   G#m7b5/D
+Won't you please,                  please, tell me what we've learnt? 
+              (Oh, won't you tell me? Umm, tell me what!)
+ 
+                                        Gmaj7/D
+                  I know it sounds ab - surd,
+(Can you hear me? I know!)                    (Oh, won't you help me?)
+ 
+                      C  Em/B  Am7 G          C  Em/B  Am7  G
+Please, tell me who I am-------------,  who I am--------------,
+       (Tell me who I am-------------!)
+ 
+      C  Em/B  Am7  G          C  Em/B  Am7  G
+Who I am--------------,  who I am---------------!   Yeah!
+ 
+[Coda Repeats - See bottom of page for full tablature of Coda]
+    B7                                     Em    Em7
+||: /  /  /  / | /  /  /  / | /  /  /  / | /  /  /  / |
+ 
+    B7                                     Em   Bm/D    G
+  | /  /  /  / | /  /  /  / | /  /  /  / | /  /  /  / | /  /  /  / :||
+ 
+======================================================================
+[Coda - Riffing with bass notes] The nine bar pattern repeats
+ 
+h = Hammer-on notes
+ 
+          B7
+e |-------2--2---------|--2-----------------|-------2--2---------|
+B |-------0--0---------|--0-----------------|-------0--0---------|
+G |-------2--2---------|--2-----------------|-------2--2---------|
+D |-------1--1---------|--1---0-h1----------|-------1--1---------|
+A |----0--2--2------0--|--2---------2--0----|----0--2--2---------|
+E |--2-----------------|--------------------|--2-----------2--1--|
+ 
+      Em       Em7             B7
+e |--------------------|-------2--2---------|---2----------------|
+B |---0--------0--0----|-------0--0---------|---0----------------|
+G |---0--------0--0----|-------2--2---------|---2----------------|
+D |---2-----2--0--0----|-------1--1---------|---1---0-h1---------|
+A |---2----------------|----0--2--2------0--|---2---------2--0---|
+E |---0----------------|--2-----------------|--------------------|
+ 
+          B7              Em     Bm/D (Bm/F#)   G
+e |-------2--2---------|--0------2----------|---3----------------|
+B |-------0--0---------|--0------3----------|---3----------------|
+G |-------2--2---------|--0------4----------|---4----------------|
+D |-------1--1---4--3--|--2---2--0------4---|---5----------------|
+A |----0--2--2---------|--------------------|--------------------|
+E |--2-----------------|--------------------|--------------------|
