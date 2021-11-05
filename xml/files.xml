@@ -13,7 +13,7 @@
     <id>2</id>
     <filename>1HISTORY</filename>
     <filepath>/files/1HISTORY.txt</filepath>
-    <fileparent>
+    <fileparent>lesson
     </fileparent>
     <filecategory>jazz
     </filecategory>
@@ -40,7 +40,7 @@
     <id>5</id>
     <filename>2INTRO</filename>
     <filepath>/files/2INTRO.txt</filepath>
-    <fileparent>
+    <fileparent>lesson
     </fileparent>
     <filecategory>jazz
     </filecategory>
@@ -49,18 +49,9 @@
     <id>6</id>
     <filename>3CHORDS</filename>
     <filepath>/files/3CHORDS.txt</filepath>
-    <fileparent>
+    <fileparent>lesson
     </fileparent>
     <filecategory>jazz
-    </filecategory>
-  </file>
-  <file>
-    <id>7</id>
-    <filename>4</filename>
-    <filepath>/files/4.txt</filepath>
-    <fileparent>
-    </fileparent>
-    <filecategory>rock
     </filecategory>
   </file>
   <file>
@@ -76,7 +67,7 @@
     <id>9</id>
     <filename>4THEORY</filename>
     <filepath>/files/4THEORY.txt</filepath>
-    <fileparent>
+    <fileparent>lesson
     </fileparent>
     <filecategory>rock
     </filecategory>
@@ -93,7 +84,7 @@
     <id>11</id>
     <filename>5COMPING</filename>
     <filepath>/files/5COMPING.txt</filepath>
-    <fileparent>
+    <fileparent>lesson
     </fileparent>
     <filecategory>jazz
     </filecategory>
@@ -102,7 +93,7 @@
     <id>12</id>
     <filename>6BAND</filename>
     <filepath>/files/6BAND.txt</filepath>
-    <fileparent>
+    <fileparent>lesson
     </fileparent>
     <filecategory>jazz
     </filecategory>
@@ -129,7 +120,7 @@
     <id>15</id>
     <filename>7ANALYZE</filename>
     <filepath>/files/7ANALYZE.txt</filepath>
-    <fileparent>
+    <fileparent>lesson
     </fileparent>
     <filecategory>jazz
     </filecategory>
@@ -138,7 +129,7 @@
     <id>16</id>
     <filename>8RULES</filename>
     <filepath>/files/8RULES.txt</filepath>
-    <fileparent>
+    <fileparent>lesson
     </fileparent>
     <filecategory>jazz
     </filecategory>
@@ -155,7 +146,7 @@
     <id>18</id>
     <filename>99 year blues</filename>
     <filepath>/files/99%20year%20blues.txt</filepath>
-    <fileparent>
+    <fileparent>hot tuna
     </fileparent>
     <filecategory>blues
     </filecategory>
@@ -253,7 +244,7 @@
     <id>29</id>
     <filename>adelita</filename>
     <filepath>/files/adelita.txt</filepath>
-    <fileparent>
+    <fileparent>tarrega
     </fileparent>
     <filecategory>classical
     </filecategory>
@@ -286,16 +277,16 @@
     <id>33</id>
     <filename>afroman</filename>
     <filepath>/files/afroman.txt</filepath>
-    <fileparent>
+    <fileparent>afroman
     </fileparent>
     <filecategory>rock
     </filecategory>
   </file>
   <file>
     <id>34</id>
-    <filename>AFTER_HO</filename>
+    <filename>AFTER_HOURS</filename>
     <filepath>/files/AFTER_HO.txt</filepath>
-    <fileparent>
+    <fileparent>velvet underground
     </fileparent>
     <filecategory>rock
     </filecategory>
@@ -304,7 +295,7 @@
     <id>35</id>
     <filename>after_midnight</filename>
     <filepath>/files/after_midnight.txt</filepath>
-    <fileparent>
+    <fileparent>jerry garcia
     </fileparent>
     <filecategory>rock
     </filecategory>
@@ -313,7 +304,7 @@
     <id>36</id>
     <filename>agita (2)</filename>
     <filepath>/files/agita%20(2).txt</filepath>
-    <fileparent>
+    <fileparent>valium effort
     </fileparent>
     <filecategory>rock
     </filecategory>
@@ -322,7 +313,7 @@
     <id>37</id>
     <filename>agita</filename>
     <filepath>/files/agita.txt</filepath>
-    <fileparent>
+    <fileparent>valium effort
     </fileparent>
     <filecategory>rock
     </filecategory>
@@ -339,7 +330,7 @@
     <id>39</id>
     <filename>AIMLESS</filename>
     <filepath>/files/AIMLESS.txt</filepath>
-    <fileparent>
+    <fileparent>valium effort
     </fileparent>
     <filecategory>rock
     </filecategory>
@@ -357,7 +348,7 @@
     <id>41</id>
     <filename>aintnotelling</filename>
     <filepath>/files/aintnotelling.txt</filepath>
-    <fileparent>
+    <fileparent>jimi hendrix
     </fileparent>
     <filecategory>rock
     </filecategory>

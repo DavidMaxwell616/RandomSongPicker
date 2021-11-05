@@ -9,18 +9,21 @@
 	</head>
 	<body>
 	<input type="button" id="btnSearch" width="100%" value="Get Random Song" onclick="GetRandomSong();" />
-	<label for="cars">Choose a band:</label>
+	<label >Choose a band:</label>
 	<select name="bands" id="bands">
 	  <option value="all">~All~</option>
-	  
+	</select>
+	<label >Choose a genre:</label>
+	<select name="genres" id="genres">
+	  <option value="all">~All~</option>
 	</select>
 	<input type="submit" value="Filter">	
 	<table id="Table">
 		</table>
-		<script src="../../js/functions.js"></script>
-  <script>
- 	var path = '../../xml/files.xml';
-    loadXMLDoc(path);
-		</script>
+	<script src="../../js/functions.js"></script>
+	<script>
+		var path = '../../xml/files.xml';
+		loadXMLDoc(path);
+	</script>
 	</body>
 </html>

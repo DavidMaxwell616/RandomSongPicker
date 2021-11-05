@@ -14,6 +14,7 @@ function loadXMLDoc(file) {
       var parser = new DOMParser();
       var xmlDoc = parser.parseFromString(xmlhttp.responseText, "application/xml");
       LoadData(xmlDoc,"files");
+      return xmlDoc;
     }
   };
   xmlhttp.open("GET", file, true);
