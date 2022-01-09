@@ -6,6 +6,8 @@ const Fields=[
   'File Select'
 ];
 var files = [];
+var bandList=[];
+var genreList=[];
 function loadXMLDoc(file) {
   var xmlhttp = new XMLHttpRequest();
   var doc= this.document;
@@ -23,8 +25,6 @@ function loadXMLDoc(file) {
 
 function LoadData(xml, type) {
 var x = xml.getElementsByTagName(type)[0];
-var bandList=[];
-var genreList=[];
 var bands = document.getElementById("bands");
 var genres = document.getElementById("genres");
 if(x!==undefined){
@@ -37,7 +37,6 @@ if(x!==undefined){
    children.forEach(child => {
    table+='</tr>\n';
    var path;
-   var parent;
    for(var item2=0;item2<Fields.length;item2++)
     {
       var fieldName = Fields[item2].toLowerCase().replace(/\s/g, '');
@@ -72,13 +71,9 @@ if(x!==undefined){
         }
       }
       if(fieldName=='filepath') path = cellContents;
-     // if(fieldName=='fileparent') parent = cellContents.replace("%20", " ");
      }
       if(fieldName=='fileselect')
       cellContents= "<button id='btnSelect' onclick='GetSong(`"+ path +"`)' >Select</button>";
-      
-    //console.log(cellContents);  
-    
       table+='<td>'+ cellContents +  '</td>';
      }
   }
@@ -115,3 +110,35 @@ function GetRandomSong(){
     window.open(filePath, "_self");
     }
 
+function ResetTable(){
+  var bands = document.getElementById("bands").value;
+  var genres = document.getElementById("genres").value;
+  var table = '<table>\n<tr>\n';
+  for(var item=0;item<Fields.length;item++)
+  {
+    table+='<th>'+ Fields[item]+ '</th>\n';
+  }
+  files.forEach(file => {
+    table+='</tr>\n';
+    var path;
+     for(var item2=0;item2<Fields.length;item2++)
+     {
+    var fieldName = Fields[item2].toLowerCase().replace(/\s/g, '');
+    var cellContents = '';
+    var band = file.getElementsByTagName('fileparent')[0].textContent.trim();
+    var genre = file.getElementsByTagName('filecategory')[0].textContent.trim();
+    var field = file.getElementsByTagName(fieldName)[0];
+    if((field!=undefined) && (bands=='all' || bands == band) && (genres=='all' || genres==genre))
+        {
+          cellContents = file.getElementsByTagName(fieldName)[0].textContent;
+          if(fieldName=='filepath') path = cellContents;
+          if(fieldName=='fileselect')
+            cellContents= "<button id='btnSelect' onclick='GetSong(`"+ path +"`)' >Select</button>";
+          table+='<td>'+ cellContents +  '</td>';
+        }
+    }
+   table+='</tr>\n';
+  });
+     table+='</table>';
+  document.getElementById("Table").innerHTML = table;
+  }
