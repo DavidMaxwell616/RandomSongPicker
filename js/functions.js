@@ -23,6 +23,10 @@ function loadXMLDoc(file) {
 
 function LoadData(xml, type) {
 var x = xml.getElementsByTagName(type)[0];
+var bandList=[];
+var genreList=[];
+var bands = document.getElementById("bands");
+var genres = document.getElementById("genres");
 if(x!==undefined){
   var children = x.childNodes;
   var table = '<table>\n<tr>\n';
@@ -43,6 +47,30 @@ if(x!==undefined){
       if(child.getElementsByTagName(fieldName)[0]!=undefined)
      {
       cellContents = child.getElementsByTagName(fieldName)[0].textContent;
+      if(fieldName=='fileparent')
+     {
+        var opt = cellContents.trim();
+    if(opt.length>0 && !bandList.includes(opt))
+        {
+          var el = document.createElement("option");
+          el.textContent = opt;
+          el.value = opt;
+          bands.appendChild(el);
+          bandList.push(opt);
+        }
+      }
+    if(fieldName=='filecategory')
+     {
+        var opt = cellContents.trim();
+        if(opt.length>0 && !genreList.includes(opt))
+        {
+          var el = document.createElement("option");
+          el.textContent = opt;
+          el.value = opt;
+          genres.appendChild(el);
+          genreList.push(opt);
+        }
+      }
       if(fieldName=='filepath') path = cellContents;
      // if(fieldName=='fileparent') parent = cellContents.replace("%20", " ");
      }
@@ -55,11 +83,22 @@ if(x!==undefined){
      }
   }
   table+='</tr>\n';
- 
-  });
+  
+   });
     table+='</table>';
 }
 document.getElementById("Table").innerHTML = table;
+}
+
+function PopulateBands(){
+  var select = document.getElementById("bands");
+  for(var i = 0; i < files.length; i++) {
+    var opt = files[i];
+    var el = document.createElement("option");
+    el.textContent = opt;
+    el.value = opt;
+    select.appendChild(el);
+  }
 }
 
 function GetRandomSong(){   
