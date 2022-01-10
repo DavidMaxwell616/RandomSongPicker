@@ -6,6 +6,7 @@ const Fields=[
   'File Select'
 ];
 var files = [];
+var filteredFiles = [];
 var bandList=[];
 var genreList=[];
 function loadXMLDoc(file) {
@@ -34,8 +35,9 @@ if(x!==undefined){
   {
     table+='<th>'+ Fields[item]+ '</th>\n';
   }
-   children.forEach(child => {
-   table+='</tr>\n';
+  table+='</tr>\n';
+  i++;
+  children.forEach(child => {
    var path;
    for(var item2=0;item2<Fields.length;item2++)
     {
@@ -82,6 +84,8 @@ if(x!==undefined){
    });
     table+='</table>';
 }
+console.log(table);
+filteredFiles = files;
 document.getElementById("Table").innerHTML = table;
 }
 
@@ -97,9 +101,9 @@ function PopulateBands(){
 }
 
 function GetRandomSong(){   
-  var random = Math.floor(Math.random() * files.length);
+  var random = Math.floor(Math.random() * filteredFiles.length);
   var href = location.href.replace('/index.html','');
-  var filePath = href+files[random].getElementsByTagName('filepath')[0].textContent;
+  var filePath = href+filteredFiles[random].getElementsByTagName('filepath')[0].textContent;
   window.open(filePath, "_self");
   }
 
@@ -118,27 +122,32 @@ function ResetTable(){
   {
     table+='<th>'+ Fields[item]+ '</th>\n';
   }
+  table+='</tr>\n';
+  filteredFiles = [];
   files.forEach(file => {
-    table+='</tr>\n';
-    var path;
-     for(var item2=0;item2<Fields.length;item2++)
-     {
-    var fieldName = Fields[item2].toLowerCase().replace(/\s/g, '');
-    var cellContents = '';
-    var band = file.getElementsByTagName('fileparent')[0].textContent.trim();
-    var genre = file.getElementsByTagName('filecategory')[0].textContent.trim();
-    var field = file.getElementsByTagName(fieldName)[0];
-    if((field!=undefined) && (bands=='all' || bands == band) && (genres=='all' || genres==genre))
+    if(file!=undefined){
+      var path;
+      var band = file.getElementsByTagName('fileparent')[0].textContent.trim();
+      var genre = file.getElementsByTagName('filecategory')[0].textContent.trim();
+      if((bands=='all' || bands == band) && (genres=='all' || genres==genre))
         {
+          table+='<tr>\n';
+          for(var item2=0;item2<Fields.length;item2++)
+          {
+          var fieldName = Fields[item2].toLowerCase().replace(/\s/g, '');
+          var cellContents = '';
+          var field = file.getElementsByTagName(fieldName)[0];
           cellContents = file.getElementsByTagName(fieldName)[0].textContent;
           if(fieldName=='filepath') path = cellContents;
           if(fieldName=='fileselect')
             cellContents= "<button id='btnSelect' onclick='GetSong(`"+ path +"`)' >Select</button>";
           table+='<td>'+ cellContents +  '</td>';
+          }
+          table+='</tr>\n';
+          filteredFiles.push(file);
         }
     }
-   table+='</tr>\n';
   });
-     table+='</table>';
-  document.getElementById("Table").innerHTML = table;
+      table+='</table>';
+      document.getElementById("Table").innerHTML = table;
   }
