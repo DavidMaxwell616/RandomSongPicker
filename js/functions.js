@@ -36,15 +36,15 @@ if(x!==undefined){
     table+='<th>'+ Fields[item]+ '</th>\n';
   }
   table+='</tr>\n';
-  i++;
-  children.forEach(child => {
-   var path;
-   for(var item2=0;item2<Fields.length;item2++)
-    {
-      var fieldName = Fields[item2].toLowerCase().replace(/\s/g, '');
-      if(child.nodeName==='file'){
+   children.forEach(child => {
+    var path;
+    if(child.nodeName==='file'){
       files.push(child);
-     var cellContents = '';
+      table+='<tr>\n';
+      for(var item2=0;item2<Fields.length;item2++)
+    {
+      var cellContents = '';
+     var fieldName = Fields[item2].toLowerCase().replace(/\s/g, '');
       if(child.getElementsByTagName(fieldName)[0]!=undefined)
      {
       cellContents = child.getElementsByTagName(fieldName)[0].textContent;
@@ -76,15 +76,14 @@ if(x!==undefined){
      }
       if(fieldName=='fileselect')
       cellContents= "<button id='btnSelect' onclick='GetSong(`"+ path +"`)' >Select</button>";
-      table+='<td>'+ cellContents +  '</td>';
+      table+='<td>'+ cellContents +  '</td>\n';
      }
-  }
-  table+='</tr>\n';
+    }
+    table+='</tr>\n';
   
    });
     table+='</table>';
 }
-console.log(table);
 filteredFiles = files;
 document.getElementById("Table").innerHTML = table;
 }
