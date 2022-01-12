@@ -1,14 +1,3 @@
-#----------------------------------PLEASE NOTE--------------------------------#
-#This file is the author's own work and represents their interpretation of the#
-#song. You may only use this file for private study, scholarship, or research.#
-#-----------------------------------------------------------------------------#
-
-From: Litgo <Litgo@aol.com>
-Date: Tue, 7 Apr 1998 13:35:01 EDT
-Subject: w/who/bargain.tab
-
-
-
 Bargain
 By the Who
 >From Who's Next, 1971
@@ -23,22 +12,22 @@ Electric: Tune down 1/2 step (Eb Ab Db Gb Bb Eb)
 Acoustic: Capo on 1 (standard tuning)
 
 [chords]  (electric)  (acoustic)
-Bb7sus4    xx4252      x13141
-Bb7        xx4242      x13131
-Bb         x244xx      x13331 or 13366
-Ab         x022xx      4x1144
-Eb         022400      x(1)1343 or xx1346
-Dbadd9     xx0230      x43144
-Eb6sus4    042200      xx1344
-Gb         3x00xx      x44322
+B7sus4    xx4252      x13141
+B7        xx4242      x13131
+B         x244xx      x13331 or 13366
+A         x022xx      4x1144
+E         022400      x(1)1343 or xx1346
+Dadd9     xx0230      x43144
+E6sus4    042200      xx1344
+G         3x00xx      x44322
 
 [bridge chords; electric tacit (I've put them in 
 for single guitar arrg, e.g., Who's Missing)]
-Eb         xx2100      xx1343 (xx1346; second time)
-Ebmaj7/D   xx1100      x51343
-Ebadd9/Db  xx0100      x41341
-Ebsus4/Ab  x02200      4x1141 (Ab6)
-Dbadd9     xx0230      x43141
+E         xx2100      xx1343 (xx1346; second time)
+Emaj7/D   xx1100      x51343
+Eadd9/D  xx0100      x41341
+Esus4/A  x02200      4x1141 (A6)
+Dadd9     xx0230      x43141
 Fsus4      244422      133311
 F          244322      133211
 
@@ -46,7 +35,7 @@ F          244322      133211
 chords symbols above leads are for acoustic/capo]
 
 
-  Bb7sus4       Bb7        Bb7sus4        Bb
+  B7sus4       B7        B7sus4        B
 |-------------|----------|-------------|---------------------|
 |-------------|----------|-------------|---------------------|
 |-6-13---11-9-|-11-8---9-|-6-13---11-9-|-16------------------|
@@ -55,20 +44,20 @@ chords symbols above leads are for acoustic/capo]
 |-------------|----------|-------------|---------------------|
  [with volume pedal for swells]
 
-    Bb                          Ab Eb
+    B                          A E
 I'd gladly lose me to find you
-    Bb                          Ab Eb
+    B                          A E
 I'd gladly give up all I had
-   Bb                   Dbadd9               Eb  Eb6sus4
+   B                   Dadd9               E  E6sus4
 To find you, I'd suffer anything and be glad
                                                  e|-0--0--0--0--0--0--|
                                                  b|-12-10-9--7--5--3--|
 
-     Bb                              Ab Eb
+     B                              A E
 I'll pay any price just to get you
-     Bb                              Ab Eb
+     B                              A E
 I'll work all my life, and I will
-   Bb                Dbadd9                    Eb  Eb6sus4
+   B                Dadd9                    E  E6sus4
 To win you I'd stand naked, stoned and stabbed
                                                  |-0---0--0---0-----|
                                                  |-0-2--3---2-0-----|
@@ -77,11 +66,11 @@ To win you I'd stand naked, stoned and stabbed
                                                  |------------------|
                                                  |------------------|
 
-                Gb           Ab          Eb      Eb
+                G           A          E      E
 I'd call that a bargain, the best I ever had  
                     
 The best I ever had..........
-                Bb                Ab  Eb      Bb        Ab Eb
+                B                A  E      B        A E
               |-----------------------------|-------------------|
               |-----------------------------|-------------------|
               |-2-4--2-4--2-4---------7-----|-2-4--2-4--2---x-x-|
@@ -110,7 +99,7 @@ To find you I'm gonna drown an unsung man
 I'd call that a bargain, the best I ever had
 The best I ever...
   had............
-  Bb                     Ab    Eb        Bb              Ab  Eb
+  B                     A    E        B              A  E
 |--------------------------------------|---------------------------|
 |---7--7--7--7--7---7-7--7-----7-7-7---|-7--7-7--7-----------------|
 |---6^-6^-6^-6^-6---6-6--4/6/4-6-4-4---|-6^-6-4--4-------4----2----|
@@ -119,34 +108,34 @@ The best I ever...
 |--------------------------------------|-------------------------0-|
 
 [bridge]
-Eb                 Ebmaj7/D
+E                 Emaj7/D
 I sit looking round, 
 
-                  Ebadd9/Db
+                  Eadd9/D
 I look at my face in the mirror
                               b|-10-9--5---------|
 
-                 Ebsus4/Ab            Dbadd9
+                 Esus4/A            Dadd9
 I know I'm worth nothing without you
                                    b|-5/7-----|
 
-         Eb                             Ebmaj7
+         E                             Emaj7
 And like one and one don't make two
 
-                 Ebadd9/Db
+                 Eadd9/D
 One and one make one
                          b|-10-9-14------------|
 
-        Ebsus4/Ab        Dbadd9                          
+        Esus4/A        Dadd9                          
 And I'm looking for that free ride to me, I'm looking for...
   you.....  
-| Fsus4      F  | Fsus4  Bb  | Bb7sus4   | Bb7        |
+| Fsus4      F  | Fsus4  B  | B7sus4   | B7        |
 
 [synth riff arr. for guitar]
- | Bb7sus4      | Bb7      | Bb7sus4     | Bb7        |
+ | B7sus4      | B7      | B7sus4     | B7        |
 g|-6-/13---11-9-|-11-8---9-|-6-13---11-9-|/11---------|
 
- | Bb7sus4      | Bb7      | Bb7sus4     | Bb         |
+ | B7sus4      | B7      | B7sus4     | B         |
 g|-6-/13---11-9-|-11-8---9-|-6-13---11-9-|-16---------|
 
 I'd gladly lose me to find you
@@ -174,7 +163,7 @@ To find you I'm gonna drown an unsung man
 I call that a bargain, the best I ever had
 The best I ever... 
   had.................
-  Bb             Ab Eb   Bb             Ab   Eb     
+  B             A E   B             A   E     
 |----7---7---7---------|---------------------------|
 |--7-7-7-7-7-7-7-----4-|--4---4---4---4-2----------|
 |--6^--6^--6^--6^\-4-4-|--4---4---4---4-2--4-------|
@@ -182,7 +171,7 @@ The best I ever...
 |----------------------|---------------------2---0-|
 |----------------------|-----------------------0---|
 
-  Bb                       Ab  Eb          Bb              Ab  Eb  
+  B                       A  E          B              A  E  
 |-------------------------------------7-7-|-----------7\-----------|
 |--------------------------------7----7-7-|--7-7--7-7-7\-----------|
 |---------------7^------------7^-7--------|--7-8--7-8--------4-2---|
@@ -196,5 +185,4 @@ The best I ever...
 
 =============
 litgo@aol.com
-
 

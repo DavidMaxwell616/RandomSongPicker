@@ -7,6 +7,7 @@ const Fields=[
 ];
 var files = [];
 var filteredFiles = [];
+var filteredIds = [];
 var bandList=[];
 var genreList=[];
 function loadXMLDoc(file) {
@@ -107,7 +108,6 @@ function GetRandomSong(){
   }
 
   function GetSong(path){
-    console.log(path);
     var href = location.href.replace('/index.html','');
     var filePath = href+path;
     window.open(filePath, "_self");
@@ -123,27 +123,30 @@ function ResetTable(){
   }
   table+='</tr>\n';
   filteredFiles = [];
+  filteredIds = [];
+  
   files.forEach(file => {
     if(file!=undefined){
-      var path;
-      var band = file.getElementsByTagName('fileparent')[0].textContent.trim();
-      var genre = file.getElementsByTagName('filecategory')[0].textContent.trim();
-      if((bands=='all' || bands == band) && (genres=='all' || genres==genre))
-        {
-          table+='<tr>\n';
+      var band = file.getElementsByTagName('fileparent')[0]?.textContent.trim();
+      var genre = file.getElementsByTagName('filecategory')[0]?.textContent.trim();
+      var index = file.children[0]?.textContent.trim();
+      if((bands=='all' || bands == band) && (genres=='all' || genres==genre) && !filteredIds.includes(index))
+      {
+          var row = '<tr>\n';
           for(var item2=0;item2<Fields.length;item2++)
           {
           var fieldName = Fields[item2].toLowerCase().replace(/\s/g, '');
           var cellContents = '';
-          var field = file.getElementsByTagName(fieldName)[0];
           cellContents = file.getElementsByTagName(fieldName)[0].textContent;
           if(fieldName=='filepath') path = cellContents;
           if(fieldName=='fileselect')
             cellContents= "<button id='btnSelect' onclick='GetSong(`"+ path +"`)' >Select</button>";
-          table+='<td>'+ cellContents +  '</td>';
+          row+='<td>'+ cellContents +  '</td>';
           }
-          table+='</tr>\n';
+          row+='</tr>\n';
+          table+=row;
           filteredFiles.push(file);
+          filteredIds.push(index);
         }
     }
   });
