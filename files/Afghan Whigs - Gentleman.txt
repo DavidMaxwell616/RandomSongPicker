@@ -1,14 +1,55 @@
-AFGHAN WHIGS - GENTLEMAN 4-28-97
+Gentlemen tab by The Afghan Whigs
+ 
+e---------------------------------------------------------------|
+B---------------------------------------------------------------|
+G--4--4-4/9-9-9-9-9/4--4-4/7-7-7/12b14/4--4-4/6-7----------/4---|
+D--x--x-x/x-x-x-x-x/x--x-x/x-x-x/xx-xx/x--x-x/x-x----------/x---|
+A--2--2-2/7-7-7-7-7/2--2-2/5-5-5/10b12/2--2-2/4-5---------/-2---|
+E---------------------------------------------------------------|
+ 
+NOTE: to provide really Whig-esque "wall of sound" you can play empty
+E string during the whole riff
+ 
+Tabbing that b-minor lick by ear really loomed large in my mind,
+because it seems that although the time signature during the verses is
+4/4, it's played in a very sophisticated way.
+I think it's something like that, but rather it's not 100% correct.
+During live performances McCollum plays it like that:
+ 
+|-2-2-2--2--2-2-2-2-2-2|
+|-3-3-3--3--2-2-3-2-2-3|
+|-4-2-4--4--4-4-4-4-4-4|
+|-4-4-4--4--4-4-4-4-4-4|
+|-2-2-2--2--2-2-2-4-4-4|
+|----------------------|
+ 
+Solo is also played over this riff.
+It is in b minor pentatonic, with wah-wah effect and some bendings.
+Start with B on 9th fret of D string.
+ 
+Two chords just before chorus (or other variations of G and F#):
+ 
+|---------|
+|---------|
+|---------|
+|---4--4--|
+|---4--4--|
+|---x--x--|
+|---3--2--| 
+ 
+ 
+Bridge/Outro - start on C, then this pattern
+ 
+ D/F#, G, C
+|---------------------------|
+|---------------------------|
+|---------------0-4b5r4b5r4-|
+|-----0------0--2-----------|
+|---0------2----3-----------|
+|-2------3------------------|
 
-    B  A    F#  G     E     E F#  G
-e---2--0-----2--3-----0-----0--2--3---------
-b---4--2-----2--3-----0-----0--2--3---------
-g---4--2-----3--4-----1-----1--3--4---------
-d---4--2-----4--5-----2-----2--4--5---------
-a---2--0-----4--5-----2-----2--4--5---------
-e------------2--3-----0-----0--2--3---------
 
-Gentlemen
+ Gentlemen
 (Dulli)
 Your attention, please
 Now turn off the light

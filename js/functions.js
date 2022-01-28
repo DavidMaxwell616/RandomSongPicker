@@ -10,6 +10,7 @@ var filteredFiles = [];
 var filteredIds = [];
 var bandList=[];
 var genreList=[];
+var dataLoaded = false;
 function loadXMLDoc(file) {
   var xmlhttp = new XMLHttpRequest();
   var doc= this.document;
@@ -18,6 +19,7 @@ function loadXMLDoc(file) {
       var parser = new DOMParser();
       var xmlDoc = parser.parseFromString(xmlhttp.responseText, "application/xml");
       LoadData(xmlDoc,"files");
+      dataLoaded = true;
       return xmlDoc;
     }
   };
@@ -26,6 +28,7 @@ function loadXMLDoc(file) {
 }
 
 function LoadData(xml, type) {
+  if(dataLoaded) return;
 var x = xml.getElementsByTagName(type)[0];
 var bands = document.getElementById("bands");
 var genres = document.getElementById("genres");
@@ -85,6 +88,12 @@ if(x!==undefined){
    });
     table+='</table>';
 }
+var option = document.createElement('option');
+option.text = 'All';
+bands.add(option, 0);
+option = document.createElement('option');
+option.text = 'All';
+genres.add(option, 0);
 filteredFiles = files;
 document.getElementById("Table").innerHTML = table;
 }
