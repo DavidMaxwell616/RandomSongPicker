@@ -1,15 +1,20 @@
 Artist: The White Stripes Lyrics 
  Song: In The Cold, Cold, Night Lyrics 
 
-Dm F Gm A
+Dm F G A
  
-
-I saw you standing in the corner
-On the edge of a burning light
-I saw you standing in the corner
-Come to me again in the cold, cold night
-in the cold, cold night
-
+ 
+Dm            F               G        A
+   I saw you standing in the corner
+Dm            F       G        A
+   On the edge of a burning light
+Dm            F               G        A
+   I saw you standing in the corner
+               G                       Dm    F
+   Come to me again in the cold, cold night        
+G         A          Dm     F  G  A
+   In the cold, cold night
+ 
 You make me feel a little older
 Like a full grown woman might
 But when you're gone I grow colder

@@ -62,7 +62,6 @@ if(x!==undefined && files.length==0){
      }
     });
 }
-console.log(genreList);
 PopulateDropDownList('bands', bandList);
 PopulateDropDownList('genres', genreList);
 ResetTable();
