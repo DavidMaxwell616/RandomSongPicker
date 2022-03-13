@@ -2509,8 +2509,7 @@
     <id>258</id>
     <filename>CULT</filename>
     <filepath>/files/CULT.txt</filepath>
-    <fileparent>living color
-    </fileparent>
+    <fileparent>living color</fileparent>
     <filecategory>rock
     </filecategory>
     <fileselect></fileselect>
@@ -7383,8 +7382,7 @@
     <id>763</id>
     <filename>nowhere man</filename>
     <filepath>/files/nowhere%20man.txt</filepath>
-    <fileparent>beatles
-    </fileparent>
+    <fileparent>beatles</fileparent>
     <filecategory>rock
     </filecategory>
     <fileselect></fileselect>

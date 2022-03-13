@@ -18,7 +18,10 @@ function loadXMLDoc(file) {
       var parser = new DOMParser();
       var xmlDoc = parser.parseFromString(xmlhttp.responseText, "application/xml");
       LoadData(xmlDoc,"files");
-      return xmlDoc;
+      PopulateDropDownList('bands', bandList);
+      PopulateDropDownList('genres', genreList);
+      ResetTable();
+    return xmlDoc;
     }
   };
   xmlhttp.open("GET", file, true);
@@ -62,12 +65,12 @@ if(x!==undefined && files.length==0){
      }
     });
 }
-PopulateDropDownList('bands', bandList);
-PopulateDropDownList('genres', genreList);
-ResetTable();
+
 }
 
 function PopulateDropDownList(id, list){
+  if(list.length==0)
+  return;
   list.sort();
   if(!list.includes('~all~'))
     list.unshift('~all~');
@@ -92,9 +95,15 @@ function GetRandomSong(){
     var href = location.href.replace('/index.html','');
     var filePath = href+path;
     window.open(filePath, "_self");
-    }
+  }
 
-function ResetTable(){
+  function ResetTable(){
+    document.getElementById("bands").value = "~all~";
+    document.getElementById("genres").value = "~all~";
+    PopulateTable();
+  }
+
+function PopulateTable(){
   var bands = document.getElementById("bands").value;
   var genres = document.getElementById("genres").value;
   var table = '<table>\n<tr>\n';
@@ -117,9 +126,11 @@ function ResetTable(){
           for(var item2=0;item2<Fields.length;item2++)
           {
           var fieldName = Fields[item2].toLowerCase().replace(/\s/g, '');
-          var cellContents = '';
-          cellContents = file.getElementsByTagName(fieldName)[0].textContent;
-          if(fieldName=='filepath') path = cellContents;
+          if(file.getElementsByTagName(fieldName)[0]==undefined)
+          return;
+           var cellContents = '';
+            cellContents = file.getElementsByTagName(fieldName)[0].textContent;
+            if(fieldName=='filepath') path = cellContents;
           if(fieldName=='fileselect')
             cellContents= "<button id='btnSelect' onclick='GetSong(`"+ path +"`)' >Select</button>";
           row+='<td>'+ cellContents +  '</td>';
@@ -129,7 +140,7 @@ function ResetTable(){
           filteredFiles.push(file);
           filteredIds.push(index);
         }
-    }
+  }
   });
       table+='</table>';
       document.getElementById("Table").innerHTML = table;
