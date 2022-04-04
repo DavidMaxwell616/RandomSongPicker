@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <files>
 <file>
     <id>1</id>
@@ -9666,8 +9666,8 @@
     </filecategory>
     <fileselect></fileselect>
   </file>
-  <file>
-  <id>1000</id><file>
+<file>
+  <id>1000</id>
 <filename>StuckInTheMiddle</filename>
     <filepath>/files/StuckInTheMiddle_chopro.txt</filepath>
     <fileparent>steelers wheel
